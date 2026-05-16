@@ -23,21 +23,3876 @@
     {
       "id": "f1",
       "etymology_id": "e1",
-      "base_word": "pre- words",
-      "explanation": "Wiktionaryから取得した pre- を含む単語群"
+      "base_word": "preamplifier",
+      "explanation": "「pre-」と「ampl...」から成る単語"
     },
     {
       "id": "f2",
-      "etymology_id": "e2",
-      "base_word": "re- words",
-      "explanation": "Wiktionaryから取得した re- を含む単語群"
+      "etymology_id": "e1",
+      "base_word": "prearrange",
+      "explanation": "「pre-」と「arra...」から成る単語"
     },
     {
       "id": "f3",
+      "etymology_id": "e1",
+      "base_word": "prebend",
+      "explanation": "「pre-」と「bend...」から成る単語"
+    },
+    {
+      "id": "f4",
+      "etymology_id": "e1",
+      "base_word": "precancerous",
+      "explanation": "「pre-」と「canc...」から成る単語"
+    },
+    {
+      "id": "f5",
+      "etymology_id": "e1",
+      "base_word": "precarious",
+      "explanation": "「pre-」と「cari...」から成る単語"
+    },
+    {
+      "id": "f6",
+      "etymology_id": "e1",
+      "base_word": "precast",
+      "explanation": "「pre-」と「cast...」から成る単語"
+    },
+    {
+      "id": "f7",
+      "etymology_id": "e1",
+      "base_word": "precognition",
+      "explanation": "「pre-」と「cogn...」から成る単語"
+    },
+    {
+      "id": "f8",
+      "etymology_id": "e1",
+      "base_word": "preconceive",
+      "explanation": "「pre-」と「conc...」から成る単語"
+    },
+    {
+      "id": "f9",
+      "etymology_id": "e1",
+      "base_word": "precondition",
+      "explanation": "「pre-」と「cond...」から成る単語"
+    },
+    {
+      "id": "f10",
+      "etymology_id": "e1",
+      "base_word": "precursor",
+      "explanation": "「pre-」と「curs...」から成る単語"
+    },
+    {
+      "id": "f11",
+      "etymology_id": "e1",
+      "base_word": "predate",
+      "explanation": "「pre-」と「date...」から成る単語"
+    },
+    {
+      "id": "f12",
+      "etymology_id": "e1",
+      "base_word": "predecease",
+      "explanation": "「pre-」と「dece...」から成る単語"
+    },
+    {
+      "id": "f13",
+      "etymology_id": "e1",
+      "base_word": "predestinate",
+      "explanation": "「pre-」と「dest...」から成る単語"
+    },
+    {
+      "id": "f14",
+      "etymology_id": "e1",
+      "base_word": "predetermination",
+      "explanation": "「pre-」と「dete...」から成る単語"
+    },
+    {
+      "id": "f15",
+      "etymology_id": "e1",
+      "base_word": "predigest",
+      "explanation": "「pre-」と「dige...」から成る単語"
+    },
+    {
+      "id": "f16",
+      "etymology_id": "e1",
+      "base_word": "predisposition",
+      "explanation": "「pre-」と「disp...」から成る単語"
+    },
+    {
+      "id": "f17",
+      "etymology_id": "e1",
+      "base_word": "predominance",
+      "explanation": "「pre-」と「domi...」から成る単語"
+    },
+    {
+      "id": "f18",
+      "etymology_id": "e1",
+      "base_word": "preexist",
+      "explanation": "「pre-」と「exis...」から成る単語"
+    },
+    {
+      "id": "f19",
+      "etymology_id": "e1",
+      "base_word": "prefabricate",
+      "explanation": "「pre-」と「fabr...」から成る単語"
+    },
+    {
+      "id": "f20",
+      "etymology_id": "e1",
+      "base_word": "preferment",
+      "explanation": "「pre-」と「ferm...」から成る単語"
+    },
+    {
+      "id": "f21",
+      "etymology_id": "e1",
+      "base_word": "prefix",
+      "explanation": "「pre-」と「fix...」から成る単語"
+    },
+    {
+      "id": "f22",
+      "etymology_id": "e1",
+      "base_word": "preheat",
+      "explanation": "「pre-」と「heat...」から成る単語"
+    },
+    {
+      "id": "f23",
+      "etymology_id": "e1",
+      "base_word": "prehistory",
+      "explanation": "「pre-」と「hist...」から成る単語"
+    },
+    {
+      "id": "f24",
+      "etymology_id": "e1",
+      "base_word": "preliterate",
+      "explanation": "「pre-」と「lite...」から成る単語"
+    },
+    {
+      "id": "f25",
+      "etymology_id": "e1",
+      "base_word": "premarital",
+      "explanation": "「pre-」と「mari...」から成る単語"
+    },
+    {
+      "id": "f26",
+      "etymology_id": "e1",
+      "base_word": "premature",
+      "explanation": "「pre-」と「matu...」から成る単語"
+    },
+    {
+      "id": "f27",
+      "etymology_id": "e1",
+      "base_word": "premedic",
+      "explanation": "「pre-」と「medi...」から成る単語"
+    },
+    {
+      "id": "f28",
+      "etymology_id": "e1",
+      "base_word": "premolar",
+      "explanation": "「pre-」と「mola...」から成る単語"
+    },
+    {
+      "id": "f29",
+      "etymology_id": "e1",
+      "base_word": "prenatal",
+      "explanation": "「pre-」と「nata...」から成る単語"
+    },
+    {
+      "id": "f30",
+      "etymology_id": "e1",
+      "base_word": "preoccupation",
+      "explanation": "「pre-」と「occu...」から成る単語"
+    },
+    {
+      "id": "f31",
+      "etymology_id": "e1",
+      "base_word": "preoperative",
+      "explanation": "「pre-」と「oper...」から成る単語"
+    },
+    {
+      "id": "f32",
+      "etymology_id": "e1",
+      "base_word": "preordain",
+      "explanation": "「pre-」と「orda...」から成る単語"
+    },
+    {
+      "id": "f33",
+      "etymology_id": "e1",
+      "base_word": "prepack",
+      "explanation": "「pre-」と「pack...」から成る単語"
+    },
+    {
+      "id": "f34",
+      "etymology_id": "e1",
+      "base_word": "prepay",
+      "explanation": "「pre-」と「pay...」から成る単語"
+    },
+    {
+      "id": "f35",
+      "etymology_id": "e1",
+      "base_word": "preposition",
+      "explanation": "「pre-」と「posi...」から成る単語"
+    },
+    {
+      "id": "f36",
+      "etymology_id": "e1",
+      "base_word": "prepossess",
+      "explanation": "「pre-」と「poss...」から成る単語"
+    },
+    {
+      "id": "f37",
+      "etymology_id": "e1",
+      "base_word": "prefect",
+      "explanation": "「pre-」と「fect...」から成る単語"
+    },
+    {
+      "id": "f38",
+      "etymology_id": "e1",
+      "base_word": "prerecord",
+      "explanation": "「pre-」と「reco...」から成る単語"
+    },
+    {
+      "id": "f39",
+      "etymology_id": "e1",
+      "base_word": "prerequisite",
+      "explanation": "「pre-」と「requ...」から成る単語"
+    },
+    {
+      "id": "f40",
+      "etymology_id": "e1",
+      "base_word": "preschool",
+      "explanation": "「pre-」と「scho...」から成る単語"
+    },
+    {
+      "id": "f41",
+      "etymology_id": "e1",
+      "base_word": "prescient",
+      "explanation": "「pre-」と「scie...」から成る単語"
+    },
+    {
+      "id": "f42",
+      "etymology_id": "e1",
+      "base_word": "presentiment",
+      "explanation": "「pre-」と「sent...」から成る単語"
+    },
+    {
+      "id": "f43",
+      "etymology_id": "e1",
+      "base_word": "preset",
+      "explanation": "「pre-」と「set...」から成る単語"
+    },
+    {
+      "id": "f44",
+      "etymology_id": "e1",
+      "base_word": "presoak",
+      "explanation": "「pre-」と「soak...」から成る単語"
+    },
+    {
+      "id": "f45",
+      "etymology_id": "e1",
+      "base_word": "prestressed",
+      "explanation": "「pre-」と「stre...」から成る単語"
+    },
+    {
+      "id": "f46",
+      "etymology_id": "e1",
+      "base_word": "preteen",
+      "explanation": "「pre-」と「teen...」から成る単語"
+    },
+    {
+      "id": "f47",
+      "etymology_id": "e1",
+      "base_word": "pretender",
+      "explanation": "「pre-」と「tend...」から成る単語"
+    },
+    {
+      "id": "f48",
+      "etymology_id": "e1",
+      "base_word": "pretension",
+      "explanation": "「pre-」と「tens...」から成る単語"
+    },
+    {
+      "id": "f49",
+      "etymology_id": "e1",
+      "base_word": "pretest",
+      "explanation": "「pre-」と「test...」から成る単語"
+    },
+    {
+      "id": "f50",
+      "etymology_id": "e1",
+      "base_word": "prevalent",
+      "explanation": "「pre-」と「vale...」から成る単語"
+    },
+    {
+      "id": "f51",
+      "etymology_id": "e1",
+      "base_word": "prewar",
+      "explanation": "「pre-」と「war...」から成る単語"
+    },
+    {
+      "id": "f52",
+      "etymology_id": "e2",
+      "base_word": "react",
+      "explanation": "「re-」と「act...」から成る単語"
+    },
+    {
+      "id": "f53",
+      "etymology_id": "e2",
+      "base_word": "reactivate",
+      "explanation": "「re-」と「acti...」から成る単語"
+    },
+    {
+      "id": "f54",
+      "etymology_id": "e2",
+      "base_word": "readjust",
+      "explanation": "「re-」と「adju...」から成る単語"
+    },
+    {
+      "id": "f55",
+      "etymology_id": "e2",
+      "base_word": "realign",
+      "explanation": "「re-」と「alig...」から成る単語"
+    },
+    {
+      "id": "f56",
+      "etymology_id": "e2",
+      "base_word": "really",
+      "explanation": "「re-」と「ally...」から成る単語"
+    },
+    {
+      "id": "f57",
+      "etymology_id": "e2",
+      "base_word": "reanimate",
+      "explanation": "「re-」と「anim...」から成る単語"
+    },
+    {
+      "id": "f58",
+      "etymology_id": "e2",
+      "base_word": "reappear",
+      "explanation": "「re-」と「appe...」から成る単語"
+    },
+    {
+      "id": "f59",
+      "etymology_id": "e2",
+      "base_word": "reappraisal",
+      "explanation": "「re-」と「appr...」から成る単語"
+    },
+    {
+      "id": "f60",
+      "etymology_id": "e2",
+      "base_word": "rearm",
+      "explanation": "「re-」と「arm...」から成る単語"
+    },
+    {
+      "id": "f61",
+      "etymology_id": "e2",
+      "base_word": "rearmament",
+      "explanation": "「re-」と「arma...」から成る単語"
+    },
+    {
+      "id": "f62",
+      "etymology_id": "e2",
+      "base_word": "rearrange",
+      "explanation": "「re-」と「arra...」から成る単語"
+    },
+    {
+      "id": "f63",
+      "etymology_id": "e2",
+      "base_word": "reassemble",
+      "explanation": "「re-」と「asse...」から成る単語"
+    },
+    {
+      "id": "f64",
+      "etymology_id": "e2",
+      "base_word": "reassurance",
+      "explanation": "「re-」と「assu...」から成る単語"
+    },
+    {
+      "id": "f65",
+      "etymology_id": "e2",
+      "base_word": "rebirth",
+      "explanation": "「re-」と「birt...」から成る単語"
+    },
+    {
+      "id": "f66",
+      "etymology_id": "e2",
+      "base_word": "reborn",
+      "explanation": "「re-」と「born...」から成る単語"
+    },
+    {
+      "id": "f67",
+      "etymology_id": "e2",
+      "base_word": "rebuff",
+      "explanation": "「re-」と「buff...」から成る単語"
+    },
+    {
+      "id": "f68",
+      "etymology_id": "e2",
+      "base_word": "rebuild",
+      "explanation": "「re-」と「buil...」から成る単語"
+    },
+    {
+      "id": "f69",
+      "etymology_id": "e2",
+      "base_word": "rebuke",
+      "explanation": "「re-」と「buke...」から成る単語"
+    },
+    {
+      "id": "f70",
+      "etymology_id": "e2",
+      "base_word": "rebutter",
+      "explanation": "「re-」と「butt...」から成る単語"
+    },
+    {
+      "id": "f71",
+      "etymology_id": "e2",
+      "base_word": "recall",
+      "explanation": "「re-」と「call...」から成る単語"
+    },
+    {
+      "id": "f72",
+      "etymology_id": "e2",
+      "base_word": "recant",
+      "explanation": "「re-」と「cant...」から成る単語"
+    },
+    {
+      "id": "f73",
+      "etymology_id": "e2",
+      "base_word": "recap",
+      "explanation": "「re-」と「cap...」から成る単語"
+    },
+    {
+      "id": "f74",
+      "etymology_id": "e2",
+      "base_word": "recapitulate",
+      "explanation": "「re-」と「capi...」から成る単語"
+    },
+    {
+      "id": "f75",
+      "etymology_id": "e2",
+      "base_word": "recapture",
+      "explanation": "「re-」と「capt...」から成る単語"
+    },
+    {
+      "id": "f76",
+      "etymology_id": "e2",
+      "base_word": "recast",
+      "explanation": "「re-」と「cast...」から成る単語"
+    },
+    {
+      "id": "f77",
+      "etymology_id": "e2",
+      "base_word": "recite",
+      "explanation": "「re-」と「cite...」から成る単語"
+    },
+    {
+      "id": "f78",
+      "etymology_id": "e2",
+      "base_word": "reclaim",
+      "explanation": "「re-」と「clai...」から成る単語"
+    },
+    {
+      "id": "f79",
+      "etymology_id": "e2",
+      "base_word": "recollect",
+      "explanation": "「re-」と「coll...」から成る単語"
+    },
+    {
+      "id": "f80",
+      "etymology_id": "e2",
+      "base_word": "recondition",
+      "explanation": "「re-」と「cond...」から成る単語"
+    },
+    {
+      "id": "f81",
+      "etymology_id": "e2",
+      "base_word": "reconsider",
+      "explanation": "「re-」と「cons...」から成る単語"
+    },
+    {
+      "id": "f82",
+      "etymology_id": "e2",
+      "base_word": "recount",
+      "explanation": "「re-」と「coun...」から成る単語"
+    },
+    {
+      "id": "f83",
+      "etymology_id": "e2",
+      "base_word": "recover",
+      "explanation": "「re-」と「cove...」から成る単語"
+    },
+    {
+      "id": "f84",
+      "etymology_id": "e2",
+      "base_word": "recreate",
+      "explanation": "「re-」と「crea...」から成る単語"
+    },
+    {
+      "id": "f85",
+      "etymology_id": "e2",
+      "base_word": "recycle",
+      "explanation": "「re-」と「cycl...」から成る単語"
+    },
+    {
+      "id": "f86",
+      "etymology_id": "e2",
+      "base_word": "redecorate",
+      "explanation": "「re-」と「deco...」から成る単語"
+    },
+    {
+      "id": "f87",
+      "etymology_id": "e2",
+      "base_word": "redeploy",
+      "explanation": "「re-」と「depl...」から成る単語"
+    },
+    {
+      "id": "f88",
+      "etymology_id": "e2",
+      "base_word": "redirect",
+      "explanation": "「re-」と「dire...」から成る単語"
+    },
+    {
+      "id": "f89",
+      "etymology_id": "e2",
+      "base_word": "redistribute",
+      "explanation": "「re-」と「dist...」から成る単語"
+    },
+    {
+      "id": "f90",
+      "etymology_id": "e2",
+      "base_word": "redo",
+      "explanation": "「re-」と「do...」から成る単語"
+    },
+    {
+      "id": "f91",
+      "etymology_id": "e2",
+      "base_word": "redouble",
+      "explanation": "「re-」と「doub...」から成る単語"
+    },
+    {
+      "id": "f92",
+      "etymology_id": "e2",
+      "base_word": "redress",
+      "explanation": "「re-」と「dres...」から成る単語"
+    },
+    {
+      "id": "f93",
+      "etymology_id": "e2",
+      "base_word": "reecho",
+      "explanation": "「re-」と「echo...」から成る単語"
+    },
+    {
+      "id": "f94",
+      "etymology_id": "e2",
+      "base_word": "reeducate",
+      "explanation": "「re-」と「educ...」から成る単語"
+    },
+    {
+      "id": "f95",
+      "etymology_id": "e2",
+      "base_word": "reelect",
+      "explanation": "「re-」と「elec...」から成る単語"
+    },
+    {
+      "id": "f96",
+      "etymology_id": "e2",
+      "base_word": "reenforce",
+      "explanation": "「re-」と「enfo...」から成る単語"
+    },
+    {
+      "id": "f97",
+      "etymology_id": "e2",
+      "base_word": "reface",
+      "explanation": "「re-」と「face...」から成る単語"
+    },
+    {
+      "id": "f98",
+      "etymology_id": "e2",
+      "base_word": "refashion",
+      "explanation": "「re-」と「fash...」から成る単語"
+    },
+    {
+      "id": "f99",
+      "etymology_id": "e2",
+      "base_word": "refill",
+      "explanation": "「re-」と「fill...」から成る単語"
+    },
+    {
+      "id": "f100",
+      "etymology_id": "e2",
+      "base_word": "refine",
+      "explanation": "「re-」と「fine...」から成る単語"
+    },
+    {
+      "id": "f101",
+      "etymology_id": "e2",
+      "base_word": "refit",
+      "explanation": "「re-」と「fit...」から成る単語"
+    },
+    {
+      "id": "f102",
+      "etymology_id": "e2",
+      "base_word": "reflex",
+      "explanation": "「re-」と「flex...」から成る単語"
+    },
+    {
+      "id": "f103",
+      "etymology_id": "e2",
+      "base_word": "refloat",
+      "explanation": "「re-」と「floa...」から成る単語"
+    },
+    {
+      "id": "f104",
+      "etymology_id": "e2",
+      "base_word": "refoot",
+      "explanation": "「re-」と「foot...」から成る単語"
+    },
+    {
+      "id": "f105",
+      "etymology_id": "e2",
+      "base_word": "reforest",
+      "explanation": "「re-」と「fore...」から成る単語"
+    },
+    {
+      "id": "f106",
+      "etymology_id": "e2",
+      "base_word": "reformation",
+      "explanation": "「re-」と「form...」から成る単語"
+    },
+    {
+      "id": "f107",
+      "etymology_id": "e2",
+      "base_word": "refresh",
+      "explanation": "「re-」と「fres...」から成る単語"
+    },
+    {
+      "id": "f108",
+      "etymology_id": "e2",
+      "base_word": "refuel",
+      "explanation": "「re-」と「fuel...」から成る単語"
+    },
+    {
+      "id": "f109",
+      "etymology_id": "e2",
+      "base_word": "refulgence",
+      "explanation": "「re-」と「fulg...」から成る単語"
+    },
+    {
+      "id": "f110",
+      "etymology_id": "e2",
+      "base_word": "refurbish",
+      "explanation": "「re-」と「furb...」から成る単語"
+    },
+    {
+      "id": "f111",
+      "etymology_id": "e2",
+      "base_word": "refuse",
+      "explanation": "「re-」と「fuse...」から成る単語"
+    },
+    {
+      "id": "f112",
+      "etymology_id": "e2",
+      "base_word": "regain",
+      "explanation": "「re-」と「gain...」から成る単語"
+    },
+    {
+      "id": "f113",
+      "etymology_id": "e2",
+      "base_word": "regenerate",
+      "explanation": "「re-」と「gene...」から成る単語"
+    },
+    {
+      "id": "f114",
+      "etymology_id": "e2",
+      "base_word": "regret",
+      "explanation": "「re-」と「gret...」から成る単語"
+    },
+    {
+      "id": "f115",
+      "etymology_id": "e2",
+      "base_word": "regroup",
+      "explanation": "「re-」と「grou...」から成る単語"
+    },
+    {
+      "id": "f116",
+      "etymology_id": "e2",
+      "base_word": "rehash",
+      "explanation": "「re-」と「hash...」から成る単語"
+    },
+    {
+      "id": "f117",
+      "etymology_id": "e2",
+      "base_word": "rehear",
+      "explanation": "「re-」と「hear...」から成る単語"
+    },
+    {
+      "id": "f118",
+      "etymology_id": "e2",
+      "base_word": "rehouse",
+      "explanation": "「re-」と「hous...」から成る単語"
+    },
+    {
+      "id": "f119",
+      "etymology_id": "e2",
+      "base_word": "reimburse",
+      "explanation": "「re-」と「imbu...」から成る単語"
+    },
+    {
+      "id": "f120",
+      "etymology_id": "e2",
+      "base_word": "reincarnate",
+      "explanation": "「re-」と「inca...」から成る単語"
+    },
+    {
+      "id": "f121",
+      "etymology_id": "e2",
+      "base_word": "reflate",
+      "explanation": "「re-」と「flat...」から成る単語"
+    },
+    {
+      "id": "f122",
+      "etymology_id": "e2",
+      "base_word": "reinforce",
+      "explanation": "「re-」と「info...」から成る単語"
+    },
+    {
+      "id": "f123",
+      "etymology_id": "e2",
+      "base_word": "reinstate",
+      "explanation": "「re-」と「inst...」から成る単語"
+    },
+    {
+      "id": "f124",
+      "etymology_id": "e2",
+      "base_word": "reinsure",
+      "explanation": "「re-」と「insu...」から成る単語"
+    },
+    {
+      "id": "f125",
+      "etymology_id": "e2",
+      "base_word": "reissue",
+      "explanation": "「re-」と「issu...」から成る単語"
+    },
+    {
+      "id": "f126",
+      "etymology_id": "e2",
+      "base_word": "reiteration",
+      "explanation": "「re-」と「iter...」から成る単語"
+    },
+    {
+      "id": "f127",
+      "etymology_id": "e2",
+      "base_word": "rejuvenate",
+      "explanation": "「re-」と「juve...」から成る単語"
+    },
+    {
+      "id": "f128",
+      "etymology_id": "e2",
+      "base_word": "rejoin",
+      "explanation": "「re-」と「join...」から成る単語"
+    },
+    {
+      "id": "f129",
+      "etymology_id": "e2",
+      "base_word": "rekindle",
+      "explanation": "「re-」と「kind...」から成る単語"
+    },
+    {
+      "id": "f130",
+      "etymology_id": "e2",
+      "base_word": "relax",
+      "explanation": "「re-」と「lax...」から成る単語"
+    },
+    {
+      "id": "f131",
+      "etymology_id": "e2",
+      "base_word": "relay",
+      "explanation": "「re-」と「lay...」から成る単語"
+    },
+    {
+      "id": "f132",
+      "etymology_id": "e2",
+      "base_word": "release",
+      "explanation": "「re-」と「leas...」から成る単語"
+    },
+    {
+      "id": "f133",
+      "etymology_id": "e2",
+      "base_word": "reline",
+      "explanation": "「re-」と「line...」から成る単語"
+    },
+    {
+      "id": "f134",
+      "etymology_id": "e2",
+      "base_word": "relive",
+      "explanation": "「re-」と「live...」から成る単語"
+    },
+    {
+      "id": "f135",
+      "etymology_id": "e2",
+      "base_word": "reload",
+      "explanation": "「re-」と「load...」から成る単語"
+    },
+    {
+      "id": "f136",
+      "etymology_id": "e2",
+      "base_word": "relocate",
+      "explanation": "「re-」と「loca...」から成る単語"
+    },
+    {
+      "id": "f137",
+      "etymology_id": "e2",
+      "base_word": "remake",
+      "explanation": "「re-」と「make...」から成る単語"
+    },
+    {
+      "id": "f138",
+      "etymology_id": "e2",
+      "base_word": "remark",
+      "explanation": "「re-」と「mark...」から成る単語"
+    },
+    {
+      "id": "f139",
+      "etymology_id": "e2",
+      "base_word": "remarry",
+      "explanation": "「re-」と「marr...」から成る単語"
+    },
+    {
+      "id": "f140",
+      "etymology_id": "e2",
+      "base_word": "remember",
+      "explanation": "「re-」と「memb...」から成る単語"
+    },
+    {
+      "id": "f141",
+      "etymology_id": "e2",
+      "base_word": "remind",
+      "explanation": "「re-」と「mind...」から成る単語"
+    },
+    {
+      "id": "f142",
+      "etymology_id": "e2",
+      "base_word": "remission",
+      "explanation": "「re-」と「miss...」から成る単語"
+    },
+    {
+      "id": "f143",
+      "etymology_id": "e2",
+      "base_word": "remodel",
+      "explanation": "「re-」と「mode...」から成る単語"
+    },
+    {
+      "id": "f144",
+      "etymology_id": "e2",
+      "base_word": "remount",
+      "explanation": "「re-」と「moun...」から成る単語"
+    },
+    {
+      "id": "f145",
+      "etymology_id": "e2",
+      "base_word": "remove",
+      "explanation": "「re-」と「move...」から成る単語"
+    },
+    {
+      "id": "f146",
+      "etymology_id": "e2",
+      "base_word": "rename",
+      "explanation": "「re-」と「name...」から成る単語"
+    },
+    {
+      "id": "f147",
+      "etymology_id": "e2",
+      "base_word": "renascent",
+      "explanation": "「re-」と「nasc...」から成る単語"
+    },
+    {
+      "id": "f148",
+      "etymology_id": "e2",
+      "base_word": "renew",
+      "explanation": "「re-」と「new...」から成る単語"
+    },
+    {
+      "id": "f149",
+      "etymology_id": "e2",
+      "base_word": "reopen",
+      "explanation": "「re-」と「open...」から成る単語"
+    },
+    {
+      "id": "f150",
+      "etymology_id": "e2",
+      "base_word": "repair",
+      "explanation": "「re-」と「pair...」から成る単語"
+    },
+    {
+      "id": "f151",
+      "etymology_id": "e2",
+      "base_word": "repay",
+      "explanation": "「re-」と「pay...」から成る単語"
+    },
+    {
+      "id": "f152",
+      "etymology_id": "e2",
+      "base_word": "repayment",
+      "explanation": "「re-」と「paym...」から成る単語"
+    },
+    {
+      "id": "f153",
+      "etymology_id": "e2",
+      "base_word": "repetition",
+      "explanation": "「re-」と「peti...」から成る単語"
+    },
+    {
+      "id": "f154",
+      "etymology_id": "e2",
+      "base_word": "repine",
+      "explanation": "「re-」と「pine...」から成る単語"
+    },
+    {
+      "id": "f155",
+      "etymology_id": "e2",
+      "base_word": "replace",
+      "explanation": "「re-」と「plac...」から成る単語"
+    },
+    {
+      "id": "f156",
+      "etymology_id": "e2",
+      "base_word": "replay",
+      "explanation": "「re-」と「play...」から成る単語"
+    },
+    {
+      "id": "f157",
+      "etymology_id": "e2",
+      "base_word": "repoint",
+      "explanation": "「re-」と「poin...」から成る単語"
+    },
+    {
+      "id": "f158",
+      "etymology_id": "e2",
+      "base_word": "repose",
+      "explanation": "「re-」と「pose...」から成る単語"
+    },
+    {
+      "id": "f159",
+      "etymology_id": "e2",
+      "base_word": "repossess",
+      "explanation": "「re-」と「poss...」から成る単語"
+    },
+    {
+      "id": "f160",
+      "etymology_id": "e2",
+      "base_word": "repot",
+      "explanation": "「re-」と「pot...」から成る単語"
+    },
+    {
+      "id": "f161",
+      "etymology_id": "e2",
+      "base_word": "represent",
+      "explanation": "「re-」と「pres...」から成る単語"
+    },
+    {
+      "id": "f162",
+      "etymology_id": "e2",
+      "base_word": "reprint",
+      "explanation": "「re-」と「prin...」から成る単語"
+    },
+    {
+      "id": "f163",
+      "etymology_id": "e2",
+      "base_word": "reproduce",
+      "explanation": "「re-」と「prod...」から成る単語"
+    },
+    {
+      "id": "f164",
+      "etymology_id": "e2",
+      "base_word": "reproof",
+      "explanation": "「re-」と「proo...」から成る単語"
+    },
+    {
+      "id": "f165",
+      "etymology_id": "e2",
+      "base_word": "reprove",
+      "explanation": "「re-」と「prov...」から成る単語"
+    },
+    {
+      "id": "f166",
+      "etymology_id": "e2",
+      "base_word": "repugnant",
+      "explanation": "「re-」と「pugn...」から成る単語"
+    },
+    {
+      "id": "f167",
+      "etymology_id": "e2",
+      "base_word": "rerun",
+      "explanation": "「re-」と「run...」から成る単語"
+    },
+    {
+      "id": "f168",
+      "etymology_id": "e2",
+      "base_word": "resale",
+      "explanation": "「re-」と「sale...」から成る単語"
+    },
+    {
+      "id": "f169",
+      "etymology_id": "e2",
+      "base_word": "research",
+      "explanation": "「re-」と「sear...」から成る単語"
+    },
+    {
+      "id": "f170",
+      "etymology_id": "e2",
+      "base_word": "reseat",
+      "explanation": "「re-」と「seat...」から成る単語"
+    },
+    {
+      "id": "f171",
+      "etymology_id": "e2",
+      "base_word": "resemble",
+      "explanation": "「re-」と「semb...」から成る単語"
+    },
+    {
+      "id": "f172",
+      "etymology_id": "e2",
+      "base_word": "reset",
+      "explanation": "「re-」と「set...」から成る単語"
+    },
+    {
+      "id": "f173",
+      "etymology_id": "e2",
+      "base_word": "resettle",
+      "explanation": "「re-」と「sett...」から成る単語"
+    },
+    {
+      "id": "f174",
+      "etymology_id": "e2",
+      "base_word": "reshuffle",
+      "explanation": "「re-」と「shuf...」から成る単語"
+    },
+    {
+      "id": "f175",
+      "etymology_id": "e2",
+      "base_word": "resign",
+      "explanation": "「re-」と「sign...」から成る単語"
+    },
+    {
+      "id": "f176",
+      "etymology_id": "e2",
+      "base_word": "resole",
+      "explanation": "「re-」と「sole...」から成る単語"
+    },
+    {
+      "id": "f177",
+      "etymology_id": "e2",
+      "base_word": "resolve",
+      "explanation": "「re-」と「solv...」から成る単語"
+    },
+    {
+      "id": "f178",
+      "etymology_id": "e2",
+      "base_word": "resort",
+      "explanation": "「re-」と「sort...」から成る単語"
+    },
+    {
+      "id": "f179",
+      "etymology_id": "e2",
+      "base_word": "resound",
+      "explanation": "「re-」と「soun...」から成る単語"
+    },
+    {
+      "id": "f180",
+      "etymology_id": "e2",
+      "base_word": "resource",
+      "explanation": "「re-」と「sour...」から成る単語"
+    },
+    {
+      "id": "f181",
+      "etymology_id": "e2",
+      "base_word": "restage",
+      "explanation": "「re-」と「stag...」から成る単語"
+    },
+    {
+      "id": "f182",
+      "etymology_id": "e2",
+      "base_word": "restate",
+      "explanation": "「re-」と「stat...」から成る単語"
+    },
+    {
+      "id": "f183",
+      "etymology_id": "e2",
+      "base_word": "restock",
+      "explanation": "「re-」と「stoc...」から成る単語"
+    },
+    {
+      "id": "f184",
+      "etymology_id": "e2",
+      "base_word": "restore",
+      "explanation": "「re-」と「stor...」から成る単語"
+    },
+    {
+      "id": "f185",
+      "etymology_id": "e2",
+      "base_word": "restrain",
+      "explanation": "「re-」と「stra...」から成る単語"
+    },
+    {
+      "id": "f186",
+      "etymology_id": "e2",
+      "base_word": "restructure",
+      "explanation": "「re-」と「stru...」から成る単語"
+    },
+    {
+      "id": "f187",
+      "etymology_id": "e2",
+      "base_word": "resurface",
+      "explanation": "「re-」と「surf...」から成る単語"
+    },
+    {
+      "id": "f188",
+      "etymology_id": "e2",
+      "base_word": "resurgent",
+      "explanation": "「re-」と「surg...」から成る単語"
+    },
+    {
+      "id": "f189",
+      "etymology_id": "e2",
+      "base_word": "retake",
+      "explanation": "「re-」と「take...」から成る単語"
+    },
+    {
+      "id": "f190",
+      "etymology_id": "e2",
+      "base_word": "retell",
+      "explanation": "「re-」と「tell...」から成る単語"
+    },
+    {
+      "id": "f191",
+      "etymology_id": "e2",
+      "base_word": "rethink",
+      "explanation": "「re-」と「thin...」から成る単語"
+    },
+    {
+      "id": "f192",
+      "etymology_id": "e2",
+      "base_word": "retire",
+      "explanation": "「re-」と「tire...」から成る単語"
+    },
+    {
+      "id": "f193",
+      "etymology_id": "e2",
+      "base_word": "retraction",
+      "explanation": "「re-」と「trac...」から成る単語"
+    },
+    {
+      "id": "f194",
+      "etymology_id": "e2",
+      "base_word": "retread",
+      "explanation": "「re-」と「trea...」から成る単語"
+    },
+    {
+      "id": "f195",
+      "etymology_id": "e2",
+      "base_word": "retrench",
+      "explanation": "「re-」と「tren...」から成る単語"
+    },
+    {
+      "id": "f196",
+      "etymology_id": "e2",
+      "base_word": "retrial",
+      "explanation": "「re-」と「tria...」から成る単語"
+    },
+    {
+      "id": "f197",
+      "etymology_id": "e2",
+      "base_word": "return",
+      "explanation": "「re-」と「turn...」から成る単語"
+    },
+    {
+      "id": "f198",
+      "etymology_id": "e2",
+      "base_word": "reunion",
+      "explanation": "「re-」と「unio...」から成る単語"
+    },
+    {
+      "id": "f199",
+      "etymology_id": "e2",
+      "base_word": "reunite",
+      "explanation": "「re-」と「unit...」から成る単語"
+    },
+    {
+      "id": "f200",
+      "etymology_id": "e2",
+      "base_word": "reuse",
+      "explanation": "「re-」と「use...」から成る単語"
+    },
+    {
+      "id": "f201",
+      "etymology_id": "e2",
+      "base_word": "revalue",
+      "explanation": "「re-」と「valu...」から成る単語"
+    },
+    {
+      "id": "f202",
+      "etymology_id": "e2",
+      "base_word": "revamp",
+      "explanation": "「re-」と「vamp...」から成る単語"
+    },
+    {
+      "id": "f203",
+      "etymology_id": "e2",
+      "base_word": "review",
+      "explanation": "「re-」と「view...」から成る単語"
+    },
+    {
+      "id": "f204",
+      "etymology_id": "e2",
+      "base_word": "revision",
+      "explanation": "「re-」と「visi...」から成る単語"
+    },
+    {
+      "id": "f205",
+      "etymology_id": "e2",
+      "base_word": "revivify",
+      "explanation": "「re-」と「vivi...」から成る単語"
+    },
+    {
+      "id": "f206",
+      "etymology_id": "e2",
+      "base_word": "rewire",
+      "explanation": "「re-」と「wire...」から成る単語"
+    },
+    {
+      "id": "f207",
+      "etymology_id": "e2",
+      "base_word": "reword",
+      "explanation": "「re-」と「word...」から成る単語"
+    },
+    {
+      "id": "f208",
+      "etymology_id": "e2",
+      "base_word": "rewrite",
+      "explanation": "「re-」と「writ...」から成る単語"
+    },
+    {
+      "id": "f209",
       "etymology_id": "e3",
-      "base_word": "sub- words",
-      "explanation": "Wiktionaryから取得した sub- を含む単語群"
+      "base_word": "subatomic",
+      "explanation": "「sub-」と「atom...」から成る単語"
+    },
+    {
+      "id": "f210",
+      "etymology_id": "e3",
+      "base_word": "subcommittee",
+      "explanation": "「sub-」と「comm...」から成る単語"
+    },
+    {
+      "id": "f211",
+      "etymology_id": "e3",
+      "base_word": "subcompact",
+      "explanation": "「sub-」と「comp...」から成る単語"
+    },
+    {
+      "id": "f212",
+      "etymology_id": "e3",
+      "base_word": "subconscious",
+      "explanation": "「sub-」と「cons...」から成る単語"
+    },
+    {
+      "id": "f213",
+      "etymology_id": "e3",
+      "base_word": "subcontinent",
+      "explanation": "「sub-」と「cont...」から成る単語"
+    },
+    {
+      "id": "f214",
+      "etymology_id": "e3",
+      "base_word": "subculture",
+      "explanation": "「sub-」と「cult...」から成る単語"
+    },
+    {
+      "id": "f215",
+      "etymology_id": "e3",
+      "base_word": "subdebutante",
+      "explanation": "「sub-」と「debu...」から成る単語"
+    },
+    {
+      "id": "f216",
+      "etymology_id": "e3",
+      "base_word": "subdivide",
+      "explanation": "「sub-」と「divi...」から成る単語"
+    },
+    {
+      "id": "f217",
+      "etymology_id": "e3",
+      "base_word": "subedit",
+      "explanation": "「sub-」と「edit...」から成る単語"
+    },
+    {
+      "id": "f218",
+      "etymology_id": "e3",
+      "base_word": "suffix",
+      "explanation": "「sub-」と「suff...」から成る単語"
+    },
+    {
+      "id": "f219",
+      "etymology_id": "e3",
+      "base_word": "subheading",
+      "explanation": "「sub-」と「head...」から成る単語"
+    },
+    {
+      "id": "f220",
+      "etymology_id": "e3",
+      "base_word": "subhuman",
+      "explanation": "「sub-」と「huma...」から成る単語"
+    },
+    {
+      "id": "f221",
+      "etymology_id": "e3",
+      "base_word": "subjoin",
+      "explanation": "「sub-」と「join...」から成る単語"
+    },
+    {
+      "id": "f222",
+      "etymology_id": "e3",
+      "base_word": "sublease",
+      "explanation": "「sub-」と「leas...」から成る単語"
+    },
+    {
+      "id": "f223",
+      "etymology_id": "e3",
+      "base_word": "sublet",
+      "explanation": "「sub-」と「let...」から成る単語"
+    },
+    {
+      "id": "f224",
+      "etymology_id": "e3",
+      "base_word": "subliminal",
+      "explanation": "「sub-」と「limi...」から成る単語"
+    },
+    {
+      "id": "f225",
+      "etymology_id": "e3",
+      "base_word": "sublunary",
+      "explanation": "「sub-」と「luna...」から成る単語"
+    },
+    {
+      "id": "f226",
+      "etymology_id": "e3",
+      "base_word": "submarine",
+      "explanation": "「sub-」と「mari...」から成る単語"
+    },
+    {
+      "id": "f227",
+      "etymology_id": "e3",
+      "base_word": "submerge",
+      "explanation": "「sub-」と「merg...」から成る単語"
+    },
+    {
+      "id": "f228",
+      "etymology_id": "e3",
+      "base_word": "submicroscopic",
+      "explanation": "「sub-」と「micr...」から成る単語"
+    },
+    {
+      "id": "f229",
+      "etymology_id": "e3",
+      "base_word": "subminiature",
+      "explanation": "「sub-」と「mini...」から成る単語"
+    },
+    {
+      "id": "f230",
+      "etymology_id": "e3",
+      "base_word": "submission",
+      "explanation": "「sub-」と「miss...」から成る単語"
+    },
+    {
+      "id": "f231",
+      "etymology_id": "e3",
+      "base_word": "subnormal",
+      "explanation": "「sub-」と「norm...」から成る単語"
+    },
+    {
+      "id": "f232",
+      "etymology_id": "e3",
+      "base_word": "suborbital",
+      "explanation": "「sub-」と「orbi...」から成る単語"
+    },
+    {
+      "id": "f233",
+      "etymology_id": "e3",
+      "base_word": "subplot",
+      "explanation": "「sub-」と「plot...」から成る単語"
+    },
+    {
+      "id": "f234",
+      "etymology_id": "e3",
+      "base_word": "subscript",
+      "explanation": "「sub-」と「scri...」から成る単語"
+    },
+    {
+      "id": "f235",
+      "etymology_id": "e3",
+      "base_word": "subsequence",
+      "explanation": "「sub-」と「sequ...」から成る単語"
+    },
+    {
+      "id": "f236",
+      "etymology_id": "e3",
+      "base_word": "subset",
+      "explanation": "「sub-」と「set...」から成る単語"
+    },
+    {
+      "id": "f237",
+      "etymology_id": "e3",
+      "base_word": "subsoil",
+      "explanation": "「sub-」と「soil...」から成る単語"
+    },
+    {
+      "id": "f238",
+      "etymology_id": "e3",
+      "base_word": "subsonic",
+      "explanation": "「sub-」と「soni...」から成る単語"
+    },
+    {
+      "id": "f239",
+      "etymology_id": "e3",
+      "base_word": "subspecies",
+      "explanation": "「sub-」と「spec...」から成る単語"
+    },
+    {
+      "id": "f240",
+      "etymology_id": "e3",
+      "base_word": "substandard",
+      "explanation": "「sub-」と「stan...」から成る単語"
+    },
+    {
+      "id": "f241",
+      "etymology_id": "e3",
+      "base_word": "substation",
+      "explanation": "「sub-」と「stat...」から成る単語"
+    },
+    {
+      "id": "f242",
+      "etymology_id": "e3",
+      "base_word": "substratum",
+      "explanation": "「sub-」と「stra...」から成る単語"
+    },
+    {
+      "id": "f243",
+      "etymology_id": "e3",
+      "base_word": "substructure",
+      "explanation": "「sub-」と「stru...」から成る単語"
+    },
+    {
+      "id": "f244",
+      "etymology_id": "e3",
+      "base_word": "subteen",
+      "explanation": "「sub-」と「teen...」から成る単語"
+    },
+    {
+      "id": "f245",
+      "etymology_id": "e3",
+      "base_word": "subtenant",
+      "explanation": "「sub-」と「tena...」から成る単語"
+    },
+    {
+      "id": "f246",
+      "etymology_id": "e3",
+      "base_word": "subtitle",
+      "explanation": "「sub-」と「titl...」から成る単語"
+    },
+    {
+      "id": "f247",
+      "etymology_id": "e3",
+      "base_word": "subtotal",
+      "explanation": "「sub-」と「tota...」から成る単語"
+    },
+    {
+      "id": "f248",
+      "etymology_id": "e3",
+      "base_word": "subtropical",
+      "explanation": "「sub-」と「trop...」から成る単語"
+    },
+    {
+      "id": "f249",
+      "etymology_id": "e3",
+      "base_word": "suburban",
+      "explanation": "「sub-」と「urba...」から成る単語"
+    },
+    {
+      "id": "f250",
+      "etymology_id": "e3",
+      "base_word": "subversion",
+      "explanation": "「sub-」と「vers...」から成る単語"
+    },
+    {
+      "id": "f251",
+      "etymology_id": "e3",
+      "base_word": "subway",
+      "explanation": "「sub-」と「way...」から成る単語"
+    },
+    {
+      "id": "f252",
+      "etymology_id": "e3",
+      "base_word": "subzero",
+      "explanation": "「sub-」と「zero...」から成る単語"
     }
   ],
-  "words": []
+  "words": [
+    {
+      "id": "w1",
+      "family_id": "f1",
+      "spelling": "preamplifier",
+      "part_of_speech": "動詞",
+      "meaning": "プリアンプ(受信した弱い電波を検波・増幅する装置)",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w2",
+      "family_id": "f2",
+      "spelling": "prearrange",
+      "part_of_speech": "動詞",
+      "meaning": "…を前もって打ち合わせる,あらかじめ準備する",
+      "suffix": "-"
+    },
+    {
+      "id": "w3",
+      "family_id": "f2",
+      "spelling": "prearrangement",
+      "part_of_speech": "不明",
+      "meaning": "前もっての打ち合わせ",
+      "suffix": "-ment (名詞化)"
+    },
+    {
+      "id": "w4",
+      "family_id": "f3",
+      "spelling": "prebend",
+      "part_of_speech": "不明",
+      "meaning": "聖堂参事会員の俸給・受給聖職者の職・聖職禄・=prebendary",
+      "suffix": "-"
+    },
+    {
+      "id": "w5",
+      "family_id": "f4",
+      "spelling": "precancerous",
+      "part_of_speech": "不明",
+      "meaning": "前癌(がん)症状の",
+      "suffix": "-"
+    },
+    {
+      "id": "w6",
+      "family_id": "f5",
+      "spelling": "precarious",
+      "part_of_speech": "形容詞",
+      "meaning": "危険な",
+      "suffix": "-"
+    },
+    {
+      "id": "w7",
+      "family_id": "f6",
+      "spelling": "precast",
+      "part_of_speech": "動詞",
+      "meaning": "建築用ブロックに作られた 前もって成形された あらかじめ成形する",
+      "suffix": "-"
+    },
+    {
+      "id": "w8",
+      "family_id": "f7",
+      "spelling": "precognition",
+      "part_of_speech": "不明",
+      "meaning": "[超感覚的]予知",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w9",
+      "family_id": "f8",
+      "spelling": "preconceive",
+      "part_of_speech": "動詞",
+      "meaning": "…をあらかじめ考える,を予想する",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w10",
+      "family_id": "f8",
+      "spelling": "preconception",
+      "part_of_speech": "不明",
+      "meaning": "予想,予断",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w11",
+      "family_id": "f9",
+      "spelling": "precondition",
+      "part_of_speech": "不明",
+      "meaning": "必要条件 ,  …をあらかじめ整える",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w12",
+      "family_id": "f10",
+      "spelling": "precursor",
+      "part_of_speech": "不明",
+      "meaning": "(…の)前兆,前触れ《+『of』+『名』》",
+      "suffix": "-or (人・物)"
+    },
+    {
+      "id": "w13",
+      "family_id": "f11",
+      "spelling": "predate",
+      "part_of_speech": "動詞",
+      "meaning": "…を実際の日付より前にする ,  …より早く起こる",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w14",
+      "family_id": "f12",
+      "spelling": "predecease",
+      "part_of_speech": "動詞",
+      "meaning": "〈人・事件〉の前に死亡する,に先立つ",
+      "suffix": "-"
+    },
+    {
+      "id": "w15",
+      "family_id": "f13",
+      "spelling": "predestinate",
+      "part_of_speech": "不明",
+      "meaning": "=predestine",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w16",
+      "family_id": "f13",
+      "spelling": "predestination",
+      "part_of_speech": "動詞",
+      "meaning": "救霊の予定(救われる者は神によって既に定められているとする教え) ,  予定説,宿命論(この世のすべての事は神の予定によるとする考え)",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w17",
+      "family_id": "f13",
+      "spelling": "predestine",
+      "part_of_speech": "動詞",
+      "meaning": "《しばしば受動態で》〈神が〉(…に)〈人〉を運命づける,に宿命を負わせる《+『名』+『for』+『名』,(…するよう)〈人〉を運命づける《+『名』+『to』 do》",
+      "suffix": "-"
+    },
+    {
+      "id": "w18",
+      "family_id": "f14",
+      "spelling": "predetermination",
+      "part_of_speech": "名詞",
+      "meaning": "宿命,運命づけられていること",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w19",
+      "family_id": "f14",
+      "spelling": "predetermine",
+      "part_of_speech": "動詞",
+      "meaning": "…を前もって定める",
+      "suffix": "-"
+    },
+    {
+      "id": "w20",
+      "family_id": "f14",
+      "spelling": "predeterminer",
+      "part_of_speech": "形容詞",
+      "meaning": "冠詞の前に用いられる語(such a good boyのsuchなど)",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w21",
+      "family_id": "f15",
+      "spelling": "predigest",
+      "part_of_speech": "動詞",
+      "meaning": "(病人食・幼児食用に)〈食物〉を消化しやすくする ,  〈本〉を平易に書き直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w22",
+      "family_id": "f16",
+      "spelling": "predisposition",
+      "part_of_speech": "動詞",
+      "meaning": "(特定の病気など悪い事に)かかりやすい素質《+『to』+『名』》",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w23",
+      "family_id": "f17",
+      "spelling": "predominance",
+      "part_of_speech": "動詞",
+      "meaning": "(…に対する)優勢,支配《+『over』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w24",
+      "family_id": "f17",
+      "spelling": "predominant",
+      "part_of_speech": "形容詞",
+      "meaning": "優勢な",
+      "suffix": "-"
+    },
+    {
+      "id": "w25",
+      "family_id": "f17",
+      "spelling": "predominate",
+      "part_of_speech": "副詞",
+      "meaning": "(…に)権力をふるう,影響を与える《+『over』+『名』》 ,  (他のものよりも)目立つ,優勢である《+『over』+『名』》",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w26",
+      "family_id": "f18",
+      "spelling": "preexist",
+      "part_of_speech": "動詞",
+      "meaning": "〈人が〉別界に先在する ,  〈魂が〉肉体と合体する以前に存在する",
+      "suffix": "-ist (人)"
+    },
+    {
+      "id": "w27",
+      "family_id": "f18",
+      "spelling": "preexistence",
+      "part_of_speech": "不明",
+      "meaning": "(霊魂の)先在・前世・生前の魂の存在",
+      "suffix": "-"
+    },
+    {
+      "id": "w28",
+      "family_id": "f19",
+      "spelling": "prefabricate",
+      "part_of_speech": "動詞",
+      "meaning": "〈家〉をプレハブ方式で建てる(組み立て用の規格部品単位で製造すること) ,  〈部品など〉を前もって作り上げる",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w29",
+      "family_id": "f19",
+      "spelling": "prefabricated",
+      "part_of_speech": "不明",
+      "meaning": "プレハブ方式の",
+      "suffix": "-"
+    },
+    {
+      "id": "w30",
+      "family_id": "f19",
+      "spelling": "prefabrication",
+      "part_of_speech": "副詞",
+      "meaning": "規格部品による組み立方式",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w31",
+      "family_id": "f20",
+      "spelling": "preferment",
+      "part_of_speech": "形容詞",
+      "meaning": "(稀に教会などで)昇進,登用",
+      "suffix": "-ment (名詞化)"
+    },
+    {
+      "id": "w32",
+      "family_id": "f21",
+      "spelling": "prefix",
+      "part_of_speech": "動詞",
+      "meaning": "接頭辞 ,  人名の前につける敬称(Mr.,Dr.,Sirなど) ,  …に接頭辞をつける ,  (本・名前などの頭に)〈題・称号など〉をつける,冠する《+『名』+『to』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w33",
+      "family_id": "f22",
+      "spelling": "preheat",
+      "part_of_speech": "動詞",
+      "meaning": "〈オーブンなど〉を使用前に温める(熟する)",
+      "suffix": "-"
+    },
+    {
+      "id": "w34",
+      "family_id": "f23",
+      "spelling": "prehistory",
+      "part_of_speech": "副詞",
+      "meaning": "〈U〉先史時代 ,  〈U〉先史学,先史人類史 ,  《a ~》(ある状況に至るまでの)いきさつ,経過《+『of』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w35",
+      "family_id": "f24",
+      "spelling": "preliterate",
+      "part_of_speech": "形容詞",
+      "meaning": "(文化・社会などが)記録(文献)を保存してない",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w36",
+      "family_id": "f25",
+      "spelling": "premarital",
+      "part_of_speech": "不明",
+      "meaning": "結婚前の",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w37",
+      "family_id": "f26",
+      "spelling": "premature",
+      "part_of_speech": "不明",
+      "meaning": "時期尚早の,早すぎた ,  早計の,早まった ,  早産の",
+      "suffix": "-"
+    },
+    {
+      "id": "w38",
+      "family_id": "f27",
+      "spelling": "premedic",
+      "part_of_speech": "不明",
+      "meaning": "=premed",
+      "suffix": "-"
+    },
+    {
+      "id": "w39",
+      "family_id": "f27",
+      "spelling": "premedical",
+      "part_of_speech": "不明",
+      "meaning": "医学部進学課程の",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w40",
+      "family_id": "f27",
+      "spelling": "premeditate",
+      "part_of_speech": "動詞",
+      "meaning": "…を前もって考える(計画する)",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w41",
+      "family_id": "f28",
+      "spelling": "premolar",
+      "part_of_speech": "不明",
+      "meaning": "小臼歯 ,  小臼歯の",
+      "suffix": "-"
+    },
+    {
+      "id": "w42",
+      "family_id": "f29",
+      "spelling": "prenatal",
+      "part_of_speech": "不明",
+      "meaning": "生まれる前の,胎児期の(《英》antenatal)",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w43",
+      "family_id": "f30",
+      "spelling": "preoccupation",
+      "part_of_speech": "名詞",
+      "meaning": "〈U〉(…への)没頭,夢中,(…に)心を奪われること《+『with+名』》 ,  〈C〉没頭(夢中に)される問題",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w44",
+      "family_id": "f30",
+      "spelling": "preoccupy",
+      "part_of_speech": "動詞",
+      "meaning": "《しばしば受動態で》〈人・人の心〉をいっぱいにする",
+      "suffix": "-"
+    },
+    {
+      "id": "w45",
+      "family_id": "f31",
+      "spelling": "preoperative",
+      "part_of_speech": "副詞",
+      "meaning": "手術前に起こる,手術前の",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w46",
+      "family_id": "f32",
+      "spelling": "preordain",
+      "part_of_speech": "不明",
+      "meaning": "〈神・運命が〉…をあらかじめ定める",
+      "suffix": "-"
+    },
+    {
+      "id": "w47",
+      "family_id": "f33",
+      "spelling": "prepack",
+      "part_of_speech": "不明",
+      "meaning": "=prepackage",
+      "suffix": "-"
+    },
+    {
+      "id": "w48",
+      "family_id": "f33",
+      "spelling": "prepackage",
+      "part_of_speech": "動詞",
+      "meaning": "〈食品など〉を販売前に包装する",
+      "suffix": "-"
+    },
+    {
+      "id": "w49",
+      "family_id": "f34",
+      "spelling": "prepay",
+      "part_of_speech": "動詞",
+      "meaning": "…を前払いする,前納する",
+      "suffix": "-"
+    },
+    {
+      "id": "w50",
+      "family_id": "f35",
+      "spelling": "preposition",
+      "part_of_speech": "不明",
+      "meaning": "『前置詞』(《略》『perp.』)",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w51",
+      "family_id": "f36",
+      "spelling": "prepossess",
+      "part_of_speech": "形容詞",
+      "meaning": "《通例受動態で》〈感情・観念などが〉〈人〉に先入観を抱かせる ,  〈人〉に第一印象で好感を与える",
+      "suffix": "-"
+    },
+    {
+      "id": "w52",
+      "family_id": "f36",
+      "spelling": "prepossession",
+      "part_of_speech": "動詞",
+      "meaning": "(…に対する良い・悪い)先入観《+『for』(『against』)+『名』》",
+      "suffix": "-sion (名詞化)"
+    },
+    {
+      "id": "w53",
+      "family_id": "f37",
+      "spelling": "prefect",
+      "part_of_speech": "動詞",
+      "meaning": "(古代ローマの)長官,総督",
+      "suffix": "-"
+    },
+    {
+      "id": "w54",
+      "family_id": "f38",
+      "spelling": "prerecord",
+      "part_of_speech": "不明",
+      "meaning": "〈番組の〉の録画(録音)をとる",
+      "suffix": "-"
+    },
+    {
+      "id": "w55",
+      "family_id": "f39",
+      "spelling": "prerequisite",
+      "part_of_speech": "形容詞",
+      "meaning": "必須の,あらかじめ必要な,条件として必要な",
+      "suffix": "-"
+    },
+    {
+      "id": "w56",
+      "family_id": "f40",
+      "spelling": "preschool",
+      "part_of_speech": "形容詞",
+      "meaning": "《名詞の前にのみ用いて》小学校入学前の,学齢未満の・幼稚園より手前の児童の通う幼稚園予科のような施設(保育園=day-care centerとは異なる)",
+      "suffix": "-"
+    },
+    {
+      "id": "w57",
+      "family_id": "f41",
+      "spelling": "prescient",
+      "part_of_speech": "形容詞",
+      "meaning": "予測できる,推測可能な",
+      "suffix": "-"
+    },
+    {
+      "id": "w58",
+      "family_id": "f42",
+      "spelling": "presentiment",
+      "part_of_speech": "不明",
+      "meaning": "(…の)(悪い)予感,胸騷ぎ《+『that節』》",
+      "suffix": "-ment (名詞化)"
+    },
+    {
+      "id": "w59",
+      "family_id": "f43",
+      "spelling": "preset",
+      "part_of_speech": "動詞",
+      "meaning": "…を前もって調節する(合わせる)",
+      "suffix": "-"
+    },
+    {
+      "id": "w60",
+      "family_id": "f44",
+      "spelling": "presoak",
+      "part_of_speech": "副詞",
+      "meaning": "(しみ抜きで)…をあらかじめ液剤にひたす ,  あらかじめ液剤にひたす ,  しみ抜き ,  しみ抜き剤",
+      "suffix": "-"
+    },
+    {
+      "id": "w61",
+      "family_id": "f45",
+      "spelling": "prestressed",
+      "part_of_speech": "不明",
+      "meaning": "(コンクリートが)補強鋼線入りの",
+      "suffix": "-"
+    },
+    {
+      "id": "w62",
+      "family_id": "f46",
+      "spelling": "preteen",
+      "part_of_speech": "不明",
+      "meaning": "ティーンエイジ(teen age)前の子供(10‐12歳ぐらい)",
+      "suffix": "-"
+    },
+    {
+      "id": "w63",
+      "family_id": "f47",
+      "spelling": "pretender",
+      "part_of_speech": "不明",
+      "meaning": "装う人,…ぶる人",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w64",
+      "family_id": "f48",
+      "spelling": "pretension",
+      "part_of_speech": "名詞",
+      "meaning": "〈C〉《しばしば複数形で》(自分が実際はそうでないのに,そうだと)気取ること,自称,自任 ,  〈U〉《文》見せかけ,みえ",
+      "suffix": "-sion (名詞化)"
+    },
+    {
+      "id": "w65",
+      "family_id": "f49",
+      "spelling": "pretest",
+      "part_of_speech": "動詞",
+      "meaning": "(新製品などの)試用,予備テスト ,  …を試用(予備テスト)する ,  試用(予備テスト)する",
+      "suffix": "-"
+    },
+    {
+      "id": "w66",
+      "family_id": "f50",
+      "spelling": "prevalent",
+      "part_of_speech": "副詞",
+      "meaning": "『いたる所ににある』,流行している",
+      "suffix": "-"
+    },
+    {
+      "id": "w67",
+      "family_id": "f51",
+      "spelling": "prewar",
+      "part_of_speech": "不明",
+      "meaning": "戦前の",
+      "suffix": "-"
+    },
+    {
+      "id": "w68",
+      "family_id": "f52",
+      "spelling": "react",
+      "part_of_speech": "動詞",
+      "meaning": "(刺激などに)『反応する』《+『to』+『名』》 ,  (…に)反対する,反抗する《+『against』+『名』》 ,  (…に)影響を与える",
+      "suffix": "-"
+    },
+    {
+      "id": "w69",
+      "family_id": "f53",
+      "spelling": "reactivate",
+      "part_of_speech": "動詞",
+      "meaning": "…を復活(再開)させる ,  復活(再開)する",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w70",
+      "family_id": "f54",
+      "spelling": "readjust",
+      "part_of_speech": "動詞",
+      "meaning": "…を再び整える,再調整する ,  (…に)〈人が〉再び適応する《『to』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w71",
+      "family_id": "f54",
+      "spelling": "readjustment",
+      "part_of_speech": "不明",
+      "meaning": "再調整",
+      "suffix": "-ment (名詞化)"
+    },
+    {
+      "id": "w72",
+      "family_id": "f55",
+      "spelling": "realign",
+      "part_of_speech": "副詞",
+      "meaning": "…に新しい隊列を組ませる",
+      "suffix": "-"
+    },
+    {
+      "id": "w73",
+      "family_id": "f56",
+      "spelling": "really",
+      "part_of_speech": "形容詞",
+      "meaning": "『実際に』,現実に(actually) ,  『本当に』,真に(truly) ,  実に,全く ,  《間投詞的に》そうですか,おやおや,へえ",
+      "suffix": "-ly (副詞化)"
+    },
+    {
+      "id": "w74",
+      "family_id": "f57",
+      "spelling": "reanimate",
+      "part_of_speech": "副詞",
+      "meaning": "…を再び元気づける(勇気づける),に生気を与え直す",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w75",
+      "family_id": "f58",
+      "spelling": "reappear",
+      "part_of_speech": "不明",
+      "meaning": "再び姿を現す",
+      "suffix": "-"
+    },
+    {
+      "id": "w76",
+      "family_id": "f58",
+      "spelling": "reappearance",
+      "part_of_speech": "不明",
+      "meaning": "再現",
+      "suffix": "-"
+    },
+    {
+      "id": "w77",
+      "family_id": "f59",
+      "spelling": "reappraisal",
+      "part_of_speech": "不明",
+      "meaning": "〈U〉再評価",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w78",
+      "family_id": "f60",
+      "spelling": "rearm",
+      "part_of_speech": "不明",
+      "meaning": "…を再武装(再軍備)させる,(新兵器で)再装備させる",
+      "suffix": "-"
+    },
+    {
+      "id": "w79",
+      "family_id": "f61",
+      "spelling": "rearmament",
+      "part_of_speech": "動詞",
+      "meaning": "再軍備,再武装 ,  再武装する",
+      "suffix": "-ment (名詞化)"
+    },
+    {
+      "id": "w80",
+      "family_id": "f62",
+      "spelling": "rearrange",
+      "part_of_speech": "不明",
+      "meaning": "(以前とは別の様式で)…を整理し直す,配列し直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w81",
+      "family_id": "f62",
+      "spelling": "rearrangement",
+      "part_of_speech": "不明",
+      "meaning": "再整理,再配列",
+      "suffix": "-ment (名詞化)"
+    },
+    {
+      "id": "w82",
+      "family_id": "f63",
+      "spelling": "reassemble",
+      "part_of_speech": "不明",
+      "meaning": "…を再び集める",
+      "suffix": "-"
+    },
+    {
+      "id": "w83",
+      "family_id": "f64",
+      "spelling": "reassurance",
+      "part_of_speech": "名詞",
+      "meaning": "自信[を取り戻させること],安心",
+      "suffix": "-"
+    },
+    {
+      "id": "w84",
+      "family_id": "f64",
+      "spelling": "reassure",
+      "part_of_speech": "副詞",
+      "meaning": "〈人〉に自信を取り戻させる",
+      "suffix": "-"
+    },
+    {
+      "id": "w85",
+      "family_id": "f65",
+      "spelling": "rebirth",
+      "part_of_speech": "名詞",
+      "meaning": "新しく生まれ変わること,再生 ,  (…の)復活,復興《『of』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w86",
+      "family_id": "f66",
+      "spelling": "reborn",
+      "part_of_speech": "不明",
+      "meaning": "生まれ変わった,再生した",
+      "suffix": "-"
+    },
+    {
+      "id": "w87",
+      "family_id": "f67",
+      "spelling": "rebuff",
+      "part_of_speech": "動詞",
+      "meaning": "そっけない拒絶,ひじ鉄砲 ,  …をはねつける ,  …を阻止する",
+      "suffix": "-"
+    },
+    {
+      "id": "w88",
+      "family_id": "f68",
+      "spelling": "rebuild",
+      "part_of_speech": "動詞",
+      "meaning": "…を再建する,改築する,作り直す・たてなおす",
+      "suffix": "-"
+    },
+    {
+      "id": "w89",
+      "family_id": "f69",
+      "spelling": "rebuke",
+      "part_of_speech": "副詞",
+      "meaning": "(…について)〈人〉を『とがめる』,ひどく叱る《+『名』+『名』(doing)》 ,  非難叱責",
+      "suffix": "-"
+    },
+    {
+      "id": "w90",
+      "family_id": "f70",
+      "spelling": "rebutter",
+      "part_of_speech": "不明",
+      "meaning": "反論者",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w91",
+      "family_id": "f71",
+      "spelling": "recall",
+      "part_of_speech": "動詞",
+      "meaning": "…を『思い出す』,…が思い出される ,  (…から…へ)〈人〉を『呼び戻す』,召還する",
+      "suffix": "-"
+    },
+    {
+      "id": "w92",
+      "family_id": "f72",
+      "spelling": "recant",
+      "part_of_speech": "動詞",
+      "meaning": "〈政見・信仰など〉を公式に取り消す ,  公式に自分の政見(信仰)を消す,転向を声明する",
+      "suffix": "-"
+    },
+    {
+      "id": "w93",
+      "family_id": "f73",
+      "spelling": "recap",
+      "part_of_speech": "動詞",
+      "meaning": "〈古タイヤ〉を補修し再生する(retread) ,  再生タイヤ ,  =recapitulate ,  =recapitulation",
+      "suffix": "-"
+    },
+    {
+      "id": "w94",
+      "family_id": "f74",
+      "spelling": "recapitulate",
+      "part_of_speech": "動詞",
+      "meaning": "…の要点を繰り返す,を要約する(summarize)",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w95",
+      "family_id": "f75",
+      "spelling": "recapture",
+      "part_of_speech": "不明",
+      "meaning": "…を奪い返す,取り戻す ,  …を思い起こす",
+      "suffix": "-"
+    },
+    {
+      "id": "w96",
+      "family_id": "f76",
+      "spelling": "recast",
+      "part_of_speech": "不明",
+      "meaning": "…を鋳造し直す ,  …を作り直す ,  …を配役を変える",
+      "suffix": "-"
+    },
+    {
+      "id": "w97",
+      "family_id": "f77",
+      "spelling": "recite",
+      "part_of_speech": "動詞",
+      "meaning": "(人の前で)…を『暗唱する』,朗読する ,  …を『詳しく話す』,物語る ,  〈事実・名前など〉を列挙する ,  《米》(教室で生徒が)〈勉強した所〉を口頭で発表する",
+      "suffix": "-"
+    },
+    {
+      "id": "w98",
+      "family_id": "f78",
+      "spelling": "reclaim",
+      "part_of_speech": "動詞",
+      "meaning": "(…から)〈土地など〉を造成する《+『名』+『from』+『名』》 ,  (廃物から)〈物〉を再生する《+『名』+『from』+『名』》 ,  (悪などから)〈人〉を改心させる矯正する《+『名』〈人〉+『from』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w99",
+      "family_id": "f79",
+      "spelling": "recollect",
+      "part_of_speech": "形容詞",
+      "meaning": "…を『思い出す』 ,  思い出す ,  …を再び集める ,  〈勇気など〉を奪い起こす ,  〈心など〉を落ち着かせる",
+      "suffix": "-"
+    },
+    {
+      "id": "w100",
+      "family_id": "f79",
+      "spelling": "recollection",
+      "part_of_speech": "名詞",
+      "meaning": "〈U〉(…を)『思い出すこと』,(…の)記憶《+『of』+『名』》 ,  〈C〉(個々の)思い出",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w101",
+      "family_id": "f80",
+      "spelling": "recondition",
+      "part_of_speech": "動詞",
+      "meaning": "…を作り直す",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w102",
+      "family_id": "f81",
+      "spelling": "reconsider",
+      "part_of_speech": "動詞",
+      "meaning": "…を再考する,考え直す",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w103",
+      "family_id": "f81",
+      "spelling": "reconstitute",
+      "part_of_speech": "動詞",
+      "meaning": "…を再構成する,再形成する,復元する",
+      "suffix": "-"
+    },
+    {
+      "id": "w104",
+      "family_id": "f81",
+      "spelling": "reconstruct",
+      "part_of_speech": "動詞",
+      "meaning": "…を再建する,改造(復興,復元)する ,  〈でき事〉を再現する",
+      "suffix": "-"
+    },
+    {
+      "id": "w105",
+      "family_id": "f81",
+      "spelling": "reconstruction",
+      "part_of_speech": "不明",
+      "meaning": "〈U〉再建,改造,復興,復元 ,  〈C〉再建(改造,復元)された物 ,  《the R-》《米》南部諸州の再統合期,再建時代(南北戦争後,法律・諸制度を改正した1865年から1877年までの期間)",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w106",
+      "family_id": "f82",
+      "spelling": "recount",
+      "part_of_speech": "不明",
+      "meaning": "…を詳しく話す",
+      "suffix": "-"
+    },
+    {
+      "id": "w107",
+      "family_id": "f83",
+      "spelling": "recover",
+      "part_of_speech": "動詞",
+      "meaning": "…を再びおおう",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w108",
+      "family_id": "f84",
+      "spelling": "recreate",
+      "part_of_speech": "動詞",
+      "meaning": "…を再び作る,作り直す ,  〈人〉に気晴らしさせる ,  気晴らしをする,レクリエーションをする",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w109",
+      "family_id": "f84",
+      "spelling": "recreation",
+      "part_of_speech": "不明",
+      "meaning": "作り直し",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w110",
+      "family_id": "f85",
+      "spelling": "recycle",
+      "part_of_speech": "動詞",
+      "meaning": "〈廃物など〉を再利用する",
+      "suffix": "-"
+    },
+    {
+      "id": "w111",
+      "family_id": "f86",
+      "spelling": "redecorate",
+      "part_of_speech": "動詞",
+      "meaning": "〈建物の内部〉を改装する ,  改装する",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w112",
+      "family_id": "f87",
+      "spelling": "redeploy",
+      "part_of_speech": "動詞",
+      "meaning": "〈兵隊・社員など〉を再編成(配置替え)する,移動させる",
+      "suffix": "-"
+    },
+    {
+      "id": "w113",
+      "family_id": "f88",
+      "spelling": "redirect",
+      "part_of_speech": "動詞",
+      "meaning": "{動}(ウェブなどで)別のURLに転送する ,  …の方向を変える , 《法》反対尋問後の再尋問を行う ,  〈C〉リダイレクト,転送",
+      "suffix": "-"
+    },
+    {
+      "id": "w114",
+      "family_id": "f89",
+      "spelling": "redistribute",
+      "part_of_speech": "動詞",
+      "meaning": "(別の方法で)…を再分配する",
+      "suffix": "-"
+    },
+    {
+      "id": "w115",
+      "family_id": "f89",
+      "spelling": "redistrict",
+      "part_of_speech": "形容詞",
+      "meaning": "(選挙などのために)〈区域〉を分割(区画)し直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w116",
+      "family_id": "f90",
+      "spelling": "redo",
+      "part_of_speech": "動詞",
+      "meaning": "…を再びする,やり直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w117",
+      "family_id": "f91",
+      "spelling": "redouble",
+      "part_of_speech": "動詞",
+      "meaning": "…を倍にする,強める・倍になる,強まる・繰返す",
+      "suffix": "-"
+    },
+    {
+      "id": "w118",
+      "family_id": "f92",
+      "spelling": "redress",
+      "part_of_speech": "名詞",
+      "meaning": "〈不正・弊害・不均衡など〉を正す ,  正すこと,矯正",
+      "suffix": "-"
+    },
+    {
+      "id": "w119",
+      "family_id": "f93",
+      "spelling": "reecho",
+      "part_of_speech": "動詞",
+      "meaning": "を反響させる ,  〈音が〉反響する",
+      "suffix": "-"
+    },
+    {
+      "id": "w120",
+      "family_id": "f94",
+      "spelling": "reeducate",
+      "part_of_speech": "動詞",
+      "meaning": "〈人〉を再教育する ,  〈人〉に更生のため教える",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w121",
+      "family_id": "f95",
+      "spelling": "reelect",
+      "part_of_speech": "動詞",
+      "meaning": "…を再選する",
+      "suffix": "-"
+    },
+    {
+      "id": "w122",
+      "family_id": "f95",
+      "spelling": "reelection",
+      "part_of_speech": "不明",
+      "meaning": "再選,改選",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w123",
+      "family_id": "f96",
+      "spelling": "reenforce",
+      "part_of_speech": "不明",
+      "meaning": "=reinforce",
+      "suffix": "-"
+    },
+    {
+      "id": "w124",
+      "family_id": "f97",
+      "spelling": "reface",
+      "part_of_speech": "動詞",
+      "meaning": "…に新しい表面をつける,…の表面を新しくする",
+      "suffix": "-"
+    },
+    {
+      "id": "w125",
+      "family_id": "f98",
+      "spelling": "refashion",
+      "part_of_speech": "動詞",
+      "meaning": "〈古い物〉を作り直す,改造する",
+      "suffix": "-"
+    },
+    {
+      "id": "w126",
+      "family_id": "f99",
+      "spelling": "refill",
+      "part_of_speech": "動詞",
+      "meaning": "…を再び満たす,補充する ,  詰めかえ品(スペアインク・かえしんなど)",
+      "suffix": "-"
+    },
+    {
+      "id": "w127",
+      "family_id": "f100",
+      "spelling": "refine",
+      "part_of_speech": "動詞",
+      "meaning": "…を『精製する』,精錬する ,  〈言葉・態度など〉を『洗練する』,上品にする,優雅にする",
+      "suffix": "-"
+    },
+    {
+      "id": "w128",
+      "family_id": "f101",
+      "spelling": "refit",
+      "part_of_speech": "動詞",
+      "meaning": "〈特に,船〉を修復する,再装備する ,  〈特に,船が〉修復される,再装備される ,  (…の)修復,再装備《+『of』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w129",
+      "family_id": "f102",
+      "spelling": "reflex",
+      "part_of_speech": "動詞",
+      "meaning": "反射(刺激に対する無意識の反応) ,  《複数形で》反射的な動き ,  (光などの)反射,反射光",
+      "suffix": "-"
+    },
+    {
+      "id": "w130",
+      "family_id": "f103",
+      "spelling": "refloat",
+      "part_of_speech": "動詞",
+      "meaning": "〈沈んだボート・船〉を再浮上させる ,  再浮上する",
+      "suffix": "-"
+    },
+    {
+      "id": "w131",
+      "family_id": "f104",
+      "spelling": "refoot",
+      "part_of_speech": "形容詞",
+      "meaning": "〈毛糸の靴下など〉の足の部分を編み直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w132",
+      "family_id": "f105",
+      "spelling": "reforest",
+      "part_of_speech": "動詞",
+      "meaning": "〈森〉に再び植林する ,  再植林する",
+      "suffix": "-"
+    },
+    {
+      "id": "w133",
+      "family_id": "f106",
+      "spelling": "reformation",
+      "part_of_speech": "動詞",
+      "meaning": "(政治・制度などの)改善,改正,改革《+『of』+『名』》 ,  改心 ,  《the 『R-』》宗教改革(16‐17世紀に全ヨーロッパに起こったCatholic Churchに対する改革運動",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w134",
+      "family_id": "f107",
+      "spelling": "refresh",
+      "part_of_speech": "動詞",
+      "meaning": "(飲食物・休息などが)〈人〉を『再び元気にする』,〈気分など〉を再びさわやかにする",
+      "suffix": "-"
+    },
+    {
+      "id": "w135",
+      "family_id": "f108",
+      "spelling": "refuel",
+      "part_of_speech": "動詞",
+      "meaning": "…に燃料を補給する ,  燃料を補給される",
+      "suffix": "-"
+    },
+    {
+      "id": "w136",
+      "family_id": "f109",
+      "spelling": "refulgence",
+      "part_of_speech": "不明",
+      "meaning": "輝き,光輝,光彩",
+      "suffix": "-"
+    },
+    {
+      "id": "w137",
+      "family_id": "f109",
+      "spelling": "refulgent",
+      "part_of_speech": "不明",
+      "meaning": "光り輝く",
+      "suffix": "-"
+    },
+    {
+      "id": "w138",
+      "family_id": "f110",
+      "spelling": "refurbish",
+      "part_of_speech": "副詞",
+      "meaning": "〈古びた物〉をぴかぴかにみがき直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w139",
+      "family_id": "f111",
+      "spelling": "refuse",
+      "part_of_speech": "動詞",
+      "meaning": "…を『断る』,拒む ,  拒絶する,断る ,  廃物,くず,ごみ",
+      "suffix": "-"
+    },
+    {
+      "id": "w140",
+      "family_id": "f112",
+      "spelling": "regain",
+      "part_of_speech": "動詞",
+      "meaning": "〈健康・記憶など〉を『取り戻す』,回復する ,  〈場所・状態など〉に立ち帰る,再び着く",
+      "suffix": "-"
+    },
+    {
+      "id": "w141",
+      "family_id": "f113",
+      "spelling": "regenerate",
+      "part_of_speech": "動詞",
+      "meaning": "(精神的・道徳的に)〈人〉を更生させる ,  〈願望など〉をよみがえらせる",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w142",
+      "family_id": "f113",
+      "spelling": "regeneration",
+      "part_of_speech": "不明",
+      "meaning": "更生",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w143",
+      "family_id": "f114",
+      "spelling": "regret",
+      "part_of_speech": "動詞",
+      "meaning": "…を『後悔する』",
+      "suffix": "-"
+    },
+    {
+      "id": "w144",
+      "family_id": "f115",
+      "spelling": "regroup",
+      "part_of_speech": "動詞",
+      "meaning": "…を再び集める,再編成する ,  〈人などが〉再び集まる",
+      "suffix": "-"
+    },
+    {
+      "id": "w145",
+      "family_id": "f116",
+      "spelling": "rehash",
+      "part_of_speech": "不明",
+      "meaning": "〈古い材料〉を焼き直す ,  焼き直し",
+      "suffix": "-"
+    },
+    {
+      "id": "w146",
+      "family_id": "f117",
+      "spelling": "rehear",
+      "part_of_speech": "動詞",
+      "meaning": "(裁判で)…を再審理する",
+      "suffix": "-"
+    },
+    {
+      "id": "w147",
+      "family_id": "f118",
+      "spelling": "rehouse",
+      "part_of_speech": "副詞",
+      "meaning": "〈人〉を新しい家に住まわせる,よい住居に移す",
+      "suffix": "-"
+    },
+    {
+      "id": "w148",
+      "family_id": "f119",
+      "spelling": "reimburse",
+      "part_of_speech": "動詞",
+      "meaning": "(損害に応じて)〈人〉に弁償する《+『名』〈人〉+『for』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w149",
+      "family_id": "f120",
+      "spelling": "reincarnate",
+      "part_of_speech": "副詞",
+      "meaning": "(…として)〈新しい肉体〉に生まれ変わらせる《+『as』+『名』》",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w150",
+      "family_id": "f121",
+      "spelling": "reflate",
+      "part_of_speech": "動詞",
+      "meaning": "〈通貨〉を再膨張させる ,  〈通貨〉が再膨張する",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w151",
+      "family_id": "f122",
+      "spelling": "reinforce",
+      "part_of_speech": "動詞",
+      "meaning": "…を増強する,補強する ,  …に増援する,援兵を送る",
+      "suffix": "-"
+    },
+    {
+      "id": "w152",
+      "family_id": "f123",
+      "spelling": "reinstate",
+      "part_of_speech": "形容詞",
+      "meaning": "(元の状態・地位などに)…を戻す《+『名』+『in』+『名』》",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w153",
+      "family_id": "f124",
+      "spelling": "reinsure",
+      "part_of_speech": "動詞",
+      "meaning": "…を再保証する ,  …に再保険をかける",
+      "suffix": "-"
+    },
+    {
+      "id": "w154",
+      "family_id": "f125",
+      "spelling": "reissue",
+      "part_of_speech": "動詞",
+      "meaning": "…を再発行する ,  再発行物,(特に)再版,再刊",
+      "suffix": "-"
+    },
+    {
+      "id": "w155",
+      "family_id": "f126",
+      "spelling": "reiteration",
+      "part_of_speech": "不明",
+      "meaning": "繰り返し,反復(repetition)",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w156",
+      "family_id": "f127",
+      "spelling": "rejuvenate",
+      "part_of_speech": "副詞",
+      "meaning": "〈人〉を若返らせる,に元気を取り戻させる ,  若返る,元気を取り戻す",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w157",
+      "family_id": "f128",
+      "spelling": "rejoin",
+      "part_of_speech": "動詞",
+      "meaning": "〈仲間・団体〉に再び加わる,復帰する ,  …を再び結合させる ,  …と答える,答弁する(reply) ,  答える",
+      "suffix": "-"
+    },
+    {
+      "id": "w158",
+      "family_id": "f129",
+      "spelling": "rekindle",
+      "part_of_speech": "形容詞",
+      "meaning": "〈火〉を再び起こす",
+      "suffix": "-"
+    },
+    {
+      "id": "w159",
+      "family_id": "f130",
+      "spelling": "relax",
+      "part_of_speech": "動詞",
+      "meaning": "〈緊張・力など〉を『ゆるめる』,和らげる(loosen) ,  〈規則など〉を緩和する ,  〈人〉を楽にさせる,くつろがせる ,  〈緊張・力などが〉『ゆるむ』,和らぐ",
+      "suffix": "-"
+    },
+    {
+      "id": "w160",
+      "family_id": "f131",
+      "spelling": "relay",
+      "part_of_speech": "動詞",
+      "meaning": "(駅馬車などの)替え馬,継ぎ馬 ,  (仕事の)交代,交代班 ,  《話》=relay race ,  (放送の)中継",
+      "suffix": "-"
+    },
+    {
+      "id": "w161",
+      "family_id": "f132",
+      "spelling": "release",
+      "part_of_speech": "動詞",
+      "meaning": "(束縛・義務などから)〈人・動物など〉を『自由にする』,解放する《+『名』+『from』+『名』》 ,  〈矢など〉を放つ,〈爆弾〉を投下する",
+      "suffix": "-"
+    },
+    {
+      "id": "w162",
+      "family_id": "f133",
+      "spelling": "reline",
+      "part_of_speech": "形容詞",
+      "meaning": "〈コートなど〉に裏を付け直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w163",
+      "family_id": "f134",
+      "spelling": "relive",
+      "part_of_speech": "動詞",
+      "meaning": "(想像の中で)〈過去など〉を追体験する,思い起こす",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w164",
+      "family_id": "f135",
+      "spelling": "reload",
+      "part_of_speech": "副詞",
+      "meaning": "〈鉄砲〉に弾丸を込め直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w165",
+      "family_id": "f136",
+      "spelling": "relocate",
+      "part_of_speech": "動詞",
+      "meaning": "〈人・物〉を移す",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w166",
+      "family_id": "f136",
+      "spelling": "relocation",
+      "part_of_speech": "不明",
+      "meaning": "移動,配置転換",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w167",
+      "family_id": "f137",
+      "spelling": "remake",
+      "part_of_speech": "動詞",
+      "meaning": "〈特に映画〉を再び作る(make again),改造する ,  再び(新しく)作り直されたもの",
+      "suffix": "-"
+    },
+    {
+      "id": "w168",
+      "family_id": "f138",
+      "spelling": "remark",
+      "part_of_speech": "名詞",
+      "meaning": "〈C〉(…についての)『簡単な発言』(『感想』),所感《+『on』(『about』)+『名』》 ,  〈U〉《文》注目,観察 ,  《『remark』+『that節』》〈…である〉と『言う』,意見(感想)を述べる ,  …に『気付く』(notice) ,  (…について)『言う』,感想を述べる《+『on』(『upon』)+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w169",
+      "family_id": "f139",
+      "spelling": "remarry",
+      "part_of_speech": "動詞",
+      "meaning": "〈前の夫または妻〉と再婚する ,  再婚する ,  (離婚後)〈男女が〉同じ相手と再婚する",
+      "suffix": "-"
+    },
+    {
+      "id": "w170",
+      "family_id": "f140",
+      "spelling": "remember",
+      "part_of_speech": "動詞",
+      "meaning": "…を『思い出す』 ,  …を『覚えている』,記憶している ,  〈人〉に贈り物をする,心づけをする ,  《話》(…に)〈人〉からよろしくと伝言する《+『名』〈人〉+『to』+『名』》 ,  覚えている,記憶している",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w171",
+      "family_id": "f141",
+      "spelling": "remind",
+      "part_of_speech": "副詞",
+      "meaning": "〈人〉に『思い出させる』,念を押す",
+      "suffix": "-"
+    },
+    {
+      "id": "w172",
+      "family_id": "f142",
+      "spelling": "remission",
+      "part_of_speech": "形容詞",
+      "meaning": "〈U〉(罪からの)赦免《+『from』+『名』》 ,  〈U〉〈C〉(借金・義務からの)免除《+『of』+『名』》 ,  〈U〉(苦痛・病気などの一時的な)軽減,和らぎ",
+      "suffix": "-sion (名詞化)"
+    },
+    {
+      "id": "w173",
+      "family_id": "f143",
+      "spelling": "remodel",
+      "part_of_speech": "動詞",
+      "meaning": "…を作り直す,改造する,…の型を直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w174",
+      "family_id": "f144",
+      "spelling": "remount",
+      "part_of_speech": "動詞",
+      "meaning": "…に再び乗る,再び登る ,  〈軍隊など〉に新馬を供給する,新馬を入れる ,  〈絵・写真など〉を新しい厚紙に貼りかえる ,  再び馬(自転車など)に乗る ,  新馬,補充馬",
+      "suffix": "-"
+    },
+    {
+      "id": "w175",
+      "family_id": "f145",
+      "spelling": "remove",
+      "part_of_speech": "動詞",
+      "meaning": "(…から)…を『取り去る』,持ち去る《+『名』+『from』+『名』》 ,  (…へ)…を『移す』,移転させる《+『名』+『to』+『名』》 ,  (…から)〈人〉を解任する,追い出す《+『名』+『from』+『名』》 ,  (…へ)移る,移転する《+『to』+『名』》 ,  (…との)距離,隔り《+『from』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w176",
+      "family_id": "f146",
+      "spelling": "rename",
+      "part_of_speech": "副詞",
+      "meaning": "…の名を付け替える,に新しい名前を付ける",
+      "suffix": "-"
+    },
+    {
+      "id": "w177",
+      "family_id": "f147",
+      "spelling": "renascent",
+      "part_of_speech": "動詞",
+      "meaning": "復興を示す",
+      "suffix": "-"
+    },
+    {
+      "id": "w178",
+      "family_id": "f148",
+      "spelling": "renew",
+      "part_of_speech": "動詞",
+      "meaning": "…を『新しくする』 ,  〈若さなど〉を取り戻す,回復する ,  …を『再び始める』 ,  …を継続する,更新する,〈契約書など〉を書き替える ,  …を新しいのと取り替える…を補充する",
+      "suffix": "-"
+    },
+    {
+      "id": "w179",
+      "family_id": "f149",
+      "spelling": "reopen",
+      "part_of_speech": "不明",
+      "meaning": "…を再び開ける ,  …を再び始める ,  再び開く,再び始まる",
+      "suffix": "-"
+    },
+    {
+      "id": "w180",
+      "family_id": "f150",
+      "spelling": "repair",
+      "part_of_speech": "動詞",
+      "meaning": "…を『修繕する』,修理する ,  …を『償う』",
+      "suffix": "-"
+    },
+    {
+      "id": "w181",
+      "family_id": "f151",
+      "spelling": "repay",
+      "part_of_speech": "動詞",
+      "meaning": "…を『返す』 ,  (…に対して),〈人〉に『報いる』《+『名』〈人〉+『for』+『名』(doing)》 ,  〈行為〉にお返しをする,答える",
+      "suffix": "-"
+    },
+    {
+      "id": "w182",
+      "family_id": "f152",
+      "spelling": "repayment",
+      "part_of_speech": "不明",
+      "meaning": "返済,返礼 ,  払い戻された物,お返し,報酬",
+      "suffix": "-ment (名詞化)"
+    },
+    {
+      "id": "w183",
+      "family_id": "f153",
+      "spelling": "repetition",
+      "part_of_speech": "動詞",
+      "meaning": "(…を)『繰り返すこと,反復すること』",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w184",
+      "family_id": "f154",
+      "spelling": "repine",
+      "part_of_speech": "副詞",
+      "meaning": "(…に)不満足である,不平を言う,じれる《+『against』(『as』)+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w185",
+      "family_id": "f155",
+      "spelling": "replace",
+      "part_of_speech": "副詞",
+      "meaning": "(…として)…に『取って代わる』《+『名』+『as』+『名』》 ,  (…と)…を取り替える《+『名』+『with』(『by』)+『名』》 ,  …を元の所に置く,戻す",
+      "suffix": "-"
+    },
+    {
+      "id": "w186",
+      "family_id": "f156",
+      "spelling": "replay",
+      "part_of_speech": "動詞",
+      "meaning": "〈レコード・テープ〉を再びかける ,  〈試合〉を再びする ,  再試合する ,  再試合 ,  (テープ・レコードの)再生",
+      "suffix": "-"
+    },
+    {
+      "id": "w187",
+      "family_id": "f157",
+      "spelling": "repoint",
+      "part_of_speech": "副詞",
+      "meaning": "〈壁のれんがの間〉にモルタルを塗り直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w188",
+      "family_id": "f158",
+      "spelling": "repose",
+      "part_of_speech": "動詞",
+      "meaning": "(活動の後などの)『休息』,睡眠 ,  (場所などの)『静けさ』,平隠 ,  (態度などの)冷静さ,沈着 ,  『休息する』",
+      "suffix": "-"
+    },
+    {
+      "id": "w189",
+      "family_id": "f159",
+      "spelling": "repossess",
+      "part_of_speech": "不明",
+      "meaning": "を再び取り戻す ,  〈支払不能の商品〉を引き取る",
+      "suffix": "-"
+    },
+    {
+      "id": "w190",
+      "family_id": "f159",
+      "spelling": "repossession",
+      "part_of_speech": "名詞",
+      "meaning": "所有権を取り戻すこと,再所有",
+      "suffix": "-sion (名詞化)"
+    },
+    {
+      "id": "w191",
+      "family_id": "f160",
+      "spelling": "repot",
+      "part_of_speech": "副詞",
+      "meaning": "〈植物〉を他の植木鉢に植えかえる",
+      "suffix": "-"
+    },
+    {
+      "id": "w192",
+      "family_id": "f161",
+      "spelling": "represent",
+      "part_of_speech": "動詞",
+      "meaning": "〈記号・文字・事物が〉…を『表す』,象徴する ,  (記号・文字・事物によって)…を表す《+『名』+『by』+『名』》 ,  …を『代表する』,の代理をする ,  〈絵画・彫刻などが〉…を描写する,表現する ,  …を(典型)である ,  《『represent』+『名』+『as』(『to』『be』)+『名』(『形』)》(ある性質を持つものとして)…を述べる(describe) ,  …を再び贈る,再び差し出す ,  〈劇など〉を再演する",
+      "suffix": "-"
+    },
+    {
+      "id": "w193",
+      "family_id": "f161",
+      "spelling": "representation",
+      "part_of_speech": "動詞",
+      "meaning": "(…を)『表現(描写)すること』",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w194",
+      "family_id": "f161",
+      "spelling": "repress",
+      "part_of_speech": "動詞",
+      "meaning": "〈暴動など〉を抑圧する,鎮圧する ,  〈感情など〉を抑える ,  〈不安・いやな記憶など〉を抑圧する(意識しないようにすること)",
+      "suffix": "-"
+    },
+    {
+      "id": "w195",
+      "family_id": "f161",
+      "spelling": "repressed",
+      "part_of_speech": "不明",
+      "meaning": "(人が)抑圧されている ,  (感情・欲望が)抑制されている",
+      "suffix": "-"
+    },
+    {
+      "id": "w196",
+      "family_id": "f162",
+      "spelling": "reprint",
+      "part_of_speech": "動詞",
+      "meaning": "…を再び印刷する",
+      "suffix": "-"
+    },
+    {
+      "id": "w197",
+      "family_id": "f163",
+      "spelling": "reproduce",
+      "part_of_speech": "動詞",
+      "meaning": "〈場面など〉を『再現する』,〈音など〉を再生する ,  …を『複製する』,『複写する』 ,  〈動物が〉〈子孫〉を生む,〈植物が〉〈同類〉を繁殖させる ,  〈動植物が〉繁殖する ,  〈芸術作品などが〉複製(再生)できる",
+      "suffix": "-"
+    },
+    {
+      "id": "w198",
+      "family_id": "f163",
+      "spelling": "reproduction",
+      "part_of_speech": "動詞",
+      "meaning": "〈U〉繁殖,生殖[作用] ,  〈U〉(…を)再生(再現)すること",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w199",
+      "family_id": "f163",
+      "spelling": "reproductive",
+      "part_of_speech": "不明",
+      "meaning": "生殖の,繁殖の ,  再生の,再現の",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w200",
+      "family_id": "f164",
+      "spelling": "reproof",
+      "part_of_speech": "名詞",
+      "meaning": "〈U〉しかること,非難 ,  〈C〉叱責(しっせき)(非難)の言葉",
+      "suffix": "-"
+    },
+    {
+      "id": "w201",
+      "family_id": "f165",
+      "spelling": "reprove",
+      "part_of_speech": "動詞",
+      "meaning": "(…の理由で)〈人〉を『非難する』,『しかる』《+『名』+『for』+『名』(do『ing』)》",
+      "suffix": "-"
+    },
+    {
+      "id": "w202",
+      "family_id": "f166",
+      "spelling": "repugnant",
+      "part_of_speech": "形容詞",
+      "meaning": "いやな,いやでたまらない,不快な(offensive)",
+      "suffix": "-"
+    },
+    {
+      "id": "w203",
+      "family_id": "f167",
+      "spelling": "rerun",
+      "part_of_speech": "不明",
+      "meaning": "〈U〉再上映 ,  〈C〉再上映の映画",
+      "suffix": "-"
+    },
+    {
+      "id": "w204",
+      "family_id": "f168",
+      "spelling": "resale",
+      "part_of_speech": "不明",
+      "meaning": "再販,転売",
+      "suffix": "-"
+    },
+    {
+      "id": "w205",
+      "family_id": "f169",
+      "spelling": "research",
+      "part_of_speech": "動詞",
+      "meaning": "(新しい事実などの探究のための,特定の分野の)『研究』,『調査』《+『in』(『into』,『on』)+『名』》 ,  …を研究する,調査する ,  (…を)研究する,調査する《+into(on)+名》",
+      "suffix": "-"
+    },
+    {
+      "id": "w206",
+      "family_id": "f170",
+      "spelling": "reseat",
+      "part_of_speech": "形容詞",
+      "meaning": "〈劇場など〉に新しい席を設ける ,  〈人〉を再び座らせる",
+      "suffix": "-"
+    },
+    {
+      "id": "w207",
+      "family_id": "f171",
+      "spelling": "resemble",
+      "part_of_speech": "形容詞",
+      "meaning": "…に『似ている』,と共通点がある(受動態や進行形にできない)",
+      "suffix": "-"
+    },
+    {
+      "id": "w208",
+      "family_id": "f172",
+      "spelling": "reset",
+      "part_of_speech": "動詞",
+      "meaning": "リセット,初期化 ,  リセットする,…を置き直す,並べ直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w209",
+      "family_id": "f173",
+      "spelling": "resettle",
+      "part_of_speech": "副詞",
+      "meaning": "〈人〉を新しい土地に落ち着かせる ,  新しい土地に落ち着く",
+      "suffix": "-"
+    },
+    {
+      "id": "w210",
+      "family_id": "f174",
+      "spelling": "reshuffle",
+      "part_of_speech": "動詞",
+      "meaning": "〈カード〉を切り直す ,  《話》…を転換する,配置換えする ,  (カードの)切り直し ,  《英話》(組織の)配置換え,人事異動",
+      "suffix": "-"
+    },
+    {
+      "id": "w211",
+      "family_id": "f175",
+      "spelling": "resign",
+      "part_of_speech": "動詞",
+      "meaning": "{動}(自動詞)辞任する,辞職する ,  (他動詞)(職・地位などを)辞退する,放棄する ,  (運命・状況などを)甘受する,受け入れる",
+      "suffix": "-"
+    },
+    {
+      "id": "w212",
+      "family_id": "f176",
+      "spelling": "resole",
+      "part_of_speech": "形容詞",
+      "meaning": "〈靴など〉の底を張り替える",
+      "suffix": "-"
+    },
+    {
+      "id": "w213",
+      "family_id": "f177",
+      "spelling": "resolve",
+      "part_of_speech": "動詞",
+      "meaning": "…を『決心する』,『決意する』 ,  〈問題・疑惑など〉を『解決する』,解明する,解く ,  〈議会などが〉…を議決する,票決する ,  (構成要素に)…を分解する《+『名』+『into』+『名』》 ,  (…を)『決定する』,『決心する』《+『on』(『upon』,『against』)+『名』(do『ing』)》 ,  (…に)『分解する』《+『into』+『名』》 ,  〈U〉《文》強固な意志,不屈 ,  〈C〉決心,決意",
+      "suffix": "-"
+    },
+    {
+      "id": "w214",
+      "family_id": "f178",
+      "spelling": "resort",
+      "part_of_speech": "名詞",
+      "meaning": "《『resort』『to』+『名』(do『ing』)+『for』+『名』》(…に…を)やむを得ず訴える(頼る) ,  《『resort』 『to』+『名』》(…へ)よく行く,しげしげと通う ,  〈C〉『行楽地』,『保養地』 ,  〈C〉(人が)よく集まる場所《+『of』+『名』》 ,  〈C〉頼りになる人(物),頼みの綱 ,  〈U〉(…に)頼ること,訴えること《+『to』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w215",
+      "family_id": "f179",
+      "spelling": "resound",
+      "part_of_speech": "動詞",
+      "meaning": "(音で)〈場所が〉鳴り響く,反響する《+『with』+『名』》 ,  (…に)〈音が〉鳴り響く,〈物が〉大音響を上げる",
+      "suffix": "-"
+    },
+    {
+      "id": "w216",
+      "family_id": "f180",
+      "spelling": "resource",
+      "part_of_speech": "不明",
+      "meaning": "〈C〉《複数形で》(国の)『資源』,物資,資産,財源 ,  〈C〉臨機応変の才,機転 ,  〈C〉(まさかのときの)最後の手段,とっておきの手 ,  〈C〉(…の)源泉,(…を)生み出すもの《+『of』+『名』》 ,  〈C〉退屈しのぎ,気晴らし",
+      "suffix": "-"
+    },
+    {
+      "id": "w217",
+      "family_id": "f181",
+      "spelling": "restage",
+      "part_of_speech": "動詞",
+      "meaning": "〈芝居〉を再上演する",
+      "suffix": "-"
+    },
+    {
+      "id": "w218",
+      "family_id": "f182",
+      "spelling": "restate",
+      "part_of_speech": "不明",
+      "meaning": "…を言い換える",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w219",
+      "family_id": "f183",
+      "spelling": "restock",
+      "part_of_speech": "動詞",
+      "meaning": "(…を)…に補充する,再び仕入れる《+『名』+『with』+『名』》 ,  補充する,再び仕入れる",
+      "suffix": "-"
+    },
+    {
+      "id": "w220",
+      "family_id": "f184",
+      "spelling": "restore",
+      "part_of_speech": "動詞",
+      "meaning": "(元の状態に)…を復活させる,回復させる,復帰させる《+『名』+『to』+『名』》 ,  (元の形に)〈美術品・建物など〉を『修復する』,復元する《+『名』+『to』+『名』》 ,  〈盗品など〉を『返す』,返却する",
+      "suffix": "-"
+    },
+    {
+      "id": "w221",
+      "family_id": "f185",
+      "spelling": "restrain",
+      "part_of_speech": "動詞",
+      "meaning": "〈感情・行動など〉を『抑える』,『抑制する』 ,  (…しないように)〈人〉に『がまんさせる』,をこらえさせる《+『名』〈人〉+『from』+『名』(do『ing』)》 ,  (逮捕・監禁などによって)〈人〉の自由を奪う,を拘束する",
+      "suffix": "-"
+    },
+    {
+      "id": "w222",
+      "family_id": "f186",
+      "spelling": "restructure",
+      "part_of_speech": "形容詞",
+      "meaning": "〈組織・機構など〉を編成し直す,組み立て直す",
+      "suffix": "-"
+    },
+    {
+      "id": "w223",
+      "family_id": "f187",
+      "spelling": "resurface",
+      "part_of_speech": "動詞",
+      "meaning": "…に新しい表面をつける",
+      "suffix": "-"
+    },
+    {
+      "id": "w224",
+      "family_id": "f188",
+      "spelling": "resurgent",
+      "part_of_speech": "動詞",
+      "meaning": "復活する,生き返る",
+      "suffix": "-"
+    },
+    {
+      "id": "w225",
+      "family_id": "f189",
+      "spelling": "retake",
+      "part_of_speech": "動詞",
+      "meaning": "〈戦いで失った地域〉を奪い返す ,  〈写真・映画のシーン〉を再撮影する,取り直す ,  (特に映画・テレビの)再撮影 ,  取り直しのシーン",
+      "suffix": "-"
+    },
+    {
+      "id": "w226",
+      "family_id": "f190",
+      "spelling": "retell",
+      "part_of_speech": "不明",
+      "meaning": "…を再び語る",
+      "suffix": "-"
+    },
+    {
+      "id": "w227",
+      "family_id": "f191",
+      "spelling": "rethink",
+      "part_of_speech": "動詞",
+      "meaning": "…を考え直す,再検討する ,  考え直すこと",
+      "suffix": "-"
+    },
+    {
+      "id": "w228",
+      "family_id": "f192",
+      "spelling": "retire",
+      "part_of_speech": "動詞",
+      "meaning": "(…から)『引退する』,退職する《+『from』+『名』》 ,  就寝する,床につく ,  (…へ)『引きこもる』,退く,立ち去る《+『to』+『名』》 ,  (…から)…を引退(退職)させる《+『名』+『from』+『名』》 ,  (野球で)〈打者〉をアウトにする",
+      "suffix": "-"
+    },
+    {
+      "id": "w229",
+      "family_id": "f193",
+      "spelling": "retraction",
+      "part_of_speech": "形容詞",
+      "meaning": "〈C〉(約束・意見などの)撤回",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w230",
+      "family_id": "f194",
+      "spelling": "retread",
+      "part_of_speech": "副詞",
+      "meaning": "〈古いタイヤ〉に再び踏面(とうめん)をつける ,  (新たに踏面をつけた)再生タイヤ",
+      "suffix": "-"
+    },
+    {
+      "id": "w231",
+      "family_id": "f194",
+      "spelling": "retreat",
+      "part_of_speech": "動詞",
+      "meaning": "(…から…へ)『退却する』,後退する《+『from』+『名』+『to』(『into』)+『名』》 ,  (…から…へ)去る,逃げる《+『from』+『名』+『to』(『into』)+『名』(do『ing』)》 ,  〈U〉〈C〉(…から…へ)『退却すること』,退散《+『from』+『名』+『to』+『名』》 ,  〈U〉《the ~》退却の合図 ,  〈C〉(…からの)隠退所,避難所《+『from』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w232",
+      "family_id": "f195",
+      "spelling": "retrench",
+      "part_of_speech": "動詞",
+      "meaning": "〈費用など〉を切り詰める ,  …を削除する,取り除く ,  節約する",
+      "suffix": "-"
+    },
+    {
+      "id": "w233",
+      "family_id": "f196",
+      "spelling": "retrial",
+      "part_of_speech": "不明",
+      "meaning": "再試験",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w234",
+      "family_id": "f197",
+      "spelling": "return",
+      "part_of_speech": "動詞",
+      "meaning": "(…から元の場所・状態などに)『帰る』,戻る《+from+名+to+『名』》 ,  再び起こる,再発する ,  (元の持ち主・場所・状態に)…を『返す』,戻す《+『名』+『to』+『名』》 ,  (同じようなやり方で)(…に対して)…を『お返しする』,…でこたえる《+『名』+『for』+『名』》 ,  …を公式に報告する,答申する ,  〈利子・利益など〉を生む,生ずる ,  (国会議員などに)…を選出する ,  《しばしば引用節を従えて》…と言葉を返す,返答する ,  〈C〉(…から…へ)『帰って来ること』,帰還《+『from』+『名』+『to』+『名』》 ,  〈U〉〈C〉(…が)再び起ること(来ること)",
+      "suffix": "-"
+    },
+    {
+      "id": "w235",
+      "family_id": "f198",
+      "spelling": "reunion",
+      "part_of_speech": "動詞",
+      "meaning": "〈U〉再結合すること ,  〈U〉(親しい者たちの)再会,同窓会",
+      "suffix": "-"
+    },
+    {
+      "id": "w236",
+      "family_id": "f199",
+      "spelling": "reunite",
+      "part_of_speech": "動詞",
+      "meaning": "…を再びいっしょにする",
+      "suffix": "-"
+    },
+    {
+      "id": "w237",
+      "family_id": "f200",
+      "spelling": "reuse",
+      "part_of_speech": "動詞",
+      "meaning": "…を再使用する,再生する",
+      "suffix": "-"
+    },
+    {
+      "id": "w238",
+      "family_id": "f201",
+      "spelling": "revalue",
+      "part_of_speech": "動詞",
+      "meaning": "…を再評価する ,  〈通貨〉を切り上げる",
+      "suffix": "-"
+    },
+    {
+      "id": "w239",
+      "family_id": "f202",
+      "spelling": "revamp",
+      "part_of_speech": "動詞",
+      "meaning": "…を改造する,手直しする",
+      "suffix": "-"
+    },
+    {
+      "id": "w240",
+      "family_id": "f203",
+      "spelling": "review",
+      "part_of_speech": "動詞",
+      "meaning": "…を『調べ直す』,再検討する",
+      "suffix": "-"
+    },
+    {
+      "id": "w241",
+      "family_id": "f204",
+      "spelling": "revision",
+      "part_of_speech": "不明",
+      "meaning": "〈C〉(…の)改正(改訂)校閲《+『of』+『名』》 ,  〈C〉改訂版 ,  〈U〉《英》復習(《米》review)",
+      "suffix": "-sion (名詞化)"
+    },
+    {
+      "id": "w242",
+      "family_id": "f205",
+      "spelling": "revivify",
+      "part_of_speech": "不明",
+      "meaning": "…をよみがえらせる,再び元気づける",
+      "suffix": "-ify (動詞化)"
+    },
+    {
+      "id": "w243",
+      "family_id": "f206",
+      "spelling": "rewire",
+      "part_of_speech": "副詞",
+      "meaning": "…に配線し直す・…に再び電報を打つ",
+      "suffix": "-"
+    },
+    {
+      "id": "w244",
+      "family_id": "f207",
+      "spelling": "reword",
+      "part_of_speech": "不明",
+      "meaning": "…を言い直す,書き替える",
+      "suffix": "-"
+    },
+    {
+      "id": "w245",
+      "family_id": "f208",
+      "spelling": "rewrite",
+      "part_of_speech": "副詞",
+      "meaning": "…を『書き直す』 ,  《米》〈記者からの報告〉を新聞記事に書き直す ,  書き直されたもの ,  《米》(書き直された)記事",
+      "suffix": "-"
+    },
+    {
+      "id": "w246",
+      "family_id": "f209",
+      "spelling": "subatomic",
+      "part_of_speech": "形容詞",
+      "meaning": "亜原子の(原子より小さい電子・陽子など)",
+      "suffix": "-"
+    },
+    {
+      "id": "w247",
+      "family_id": "f210",
+      "spelling": "subcommittee",
+      "part_of_speech": "不明",
+      "meaning": "小委員会",
+      "suffix": "-"
+    },
+    {
+      "id": "w248",
+      "family_id": "f211",
+      "spelling": "subcompact",
+      "part_of_speech": "不明",
+      "meaning": "サブコンパクトカー(中型自動車(compact car)より一回り小さい車)",
+      "suffix": "-"
+    },
+    {
+      "id": "w249",
+      "family_id": "f212",
+      "spelling": "subconscious",
+      "part_of_speech": "不明",
+      "meaning": "潜在意識の,意識下の ,  ぼんやり意識している ,  潜在意識",
+      "suffix": "-"
+    },
+    {
+      "id": "w250",
+      "family_id": "f213",
+      "spelling": "subcontinent",
+      "part_of_speech": "形容詞",
+      "meaning": "亜大陸(インド・グリーンランドなど)",
+      "suffix": "-"
+    },
+    {
+      "id": "w251",
+      "family_id": "f213",
+      "spelling": "subcontract",
+      "part_of_speech": "動詞",
+      "meaning": "下請負,下請契約 ,  …の下請契約をする ,  下請契約をする",
+      "suffix": "-"
+    },
+    {
+      "id": "w252",
+      "family_id": "f213",
+      "spelling": "subcontractor",
+      "part_of_speech": "不明",
+      "meaning": "下請人,下請契約者",
+      "suffix": "-or (人・物)"
+    },
+    {
+      "id": "w253",
+      "family_id": "f214",
+      "spelling": "subculture",
+      "part_of_speech": "不明",
+      "meaning": "(同一社会内の)異文化集団",
+      "suffix": "-"
+    },
+    {
+      "id": "w254",
+      "family_id": "f215",
+      "spelling": "subdebutante",
+      "part_of_speech": "形容詞",
+      "meaning": "まだ社交界に出ない少女",
+      "suffix": "-"
+    },
+    {
+      "id": "w255",
+      "family_id": "f216",
+      "spelling": "subdivide",
+      "part_of_speech": "動詞",
+      "meaning": "…を[さらに](…に)細分化する《+名+into+名》 ,  [さらに]分かれる",
+      "suffix": "-"
+    },
+    {
+      "id": "w256",
+      "family_id": "f216",
+      "spelling": "subdivision",
+      "part_of_speech": "不明",
+      "meaning": "[再]区分,細分",
+      "suffix": "-sion (名詞化)"
+    },
+    {
+      "id": "w257",
+      "family_id": "f217",
+      "spelling": "subedit",
+      "part_of_speech": "動詞",
+      "meaning": "{動}《英》(原稿などを)校閲・編集する",
+      "suffix": "-"
+    },
+    {
+      "id": "w258",
+      "family_id": "f217",
+      "spelling": "subeditor",
+      "part_of_speech": "不明",
+      "meaning": "副主筆,編集次長",
+      "suffix": "-or (人・物)"
+    },
+    {
+      "id": "w259",
+      "family_id": "f218",
+      "spelling": "suffix",
+      "part_of_speech": "形容詞",
+      "meaning": "接尾辞(kindness の ‐ness, interpreter の ‐er など) ,  (接尾語として)…を終りに付ける",
+      "suffix": "-"
+    },
+    {
+      "id": "w260",
+      "family_id": "f219",
+      "spelling": "subheading",
+      "part_of_speech": "形容詞",
+      "meaning": "(新聞などの)小見出し",
+      "suffix": "-"
+    },
+    {
+      "id": "w261",
+      "family_id": "f220",
+      "spelling": "subhuman",
+      "part_of_speech": "副詞",
+      "meaning": "人間以下の,(人間よりは)動物に近い ,  人間に近い,類人の",
+      "suffix": "-"
+    },
+    {
+      "id": "w262",
+      "family_id": "f221",
+      "spelling": "subjoin",
+      "part_of_speech": "動詞",
+      "meaning": "〈文など〉を追加する,終わりに付け加える《+名+to+名》",
+      "suffix": "-"
+    },
+    {
+      "id": "w263",
+      "family_id": "f222",
+      "spelling": "sublease",
+      "part_of_speech": "動詞",
+      "meaning": "(家・土地などの)また貸し ,  …をまた貸し(借り)する",
+      "suffix": "-"
+    },
+    {
+      "id": "w264",
+      "family_id": "f223",
+      "spelling": "sublet",
+      "part_of_speech": "動詞",
+      "meaning": "〈家・土地など〉をまた貸しする(sublease) ,  〈請負仕事の一部〉を下請けに出す,下請けさせる",
+      "suffix": "-"
+    },
+    {
+      "id": "w265",
+      "family_id": "f224",
+      "spelling": "subliminal",
+      "part_of_speech": "不明",
+      "meaning": "意識下の,潜在意識の",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w266",
+      "family_id": "f225",
+      "spelling": "sublunary",
+      "part_of_speech": "不明",
+      "meaning": "月下の ,  地球上の,この世の",
+      "suffix": "-"
+    },
+    {
+      "id": "w267",
+      "family_id": "f226",
+      "spelling": "submarine",
+      "part_of_speech": "不明",
+      "meaning": "『潜水艦』 ,  『海面下の』",
+      "suffix": "-"
+    },
+    {
+      "id": "w268",
+      "family_id": "f227",
+      "spelling": "submerge",
+      "part_of_speech": "動詞",
+      "meaning": "…を水中に沈める,浸す ,  …を消し去る,おおい隠す ,  水中にもぐる(没する)",
+      "suffix": "-"
+    },
+    {
+      "id": "w269",
+      "family_id": "f228",
+      "spelling": "submicroscopic",
+      "part_of_speech": "形容詞",
+      "meaning": "(顕微鏡では見えないほど)極微小の",
+      "suffix": "-"
+    },
+    {
+      "id": "w270",
+      "family_id": "f229",
+      "spelling": "subminiature",
+      "part_of_speech": "形容詞",
+      "meaning": "超小型カメラ ,  超小型カメラの ,  (電子装置の部品などが)超小型の",
+      "suffix": "-"
+    },
+    {
+      "id": "w271",
+      "family_id": "f230",
+      "spelling": "submission",
+      "part_of_speech": "形容詞",
+      "meaning": "服従,屈服,降伏 ,  従順 ,  (考慮・決定を求めて書類などの)提出,提示《+of+名》",
+      "suffix": "-sion (名詞化)"
+    },
+    {
+      "id": "w272",
+      "family_id": "f231",
+      "spelling": "subnormal",
+      "part_of_speech": "不明",
+      "meaning": "普通(平均)以下の",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w273",
+      "family_id": "f232",
+      "spelling": "suborbital",
+      "part_of_speech": "形容詞",
+      "meaning": "(人工衛星などが)軌道をはずれた,軌道に乗らない 眼窩下軟骨",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w274",
+      "family_id": "f233",
+      "spelling": "subplot",
+      "part_of_speech": "動詞",
+      "meaning": "わき筋(戯曲・小説などで,中心となる筋に付随する筋)",
+      "suffix": "-"
+    },
+    {
+      "id": "w275",
+      "family_id": "f234",
+      "spelling": "subscript",
+      "part_of_speech": "形容詞",
+      "meaning": "(A2Oの2のような)下つき文字(数字,記号)(inferior) ,  (文字など)下つきの",
+      "suffix": "-"
+    },
+    {
+      "id": "w276",
+      "family_id": "f234",
+      "spelling": "subscription",
+      "part_of_speech": "形容詞",
+      "meaning": "〈U〉(雑誌・切符などの)『予約』",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w277",
+      "family_id": "f235",
+      "spelling": "subsequence",
+      "part_of_speech": "名詞",
+      "meaning": "〈U〉続いていること,続いて起こること ,  〈C〉続き,結果",
+      "suffix": "-"
+    },
+    {
+      "id": "w278",
+      "family_id": "f236",
+      "spelling": "subset",
+      "part_of_speech": "形容詞",
+      "meaning": "(一組・一団などの一部を成す)小さな一組 ,  (数学の集合論で)部分集合",
+      "suffix": "-"
+    },
+    {
+      "id": "w279",
+      "family_id": "f237",
+      "spelling": "subsoil",
+      "part_of_speech": "副詞",
+      "meaning": "心土,底土(地表のすぐ下にある地層)",
+      "suffix": "-"
+    },
+    {
+      "id": "w280",
+      "family_id": "f238",
+      "spelling": "subsonic",
+      "part_of_speech": "不明",
+      "meaning": "亜音速の,音速以下の",
+      "suffix": "-"
+    },
+    {
+      "id": "w281",
+      "family_id": "f239",
+      "spelling": "subspecies",
+      "part_of_speech": "不明",
+      "meaning": "(生物分類学上の)亜種",
+      "suffix": "-"
+    },
+    {
+      "id": "w282",
+      "family_id": "f239",
+      "spelling": "subspecific",
+      "part_of_speech": "不明",
+      "meaning": "亜種の",
+      "suffix": "-"
+    },
+    {
+      "id": "w283",
+      "family_id": "f240",
+      "spelling": "substandard",
+      "part_of_speech": "名詞",
+      "meaning": "標準以下の,規格はずれの ,  (言語が)標準語以下の(俗語,卑語などのこと)",
+      "suffix": "-"
+    },
+    {
+      "id": "w284",
+      "family_id": "f241",
+      "spelling": "substation",
+      "part_of_speech": "不明",
+      "meaning": "変電所",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w285",
+      "family_id": "f242",
+      "spelling": "substratum",
+      "part_of_speech": "不明",
+      "meaning": "土台,根底,基礎 ,  下層[土],基層",
+      "suffix": "-"
+    },
+    {
+      "id": "w286",
+      "family_id": "f243",
+      "spelling": "substructure",
+      "part_of_speech": "不明",
+      "meaning": "(建造物の)基礎,土台",
+      "suffix": "-"
+    },
+    {
+      "id": "w287",
+      "family_id": "f244",
+      "spelling": "subteen",
+      "part_of_speech": "副詞",
+      "meaning": "10歳代(teenager)に近づいた子供,思春期間近の子供",
+      "suffix": "-"
+    },
+    {
+      "id": "w288",
+      "family_id": "f245",
+      "spelling": "subtenant",
+      "part_of_speech": "形容詞",
+      "meaning": "(家・土地などの)また借り人,転借人",
+      "suffix": "-"
+    },
+    {
+      "id": "w289",
+      "family_id": "f246",
+      "spelling": "subtitle",
+      "part_of_speech": "形容詞",
+      "meaning": "(書物などの)副表題 ,  《複数形で》(映画の)説明字幕",
+      "suffix": "-"
+    },
+    {
+      "id": "w290",
+      "family_id": "f247",
+      "spelling": "subtotal",
+      "part_of_speech": "不明",
+      "meaning": "小計",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w291",
+      "family_id": "f248",
+      "spelling": "subtropical",
+      "part_of_speech": "不明",
+      "meaning": "亜熱帯の",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w292",
+      "family_id": "f249",
+      "spelling": "suburban",
+      "part_of_speech": "形容詞",
+      "meaning": "郊外の ,  郊外じみた,やぼったい,偏狭な",
+      "suffix": "-"
+    },
+    {
+      "id": "w293",
+      "family_id": "f250",
+      "spelling": "subversion",
+      "part_of_speech": "不明",
+      "meaning": "転覆,打倒,破壊",
+      "suffix": "-sion (名詞化)"
+    },
+    {
+      "id": "w294",
+      "family_id": "f251",
+      "spelling": "subway",
+      "part_of_speech": "不明",
+      "meaning": "《米》『地下鉄』(《英》underground, tube) ,  地下道(underpass)",
+      "suffix": "-"
+    },
+    {
+      "id": "w295",
+      "family_id": "f252",
+      "spelling": "subzero",
+      "part_of_speech": "副詞",
+      "meaning": "(特に)華氏零度以下の,氷点下の",
+      "suffix": "-"
+    }
+  ]
 }
