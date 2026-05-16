@@ -44,9 +44,6 @@ def main():
     selected_ety_label = st.sidebar.selectbox("語源を選択してください", list(ety_options.keys()))
     selected_ety = ety_options[selected_ety_label]
 
-    st.sidebar.markdown("---")
-    st.sidebar.info("💡 **学習のヒント**\n\n語源を理解することで、初めて見る単語の意味も推測しやすくなります。")
-
     # --- メインエリアのUI構築 ---
     # 1. 選択された語源のハイライト表示
     st.title(f"🔍 {selected_ety['spelling']}")
