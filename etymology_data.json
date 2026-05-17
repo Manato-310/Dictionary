@@ -17,6 +17,24 @@
       "type": "prefix",
       "spelling": "sub-",
       "meaning": "下に、副次的な"
+    },
+    {
+      "id": "e4",
+      "type": "prefix",
+      "spelling": "un-",
+      "meaning": "否定・反対"
+    },
+    {
+      "id": "r1",
+      "type": "root",
+      "spelling": "port",
+      "meaning": "運ぶ"
+    },
+    {
+      "id": "r2",
+      "type": "root",
+      "spelling": "tract",
+      "meaning": "引く"
     }
   ],
   "word_families": [
@@ -24,1513 +42,2809 @@
       "id": "f1",
       "etymology_id": "e1",
       "base_word": "preamplifier",
-      "explanation": "「pre-」と「ampl...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + amplifier(?)"
     },
     {
       "id": "f2",
       "etymology_id": "e1",
       "base_word": "prearrange",
-      "explanation": "「pre-」と「arra...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + arrange(?)"
     },
     {
       "id": "f3",
       "etymology_id": "e1",
       "base_word": "prebend",
-      "explanation": "「pre-」と「bend...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + bend(?)"
     },
     {
       "id": "f4",
       "etymology_id": "e1",
       "base_word": "precancerous",
-      "explanation": "「pre-」と「canc...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + cancerous(?)"
     },
     {
       "id": "f5",
       "etymology_id": "e1",
       "base_word": "precarious",
-      "explanation": "「pre-」と「cari...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + carious(?)"
     },
     {
       "id": "f6",
       "etymology_id": "e1",
       "base_word": "precast",
-      "explanation": "「pre-」と「cast...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + cast(?)"
     },
     {
       "id": "f7",
       "etymology_id": "e1",
       "base_word": "precognition",
-      "explanation": "「pre-」と「cogn...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + cognition(?)"
     },
     {
       "id": "f8",
       "etymology_id": "e1",
       "base_word": "preconceive",
-      "explanation": "「pre-」と「conc...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + conceive(?)"
     },
     {
       "id": "f9",
       "etymology_id": "e1",
       "base_word": "precondition",
-      "explanation": "「pre-」と「cond...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + condition(?)"
     },
     {
       "id": "f10",
       "etymology_id": "e1",
       "base_word": "precursor",
-      "explanation": "「pre-」と「curs...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + cursor(?)"
     },
     {
       "id": "f11",
       "etymology_id": "e1",
       "base_word": "predate",
-      "explanation": "「pre-」と「date...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + date(?)"
     },
     {
       "id": "f12",
       "etymology_id": "e1",
       "base_word": "predecease",
-      "explanation": "「pre-」と「dece...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + decease(?)"
     },
     {
       "id": "f13",
       "etymology_id": "e1",
       "base_word": "predestinate",
-      "explanation": "「pre-」と「dest...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + destinate(?)"
     },
     {
       "id": "f14",
       "etymology_id": "e1",
       "base_word": "predetermination",
-      "explanation": "「pre-」と「dete...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + determination(?)"
     },
     {
       "id": "f15",
       "etymology_id": "e1",
       "base_word": "predigest",
-      "explanation": "「pre-」と「dige...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + digest(?)"
     },
     {
       "id": "f16",
       "etymology_id": "e1",
       "base_word": "predisposition",
-      "explanation": "「pre-」と「disp...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + disposition(?)"
     },
     {
       "id": "f17",
       "etymology_id": "e1",
       "base_word": "predominance",
-      "explanation": "「pre-」と「domi...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + dominance(?)"
     },
     {
       "id": "f18",
       "etymology_id": "e1",
       "base_word": "preexist",
-      "explanation": "「pre-」と「exis...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + exist(?)"
     },
     {
       "id": "f19",
       "etymology_id": "e1",
       "base_word": "prefabricate",
-      "explanation": "「pre-」と「fabr...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + fabricate(?)"
     },
     {
       "id": "f20",
       "etymology_id": "e1",
       "base_word": "preferment",
-      "explanation": "「pre-」と「ferm...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + ferment(?)"
     },
     {
       "id": "f21",
       "etymology_id": "e1",
       "base_word": "prefix",
-      "explanation": "「pre-」と「fix...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + fix(?)"
     },
     {
       "id": "f22",
       "etymology_id": "e1",
       "base_word": "preheat",
-      "explanation": "「pre-」と「heat...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + heat(?)"
     },
     {
       "id": "f23",
       "etymology_id": "e1",
       "base_word": "prehistory",
-      "explanation": "「pre-」と「hist...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + history(?)"
     },
     {
       "id": "f24",
       "etymology_id": "e1",
       "base_word": "preliterate",
-      "explanation": "「pre-」と「lite...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + literate(?)"
     },
     {
       "id": "f25",
       "etymology_id": "e1",
       "base_word": "premarital",
-      "explanation": "「pre-」と「mari...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + marital(?)"
     },
     {
       "id": "f26",
       "etymology_id": "e1",
       "base_word": "premature",
-      "explanation": "「pre-」と「matu...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + mature(?)"
     },
     {
       "id": "f27",
       "etymology_id": "e1",
       "base_word": "premedic",
-      "explanation": "「pre-」と「medi...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + medic(?)"
     },
     {
       "id": "f28",
       "etymology_id": "e1",
       "base_word": "premolar",
-      "explanation": "「pre-」と「mola...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + molar(?)"
     },
     {
       "id": "f29",
       "etymology_id": "e1",
       "base_word": "prenatal",
-      "explanation": "「pre-」と「nata...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + natal(?)"
     },
     {
       "id": "f30",
       "etymology_id": "e1",
       "base_word": "preoccupation",
-      "explanation": "「pre-」と「occu...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + occupation(?)"
     },
     {
       "id": "f31",
       "etymology_id": "e1",
       "base_word": "preoperative",
-      "explanation": "「pre-」と「oper...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + operative(?)"
     },
     {
       "id": "f32",
       "etymology_id": "e1",
       "base_word": "preordain",
-      "explanation": "「pre-」と「orda...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + ordain(?)"
     },
     {
       "id": "f33",
       "etymology_id": "e1",
       "base_word": "prepack",
-      "explanation": "「pre-」と「pack...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + pack(?)"
     },
     {
       "id": "f34",
       "etymology_id": "e1",
       "base_word": "prepay",
-      "explanation": "「pre-」と「pay...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + pay(?)"
     },
     {
       "id": "f35",
       "etymology_id": "e1",
       "base_word": "preposition",
-      "explanation": "「pre-」と「posi...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + position(?)"
     },
     {
       "id": "f36",
       "etymology_id": "e1",
       "base_word": "prepossess",
-      "explanation": "「pre-」と「poss...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + possess(?)"
     },
     {
       "id": "f37",
       "etymology_id": "e1",
       "base_word": "prefect",
-      "explanation": "「pre-」と「fect...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + fect(?)"
     },
     {
       "id": "f38",
       "etymology_id": "e1",
       "base_word": "prerecord",
-      "explanation": "「pre-」と「reco...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + record(?)"
     },
     {
       "id": "f39",
       "etymology_id": "e1",
       "base_word": "prerequisite",
-      "explanation": "「pre-」と「requ...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + requisite(?)"
     },
     {
       "id": "f40",
       "etymology_id": "e1",
       "base_word": "preschool",
-      "explanation": "「pre-」と「scho...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + school(?)"
     },
     {
       "id": "f41",
       "etymology_id": "e1",
       "base_word": "prescient",
-      "explanation": "「pre-」と「scie...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + scient(?)"
     },
     {
       "id": "f42",
       "etymology_id": "e1",
       "base_word": "presentiment",
-      "explanation": "「pre-」と「sent...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + sentiment(?)"
     },
     {
       "id": "f43",
       "etymology_id": "e1",
       "base_word": "preset",
-      "explanation": "「pre-」と「set...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + set(?)"
     },
     {
       "id": "f44",
       "etymology_id": "e1",
       "base_word": "presoak",
-      "explanation": "「pre-」と「soak...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + soak(?)"
     },
     {
       "id": "f45",
       "etymology_id": "e1",
       "base_word": "prestressed",
-      "explanation": "「pre-」と「stre...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + stressed(?)"
     },
     {
       "id": "f46",
       "etymology_id": "e1",
       "base_word": "preteen",
-      "explanation": "「pre-」と「teen...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + teen(?)"
     },
     {
       "id": "f47",
       "etymology_id": "e1",
       "base_word": "pretender",
-      "explanation": "「pre-」と「tend...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + tender(?)"
     },
     {
       "id": "f48",
       "etymology_id": "e1",
       "base_word": "pretension",
-      "explanation": "「pre-」と「tens...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + tension(?)"
     },
     {
       "id": "f49",
       "etymology_id": "e1",
       "base_word": "pretest",
-      "explanation": "「pre-」と「test...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + test(?)"
     },
     {
       "id": "f50",
       "etymology_id": "e1",
       "base_word": "prevalent",
-      "explanation": "「pre-」と「vale...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + valent(?)"
     },
     {
       "id": "f51",
       "etymology_id": "e1",
       "base_word": "prewar",
-      "explanation": "「pre-」と「war...」から成る単語"
+      "explanation": "pre(前に、あらかじめ) + war(?)"
     },
     {
       "id": "f52",
       "etymology_id": "e2",
       "base_word": "react",
-      "explanation": "「re-」と「act...」から成る単語"
+      "explanation": "re(再び、後ろに) + act(?)"
     },
     {
       "id": "f53",
       "etymology_id": "e2",
       "base_word": "reactivate",
-      "explanation": "「re-」と「acti...」から成る単語"
+      "explanation": "re(再び、後ろに) + activate(?)"
     },
     {
       "id": "f54",
       "etymology_id": "e2",
       "base_word": "readjust",
-      "explanation": "「re-」と「adju...」から成る単語"
+      "explanation": "re(再び、後ろに) + adjust(?)"
     },
     {
       "id": "f55",
       "etymology_id": "e2",
       "base_word": "realign",
-      "explanation": "「re-」と「alig...」から成る単語"
+      "explanation": "re(再び、後ろに) + align(?)"
     },
     {
       "id": "f56",
       "etymology_id": "e2",
       "base_word": "really",
-      "explanation": "「re-」と「ally...」から成る単語"
+      "explanation": "re(再び、後ろに) + ally(?)"
     },
     {
       "id": "f57",
       "etymology_id": "e2",
       "base_word": "reanimate",
-      "explanation": "「re-」と「anim...」から成る単語"
+      "explanation": "re(再び、後ろに) + animate(?)"
     },
     {
       "id": "f58",
       "etymology_id": "e2",
       "base_word": "reappear",
-      "explanation": "「re-」と「appe...」から成る単語"
+      "explanation": "re(再び、後ろに) + appear(?)"
     },
     {
       "id": "f59",
       "etymology_id": "e2",
       "base_word": "reappraisal",
-      "explanation": "「re-」と「appr...」から成る単語"
+      "explanation": "re(再び、後ろに) + appraisal(?)"
     },
     {
       "id": "f60",
       "etymology_id": "e2",
       "base_word": "rearm",
-      "explanation": "「re-」と「arm...」から成る単語"
+      "explanation": "re(再び、後ろに) + arm(?)"
     },
     {
       "id": "f61",
       "etymology_id": "e2",
       "base_word": "rearmament",
-      "explanation": "「re-」と「arma...」から成る単語"
+      "explanation": "re(再び、後ろに) + armament(?)"
     },
     {
       "id": "f62",
       "etymology_id": "e2",
       "base_word": "rearrange",
-      "explanation": "「re-」と「arra...」から成る単語"
+      "explanation": "re(再び、後ろに) + arrange(?)"
     },
     {
       "id": "f63",
       "etymology_id": "e2",
       "base_word": "reassemble",
-      "explanation": "「re-」と「asse...」から成る単語"
+      "explanation": "re(再び、後ろに) + assemble(?)"
     },
     {
       "id": "f64",
       "etymology_id": "e2",
       "base_word": "reassurance",
-      "explanation": "「re-」と「assu...」から成る単語"
+      "explanation": "re(再び、後ろに) + assurance(?)"
     },
     {
       "id": "f65",
       "etymology_id": "e2",
       "base_word": "rebirth",
-      "explanation": "「re-」と「birt...」から成る単語"
+      "explanation": "re(再び、後ろに) + birth(?)"
     },
     {
       "id": "f66",
       "etymology_id": "e2",
       "base_word": "reborn",
-      "explanation": "「re-」と「born...」から成る単語"
+      "explanation": "re(再び、後ろに) + born(?)"
     },
     {
       "id": "f67",
       "etymology_id": "e2",
       "base_word": "rebuff",
-      "explanation": "「re-」と「buff...」から成る単語"
+      "explanation": "re(再び、後ろに) + buff(?)"
     },
     {
       "id": "f68",
       "etymology_id": "e2",
       "base_word": "rebuild",
-      "explanation": "「re-」と「buil...」から成る単語"
+      "explanation": "re(再び、後ろに) + build(?)"
     },
     {
       "id": "f69",
       "etymology_id": "e2",
       "base_word": "rebuke",
-      "explanation": "「re-」と「buke...」から成る単語"
+      "explanation": "re(再び、後ろに) + buke(?)"
     },
     {
       "id": "f70",
       "etymology_id": "e2",
       "base_word": "rebutter",
-      "explanation": "「re-」と「butt...」から成る単語"
+      "explanation": "re(再び、後ろに) + butter(?)"
     },
     {
       "id": "f71",
       "etymology_id": "e2",
       "base_word": "recall",
-      "explanation": "「re-」と「call...」から成る単語"
+      "explanation": "re(再び、後ろに) + call(?)"
     },
     {
       "id": "f72",
       "etymology_id": "e2",
       "base_word": "recant",
-      "explanation": "「re-」と「cant...」から成る単語"
+      "explanation": "re(再び、後ろに) + cant(?)"
     },
     {
       "id": "f73",
       "etymology_id": "e2",
       "base_word": "recap",
-      "explanation": "「re-」と「cap...」から成る単語"
+      "explanation": "re(再び、後ろに) + cap(?)"
     },
     {
       "id": "f74",
       "etymology_id": "e2",
       "base_word": "recapitulate",
-      "explanation": "「re-」と「capi...」から成る単語"
+      "explanation": "re(再び、後ろに) + capitulate(?)"
     },
     {
       "id": "f75",
       "etymology_id": "e2",
       "base_word": "recapture",
-      "explanation": "「re-」と「capt...」から成る単語"
+      "explanation": "re(再び、後ろに) + capture(?)"
     },
     {
       "id": "f76",
       "etymology_id": "e2",
       "base_word": "recast",
-      "explanation": "「re-」と「cast...」から成る単語"
+      "explanation": "re(再び、後ろに) + cast(?)"
     },
     {
       "id": "f77",
       "etymology_id": "e2",
       "base_word": "recite",
-      "explanation": "「re-」と「cite...」から成る単語"
+      "explanation": "re(再び、後ろに) + cite(?)"
     },
     {
       "id": "f78",
       "etymology_id": "e2",
       "base_word": "reclaim",
-      "explanation": "「re-」と「clai...」から成る単語"
+      "explanation": "re(再び、後ろに) + claim(?)"
     },
     {
       "id": "f79",
       "etymology_id": "e2",
       "base_word": "recollect",
-      "explanation": "「re-」と「coll...」から成る単語"
+      "explanation": "re(再び、後ろに) + collect(?)"
     },
     {
       "id": "f80",
       "etymology_id": "e2",
       "base_word": "recondition",
-      "explanation": "「re-」と「cond...」から成る単語"
+      "explanation": "re(再び、後ろに) + condition(?)"
     },
     {
       "id": "f81",
       "etymology_id": "e2",
       "base_word": "reconsider",
-      "explanation": "「re-」と「cons...」から成る単語"
+      "explanation": "re(再び、後ろに) + consider(?)"
     },
     {
       "id": "f82",
       "etymology_id": "e2",
       "base_word": "recount",
-      "explanation": "「re-」と「coun...」から成る単語"
+      "explanation": "re(再び、後ろに) + count(?)"
     },
     {
       "id": "f83",
       "etymology_id": "e2",
       "base_word": "recover",
-      "explanation": "「re-」と「cove...」から成る単語"
+      "explanation": "re(再び、後ろに) + cover(?)"
     },
     {
       "id": "f84",
       "etymology_id": "e2",
       "base_word": "recreate",
-      "explanation": "「re-」と「crea...」から成る単語"
+      "explanation": "re(再び、後ろに) + create(?)"
     },
     {
       "id": "f85",
       "etymology_id": "e2",
       "base_word": "recycle",
-      "explanation": "「re-」と「cycl...」から成る単語"
+      "explanation": "re(再び、後ろに) + cycle(?)"
     },
     {
       "id": "f86",
       "etymology_id": "e2",
       "base_word": "redecorate",
-      "explanation": "「re-」と「deco...」から成る単語"
+      "explanation": "re(再び、後ろに) + decorate(?)"
     },
     {
       "id": "f87",
       "etymology_id": "e2",
       "base_word": "redeploy",
-      "explanation": "「re-」と「depl...」から成る単語"
+      "explanation": "re(再び、後ろに) + deploy(?)"
     },
     {
       "id": "f88",
       "etymology_id": "e2",
       "base_word": "redirect",
-      "explanation": "「re-」と「dire...」から成る単語"
+      "explanation": "re(再び、後ろに) + direct(?)"
     },
     {
       "id": "f89",
       "etymology_id": "e2",
       "base_word": "redistribute",
-      "explanation": "「re-」と「dist...」から成る単語"
+      "explanation": "re(再び、後ろに) + distribute(?)"
     },
     {
       "id": "f90",
       "etymology_id": "e2",
       "base_word": "redo",
-      "explanation": "「re-」と「do...」から成る単語"
+      "explanation": "re(再び、後ろに) + do(?)"
     },
     {
       "id": "f91",
       "etymology_id": "e2",
       "base_word": "redouble",
-      "explanation": "「re-」と「doub...」から成る単語"
+      "explanation": "re(再び、後ろに) + double(?)"
     },
     {
       "id": "f92",
       "etymology_id": "e2",
       "base_word": "redress",
-      "explanation": "「re-」と「dres...」から成る単語"
+      "explanation": "re(再び、後ろに) + dress(?)"
     },
     {
       "id": "f93",
       "etymology_id": "e2",
       "base_word": "reecho",
-      "explanation": "「re-」と「echo...」から成る単語"
+      "explanation": "re(再び、後ろに) + echo(?)"
     },
     {
       "id": "f94",
       "etymology_id": "e2",
       "base_word": "reeducate",
-      "explanation": "「re-」と「educ...」から成る単語"
+      "explanation": "re(再び、後ろに) + educate(?)"
     },
     {
       "id": "f95",
       "etymology_id": "e2",
       "base_word": "reelect",
-      "explanation": "「re-」と「elec...」から成る単語"
+      "explanation": "re(再び、後ろに) + elect(?)"
     },
     {
       "id": "f96",
       "etymology_id": "e2",
       "base_word": "reenforce",
-      "explanation": "「re-」と「enfo...」から成る単語"
+      "explanation": "re(再び、後ろに) + enforce(?)"
     },
     {
       "id": "f97",
       "etymology_id": "e2",
       "base_word": "reface",
-      "explanation": "「re-」と「face...」から成る単語"
+      "explanation": "re(再び、後ろに) + face(?)"
     },
     {
       "id": "f98",
       "etymology_id": "e2",
       "base_word": "refashion",
-      "explanation": "「re-」と「fash...」から成る単語"
+      "explanation": "re(再び、後ろに) + fashion(?)"
     },
     {
       "id": "f99",
       "etymology_id": "e2",
       "base_word": "refill",
-      "explanation": "「re-」と「fill...」から成る単語"
+      "explanation": "re(再び、後ろに) + fill(?)"
     },
     {
       "id": "f100",
       "etymology_id": "e2",
       "base_word": "refine",
-      "explanation": "「re-」と「fine...」から成る単語"
+      "explanation": "re(再び、後ろに) + fine(?)"
     },
     {
       "id": "f101",
       "etymology_id": "e2",
       "base_word": "refit",
-      "explanation": "「re-」と「fit...」から成る単語"
+      "explanation": "re(再び、後ろに) + fit(?)"
     },
     {
       "id": "f102",
       "etymology_id": "e2",
       "base_word": "reflex",
-      "explanation": "「re-」と「flex...」から成る単語"
+      "explanation": "re(再び、後ろに) + flex(?)"
     },
     {
       "id": "f103",
       "etymology_id": "e2",
       "base_word": "refloat",
-      "explanation": "「re-」と「floa...」から成る単語"
+      "explanation": "re(再び、後ろに) + float(?)"
     },
     {
       "id": "f104",
       "etymology_id": "e2",
       "base_word": "refoot",
-      "explanation": "「re-」と「foot...」から成る単語"
+      "explanation": "re(再び、後ろに) + foot(?)"
     },
     {
       "id": "f105",
       "etymology_id": "e2",
       "base_word": "reforest",
-      "explanation": "「re-」と「fore...」から成る単語"
+      "explanation": "re(再び、後ろに) + forest(?)"
     },
     {
       "id": "f106",
       "etymology_id": "e2",
       "base_word": "reformation",
-      "explanation": "「re-」と「form...」から成る単語"
+      "explanation": "re(再び、後ろに) + formation(?)"
     },
     {
       "id": "f107",
       "etymology_id": "e2",
       "base_word": "refresh",
-      "explanation": "「re-」と「fres...」から成る単語"
+      "explanation": "re(再び、後ろに) + fresh(?)"
     },
     {
       "id": "f108",
       "etymology_id": "e2",
       "base_word": "refuel",
-      "explanation": "「re-」と「fuel...」から成る単語"
+      "explanation": "re(再び、後ろに) + fuel(?)"
     },
     {
       "id": "f109",
       "etymology_id": "e2",
       "base_word": "refulgence",
-      "explanation": "「re-」と「fulg...」から成る単語"
+      "explanation": "re(再び、後ろに) + fulgence(?)"
     },
     {
       "id": "f110",
       "etymology_id": "e2",
       "base_word": "refurbish",
-      "explanation": "「re-」と「furb...」から成る単語"
+      "explanation": "re(再び、後ろに) + furbish(?)"
     },
     {
       "id": "f111",
       "etymology_id": "e2",
       "base_word": "refuse",
-      "explanation": "「re-」と「fuse...」から成る単語"
+      "explanation": "re(再び、後ろに) + fuse(?)"
     },
     {
       "id": "f112",
       "etymology_id": "e2",
       "base_word": "regain",
-      "explanation": "「re-」と「gain...」から成る単語"
+      "explanation": "re(再び、後ろに) + gain(?)"
     },
     {
       "id": "f113",
       "etymology_id": "e2",
       "base_word": "regenerate",
-      "explanation": "「re-」と「gene...」から成る単語"
+      "explanation": "re(再び、後ろに) + generate(?)"
     },
     {
       "id": "f114",
       "etymology_id": "e2",
       "base_word": "regret",
-      "explanation": "「re-」と「gret...」から成る単語"
+      "explanation": "re(再び、後ろに) + gret(?)"
     },
     {
       "id": "f115",
       "etymology_id": "e2",
       "base_word": "regroup",
-      "explanation": "「re-」と「grou...」から成る単語"
+      "explanation": "re(再び、後ろに) + group(?)"
     },
     {
       "id": "f116",
       "etymology_id": "e2",
       "base_word": "rehash",
-      "explanation": "「re-」と「hash...」から成る単語"
+      "explanation": "re(再び、後ろに) + hash(?)"
     },
     {
       "id": "f117",
       "etymology_id": "e2",
       "base_word": "rehear",
-      "explanation": "「re-」と「hear...」から成る単語"
+      "explanation": "re(再び、後ろに) + hear(?)"
     },
     {
       "id": "f118",
       "etymology_id": "e2",
       "base_word": "rehouse",
-      "explanation": "「re-」と「hous...」から成る単語"
+      "explanation": "re(再び、後ろに) + house(?)"
     },
     {
       "id": "f119",
       "etymology_id": "e2",
       "base_word": "reimburse",
-      "explanation": "「re-」と「imbu...」から成る単語"
+      "explanation": "re(再び、後ろに) + imburse(?)"
     },
     {
       "id": "f120",
       "etymology_id": "e2",
       "base_word": "reincarnate",
-      "explanation": "「re-」と「inca...」から成る単語"
+      "explanation": "re(再び、後ろに) + incarnate(?)"
     },
     {
       "id": "f121",
       "etymology_id": "e2",
       "base_word": "reflate",
-      "explanation": "「re-」と「flat...」から成る単語"
+      "explanation": "re(再び、後ろに) + flate(?)"
     },
     {
       "id": "f122",
       "etymology_id": "e2",
       "base_word": "reinforce",
-      "explanation": "「re-」と「info...」から成る単語"
+      "explanation": "re(再び、後ろに) + inforce(?)"
     },
     {
       "id": "f123",
       "etymology_id": "e2",
       "base_word": "reinstate",
-      "explanation": "「re-」と「inst...」から成る単語"
+      "explanation": "re(再び、後ろに) + instate(?)"
     },
     {
       "id": "f124",
       "etymology_id": "e2",
       "base_word": "reinsure",
-      "explanation": "「re-」と「insu...」から成る単語"
+      "explanation": "re(再び、後ろに) + insure(?)"
     },
     {
       "id": "f125",
       "etymology_id": "e2",
       "base_word": "reissue",
-      "explanation": "「re-」と「issu...」から成る単語"
+      "explanation": "re(再び、後ろに) + issue(?)"
     },
     {
       "id": "f126",
       "etymology_id": "e2",
       "base_word": "reiteration",
-      "explanation": "「re-」と「iter...」から成る単語"
+      "explanation": "re(再び、後ろに) + iteration(?)"
     },
     {
       "id": "f127",
       "etymology_id": "e2",
       "base_word": "rejuvenate",
-      "explanation": "「re-」と「juve...」から成る単語"
+      "explanation": "re(再び、後ろに) + juvenate(?)"
     },
     {
       "id": "f128",
       "etymology_id": "e2",
       "base_word": "rejoin",
-      "explanation": "「re-」と「join...」から成る単語"
+      "explanation": "re(再び、後ろに) + join(?)"
     },
     {
       "id": "f129",
       "etymology_id": "e2",
       "base_word": "rekindle",
-      "explanation": "「re-」と「kind...」から成る単語"
+      "explanation": "re(再び、後ろに) + kindle(?)"
     },
     {
       "id": "f130",
       "etymology_id": "e2",
       "base_word": "relax",
-      "explanation": "「re-」と「lax...」から成る単語"
+      "explanation": "re(再び、後ろに) + lax(?)"
     },
     {
       "id": "f131",
       "etymology_id": "e2",
       "base_word": "relay",
-      "explanation": "「re-」と「lay...」から成る単語"
+      "explanation": "re(再び、後ろに) + lay(?)"
     },
     {
       "id": "f132",
       "etymology_id": "e2",
       "base_word": "release",
-      "explanation": "「re-」と「leas...」から成る単語"
+      "explanation": "re(再び、後ろに) + lease(?)"
     },
     {
       "id": "f133",
       "etymology_id": "e2",
       "base_word": "reline",
-      "explanation": "「re-」と「line...」から成る単語"
+      "explanation": "re(再び、後ろに) + line(?)"
     },
     {
       "id": "f134",
       "etymology_id": "e2",
       "base_word": "relive",
-      "explanation": "「re-」と「live...」から成る単語"
+      "explanation": "re(再び、後ろに) + live(?)"
     },
     {
       "id": "f135",
       "etymology_id": "e2",
       "base_word": "reload",
-      "explanation": "「re-」と「load...」から成る単語"
+      "explanation": "re(再び、後ろに) + load(?)"
     },
     {
       "id": "f136",
       "etymology_id": "e2",
       "base_word": "relocate",
-      "explanation": "「re-」と「loca...」から成る単語"
+      "explanation": "re(再び、後ろに) + locate(?)"
     },
     {
       "id": "f137",
       "etymology_id": "e2",
       "base_word": "remake",
-      "explanation": "「re-」と「make...」から成る単語"
+      "explanation": "re(再び、後ろに) + make(?)"
     },
     {
       "id": "f138",
       "etymology_id": "e2",
       "base_word": "remark",
-      "explanation": "「re-」と「mark...」から成る単語"
+      "explanation": "re(再び、後ろに) + mark(?)"
     },
     {
       "id": "f139",
       "etymology_id": "e2",
       "base_word": "remarry",
-      "explanation": "「re-」と「marr...」から成る単語"
+      "explanation": "re(再び、後ろに) + marry(?)"
     },
     {
       "id": "f140",
       "etymology_id": "e2",
       "base_word": "remember",
-      "explanation": "「re-」と「memb...」から成る単語"
+      "explanation": "re(再び、後ろに) + member(?)"
     },
     {
       "id": "f141",
       "etymology_id": "e2",
       "base_word": "remind",
-      "explanation": "「re-」と「mind...」から成る単語"
+      "explanation": "re(再び、後ろに) + mind(?)"
     },
     {
       "id": "f142",
       "etymology_id": "e2",
       "base_word": "remission",
-      "explanation": "「re-」と「miss...」から成る単語"
+      "explanation": "re(再び、後ろに) + mission(?)"
     },
     {
       "id": "f143",
       "etymology_id": "e2",
       "base_word": "remodel",
-      "explanation": "「re-」と「mode...」から成る単語"
+      "explanation": "re(再び、後ろに) + model(?)"
     },
     {
       "id": "f144",
       "etymology_id": "e2",
       "base_word": "remount",
-      "explanation": "「re-」と「moun...」から成る単語"
+      "explanation": "re(再び、後ろに) + mount(?)"
     },
     {
       "id": "f145",
       "etymology_id": "e2",
       "base_word": "remove",
-      "explanation": "「re-」と「move...」から成る単語"
+      "explanation": "re(再び、後ろに) + move(?)"
     },
     {
       "id": "f146",
       "etymology_id": "e2",
       "base_word": "rename",
-      "explanation": "「re-」と「name...」から成る単語"
+      "explanation": "re(再び、後ろに) + name(?)"
     },
     {
       "id": "f147",
       "etymology_id": "e2",
       "base_word": "renascent",
-      "explanation": "「re-」と「nasc...」から成る単語"
+      "explanation": "re(再び、後ろに) + nascent(?)"
     },
     {
       "id": "f148",
       "etymology_id": "e2",
       "base_word": "renew",
-      "explanation": "「re-」と「new...」から成る単語"
+      "explanation": "re(再び、後ろに) + new(?)"
     },
     {
       "id": "f149",
       "etymology_id": "e2",
       "base_word": "reopen",
-      "explanation": "「re-」と「open...」から成る単語"
+      "explanation": "re(再び、後ろに) + open(?)"
     },
     {
       "id": "f150",
       "etymology_id": "e2",
       "base_word": "repair",
-      "explanation": "「re-」と「pair...」から成る単語"
+      "explanation": "re(再び、後ろに) + pair(?)"
     },
     {
       "id": "f151",
       "etymology_id": "e2",
       "base_word": "repay",
-      "explanation": "「re-」と「pay...」から成る単語"
+      "explanation": "re(再び、後ろに) + pay(?)"
     },
     {
       "id": "f152",
       "etymology_id": "e2",
       "base_word": "repayment",
-      "explanation": "「re-」と「paym...」から成る単語"
+      "explanation": "re(再び、後ろに) + payment(?)"
     },
     {
       "id": "f153",
       "etymology_id": "e2",
       "base_word": "repetition",
-      "explanation": "「re-」と「peti...」から成る単語"
+      "explanation": "re(再び、後ろに) + petition(?)"
     },
     {
       "id": "f154",
       "etymology_id": "e2",
       "base_word": "repine",
-      "explanation": "「re-」と「pine...」から成る単語"
+      "explanation": "re(再び、後ろに) + pine(?)"
     },
     {
       "id": "f155",
       "etymology_id": "e2",
       "base_word": "replace",
-      "explanation": "「re-」と「plac...」から成る単語"
+      "explanation": "re(再び、後ろに) + place(?)"
     },
     {
       "id": "f156",
       "etymology_id": "e2",
       "base_word": "replay",
-      "explanation": "「re-」と「play...」から成る単語"
+      "explanation": "re(再び、後ろに) + play(?)"
     },
     {
       "id": "f157",
       "etymology_id": "e2",
       "base_word": "repoint",
-      "explanation": "「re-」と「poin...」から成る単語"
+      "explanation": "re(再び、後ろに) + point(?)"
     },
     {
       "id": "f158",
       "etymology_id": "e2",
       "base_word": "repose",
-      "explanation": "「re-」と「pose...」から成る単語"
+      "explanation": "re(再び、後ろに) + pose(?)"
     },
     {
       "id": "f159",
       "etymology_id": "e2",
       "base_word": "repossess",
-      "explanation": "「re-」と「poss...」から成る単語"
+      "explanation": "re(再び、後ろに) + possess(?)"
     },
     {
       "id": "f160",
       "etymology_id": "e2",
       "base_word": "repot",
-      "explanation": "「re-」と「pot...」から成る単語"
+      "explanation": "re(再び、後ろに) + pot(?)"
     },
     {
       "id": "f161",
       "etymology_id": "e2",
       "base_word": "represent",
-      "explanation": "「re-」と「pres...」から成る単語"
+      "explanation": "re(再び、後ろに) + present(?)"
     },
     {
       "id": "f162",
       "etymology_id": "e2",
       "base_word": "reprint",
-      "explanation": "「re-」と「prin...」から成る単語"
+      "explanation": "re(再び、後ろに) + print(?)"
     },
     {
       "id": "f163",
       "etymology_id": "e2",
       "base_word": "reproduce",
-      "explanation": "「re-」と「prod...」から成る単語"
+      "explanation": "re(再び、後ろに) + produce(?)"
     },
     {
       "id": "f164",
       "etymology_id": "e2",
       "base_word": "reproof",
-      "explanation": "「re-」と「proo...」から成る単語"
+      "explanation": "re(再び、後ろに) + proof(?)"
     },
     {
       "id": "f165",
       "etymology_id": "e2",
       "base_word": "reprove",
-      "explanation": "「re-」と「prov...」から成る単語"
+      "explanation": "re(再び、後ろに) + prove(?)"
     },
     {
       "id": "f166",
       "etymology_id": "e2",
       "base_word": "repugnant",
-      "explanation": "「re-」と「pugn...」から成る単語"
+      "explanation": "re(再び、後ろに) + pugnant(?)"
     },
     {
       "id": "f167",
       "etymology_id": "e2",
       "base_word": "rerun",
-      "explanation": "「re-」と「run...」から成る単語"
+      "explanation": "re(再び、後ろに) + run(?)"
     },
     {
       "id": "f168",
       "etymology_id": "e2",
       "base_word": "resale",
-      "explanation": "「re-」と「sale...」から成る単語"
+      "explanation": "re(再び、後ろに) + sale(?)"
     },
     {
       "id": "f169",
       "etymology_id": "e2",
       "base_word": "research",
-      "explanation": "「re-」と「sear...」から成る単語"
+      "explanation": "re(再び、後ろに) + search(?)"
     },
     {
       "id": "f170",
       "etymology_id": "e2",
       "base_word": "reseat",
-      "explanation": "「re-」と「seat...」から成る単語"
+      "explanation": "re(再び、後ろに) + seat(?)"
     },
     {
       "id": "f171",
       "etymology_id": "e2",
       "base_word": "resemble",
-      "explanation": "「re-」と「semb...」から成る単語"
+      "explanation": "re(再び、後ろに) + semble(?)"
     },
     {
       "id": "f172",
       "etymology_id": "e2",
       "base_word": "reset",
-      "explanation": "「re-」と「set...」から成る単語"
+      "explanation": "re(再び、後ろに) + set(?)"
     },
     {
       "id": "f173",
       "etymology_id": "e2",
       "base_word": "resettle",
-      "explanation": "「re-」と「sett...」から成る単語"
+      "explanation": "re(再び、後ろに) + settle(?)"
     },
     {
       "id": "f174",
       "etymology_id": "e2",
       "base_word": "reshuffle",
-      "explanation": "「re-」と「shuf...」から成る単語"
+      "explanation": "re(再び、後ろに) + shuffle(?)"
     },
     {
       "id": "f175",
       "etymology_id": "e2",
       "base_word": "resign",
-      "explanation": "「re-」と「sign...」から成る単語"
+      "explanation": "re(再び、後ろに) + sign(?)"
     },
     {
       "id": "f176",
       "etymology_id": "e2",
       "base_word": "resole",
-      "explanation": "「re-」と「sole...」から成る単語"
+      "explanation": "re(再び、後ろに) + sole(?)"
     },
     {
       "id": "f177",
       "etymology_id": "e2",
       "base_word": "resolve",
-      "explanation": "「re-」と「solv...」から成る単語"
+      "explanation": "re(再び、後ろに) + solve(?)"
     },
     {
       "id": "f178",
       "etymology_id": "e2",
       "base_word": "resort",
-      "explanation": "「re-」と「sort...」から成る単語"
+      "explanation": "re(再び、後ろに) + sort(?)"
     },
     {
       "id": "f179",
       "etymology_id": "e2",
       "base_word": "resound",
-      "explanation": "「re-」と「soun...」から成る単語"
+      "explanation": "re(再び、後ろに) + sound(?)"
     },
     {
       "id": "f180",
       "etymology_id": "e2",
       "base_word": "resource",
-      "explanation": "「re-」と「sour...」から成る単語"
+      "explanation": "re(再び、後ろに) + source(?)"
     },
     {
       "id": "f181",
       "etymology_id": "e2",
       "base_word": "restage",
-      "explanation": "「re-」と「stag...」から成る単語"
+      "explanation": "re(再び、後ろに) + stage(?)"
     },
     {
       "id": "f182",
       "etymology_id": "e2",
       "base_word": "restate",
-      "explanation": "「re-」と「stat...」から成る単語"
+      "explanation": "re(再び、後ろに) + state(?)"
     },
     {
       "id": "f183",
       "etymology_id": "e2",
       "base_word": "restock",
-      "explanation": "「re-」と「stoc...」から成る単語"
+      "explanation": "re(再び、後ろに) + stock(?)"
     },
     {
       "id": "f184",
       "etymology_id": "e2",
       "base_word": "restore",
-      "explanation": "「re-」と「stor...」から成る単語"
+      "explanation": "re(再び、後ろに) + store(?)"
     },
     {
       "id": "f185",
       "etymology_id": "e2",
       "base_word": "restrain",
-      "explanation": "「re-」と「stra...」から成る単語"
+      "explanation": "re(再び、後ろに) + strain(?)"
     },
     {
       "id": "f186",
       "etymology_id": "e2",
       "base_word": "restructure",
-      "explanation": "「re-」と「stru...」から成る単語"
+      "explanation": "re(再び、後ろに) + structure(?)"
     },
     {
       "id": "f187",
       "etymology_id": "e2",
       "base_word": "resurface",
-      "explanation": "「re-」と「surf...」から成る単語"
+      "explanation": "re(再び、後ろに) + surface(?)"
     },
     {
       "id": "f188",
       "etymology_id": "e2",
       "base_word": "resurgent",
-      "explanation": "「re-」と「surg...」から成る単語"
+      "explanation": "re(再び、後ろに) + surgent(?)"
     },
     {
       "id": "f189",
       "etymology_id": "e2",
       "base_word": "retake",
-      "explanation": "「re-」と「take...」から成る単語"
+      "explanation": "re(再び、後ろに) + take(?)"
     },
     {
       "id": "f190",
       "etymology_id": "e2",
       "base_word": "retell",
-      "explanation": "「re-」と「tell...」から成る単語"
+      "explanation": "re(再び、後ろに) + tell(?)"
     },
     {
       "id": "f191",
       "etymology_id": "e2",
       "base_word": "rethink",
-      "explanation": "「re-」と「thin...」から成る単語"
+      "explanation": "re(再び、後ろに) + think(?)"
     },
     {
       "id": "f192",
       "etymology_id": "e2",
       "base_word": "retire",
-      "explanation": "「re-」と「tire...」から成る単語"
+      "explanation": "re(再び、後ろに) + tire(?)"
     },
     {
       "id": "f193",
       "etymology_id": "e2",
       "base_word": "retraction",
-      "explanation": "「re-」と「trac...」から成る単語"
+      "explanation": "re(再び、後ろに) + tract(引く)"
     },
     {
       "id": "f194",
       "etymology_id": "e2",
       "base_word": "retread",
-      "explanation": "「re-」と「trea...」から成る単語"
+      "explanation": "re(再び、後ろに) + tread(?)"
     },
     {
       "id": "f195",
       "etymology_id": "e2",
       "base_word": "retrench",
-      "explanation": "「re-」と「tren...」から成る単語"
+      "explanation": "re(再び、後ろに) + trench(?)"
     },
     {
       "id": "f196",
       "etymology_id": "e2",
       "base_word": "retrial",
-      "explanation": "「re-」と「tria...」から成る単語"
+      "explanation": "re(再び、後ろに) + trial(?)"
     },
     {
       "id": "f197",
       "etymology_id": "e2",
       "base_word": "return",
-      "explanation": "「re-」と「turn...」から成る単語"
+      "explanation": "re(再び、後ろに) + turn(?)"
     },
     {
       "id": "f198",
       "etymology_id": "e2",
       "base_word": "reunion",
-      "explanation": "「re-」と「unio...」から成る単語"
+      "explanation": "re(再び、後ろに) + union(?)"
     },
     {
       "id": "f199",
       "etymology_id": "e2",
       "base_word": "reunite",
-      "explanation": "「re-」と「unit...」から成る単語"
+      "explanation": "re(再び、後ろに) + unite(?)"
     },
     {
       "id": "f200",
       "etymology_id": "e2",
       "base_word": "reuse",
-      "explanation": "「re-」と「use...」から成る単語"
+      "explanation": "re(再び、後ろに) + use(?)"
     },
     {
       "id": "f201",
       "etymology_id": "e2",
       "base_word": "revalue",
-      "explanation": "「re-」と「valu...」から成る単語"
+      "explanation": "re(再び、後ろに) + value(?)"
     },
     {
       "id": "f202",
       "etymology_id": "e2",
       "base_word": "revamp",
-      "explanation": "「re-」と「vamp...」から成る単語"
+      "explanation": "re(再び、後ろに) + vamp(?)"
     },
     {
       "id": "f203",
       "etymology_id": "e2",
       "base_word": "review",
-      "explanation": "「re-」と「view...」から成る単語"
+      "explanation": "re(再び、後ろに) + view(?)"
     },
     {
       "id": "f204",
       "etymology_id": "e2",
       "base_word": "revision",
-      "explanation": "「re-」と「visi...」から成る単語"
+      "explanation": "re(再び、後ろに) + vision(?)"
     },
     {
       "id": "f205",
       "etymology_id": "e2",
       "base_word": "revivify",
-      "explanation": "「re-」と「vivi...」から成る単語"
+      "explanation": "re(再び、後ろに) + vivify(?)"
     },
     {
       "id": "f206",
       "etymology_id": "e2",
       "base_word": "rewire",
-      "explanation": "「re-」と「wire...」から成る単語"
+      "explanation": "re(再び、後ろに) + wire(?)"
     },
     {
       "id": "f207",
       "etymology_id": "e2",
       "base_word": "reword",
-      "explanation": "「re-」と「word...」から成る単語"
+      "explanation": "re(再び、後ろに) + word(?)"
     },
     {
       "id": "f208",
       "etymology_id": "e2",
       "base_word": "rewrite",
-      "explanation": "「re-」と「writ...」から成る単語"
+      "explanation": "re(再び、後ろに) + write(?)"
     },
     {
       "id": "f209",
       "etymology_id": "e3",
       "base_word": "subatomic",
-      "explanation": "「sub-」と「atom...」から成る単語"
+      "explanation": "sub(下に、副次的な) + atomic(?)"
     },
     {
       "id": "f210",
       "etymology_id": "e3",
       "base_word": "subcommittee",
-      "explanation": "「sub-」と「comm...」から成る単語"
+      "explanation": "sub(下に、副次的な) + committee(?)"
     },
     {
       "id": "f211",
       "etymology_id": "e3",
       "base_word": "subcompact",
-      "explanation": "「sub-」と「comp...」から成る単語"
+      "explanation": "sub(下に、副次的な) + compact(?)"
     },
     {
       "id": "f212",
       "etymology_id": "e3",
       "base_word": "subconscious",
-      "explanation": "「sub-」と「cons...」から成る単語"
+      "explanation": "sub(下に、副次的な) + conscious(?)"
     },
     {
       "id": "f213",
       "etymology_id": "e3",
       "base_word": "subcontinent",
-      "explanation": "「sub-」と「cont...」から成る単語"
+      "explanation": "sub(下に、副次的な) + continent(?)"
     },
     {
       "id": "f214",
       "etymology_id": "e3",
       "base_word": "subculture",
-      "explanation": "「sub-」と「cult...」から成る単語"
+      "explanation": "sub(下に、副次的な) + culture(?)"
     },
     {
       "id": "f215",
       "etymology_id": "e3",
       "base_word": "subdebutante",
-      "explanation": "「sub-」と「debu...」から成る単語"
+      "explanation": "sub(下に、副次的な) + debutante(?)"
     },
     {
       "id": "f216",
       "etymology_id": "e3",
       "base_word": "subdivide",
-      "explanation": "「sub-」と「divi...」から成る単語"
+      "explanation": "sub(下に、副次的な) + divide(?)"
     },
     {
       "id": "f217",
       "etymology_id": "e3",
       "base_word": "subedit",
-      "explanation": "「sub-」と「edit...」から成る単語"
+      "explanation": "sub(下に、副次的な) + edit(?)"
     },
     {
       "id": "f218",
       "etymology_id": "e3",
       "base_word": "suffix",
-      "explanation": "「sub-」と「suff...」から成る単語"
+      "explanation": "sub(下に、副次的な) + suffix(?)"
     },
     {
       "id": "f219",
       "etymology_id": "e3",
       "base_word": "subheading",
-      "explanation": "「sub-」と「head...」から成る単語"
+      "explanation": "sub(下に、副次的な) + heading(?)"
     },
     {
       "id": "f220",
       "etymology_id": "e3",
       "base_word": "subhuman",
-      "explanation": "「sub-」と「huma...」から成る単語"
+      "explanation": "sub(下に、副次的な) + human(?)"
     },
     {
       "id": "f221",
       "etymology_id": "e3",
       "base_word": "subjoin",
-      "explanation": "「sub-」と「join...」から成る単語"
+      "explanation": "sub(下に、副次的な) + join(?)"
     },
     {
       "id": "f222",
       "etymology_id": "e3",
       "base_word": "sublease",
-      "explanation": "「sub-」と「leas...」から成る単語"
+      "explanation": "sub(下に、副次的な) + lease(?)"
     },
     {
       "id": "f223",
       "etymology_id": "e3",
       "base_word": "sublet",
-      "explanation": "「sub-」と「let...」から成る単語"
+      "explanation": "sub(下に、副次的な) + let(?)"
     },
     {
       "id": "f224",
       "etymology_id": "e3",
       "base_word": "subliminal",
-      "explanation": "「sub-」と「limi...」から成る単語"
+      "explanation": "sub(下に、副次的な) + liminal(?)"
     },
     {
       "id": "f225",
       "etymology_id": "e3",
       "base_word": "sublunary",
-      "explanation": "「sub-」と「luna...」から成る単語"
+      "explanation": "sub(下に、副次的な) + lunary(?)"
     },
     {
       "id": "f226",
       "etymology_id": "e3",
       "base_word": "submarine",
-      "explanation": "「sub-」と「mari...」から成る単語"
+      "explanation": "sub(下に、副次的な) + marine(?)"
     },
     {
       "id": "f227",
       "etymology_id": "e3",
       "base_word": "submerge",
-      "explanation": "「sub-」と「merg...」から成る単語"
+      "explanation": "sub(下に、副次的な) + merge(?)"
     },
     {
       "id": "f228",
       "etymology_id": "e3",
       "base_word": "submicroscopic",
-      "explanation": "「sub-」と「micr...」から成る単語"
+      "explanation": "sub(下に、副次的な) + microscopic(?)"
     },
     {
       "id": "f229",
       "etymology_id": "e3",
       "base_word": "subminiature",
-      "explanation": "「sub-」と「mini...」から成る単語"
+      "explanation": "sub(下に、副次的な) + miniature(?)"
     },
     {
       "id": "f230",
       "etymology_id": "e3",
       "base_word": "submission",
-      "explanation": "「sub-」と「miss...」から成る単語"
+      "explanation": "sub(下に、副次的な) + mission(?)"
     },
     {
       "id": "f231",
       "etymology_id": "e3",
       "base_word": "subnormal",
-      "explanation": "「sub-」と「norm...」から成る単語"
+      "explanation": "sub(下に、副次的な) + normal(?)"
     },
     {
       "id": "f232",
       "etymology_id": "e3",
       "base_word": "suborbital",
-      "explanation": "「sub-」と「orbi...」から成る単語"
+      "explanation": "sub(下に、副次的な) + orbital(?)"
     },
     {
       "id": "f233",
       "etymology_id": "e3",
       "base_word": "subplot",
-      "explanation": "「sub-」と「plot...」から成る単語"
+      "explanation": "sub(下に、副次的な) + plot(?)"
     },
     {
       "id": "f234",
       "etymology_id": "e3",
       "base_word": "subscript",
-      "explanation": "「sub-」と「scri...」から成る単語"
+      "explanation": "sub(下に、副次的な) + script(?)"
     },
     {
       "id": "f235",
       "etymology_id": "e3",
       "base_word": "subsequence",
-      "explanation": "「sub-」と「sequ...」から成る単語"
+      "explanation": "sub(下に、副次的な) + sequence(?)"
     },
     {
       "id": "f236",
       "etymology_id": "e3",
       "base_word": "subset",
-      "explanation": "「sub-」と「set...」から成る単語"
+      "explanation": "sub(下に、副次的な) + set(?)"
     },
     {
       "id": "f237",
       "etymology_id": "e3",
       "base_word": "subsoil",
-      "explanation": "「sub-」と「soil...」から成る単語"
+      "explanation": "sub(下に、副次的な) + soil(?)"
     },
     {
       "id": "f238",
       "etymology_id": "e3",
       "base_word": "subsonic",
-      "explanation": "「sub-」と「soni...」から成る単語"
+      "explanation": "sub(下に、副次的な) + sonic(?)"
     },
     {
       "id": "f239",
       "etymology_id": "e3",
       "base_word": "subspecies",
-      "explanation": "「sub-」と「spec...」から成る単語"
+      "explanation": "sub(下に、副次的な) + species(?)"
     },
     {
       "id": "f240",
       "etymology_id": "e3",
       "base_word": "substandard",
-      "explanation": "「sub-」と「stan...」から成る単語"
+      "explanation": "sub(下に、副次的な) + standard(?)"
     },
     {
       "id": "f241",
       "etymology_id": "e3",
       "base_word": "substation",
-      "explanation": "「sub-」と「stat...」から成る単語"
+      "explanation": "sub(下に、副次的な) + station(?)"
     },
     {
       "id": "f242",
       "etymology_id": "e3",
       "base_word": "substratum",
-      "explanation": "「sub-」と「stra...」から成る単語"
+      "explanation": "sub(下に、副次的な) + stratum(?)"
     },
     {
       "id": "f243",
       "etymology_id": "e3",
       "base_word": "substructure",
-      "explanation": "「sub-」と「stru...」から成る単語"
+      "explanation": "sub(下に、副次的な) + structure(?)"
     },
     {
       "id": "f244",
       "etymology_id": "e3",
       "base_word": "subteen",
-      "explanation": "「sub-」と「teen...」から成る単語"
+      "explanation": "sub(下に、副次的な) + teen(?)"
     },
     {
       "id": "f245",
       "etymology_id": "e3",
       "base_word": "subtenant",
-      "explanation": "「sub-」と「tena...」から成る単語"
+      "explanation": "sub(下に、副次的な) + tenant(?)"
     },
     {
       "id": "f246",
       "etymology_id": "e3",
       "base_word": "subtitle",
-      "explanation": "「sub-」と「titl...」から成る単語"
+      "explanation": "sub(下に、副次的な) + title(?)"
     },
     {
       "id": "f247",
       "etymology_id": "e3",
       "base_word": "subtotal",
-      "explanation": "「sub-」と「tota...」から成る単語"
+      "explanation": "sub(下に、副次的な) + total(?)"
     },
     {
       "id": "f248",
       "etymology_id": "e3",
       "base_word": "subtropical",
-      "explanation": "「sub-」と「trop...」から成る単語"
+      "explanation": "sub(下に、副次的な) + tropical(?)"
     },
     {
       "id": "f249",
       "etymology_id": "e3",
       "base_word": "suburban",
-      "explanation": "「sub-」と「urba...」から成る単語"
+      "explanation": "sub(下に、副次的な) + urban(?)"
     },
     {
       "id": "f250",
       "etymology_id": "e3",
       "base_word": "subversion",
-      "explanation": "「sub-」と「vers...」から成る単語"
+      "explanation": "sub(下に、副次的な) + version(?)"
     },
     {
       "id": "f251",
       "etymology_id": "e3",
       "base_word": "subway",
-      "explanation": "「sub-」と「way...」から成る単語"
+      "explanation": "sub(下に、副次的な) + way(?)"
     },
     {
       "id": "f252",
       "etymology_id": "e3",
       "base_word": "subzero",
-      "explanation": "「sub-」と「zero...」から成る単語"
+      "explanation": "sub(下に、副次的な) + zero(?)"
+    },
+    {
+      "id": "f253",
+      "etymology_id": "e4",
+      "base_word": "unaccented",
+      "explanation": "un(否定・反対) + accented(?)"
+    },
+    {
+      "id": "f254",
+      "etymology_id": "e4",
+      "base_word": "unaccustomed",
+      "explanation": "un(否定・反対) + accustomed(?)"
+    },
+    {
+      "id": "f255",
+      "etymology_id": "e4",
+      "base_word": "unadvised",
+      "explanation": "un(否定・反対) + advised(?)"
+    },
+    {
+      "id": "f256",
+      "etymology_id": "e4",
+      "base_word": "unalloyed",
+      "explanation": "un(否定・反対) + alloyed(?)"
+    },
+    {
+      "id": "f257",
+      "etymology_id": "e4",
+      "base_word": "unalterable",
+      "explanation": "un(否定・反対) + alterable(?)"
+    },
+    {
+      "id": "f258",
+      "etymology_id": "e4",
+      "base_word": "unattached",
+      "explanation": "un(否定・反対) + attached(?)"
+    },
+    {
+      "id": "f259",
+      "etymology_id": "e4",
+      "base_word": "unattended",
+      "explanation": "un(否定・反対) + attended(?)"
+    },
+    {
+      "id": "f260",
+      "etymology_id": "e4",
+      "base_word": "unavailing",
+      "explanation": "un(否定・反対) + availing(?)"
+    },
+    {
+      "id": "f261",
+      "etymology_id": "e4",
+      "base_word": "unavoidable",
+      "explanation": "un(否定・反対) + avoidable(?)"
+    },
+    {
+      "id": "f262",
+      "etymology_id": "e4",
+      "base_word": "unbalance",
+      "explanation": "un(否定・反対) + balance(?)"
+    },
+    {
+      "id": "f263",
+      "etymology_id": "e4",
+      "base_word": "unbar",
+      "explanation": "un(否定・反対) + bar(?)"
+    },
+    {
+      "id": "f264",
+      "etymology_id": "e4",
+      "base_word": "unbeknown",
+      "explanation": "un(否定・反対) + beknown(?)"
+    },
+    {
+      "id": "f265",
+      "etymology_id": "e4",
+      "base_word": "unbeliever",
+      "explanation": "un(否定・反対) + believer(?)"
+    },
+    {
+      "id": "f266",
+      "etymology_id": "e4",
+      "base_word": "unbend",
+      "explanation": "un(否定・反対) + bend(?)"
+    },
+    {
+      "id": "f267",
+      "etymology_id": "e4",
+      "base_word": "unbidden",
+      "explanation": "un(否定・反対) + bidden(?)"
+    },
+    {
+      "id": "f268",
+      "etymology_id": "e4",
+      "base_word": "unblessed",
+      "explanation": "un(否定・反対) + blessed(?)"
+    },
+    {
+      "id": "f269",
+      "etymology_id": "e4",
+      "base_word": "unblushing",
+      "explanation": "un(否定・反対) + blushing(?)"
+    },
+    {
+      "id": "f270",
+      "etymology_id": "e4",
+      "base_word": "unbosom",
+      "explanation": "un(否定・反対) + bosom(?)"
+    },
+    {
+      "id": "f271",
+      "etymology_id": "e4",
+      "base_word": "unbroken",
+      "explanation": "un(否定・反対) + broken(?)"
+    },
+    {
+      "id": "f272",
+      "etymology_id": "e4",
+      "base_word": "unburden",
+      "explanation": "un(否定・反対) + burden(?)"
+    },
+    {
+      "id": "f273",
+      "etymology_id": "e4",
+      "base_word": "unceasing",
+      "explanation": "un(否定・反対) + ceasing(?)"
+    },
+    {
+      "id": "f274",
+      "etymology_id": "e4",
+      "base_word": "unceremonious",
+      "explanation": "un(否定・反対) + ceremonious(?)"
+    },
+    {
+      "id": "f275",
+      "etymology_id": "e4",
+      "base_word": "unchanging",
+      "explanation": "un(否定・反対) + changing(?)"
+    },
+    {
+      "id": "f276",
+      "etymology_id": "e4",
+      "base_word": "uncharitable",
+      "explanation": "un(否定・反対) + charitable(?)"
+    },
+    {
+      "id": "f277",
+      "etymology_id": "e4",
+      "base_word": "unchaste",
+      "explanation": "un(否定・反対) + chaste(?)"
+    },
+    {
+      "id": "f278",
+      "etymology_id": "e4",
+      "base_word": "unchristian",
+      "explanation": "un(否定・反対) + christian(?)"
+    },
+    {
+      "id": "f279",
+      "etymology_id": "e4",
+      "base_word": "uncivil",
+      "explanation": "un(否定・反対) + civil(?)"
+    },
+    {
+      "id": "f280",
+      "etymology_id": "e4",
+      "base_word": "unclad",
+      "explanation": "un(否定・反対) + clad(?)"
+    },
+    {
+      "id": "f281",
+      "etymology_id": "e4",
+      "base_word": "unclasp",
+      "explanation": "un(否定・反対) + clasp(?)"
+    },
+    {
+      "id": "f282",
+      "etymology_id": "e4",
+      "base_word": "uncleanly",
+      "explanation": "un(否定・反対) + cleanly(?)"
+    },
+    {
+      "id": "f283",
+      "etymology_id": "e4",
+      "base_word": "unclench",
+      "explanation": "un(否定・反対) + clench(?)"
+    },
+    {
+      "id": "f284",
+      "etymology_id": "e4",
+      "base_word": "uncloak",
+      "explanation": "un(否定・反対) + cloak(?)"
+    },
+    {
+      "id": "f285",
+      "etymology_id": "e4",
+      "base_word": "unclog",
+      "explanation": "un(否定・反対) + clog(?)"
+    },
+    {
+      "id": "f286",
+      "etymology_id": "e4",
+      "base_word": "unclose",
+      "explanation": "un(否定・反対) + close(?)"
+    },
+    {
+      "id": "f287",
+      "etymology_id": "e4",
+      "base_word": "unclothe",
+      "explanation": "un(否定・反対) + clothe(?)"
+    },
+    {
+      "id": "f288",
+      "etymology_id": "e4",
+      "base_word": "unclouded",
+      "explanation": "un(否定・反対) + clouded(?)"
+    },
+    {
+      "id": "f289",
+      "etymology_id": "e4",
+      "base_word": "uncommunicative",
+      "explanation": "un(否定・反対) + communicative(?)"
+    },
+    {
+      "id": "f290",
+      "etymology_id": "e4",
+      "base_word": "unconcern",
+      "explanation": "un(否定・反対) + concern(?)"
+    },
+    {
+      "id": "f291",
+      "etymology_id": "e4",
+      "base_word": "unconditioned",
+      "explanation": "un(否定・反対) + conditioned(?)"
+    },
+    {
+      "id": "f292",
+      "etymology_id": "e4",
+      "base_word": "unconnected",
+      "explanation": "un(否定・反対) + connected(?)"
+    },
+    {
+      "id": "f293",
+      "etymology_id": "e4",
+      "base_word": "unconquerable",
+      "explanation": "un(否定・反対) + conquerable(?)"
+    },
+    {
+      "id": "f294",
+      "etymology_id": "e4",
+      "base_word": "unconscionable",
+      "explanation": "un(否定・反対) + conscionable(?)"
+    },
+    {
+      "id": "f295",
+      "etymology_id": "e4",
+      "base_word": "uncork",
+      "explanation": "un(否定・反対) + cork(?)"
+    },
+    {
+      "id": "f296",
+      "etymology_id": "e4",
+      "base_word": "uncouple",
+      "explanation": "un(否定・反対) + couple(?)"
+    },
+    {
+      "id": "f297",
+      "etymology_id": "e4",
+      "base_word": "uncouth",
+      "explanation": "un(否定・反対) + couth(?)"
+    },
+    {
+      "id": "f298",
+      "etymology_id": "e4",
+      "base_word": "uncovered",
+      "explanation": "un(否定・反対) + covered(?)"
+    },
+    {
+      "id": "f299",
+      "etymology_id": "e4",
+      "base_word": "uncross",
+      "explanation": "un(否定・反対) + cross(?)"
+    },
+    {
+      "id": "f300",
+      "etymology_id": "e4",
+      "base_word": "uncrowned",
+      "explanation": "un(否定・反対) + crowned(?)"
+    },
+    {
+      "id": "f301",
+      "etymology_id": "e4",
+      "base_word": "uncrushable",
+      "explanation": "un(否定・反対) + crushable(?)"
+    },
+    {
+      "id": "f302",
+      "etymology_id": "e4",
+      "base_word": "undeceive",
+      "explanation": "un(否定・反対) + deceive(?)"
+    },
+    {
+      "id": "f303",
+      "etymology_id": "e4",
+      "base_word": "undeclared",
+      "explanation": "un(否定・反対) + declared(?)"
+    },
+    {
+      "id": "f304",
+      "etymology_id": "e4",
+      "base_word": "undemonstrative",
+      "explanation": "un(否定・反対) + demonstrative(?)"
+    },
+    {
+      "id": "f305",
+      "etymology_id": "e4",
+      "base_word": "undigested",
+      "explanation": "un(否定・反対) + digested(?)"
+    },
+    {
+      "id": "f306",
+      "etymology_id": "e4",
+      "base_word": "undignified",
+      "explanation": "un(否定・反対) + dignified(?)"
+    },
+    {
+      "id": "f307",
+      "etymology_id": "e4",
+      "base_word": "undischarged",
+      "explanation": "un(否定・反対) + discharged(?)"
+    },
+    {
+      "id": "f308",
+      "etymology_id": "e4",
+      "base_word": "undisguised",
+      "explanation": "un(否定・反対) + disguised(?)"
+    },
+    {
+      "id": "f309",
+      "etymology_id": "e4",
+      "base_word": "undistinguished",
+      "explanation": "un(否定・反対) + distinguished(?)"
+    },
+    {
+      "id": "f310",
+      "etymology_id": "e4",
+      "base_word": "undomesticated",
+      "explanation": "un(否定・反対) + domesticated(?)"
+    },
+    {
+      "id": "f311",
+      "etymology_id": "e4",
+      "base_word": "undone",
+      "explanation": "un(否定・反対) + done(?)"
+    },
+    {
+      "id": "f312",
+      "etymology_id": "e4",
+      "base_word": "undoubted",
+      "explanation": "un(否定・反対) + doubted(?)"
+    },
+    {
+      "id": "f313",
+      "etymology_id": "e4",
+      "base_word": "undue",
+      "explanation": "un(否定・反対) + due(?)"
+    },
+    {
+      "id": "f314",
+      "etymology_id": "e4",
+      "base_word": "unduly",
+      "explanation": "un(否定・反対) + duly(?)"
+    },
+    {
+      "id": "f315",
+      "etymology_id": "e4",
+      "base_word": "undying",
+      "explanation": "un(否定・反対) + dying(?)"
+    },
+    {
+      "id": "f316",
+      "etymology_id": "e4",
+      "base_word": "unearned",
+      "explanation": "un(否定・反対) + earned(?)"
+    },
+    {
+      "id": "f317",
+      "etymology_id": "e4",
+      "base_word": "unearthly",
+      "explanation": "un(否定・反対) + earthly(?)"
+    },
+    {
+      "id": "f318",
+      "etymology_id": "e4",
+      "base_word": "uneconomic",
+      "explanation": "un(否定・反対) + economic(?)"
+    },
+    {
+      "id": "f319",
+      "etymology_id": "e4",
+      "base_word": "unemployable",
+      "explanation": "un(否定・反対) + employable(?)"
+    },
+    {
+      "id": "f320",
+      "etymology_id": "e4",
+      "base_word": "unenlightened",
+      "explanation": "un(否定・反対) + enlightened(?)"
+    },
+    {
+      "id": "f321",
+      "etymology_id": "e4",
+      "base_word": "unenviable",
+      "explanation": "un(否定・反対) + enviable(?)"
+    },
+    {
+      "id": "f322",
+      "etymology_id": "e4",
+      "base_word": "unerring",
+      "explanation": "un(否定・反対) + erring(?)"
+    },
+    {
+      "id": "f323",
+      "etymology_id": "e4",
+      "base_word": "unessential",
+      "explanation": "un(否定・反対) + essential(?)"
+    },
+    {
+      "id": "f324",
+      "etymology_id": "e4",
+      "base_word": "unexampled",
+      "explanation": "un(否定・反対) + exampled(?)"
+    },
+    {
+      "id": "f325",
+      "etymology_id": "e4",
+      "base_word": "unexplained",
+      "explanation": "un(否定・反対) + explained(?)"
+    },
+    {
+      "id": "f326",
+      "etymology_id": "e4",
+      "base_word": "unfailing",
+      "explanation": "un(否定・反対) + failing(?)"
+    },
+    {
+      "id": "f327",
+      "etymology_id": "e4",
+      "base_word": "unfaithful",
+      "explanation": "un(否定・反対) + faithful(?)"
+    },
+    {
+      "id": "f328",
+      "etymology_id": "e4",
+      "base_word": "unfaltering",
+      "explanation": "un(否定・反対) + faltering(?)"
+    },
+    {
+      "id": "f329",
+      "etymology_id": "e4",
+      "base_word": "unfeeling",
+      "explanation": "un(否定・反対) + feeling(?)"
+    },
+    {
+      "id": "f330",
+      "etymology_id": "e4",
+      "base_word": "unfeigned",
+      "explanation": "un(否定・反対) + feigned(?)"
+    },
+    {
+      "id": "f331",
+      "etymology_id": "e4",
+      "base_word": "unflagging",
+      "explanation": "un(否定・反対) + flagging(?)"
+    },
+    {
+      "id": "f332",
+      "etymology_id": "e4",
+      "base_word": "unflinching",
+      "explanation": "un(否定・反対) + flinching(?)"
+    },
+    {
+      "id": "f333",
+      "etymology_id": "e4",
+      "base_word": "unforeseen",
+      "explanation": "un(否定・反対) + foreseen(?)"
+    },
+    {
+      "id": "f334",
+      "etymology_id": "e4",
+      "base_word": "unfurnished",
+      "explanation": "un(否定・反対) + furnished(?)"
+    },
+    {
+      "id": "f335",
+      "etymology_id": "e4",
+      "base_word": "ungainly",
+      "explanation": "un(否定・反対) + gainly(?)"
+    },
+    {
+      "id": "f336",
+      "etymology_id": "e4",
+      "base_word": "ungenerous",
+      "explanation": "un(否定・反対) + generous(?)"
+    },
+    {
+      "id": "f337",
+      "etymology_id": "e4",
+      "base_word": "unglued",
+      "explanation": "un(否定・反対) + glued(?)"
+    },
+    {
+      "id": "f338",
+      "etymology_id": "e4",
+      "base_word": "ungracious",
+      "explanation": "un(否定・反対) + gracious(?)"
+    },
+    {
+      "id": "f339",
+      "etymology_id": "e4",
+      "base_word": "ungrateful",
+      "explanation": "un(否定・反対) + grateful(?)"
+    },
+    {
+      "id": "f340",
+      "etymology_id": "e4",
+      "base_word": "ungrudging",
+      "explanation": "un(否定・反対) + grudging(?)"
+    },
+    {
+      "id": "f341",
+      "etymology_id": "e4",
+      "base_word": "unguarded",
+      "explanation": "un(否定・反対) + guarded(?)"
+    },
+    {
+      "id": "f342",
+      "etymology_id": "e4",
+      "base_word": "unhallowed",
+      "explanation": "un(否定・反対) + hallowed(?)"
+    },
+    {
+      "id": "f343",
+      "etymology_id": "e4",
+      "base_word": "unhand",
+      "explanation": "un(否定・反対) + hand(?)"
+    },
+    {
+      "id": "f344",
+      "etymology_id": "e4",
+      "base_word": "unhappy",
+      "explanation": "un(否定・反対) + happy(?)"
+    },
+    {
+      "id": "f345",
+      "etymology_id": "e4",
+      "base_word": "unharness",
+      "explanation": "un(否定・反対) + harness(?)"
+    },
+    {
+      "id": "f346",
+      "etymology_id": "e4",
+      "base_word": "unheeded",
+      "explanation": "un(否定・反対) + heeded(?)"
+    },
+    {
+      "id": "f347",
+      "etymology_id": "e4",
+      "base_word": "unhinge",
+      "explanation": "un(否定・反対) + hinge(?)"
+    },
+    {
+      "id": "f348",
+      "etymology_id": "e4",
+      "base_word": "unhitch",
+      "explanation": "un(否定・反対) + hitch(?)"
+    },
+    {
+      "id": "f349",
+      "etymology_id": "e4",
+      "base_word": "unhorse",
+      "explanation": "un(否定・反対) + horse(?)"
+    },
+    {
+      "id": "f350",
+      "etymology_id": "e4",
+      "base_word": "unimaginative",
+      "explanation": "un(否定・反対) + imaginative(?)"
+    },
+    {
+      "id": "f351",
+      "etymology_id": "e4",
+      "base_word": "unimportant",
+      "explanation": "un(否定・反対) + port(運ぶ)"
+    },
+    {
+      "id": "f352",
+      "etymology_id": "e4",
+      "base_word": "uninformed",
+      "explanation": "un(否定・反対) + informed(?)"
+    },
+    {
+      "id": "f353",
+      "etymology_id": "e4",
+      "base_word": "uninhabitable",
+      "explanation": "un(否定・反対) + inhabitable(?)"
+    },
+    {
+      "id": "f354",
+      "etymology_id": "e4",
+      "base_word": "uninterrupted",
+      "explanation": "un(否定・反対) + interrupted(?)"
+    },
+    {
+      "id": "f355",
+      "etymology_id": "e4",
+      "base_word": "unkempt",
+      "explanation": "un(否定・反対) + kempt(?)"
+    },
+    {
+      "id": "f356",
+      "etymology_id": "e4",
+      "base_word": "unkindly",
+      "explanation": "un(否定・反対) + kindly(?)"
+    },
+    {
+      "id": "f357",
+      "etymology_id": "e4",
+      "base_word": "unknowing",
+      "explanation": "un(否定・反対) + knowing(?)"
+    },
+    {
+      "id": "f358",
+      "etymology_id": "e4",
+      "base_word": "unlatch",
+      "explanation": "un(否定・反対) + latch(?)"
+    },
+    {
+      "id": "f359",
+      "etymology_id": "e4",
+      "base_word": "unlettered",
+      "explanation": "un(否定・反対) + lettered(?)"
+    },
+    {
+      "id": "f360",
+      "etymology_id": "e4",
+      "base_word": "unlimber",
+      "explanation": "un(否定・反対) + limber(?)"
+    },
+    {
+      "id": "f361",
+      "etymology_id": "e4",
+      "base_word": "unloosen",
+      "explanation": "un(否定・反対) + loosen(?)"
+    },
+    {
+      "id": "f362",
+      "etymology_id": "e4",
+      "base_word": "unman",
+      "explanation": "un(否定・反対) + man(?)"
+    },
+    {
+      "id": "f363",
+      "etymology_id": "e4",
+      "base_word": "unmannerly",
+      "explanation": "un(否定・反対) + mannerly(?)"
+    },
+    {
+      "id": "f364",
+      "etymology_id": "e4",
+      "base_word": "unmask",
+      "explanation": "un(否定・反対) + mask(?)"
+    },
+    {
+      "id": "f365",
+      "etymology_id": "e4",
+      "base_word": "unmeaning",
+      "explanation": "un(否定・反対) + meaning(?)"
+    },
+    {
+      "id": "f366",
+      "etymology_id": "e4",
+      "base_word": "unmeasured",
+      "explanation": "un(否定・反対) + measured(?)"
+    },
+    {
+      "id": "f367",
+      "etymology_id": "e4",
+      "base_word": "unmentionable",
+      "explanation": "un(否定・反対) + mentionable(?)"
+    },
+    {
+      "id": "f368",
+      "etymology_id": "e4",
+      "base_word": "unmerciful",
+      "explanation": "un(否定・反対) + merciful(?)"
+    },
+    {
+      "id": "f369",
+      "etymology_id": "e4",
+      "base_word": "unmindful",
+      "explanation": "un(否定・反対) + mindful(?)"
+    },
+    {
+      "id": "f370",
+      "etymology_id": "e4",
+      "base_word": "unmoral",
+      "explanation": "un(否定・反対) + moral(?)"
+    },
+    {
+      "id": "f371",
+      "etymology_id": "e4",
+      "base_word": "unopened",
+      "explanation": "un(否定・反対) + opened(?)"
+    },
+    {
+      "id": "f372",
+      "etymology_id": "e4",
+      "base_word": "unparliamentary",
+      "explanation": "un(否定・反対) + parliamentary(?)"
+    },
+    {
+      "id": "f373",
+      "etymology_id": "e4",
+      "base_word": "unpin",
+      "explanation": "un(否定・反対) + pin(?)"
+    },
+    {
+      "id": "f374",
+      "etymology_id": "e4",
+      "base_word": "unplaced",
+      "explanation": "un(否定・反対) + placed(?)"
+    },
+    {
+      "id": "f375",
+      "etymology_id": "e4",
+      "base_word": "unplayable",
+      "explanation": "un(否定・反対) + playable(?)"
+    },
+    {
+      "id": "f376",
+      "etymology_id": "e4",
+      "base_word": "unprejudiced",
+      "explanation": "un(否定・反対) + prejudiced(?)"
+    },
+    {
+      "id": "f377",
+      "etymology_id": "e4",
+      "base_word": "unpremeditated",
+      "explanation": "un(否定・反対) + premeditated(?)"
+    },
+    {
+      "id": "f378",
+      "etymology_id": "e4",
+      "base_word": "unprompted",
+      "explanation": "un(否定・反対) + prompted(?)"
+    },
+    {
+      "id": "f379",
+      "etymology_id": "e4",
+      "base_word": "unquestioned",
+      "explanation": "un(否定・反対) + questioned(?)"
+    },
+    {
+      "id": "f380",
+      "etymology_id": "e4",
+      "base_word": "unquiet",
+      "explanation": "un(否定・反対) + quiet(?)"
+    },
+    {
+      "id": "f381",
+      "etymology_id": "e4",
+      "base_word": "unquote",
+      "explanation": "un(否定・反対) + quote(?)"
+    },
+    {
+      "id": "f382",
+      "etymology_id": "e4",
+      "base_word": "unread",
+      "explanation": "un(否定・反対) + read(?)"
+    },
+    {
+      "id": "f383",
+      "etymology_id": "e4",
+      "base_word": "unreasoning",
+      "explanation": "un(否定・反対) + reasoning(?)"
+    },
+    {
+      "id": "f384",
+      "etymology_id": "e4",
+      "base_word": "unregenerate",
+      "explanation": "un(否定・反対) + regenerate(?)"
+    },
+    {
+      "id": "f385",
+      "etymology_id": "e4",
+      "base_word": "unrelenting",
+      "explanation": "un(否定・反対) + relenting(?)"
+    },
+    {
+      "id": "f386",
+      "etymology_id": "e4",
+      "base_word": "unremitting",
+      "explanation": "un(否定・反対) + remitting(?)"
+    },
+    {
+      "id": "f387",
+      "etymology_id": "e4",
+      "base_word": "unreserved",
+      "explanation": "un(否定・反対) + reserved(?)"
+    },
+    {
+      "id": "f388",
+      "etymology_id": "e4",
+      "base_word": "unrip",
+      "explanation": "un(否定・反対) + rip(?)"
+    },
+    {
+      "id": "f389",
+      "etymology_id": "e4",
+      "base_word": "unripe",
+      "explanation": "un(否定・反対) + ripe(?)"
+    },
+    {
+      "id": "f390",
+      "etymology_id": "e4",
+      "base_word": "unroll",
+      "explanation": "un(否定・反対) + roll(?)"
+    },
+    {
+      "id": "f391",
+      "etymology_id": "e4",
+      "base_word": "unruffled",
+      "explanation": "un(否定・反対) + ruffled(?)"
+    },
+    {
+      "id": "f392",
+      "etymology_id": "e4",
+      "base_word": "unsalted",
+      "explanation": "un(否定・反対) + salted(?)"
+    },
+    {
+      "id": "f393",
+      "etymology_id": "e4",
+      "base_word": "unsatisfactory",
+      "explanation": "un(否定・反対) + satisfactory(?)"
+    },
+    {
+      "id": "f394",
+      "etymology_id": "e4",
+      "base_word": "unsaturated",
+      "explanation": "un(否定・反対) + saturated(?)"
+    },
+    {
+      "id": "f395",
+      "etymology_id": "e4",
+      "base_word": "unschooled",
+      "explanation": "un(否定・反対) + schooled(?)"
+    },
+    {
+      "id": "f396",
+      "etymology_id": "e4",
+      "base_word": "unscientific",
+      "explanation": "un(否定・反対) + scientific(?)"
+    },
+    {
+      "id": "f397",
+      "etymology_id": "e4",
+      "base_word": "unscramble",
+      "explanation": "un(否定・反対) + scramble(?)"
+    },
+    {
+      "id": "f398",
+      "etymology_id": "e4",
+      "base_word": "unscrupulous",
+      "explanation": "un(否定・反対) + scrupulous(?)"
+    },
+    {
+      "id": "f399",
+      "etymology_id": "e4",
+      "base_word": "unseasonable",
+      "explanation": "un(否定・反対) + seasonable(?)"
+    },
+    {
+      "id": "f400",
+      "etymology_id": "e4",
+      "base_word": "unseat",
+      "explanation": "un(否定・反対) + seat(?)"
+    },
+    {
+      "id": "f401",
+      "etymology_id": "e4",
+      "base_word": "unseeing",
+      "explanation": "un(否定・反対) + seeing(?)"
+    },
+    {
+      "id": "f402",
+      "etymology_id": "e4",
+      "base_word": "unseen",
+      "explanation": "un(否定・反対) + seen(?)"
+    },
+    {
+      "id": "f403",
+      "etymology_id": "e4",
+      "base_word": "unserviceable",
+      "explanation": "un(否定・反対) + serviceable(?)"
+    },
+    {
+      "id": "f404",
+      "etymology_id": "e4",
+      "base_word": "unsettle",
+      "explanation": "un(否定・反対) + settle(?)"
+    },
+    {
+      "id": "f405",
+      "etymology_id": "e4",
+      "base_word": "unsex",
+      "explanation": "un(否定・反対) + sex(?)"
+    },
+    {
+      "id": "f406",
+      "etymology_id": "e4",
+      "base_word": "unsexed",
+      "explanation": "un(否定・反対) + sexed(?)"
+    },
+    {
+      "id": "f407",
+      "etymology_id": "e4",
+      "base_word": "unshackle",
+      "explanation": "un(否定・反対) + shackle(?)"
+    },
+    {
+      "id": "f408",
+      "etymology_id": "e4",
+      "base_word": "unshakable",
+      "explanation": "un(否定・反対) + shakable(?)"
+    },
+    {
+      "id": "f409",
+      "etymology_id": "e4",
+      "base_word": "unsheathe",
+      "explanation": "un(否定・反対) + sheathe(?)"
+    },
+    {
+      "id": "f410",
+      "etymology_id": "e4",
+      "base_word": "unshod",
+      "explanation": "un(否定・反対) + shod(?)"
+    },
+    {
+      "id": "f411",
+      "etymology_id": "e4",
+      "base_word": "unshorn",
+      "explanation": "un(否定・反対) + shorn(?)"
+    },
+    {
+      "id": "f412",
+      "etymology_id": "e4",
+      "base_word": "unsnap",
+      "explanation": "un(否定・反対) + snap(?)"
+    },
+    {
+      "id": "f413",
+      "etymology_id": "e4",
+      "base_word": "unsnarl",
+      "explanation": "un(否定・反対) + snarl(?)"
+    },
+    {
+      "id": "f414",
+      "etymology_id": "e4",
+      "base_word": "unsociable",
+      "explanation": "un(否定・反対) + sociable(?)"
+    },
+    {
+      "id": "f415",
+      "etymology_id": "e4",
+      "base_word": "unsolved",
+      "explanation": "un(否定・反対) + solved(?)"
+    },
+    {
+      "id": "f416",
+      "etymology_id": "e4",
+      "base_word": "unsophisticated",
+      "explanation": "un(否定・反対) + sophisticated(?)"
+    },
+    {
+      "id": "f417",
+      "etymology_id": "e4",
+      "base_word": "unsound",
+      "explanation": "un(否定・反対) + sound(?)"
+    },
+    {
+      "id": "f418",
+      "etymology_id": "e4",
+      "base_word": "unsparing",
+      "explanation": "un(否定・反対) + sparing(?)"
+    },
+    {
+      "id": "f419",
+      "etymology_id": "e4",
+      "base_word": "unspotted",
+      "explanation": "un(否定・反対) + spotted(?)"
+    },
+    {
+      "id": "f420",
+      "etymology_id": "e4",
+      "base_word": "unsteady",
+      "explanation": "un(否定・反対) + steady(?)"
+    },
+    {
+      "id": "f421",
+      "etymology_id": "e4",
+      "base_word": "unstressed",
+      "explanation": "un(否定・反対) + stressed(?)"
+    },
+    {
+      "id": "f422",
+      "etymology_id": "e4",
+      "base_word": "unstrung",
+      "explanation": "un(否定・反対) + strung(?)"
+    },
+    {
+      "id": "f423",
+      "etymology_id": "e4",
+      "base_word": "unstuck",
+      "explanation": "un(否定・反対) + stuck(?)"
+    },
+    {
+      "id": "f424",
+      "etymology_id": "e4",
+      "base_word": "unstudied",
+      "explanation": "un(否定・反対) + studied(?)"
+    },
+    {
+      "id": "f425",
+      "etymology_id": "e4",
+      "base_word": "unsubstantial",
+      "explanation": "un(否定・反対) + substantial(?)"
+    },
+    {
+      "id": "f426",
+      "etymology_id": "e4",
+      "base_word": "unsullied",
+      "explanation": "un(否定・反対) + sullied(?)"
+    },
+    {
+      "id": "f427",
+      "etymology_id": "e4",
+      "base_word": "unsurpassed",
+      "explanation": "un(否定・反対) + surpassed(?)"
+    },
+    {
+      "id": "f428",
+      "etymology_id": "e4",
+      "base_word": "unsuspected",
+      "explanation": "un(否定・反対) + suspected(?)"
+    },
+    {
+      "id": "f429",
+      "etymology_id": "e4",
+      "base_word": "unswerving",
+      "explanation": "un(否定・反対) + swerving(?)"
+    },
+    {
+      "id": "f430",
+      "etymology_id": "e4",
+      "base_word": "untaught",
+      "explanation": "un(否定・反対) + taught(?)"
+    },
+    {
+      "id": "f431",
+      "etymology_id": "e4",
+      "base_word": "untenable",
+      "explanation": "un(否定・反対) + tenable(?)"
+    },
+    {
+      "id": "f432",
+      "etymology_id": "e4",
+      "base_word": "unthinking",
+      "explanation": "un(否定・反対) + thinking(?)"
+    },
+    {
+      "id": "f433",
+      "etymology_id": "e4",
+      "base_word": "untidy",
+      "explanation": "un(否定・反対) + tidy(?)"
+    },
+    {
+      "id": "f434",
+      "etymology_id": "e4",
+      "base_word": "until",
+      "explanation": "un(否定・反対) + til(?)"
+    },
+    {
+      "id": "f435",
+      "etymology_id": "e4",
+      "base_word": "untimely",
+      "explanation": "un(否定・反対) + timely(?)"
+    },
+    {
+      "id": "f436",
+      "etymology_id": "e4",
+      "base_word": "untinged",
+      "explanation": "un(否定・反対) + tinged(?)"
+    },
+    {
+      "id": "f437",
+      "etymology_id": "e4",
+      "base_word": "untiring",
+      "explanation": "un(否定・反対) + tiring(?)"
+    },
+    {
+      "id": "f438",
+      "etymology_id": "e4",
+      "base_word": "unto",
+      "explanation": "un(否定・反対) + to(?)"
+    },
+    {
+      "id": "f439",
+      "etymology_id": "e4",
+      "base_word": "untrained",
+      "explanation": "un(否定・反対) + trained(?)"
+    },
+    {
+      "id": "f440",
+      "etymology_id": "e4",
+      "base_word": "untrodden",
+      "explanation": "un(否定・反対) + trodden(?)"
+    },
+    {
+      "id": "f441",
+      "etymology_id": "e4",
+      "base_word": "untruth",
+      "explanation": "un(否定・反対) + truth(?)"
+    },
+    {
+      "id": "f442",
+      "etymology_id": "e4",
+      "base_word": "untutored",
+      "explanation": "un(否定・反対) + tutored(?)"
+    },
+    {
+      "id": "f443",
+      "etymology_id": "e4",
+      "base_word": "untwist",
+      "explanation": "un(否定・反対) + twist(?)"
+    },
+    {
+      "id": "f444",
+      "etymology_id": "e4",
+      "base_word": "unless",
+      "explanation": "un(否定・反対) + less(?)"
+    },
+    {
+      "id": "f445",
+      "etymology_id": "e4",
+      "base_word": "unusual",
+      "explanation": "un(否定・反対) + usual(?)"
+    },
+    {
+      "id": "f446",
+      "etymology_id": "e4",
+      "base_word": "unutterable",
+      "explanation": "un(否定・反対) + utterable(?)"
+    },
+    {
+      "id": "f447",
+      "etymology_id": "e4",
+      "base_word": "unversed",
+      "explanation": "un(否定・反対) + versed(?)"
+    },
+    {
+      "id": "f448",
+      "etymology_id": "e4",
+      "base_word": "unwarranted",
+      "explanation": "un(否定・反対) + warranted(?)"
+    },
+    {
+      "id": "f449",
+      "etymology_id": "e4",
+      "base_word": "unwary",
+      "explanation": "un(否定・反対) + wary(?)"
+    },
+    {
+      "id": "f450",
+      "etymology_id": "e4",
+      "base_word": "unwell",
+      "explanation": "un(否定・反対) + well(?)"
+    },
+    {
+      "id": "f451",
+      "etymology_id": "e4",
+      "base_word": "unwholesome",
+      "explanation": "un(否定・反対) + wholesome(?)"
+    },
+    {
+      "id": "f452",
+      "etymology_id": "e4",
+      "base_word": "unworthy",
+      "explanation": "un(否定・反対) + worthy(?)"
+    },
+    {
+      "id": "f453",
+      "etymology_id": "e4",
+      "base_word": "unwound",
+      "explanation": "un(否定・反対) + wound(?)"
+    },
+    {
+      "id": "f454",
+      "etymology_id": "e4",
+      "base_word": "unyielding",
+      "explanation": "un(否定・反対) + yielding(?)"
+    },
+    {
+      "id": "f455",
+      "etymology_id": "r1",
+      "base_word": "comport",
+      "explanation": "com(?) + port(運ぶ)"
+    },
+    {
+      "id": "f456",
+      "etymology_id": "r1",
+      "base_word": "deport",
+      "explanation": "de(?) + port(運ぶ)"
+    },
+    {
+      "id": "f457",
+      "etymology_id": "r1",
+      "base_word": "export",
+      "explanation": "ex(?) + port(運ぶ)"
+    },
+    {
+      "id": "f458",
+      "etymology_id": "r1",
+      "base_word": "importunity",
+      "explanation": "im(?) + port(運ぶ)"
+    },
+    {
+      "id": "f459",
+      "etymology_id": "r1",
+      "base_word": "opportune",
+      "explanation": "op(?) + port(運ぶ)"
+    },
+    {
+      "id": "f460",
+      "etymology_id": "r1",
+      "base_word": "port",
+      "explanation": "port(運ぶ) から派生"
+    },
+    {
+      "id": "f461",
+      "etymology_id": "r1",
+      "base_word": "report",
+      "explanation": "re(前に、あらかじめ) + port(運ぶ)"
+    },
+    {
+      "id": "f462",
+      "etymology_id": "r1",
+      "base_word": "sport",
+      "explanation": "s(下に、副次的な) + port(運ぶ)"
+    },
+    {
+      "id": "f463",
+      "etymology_id": "r1",
+      "base_word": "support",
+      "explanation": "sup(?) + port(運ぶ)"
+    },
+    {
+      "id": "f464",
+      "etymology_id": "r2",
+      "base_word": "abstract",
+      "explanation": "abs(?) + tract(引く)"
+    },
+    {
+      "id": "f465",
+      "etymology_id": "r2",
+      "base_word": "attraction",
+      "explanation": "at(?) + tract(引く)"
+    },
+    {
+      "id": "f466",
+      "etymology_id": "r2",
+      "base_word": "contraction",
+      "explanation": "con(?) + tract(引く)"
+    },
+    {
+      "id": "f467",
+      "etymology_id": "r2",
+      "base_word": "protract",
+      "explanation": "pro(?) + tract(引く)"
+    },
+    {
+      "id": "f468",
+      "etymology_id": "r2",
+      "base_word": "retract",
+      "explanation": "re(前に、あらかじめ) + tract(引く)"
     }
   ],
   "words": [
@@ -3892,6 +5206,1990 @@
       "spelling": "subzero",
       "part_of_speech": "副詞",
       "meaning": "(特に)華氏零度以下の,氷点下の",
+      "suffix": "-"
+    },
+    {
+      "id": "w296",
+      "family_id": "f253",
+      "spelling": "unaccented",
+      "part_of_speech": "形容詞",
+      "meaning": "アクセント(強勢)のない",
+      "suffix": "-"
+    },
+    {
+      "id": "w297",
+      "family_id": "f254",
+      "spelling": "unaccustomed",
+      "part_of_speech": "形容詞",
+      "meaning": "《補語にのみ用いて》(…に)慣れない,不慣れの《+to+名》 ,  《名詞の前にのみ用いて》普通でない,いつにない",
+      "suffix": "-"
+    },
+    {
+      "id": "w298",
+      "family_id": "f255",
+      "spelling": "unadvised",
+      "part_of_speech": "形容詞",
+      "meaning": "無分別な,軽率な",
+      "suffix": "-"
+    },
+    {
+      "id": "w299",
+      "family_id": "f256",
+      "spelling": "unalloyed",
+      "part_of_speech": "形容詞",
+      "meaning": "(感情などが)純粋な(pure),本物の",
+      "suffix": "-"
+    },
+    {
+      "id": "w300",
+      "family_id": "f257",
+      "spelling": "unalterable",
+      "part_of_speech": "形容詞",
+      "meaning": "変えられない,不変の",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w301",
+      "family_id": "f258",
+      "spelling": "unattached",
+      "part_of_speech": "形容詞",
+      "meaning": "接続(連結)されていない ,  婚約(結婚)していない",
+      "suffix": "-"
+    },
+    {
+      "id": "w302",
+      "family_id": "f259",
+      "spelling": "unattended",
+      "part_of_speech": "形容詞",
+      "meaning": "付き添いのない ,  世話をされていない",
+      "suffix": "-"
+    },
+    {
+      "id": "w303",
+      "family_id": "f260",
+      "spelling": "unavailing",
+      "part_of_speech": "形容詞",
+      "meaning": "効果のない,むだな",
+      "suffix": "-"
+    },
+    {
+      "id": "w304",
+      "family_id": "f261",
+      "spelling": "unavoidable",
+      "part_of_speech": "形容詞",
+      "meaning": "避けられない,避けがたい",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w305",
+      "family_id": "f262",
+      "spelling": "unbalance",
+      "part_of_speech": "副詞",
+      "meaning": "…の平衡を失わせる ,  〈心の安定〉をくずさせる",
+      "suffix": "-"
+    },
+    {
+      "id": "w306",
+      "family_id": "f262",
+      "spelling": "unbalanced",
+      "part_of_speech": "形容詞",
+      "meaning": "平衡(バランス)のとれていない,不安定な ,  (心が)平静さを失った ,  未決算の,未清算の",
+      "suffix": "-"
+    },
+    {
+      "id": "w307",
+      "family_id": "f263",
+      "spelling": "unbar",
+      "part_of_speech": "副詞",
+      "meaning": "〈戸・門〉からかんぬきを抜く ,  《比喩的に》…を開く",
+      "suffix": "-"
+    },
+    {
+      "id": "w308",
+      "family_id": "f264",
+      "spelling": "unbeknown",
+      "part_of_speech": "形容詞",
+      "meaning": "(…に)知られない《+to+名》 ,  (…に)知られずに《+to+名》",
+      "suffix": "-"
+    },
+    {
+      "id": "w309",
+      "family_id": "f265",
+      "spelling": "unbeliever",
+      "part_of_speech": "形容詞",
+      "meaning": "信じない人,信仰のない人",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w310",
+      "family_id": "f265",
+      "spelling": "unbelieving",
+      "part_of_speech": "形容詞",
+      "meaning": "信じない",
+      "suffix": "-"
+    },
+    {
+      "id": "w311",
+      "family_id": "f266",
+      "spelling": "unbend",
+      "part_of_speech": "形容詞",
+      "meaning": "〈曲がったもの〉を真っすぐに伸ばす(straighten) ,  …の緊張を解く,をくつろがせる ,  〈帆〉をゆるめる,はずす",
+      "suffix": "-"
+    },
+    {
+      "id": "w312",
+      "family_id": "f266",
+      "spelling": "unbending",
+      "part_of_speech": "形容詞",
+      "meaning": "(性格・意志など)断固とした,がんこな ,  曲がらない,堅い ,  くつろがせる",
+      "suffix": "-"
+    },
+    {
+      "id": "w313",
+      "family_id": "f267",
+      "spelling": "unbidden",
+      "part_of_speech": "形容詞",
+      "meaning": "招かれない ,  命令によらない,自発的な",
+      "suffix": "-"
+    },
+    {
+      "id": "w314",
+      "family_id": "f268",
+      "spelling": "unblessed",
+      "part_of_speech": "形容詞",
+      "meaning": "神の恵みを受けない,祝福されない ,  罪深い,邪悪な",
+      "suffix": "-"
+    },
+    {
+      "id": "w315",
+      "family_id": "f269",
+      "spelling": "unblushing",
+      "part_of_speech": "形容詞",
+      "meaning": "恥知らずの,ずうずうしい ,  赤面しない",
+      "suffix": "-"
+    },
+    {
+      "id": "w316",
+      "family_id": "f270",
+      "spelling": "unbosom",
+      "part_of_speech": "形容詞",
+      "meaning": "(人に)〈悩みなど〉を打ち明ける《+名+to+名〈人〉》",
+      "suffix": "-"
+    },
+    {
+      "id": "w317",
+      "family_id": "f271",
+      "spelling": "unbroken",
+      "part_of_speech": "形容詞",
+      "meaning": "壊れて(破れて)いない,完全な ,  とぎれない ,  (記録などが)破られない ,  (馬などが)乗り慣らされていない ,  (精神などが)くじけない,不屈の ,  (規則・約束などが)守られた",
+      "suffix": "-"
+    },
+    {
+      "id": "w318",
+      "family_id": "f272",
+      "spelling": "unburden",
+      "part_of_speech": "動詞",
+      "meaning": "…の荷物を降ろす ,  (打ち明けて)〈心〉の重荷を降ろす,を軽くする ,  〈悩みなど〉を打ち明ける",
+      "suffix": "-"
+    },
+    {
+      "id": "w319",
+      "family_id": "f273",
+      "spelling": "unceasing",
+      "part_of_speech": "形容詞",
+      "meaning": "絶え間ない,連続した",
+      "suffix": "-"
+    },
+    {
+      "id": "w320",
+      "family_id": "f274",
+      "spelling": "unceremonious",
+      "part_of_speech": "形容詞",
+      "meaning": "不作法な,ぶしつけな ,  儀式(形式)ばらない",
+      "suffix": "-"
+    },
+    {
+      "id": "w321",
+      "family_id": "f275",
+      "spelling": "unchanging",
+      "part_of_speech": "形容詞",
+      "meaning": "変わらない,不変の",
+      "suffix": "-"
+    },
+    {
+      "id": "w322",
+      "family_id": "f276",
+      "spelling": "uncharitable",
+      "part_of_speech": "形容詞",
+      "meaning": "無慈悲な,情け容赦のない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w323",
+      "family_id": "f277",
+      "spelling": "unchaste",
+      "part_of_speech": "形容詞",
+      "meaning": "身持ちの悪い,不貞な,ふしだらな",
+      "suffix": "-"
+    },
+    {
+      "id": "w324",
+      "family_id": "f278",
+      "spelling": "unchristian",
+      "part_of_speech": "動詞",
+      "meaning": "(宗教が)キリスト教でない ,  キリスト教的精神に反する",
+      "suffix": "-"
+    },
+    {
+      "id": "w325",
+      "family_id": "f279",
+      "spelling": "uncivil",
+      "part_of_speech": "形容詞",
+      "meaning": "無礼な,不作法な",
+      "suffix": "-"
+    },
+    {
+      "id": "w326",
+      "family_id": "f280",
+      "spelling": "unclad",
+      "part_of_speech": "形容詞",
+      "meaning": "unclotheの過去・過去分詞形 ,  裸の,着物を着ていない",
+      "suffix": "-"
+    },
+    {
+      "id": "w327",
+      "family_id": "f281",
+      "spelling": "unclasp",
+      "part_of_speech": "不明",
+      "meaning": "…の留め金をはずす",
+      "suffix": "-"
+    },
+    {
+      "id": "w328",
+      "family_id": "f282",
+      "spelling": "uncleanly",
+      "part_of_speech": "形容詞",
+      "meaning": "不潔な",
+      "suffix": "-ly (副詞化)"
+    },
+    {
+      "id": "w329",
+      "family_id": "f282",
+      "spelling": "unclear",
+      "part_of_speech": "形容詞",
+      "meaning": "はっきりしない",
+      "suffix": "-"
+    },
+    {
+      "id": "w330",
+      "family_id": "f283",
+      "spelling": "unclench",
+      "part_of_speech": "不明",
+      "meaning": "〈堅く締めたもの〉を開く ,  開く",
+      "suffix": "-"
+    },
+    {
+      "id": "w331",
+      "family_id": "f284",
+      "spelling": "uncloak",
+      "part_of_speech": "動詞",
+      "meaning": "…の外とうを脱がせる ,  …をあばく,暴露する",
+      "suffix": "-"
+    },
+    {
+      "id": "w332",
+      "family_id": "f285",
+      "spelling": "unclog",
+      "part_of_speech": "形容詞",
+      "meaning": "…から障害を除く,のじゃまをなくす",
+      "suffix": "-"
+    },
+    {
+      "id": "w333",
+      "family_id": "f286",
+      "spelling": "unclose",
+      "part_of_speech": "不明",
+      "meaning": "…を開く,あける ,  …を現す,あばく ,  開く,あく",
+      "suffix": "-"
+    },
+    {
+      "id": "w334",
+      "family_id": "f287",
+      "spelling": "unclothe",
+      "part_of_speech": "動詞",
+      "meaning": "…の衣服を脱がす,を裸にする",
+      "suffix": "-"
+    },
+    {
+      "id": "w335",
+      "family_id": "f288",
+      "spelling": "unclouded",
+      "part_of_speech": "形容詞",
+      "meaning": "澄み切った,かげりのない",
+      "suffix": "-"
+    },
+    {
+      "id": "w336",
+      "family_id": "f289",
+      "spelling": "uncommunicative",
+      "part_of_speech": "形容詞",
+      "meaning": "打ち解けない,話したがらない,無口な",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w337",
+      "family_id": "f290",
+      "spelling": "unconcern",
+      "part_of_speech": "副詞",
+      "meaning": "無関心,無頓着 ,  (心配事に)平気,平然",
+      "suffix": "-"
+    },
+    {
+      "id": "w338",
+      "family_id": "f290",
+      "spelling": "unconcerned",
+      "part_of_speech": "形容詞",
+      "meaning": "《補語にのみ用いて》《be unconcerned with+名》(…と)かかわりがない ,  《補語にのみ用いて》(…に)興味がない,無関心な《+with+名》 ,  (…を)心配しない,気にしない《+about+名》",
+      "suffix": "-"
+    },
+    {
+      "id": "w339",
+      "family_id": "f291",
+      "spelling": "unconditioned",
+      "part_of_speech": "不明",
+      "meaning": "無条件の,絶対の ,  (心理学で)生来の,本来の",
+      "suffix": "-"
+    },
+    {
+      "id": "w340",
+      "family_id": "f292",
+      "spelling": "unconnected",
+      "part_of_speech": "形容詞",
+      "meaning": "連結されていない,離れた,別々の ,  関係のない,関連のない",
+      "suffix": "-"
+    },
+    {
+      "id": "w341",
+      "family_id": "f293",
+      "spelling": "unconquerable",
+      "part_of_speech": "形容詞",
+      "meaning": "征服(克服)できない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w342",
+      "family_id": "f294",
+      "spelling": "unconscionable",
+      "part_of_speech": "形容詞",
+      "meaning": "良心のない,恥ずべき(shameful) ,  不当な,不合理な,法外な",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w343",
+      "family_id": "f294",
+      "spelling": "unconsciousness",
+      "part_of_speech": "不明",
+      "meaning": "無意識",
+      "suffix": "-ness (名詞化)"
+    },
+    {
+      "id": "w344",
+      "family_id": "f294",
+      "spelling": "unconsidered",
+      "part_of_speech": "不明",
+      "meaning": "考慮を欠いた ,  軽視された(disregarded)",
+      "suffix": "-"
+    },
+    {
+      "id": "w345",
+      "family_id": "f295",
+      "spelling": "uncork",
+      "part_of_speech": "不明",
+      "meaning": "…のコルク(せん)を抜く",
+      "suffix": "-"
+    },
+    {
+      "id": "w346",
+      "family_id": "f296",
+      "spelling": "uncouple",
+      "part_of_speech": "不明",
+      "meaning": "〈連結したもの〉を離す",
+      "suffix": "-"
+    },
+    {
+      "id": "w347",
+      "family_id": "f297",
+      "spelling": "uncouth",
+      "part_of_speech": "形容詞",
+      "meaning": "(人・行為が)洗練されてない,粗野な ,  無器用な,ぎごちない",
+      "suffix": "-"
+    },
+    {
+      "id": "w348",
+      "family_id": "f298",
+      "spelling": "uncovered",
+      "part_of_speech": "形容詞",
+      "meaning": "おおい(ふた)のない,むき出しの",
+      "suffix": "-"
+    },
+    {
+      "id": "w349",
+      "family_id": "f299",
+      "spelling": "uncross",
+      "part_of_speech": "不明",
+      "meaning": "〈両腕・両足〉の交差を解く",
+      "suffix": "-"
+    },
+    {
+      "id": "w350",
+      "family_id": "f300",
+      "spelling": "uncrowned",
+      "part_of_speech": "形容詞",
+      "meaning": "[まだ]王冠を戴かない(いただかない) ,  王位につかずに実権を持つ",
+      "suffix": "-"
+    },
+    {
+      "id": "w351",
+      "family_id": "f301",
+      "spelling": "uncrushable",
+      "part_of_speech": "形容詞",
+      "meaning": "(布地など)しわのよらない ,  《おもに文》(意志が)くじけない,不屈な",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w352",
+      "family_id": "f302",
+      "spelling": "undeceive",
+      "part_of_speech": "不明",
+      "meaning": "…の迷いをさます,誤りを悟らせる",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w353",
+      "family_id": "f303",
+      "spelling": "undeclared",
+      "part_of_speech": "形容詞",
+      "meaning": "(課税対象物品が)税関未申告の ,  (戦争など)宣戦布告なしに",
+      "suffix": "-"
+    },
+    {
+      "id": "w354",
+      "family_id": "f304",
+      "spelling": "undemonstrative",
+      "part_of_speech": "形容詞",
+      "meaning": "感情などを表に出さない,慎み深い",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w355",
+      "family_id": "f305",
+      "spelling": "undigested",
+      "part_of_speech": "形容詞",
+      "meaning": "消化されない",
+      "suffix": "-"
+    },
+    {
+      "id": "w356",
+      "family_id": "f306",
+      "spelling": "undignified",
+      "part_of_speech": "形容詞",
+      "meaning": "威厳のない,品位のない",
+      "suffix": "-"
+    },
+    {
+      "id": "w357",
+      "family_id": "f307",
+      "spelling": "undischarged",
+      "part_of_speech": "形容詞",
+      "meaning": "(船の積み荷が)荷揚げされていない ,  (銃が)未発射の ,  (勘定・借金が)未払いの ,  (法的に)返済不履行の",
+      "suffix": "-"
+    },
+    {
+      "id": "w358",
+      "family_id": "f307",
+      "spelling": "undisciplined",
+      "part_of_speech": "形容詞",
+      "meaning": "訓練を受けてない",
+      "suffix": "-"
+    },
+    {
+      "id": "w359",
+      "family_id": "f308",
+      "spelling": "undisguised",
+      "part_of_speech": "不明",
+      "meaning": "あからさまの,むき出しの",
+      "suffix": "-"
+    },
+    {
+      "id": "w360",
+      "family_id": "f309",
+      "spelling": "undistinguished",
+      "part_of_speech": "形容詞",
+      "meaning": "区別されない",
+      "suffix": "-"
+    },
+    {
+      "id": "w361",
+      "family_id": "f310",
+      "spelling": "undomesticated",
+      "part_of_speech": "形容詞",
+      "meaning": "(動物が)飼いならせない,人になれない ,  (人が)家庭的でない",
+      "suffix": "-"
+    },
+    {
+      "id": "w362",
+      "family_id": "f311",
+      "spelling": "undone",
+      "part_of_speech": "形容詞",
+      "meaning": "undo の過去分詞 ,  解いた,ほどいた,ゆるめた ,  してない,未完の",
+      "suffix": "-"
+    },
+    {
+      "id": "w363",
+      "family_id": "f312",
+      "spelling": "undoubted",
+      "part_of_speech": "形容詞",
+      "meaning": "疑いのない,確かな",
+      "suffix": "-"
+    },
+    {
+      "id": "w364",
+      "family_id": "f313",
+      "spelling": "undue",
+      "part_of_speech": "形容詞",
+      "meaning": "過度の,はなはだしい ,  不当な,不法な",
+      "suffix": "-"
+    },
+    {
+      "id": "w365",
+      "family_id": "f314",
+      "spelling": "unduly",
+      "part_of_speech": "形容詞",
+      "meaning": "過度に,はなはだしく",
+      "suffix": "-ly (副詞化)"
+    },
+    {
+      "id": "w366",
+      "family_id": "f315",
+      "spelling": "undying",
+      "part_of_speech": "形容詞",
+      "meaning": "不死の,永遠の,終りのない",
+      "suffix": "-"
+    },
+    {
+      "id": "w367",
+      "family_id": "f316",
+      "spelling": "unearned",
+      "part_of_speech": "形容詞",
+      "meaning": "働いて得たのではない ,  (賞罰などが)受けるに値しない,不相応な ,  まだ得ていない,未収の",
+      "suffix": "-"
+    },
+    {
+      "id": "w368",
+      "family_id": "f317",
+      "spelling": "unearthly",
+      "part_of_speech": "形容詞",
+      "meaning": "この世のものとは思われない,超自然的な ,  無気味な,怪しい ,  《話》途方もない",
+      "suffix": "-ly (副詞化)"
+    },
+    {
+      "id": "w369",
+      "family_id": "f318",
+      "spelling": "uneconomic",
+      "part_of_speech": "動詞",
+      "meaning": "むだづかいをする,浪費の ,  不経済な",
+      "suffix": "-"
+    },
+    {
+      "id": "w370",
+      "family_id": "f319",
+      "spelling": "unemployable",
+      "part_of_speech": "形容詞",
+      "meaning": "(年齢・欠陥などで)雇えない,雇用できない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w371",
+      "family_id": "f320",
+      "spelling": "unenlightened",
+      "part_of_speech": "名詞",
+      "meaning": "あることによく通じていない ,  無学の,無知の ,  偏見をもつ",
+      "suffix": "-"
+    },
+    {
+      "id": "w372",
+      "family_id": "f321",
+      "spelling": "unenviable",
+      "part_of_speech": "形容詞",
+      "meaning": "あまりうらやましくない,あまり欲しくない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w373",
+      "family_id": "f322",
+      "spelling": "unerring",
+      "part_of_speech": "形容詞",
+      "meaning": "誤りのない,的をはずれない,確実な",
+      "suffix": "-"
+    },
+    {
+      "id": "w374",
+      "family_id": "f323",
+      "spelling": "unessential",
+      "part_of_speech": "形容詞",
+      "meaning": "本質的(重要)でない ,  本質的(重要)でないもの",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w375",
+      "family_id": "f324",
+      "spelling": "unexampled",
+      "part_of_speech": "形容詞",
+      "meaning": "前例のない,空前の",
+      "suffix": "-"
+    },
+    {
+      "id": "w376",
+      "family_id": "f325",
+      "spelling": "unexplained",
+      "part_of_speech": "形容詞",
+      "meaning": "説明されない",
+      "suffix": "-"
+    },
+    {
+      "id": "w377",
+      "family_id": "f325",
+      "spelling": "unexplored",
+      "part_of_speech": "形容詞",
+      "meaning": "探検されない,前人未踏の",
+      "suffix": "-"
+    },
+    {
+      "id": "w378",
+      "family_id": "f326",
+      "spelling": "unfailing",
+      "part_of_speech": "名詞",
+      "meaning": "尽きることのない,絶えない ,  信頼できる ,  不変の,一定の",
+      "suffix": "-"
+    },
+    {
+      "id": "w379",
+      "family_id": "f327",
+      "spelling": "unfaithful",
+      "part_of_speech": "形容詞",
+      "meaning": "不誠実な,誠意のない ,  不貞の",
+      "suffix": "-ful (形容詞化)"
+    },
+    {
+      "id": "w380",
+      "family_id": "f328",
+      "spelling": "unfaltering",
+      "part_of_speech": "名詞",
+      "meaning": "とまらない,とどまることを知らない ,  ちゅうちょしない",
+      "suffix": "-"
+    },
+    {
+      "id": "w381",
+      "family_id": "f329",
+      "spelling": "unfeeling",
+      "part_of_speech": "形容詞",
+      "meaning": "無感覚の ,  無情な,冷酷な(cruel)",
+      "suffix": "-"
+    },
+    {
+      "id": "w382",
+      "family_id": "f330",
+      "spelling": "unfeigned",
+      "part_of_speech": "形容詞",
+      "meaning": "偽らない,真実の(genuine)",
+      "suffix": "-"
+    },
+    {
+      "id": "w383",
+      "family_id": "f331",
+      "spelling": "unflagging",
+      "part_of_speech": "形容詞",
+      "meaning": "衰えない,疲れを知らない",
+      "suffix": "-"
+    },
+    {
+      "id": "w384",
+      "family_id": "f332",
+      "spelling": "unflinching",
+      "part_of_speech": "形容詞",
+      "meaning": "ひるまない,しりごみしない",
+      "suffix": "-"
+    },
+    {
+      "id": "w385",
+      "family_id": "f333",
+      "spelling": "unforeseen",
+      "part_of_speech": "形容詞",
+      "meaning": "予知しない,思いがけない(unexpected)",
+      "suffix": "-"
+    },
+    {
+      "id": "w386",
+      "family_id": "f334",
+      "spelling": "unfurnished",
+      "part_of_speech": "形容詞",
+      "meaning": "家具の備えてない",
+      "suffix": "-"
+    },
+    {
+      "id": "w387",
+      "family_id": "f335",
+      "spelling": "ungainly",
+      "part_of_speech": "形容詞",
+      "meaning": "(動作が)ぶかっこうな,ぶざまな",
+      "suffix": "-ly (副詞化)"
+    },
+    {
+      "id": "w388",
+      "family_id": "f336",
+      "spelling": "ungenerous",
+      "part_of_speech": "動詞",
+      "meaning": "物惜しみをする,けちけちする ,  不当な,不正な",
+      "suffix": "-"
+    },
+    {
+      "id": "w389",
+      "family_id": "f337",
+      "spelling": "unglued",
+      "part_of_speech": "不明",
+      "meaning": "取り乱した",
+      "suffix": "-"
+    },
+    {
+      "id": "w390",
+      "family_id": "f338",
+      "spelling": "ungracious",
+      "part_of_speech": "形容詞",
+      "meaning": "無作法な,粗野な",
+      "suffix": "-"
+    },
+    {
+      "id": "w391",
+      "family_id": "f339",
+      "spelling": "ungrateful",
+      "part_of_speech": "形容詞",
+      "meaning": "ありがたく思わない,恩知らずの ,  いやな,不快な",
+      "suffix": "-ful (形容詞化)"
+    },
+    {
+      "id": "w392",
+      "family_id": "f340",
+      "spelling": "ungrudging",
+      "part_of_speech": "形容詞",
+      "meaning": "物惜しみしない,快く与える,心からの",
+      "suffix": "-"
+    },
+    {
+      "id": "w393",
+      "family_id": "f341",
+      "spelling": "unguarded",
+      "part_of_speech": "形容詞",
+      "meaning": "油断した,不注意の,うっかりした ,  保護されていない,無防備の",
+      "suffix": "-"
+    },
+    {
+      "id": "w394",
+      "family_id": "f342",
+      "spelling": "unhallowed",
+      "part_of_speech": "形容詞",
+      "meaning": "聖別(祝別)されない,あがめられない ,  《文》悪に染まった,邪悪な",
+      "suffix": "-"
+    },
+    {
+      "id": "w395",
+      "family_id": "f343",
+      "spelling": "unhand",
+      "part_of_speech": "不明",
+      "meaning": "…から手を放す",
+      "suffix": "-"
+    },
+    {
+      "id": "w396",
+      "family_id": "f344",
+      "spelling": "unhappy",
+      "part_of_speech": "形容詞",
+      "meaning": "『悲しい』,気の滅入る ,  (物事が)不幸な,不運な,みじめな ,  (物事が)適切でない,適当でない,まずい",
+      "suffix": "-"
+    },
+    {
+      "id": "w397",
+      "family_id": "f345",
+      "spelling": "unharness",
+      "part_of_speech": "形容詞",
+      "meaning": "〈馬・ロバなど〉の馬具を取りはずす",
+      "suffix": "-ness (名詞化)"
+    },
+    {
+      "id": "w398",
+      "family_id": "f346",
+      "spelling": "unheeded",
+      "part_of_speech": "形容詞",
+      "meaning": "注意されない,顧みられない,無視された",
+      "suffix": "-"
+    },
+    {
+      "id": "w399",
+      "family_id": "f347",
+      "spelling": "unhinge",
+      "part_of_speech": "形容詞",
+      "meaning": "〈ドアなど〉のちょうつがいをはずす ,  〈人・心〉を乱す,狂わせる",
+      "suffix": "-"
+    },
+    {
+      "id": "w400",
+      "family_id": "f348",
+      "spelling": "unhitch",
+      "part_of_speech": "形容詞",
+      "meaning": "〈馬など〉を解き放す",
+      "suffix": "-"
+    },
+    {
+      "id": "w401",
+      "family_id": "f349",
+      "spelling": "unhorse",
+      "part_of_speech": "不明",
+      "meaning": "〈人〉をくら(馬)から落とす,落馬させる",
+      "suffix": "-"
+    },
+    {
+      "id": "w402",
+      "family_id": "f350",
+      "spelling": "unimaginative",
+      "part_of_speech": "形容詞",
+      "meaning": "想像力のない,独創性に欠ける",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w403",
+      "family_id": "f351",
+      "spelling": "unimportant",
+      "part_of_speech": "形容詞",
+      "meaning": "『重要でない』,取るに足りない",
+      "suffix": "-"
+    },
+    {
+      "id": "w404",
+      "family_id": "f352",
+      "spelling": "uninformed",
+      "part_of_speech": "動詞",
+      "meaning": "情報が不十分な,知らされていない・知識のない・十分な知識[情報]をもたない(でする) ・〈人が〉知らされていない・無知の",
+      "suffix": "-"
+    },
+    {
+      "id": "w405",
+      "family_id": "f353",
+      "spelling": "uninhabitable",
+      "part_of_speech": "形容詞",
+      "meaning": "住居に適さない,住めない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w406",
+      "family_id": "f353",
+      "spelling": "uninhabited",
+      "part_of_speech": "形容詞",
+      "meaning": "人の住まない,無人の",
+      "suffix": "-"
+    },
+    {
+      "id": "w407",
+      "family_id": "f354",
+      "spelling": "uninterrupted",
+      "part_of_speech": "形容詞",
+      "meaning": "とぎれない,連続した",
+      "suffix": "-"
+    },
+    {
+      "id": "w408",
+      "family_id": "f355",
+      "spelling": "unkempt",
+      "part_of_speech": "形容詞",
+      "meaning": "(髪が)くしを入れてない,もじゃもじゃの ,  (服装・外見などが)だらしがない",
+      "suffix": "-"
+    },
+    {
+      "id": "w409",
+      "family_id": "f356",
+      "spelling": "unkindly",
+      "part_of_speech": "副詞",
+      "meaning": "不親切に,薄情に ,  意地悪く,ひねくれて ,  荒々しく,きびしく",
+      "suffix": "-ly (副詞化)"
+    },
+    {
+      "id": "w410",
+      "family_id": "f357",
+      "spelling": "unknowing",
+      "part_of_speech": "形容詞",
+      "meaning": "知らない,気づかない",
+      "suffix": "-"
+    },
+    {
+      "id": "w411",
+      "family_id": "f358",
+      "spelling": "unlatch",
+      "part_of_speech": "形容詞",
+      "meaning": "〈戸など〉の掛け金をはずす",
+      "suffix": "-"
+    },
+    {
+      "id": "w412",
+      "family_id": "f359",
+      "spelling": "unlettered",
+      "part_of_speech": "形容詞",
+      "meaning": "無学の,無教育の(uneducated) ,  読み書きのできない,文盲の(illiterate)",
+      "suffix": "-"
+    },
+    {
+      "id": "w413",
+      "family_id": "f360",
+      "spelling": "unlimber",
+      "part_of_speech": "動詞",
+      "meaning": "〈大砲〉の前車をはずす ,  …の使用(行動)の準備をする ,  発砲の準備をする ,  使用(行動)の準備をする 柔軟でない しなやかではない 柔軟にする しなやかにする 行動の準備をする",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w414",
+      "family_id": "f361",
+      "spelling": "unloosen",
+      "part_of_speech": "不明",
+      "meaning": "…を緩める,解く,はずす",
+      "suffix": "-"
+    },
+    {
+      "id": "w415",
+      "family_id": "f362",
+      "spelling": "unman",
+      "part_of_speech": "動詞",
+      "meaning": "…の勇気をくじく,…をめめしくする",
+      "suffix": "-"
+    },
+    {
+      "id": "w416",
+      "family_id": "f363",
+      "spelling": "unmannerly",
+      "part_of_speech": "形容詞",
+      "meaning": "無作法な,ぶしつけな ,  無作法に,ぶしつけに",
+      "suffix": "-ly (副詞化)"
+    },
+    {
+      "id": "w417",
+      "family_id": "f364",
+      "spelling": "unmask",
+      "part_of_speech": "不明",
+      "meaning": "…の仮面(変装)をはぐ ,  …の真相をあばく ,  仮面を取る",
+      "suffix": "-"
+    },
+    {
+      "id": "w418",
+      "family_id": "f365",
+      "spelling": "unmeaning",
+      "part_of_speech": "形容詞",
+      "meaning": "無意味な,くだらない・(顔・表情などが)うつろな",
+      "suffix": "-"
+    },
+    {
+      "id": "w419",
+      "family_id": "f366",
+      "spelling": "unmeasured",
+      "part_of_speech": "形容詞",
+      "meaning": "無限の,際限のない",
+      "suffix": "-"
+    },
+    {
+      "id": "w420",
+      "family_id": "f367",
+      "spelling": "unmentionable",
+      "part_of_speech": "動詞",
+      "meaning": "口に出せない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w421",
+      "family_id": "f368",
+      "spelling": "unmerciful",
+      "part_of_speech": "形容詞",
+      "meaning": "無慈悲な,残酷な",
+      "suffix": "-ful (形容詞化)"
+    },
+    {
+      "id": "w422",
+      "family_id": "f369",
+      "spelling": "unmindful",
+      "part_of_speech": "形容詞",
+      "meaning": "(…を)気にかけない,(…に)むとんじゃくな《+of+名(wh-節)》",
+      "suffix": "-ful (形容詞化)"
+    },
+    {
+      "id": "w423",
+      "family_id": "f370",
+      "spelling": "unmoral",
+      "part_of_speech": "形容詞",
+      "meaning": "道徳に関係がない,道徳を超越している",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w424",
+      "family_id": "f371",
+      "spelling": "unopened",
+      "part_of_speech": "形容詞",
+      "meaning": "開かれていない",
+      "suffix": "-"
+    },
+    {
+      "id": "w425",
+      "family_id": "f372",
+      "spelling": "unparliamentary",
+      "part_of_speech": "動詞",
+      "meaning": "議院内の慣行に反する,議院内であるまじき言動をとる",
+      "suffix": "-"
+    },
+    {
+      "id": "w426",
+      "family_id": "f373",
+      "spelling": "unpin",
+      "part_of_speech": "不明",
+      "meaning": "…からピンを抜く,…をピンを抜いてゆるめる ,  〈人〉の着物を脱がせる",
+      "suffix": "-"
+    },
+    {
+      "id": "w427",
+      "family_id": "f374",
+      "spelling": "unplaced",
+      "part_of_speech": "形容詞",
+      "meaning": "(競技・試合などで)入賞していない,等外の",
+      "suffix": "-"
+    },
+    {
+      "id": "w428",
+      "family_id": "f375",
+      "spelling": "unplayable",
+      "part_of_speech": "形容詞",
+      "meaning": "(クリケットで)球がうまく飛んで打ち返されない:(ゴルフボールの位置が)打球不可能な位置の ,  (競技場が)競技[総行]に不適当な ,  (破損や録音状態が不良で)レコードが満足にかけられない ,  (曲が難しすぎて)演奏できない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w429",
+      "family_id": "f376",
+      "spelling": "unprejudiced",
+      "part_of_speech": "形容詞",
+      "meaning": "偏見のない,公平な",
+      "suffix": "-"
+    },
+    {
+      "id": "w430",
+      "family_id": "f377",
+      "spelling": "unpremeditated",
+      "part_of_speech": "形容詞",
+      "meaning": "前もって考えてない,故意でない",
+      "suffix": "-"
+    },
+    {
+      "id": "w431",
+      "family_id": "f378",
+      "spelling": "unprompted",
+      "part_of_speech": "形容詞",
+      "meaning": "(特に言動が)自発的な,自由意志の",
+      "suffix": "-"
+    },
+    {
+      "id": "w432",
+      "family_id": "f379",
+      "spelling": "unquestioned",
+      "part_of_speech": "形容詞",
+      "meaning": "疑われない,問題にされない",
+      "suffix": "-"
+    },
+    {
+      "id": "w433",
+      "family_id": "f379",
+      "spelling": "unquestioning",
+      "part_of_speech": "形容詞",
+      "meaning": "疑わない",
+      "suffix": "-"
+    },
+    {
+      "id": "w434",
+      "family_id": "f380",
+      "spelling": "unquiet",
+      "part_of_speech": "形容詞",
+      "meaning": "平静でない,落着きのない,不安な",
+      "suffix": "-"
+    },
+    {
+      "id": "w435",
+      "family_id": "f381",
+      "spelling": "unquote",
+      "part_of_speech": "不明",
+      "meaning": "引用文を終わる",
+      "suffix": "-"
+    },
+    {
+      "id": "w436",
+      "family_id": "f382",
+      "spelling": "unread",
+      "part_of_speech": "形容詞",
+      "meaning": "(書籍などが)まだ読まれていない ,  学識のない",
+      "suffix": "-"
+    },
+    {
+      "id": "w437",
+      "family_id": "f382",
+      "spelling": "unready",
+      "part_of_speech": "形容詞",
+      "meaning": "準備ができていない",
+      "suffix": "-"
+    },
+    {
+      "id": "w438",
+      "family_id": "f383",
+      "spelling": "unreasoning",
+      "part_of_speech": "形容詞",
+      "meaning": "理性を働かさない,思慮のない",
+      "suffix": "-"
+    },
+    {
+      "id": "w439",
+      "family_id": "f384",
+      "spelling": "unregenerate",
+      "part_of_speech": "形容詞",
+      "meaning": "悔い改めない,更生しない ,  強情な,がんこな",
+      "suffix": "-ate (動詞化)"
+    },
+    {
+      "id": "w440",
+      "family_id": "f385",
+      "spelling": "unrelenting",
+      "part_of_speech": "形容詞",
+      "meaning": "(人・決意などが)ゆるがない,強固な",
+      "suffix": "-"
+    },
+    {
+      "id": "w441",
+      "family_id": "f386",
+      "spelling": "unremitting",
+      "part_of_speech": "名詞",
+      "meaning": "休む(絶える)ことがない,根気強い",
+      "suffix": "-"
+    },
+    {
+      "id": "w442",
+      "family_id": "f387",
+      "spelling": "unreserved",
+      "part_of_speech": "形容詞",
+      "meaning": "遠慮のない,率直な ,  制限(制約)のない,無条件の",
+      "suffix": "-"
+    },
+    {
+      "id": "w443",
+      "family_id": "f388",
+      "spelling": "unrip",
+      "part_of_speech": "動詞",
+      "meaning": "…を切り開く,引き裂く",
+      "suffix": "-"
+    },
+    {
+      "id": "w444",
+      "family_id": "f389",
+      "spelling": "unripe",
+      "part_of_speech": "形容詞",
+      "meaning": "(果実などが)未熟の ,  (時機などが)早すぎる",
+      "suffix": "-"
+    },
+    {
+      "id": "w445",
+      "family_id": "f390",
+      "spelling": "unroll",
+      "part_of_speech": "動詞",
+      "meaning": "〈巻いた物〉を広げる,開く ,  …を現す,明らかにする,明示する ,  開く,広がる",
+      "suffix": "-"
+    },
+    {
+      "id": "w446",
+      "family_id": "f391",
+      "spelling": "unruffled",
+      "part_of_speech": "形容詞",
+      "meaning": "平静(冷静)な,平穏な",
+      "suffix": "-"
+    },
+    {
+      "id": "w447",
+      "family_id": "f392",
+      "spelling": "unsalted",
+      "part_of_speech": "不明",
+      "meaning": "無塩の",
+      "suffix": "-"
+    },
+    {
+      "id": "w448",
+      "family_id": "f393",
+      "spelling": "unsatisfactory",
+      "part_of_speech": "形容詞",
+      "meaning": "(物事が)不満足な,不十分な",
+      "suffix": "-"
+    },
+    {
+      "id": "w449",
+      "family_id": "f393",
+      "spelling": "unsatisfied",
+      "part_of_speech": "形容詞",
+      "meaning": "満たされない,満足していない",
+      "suffix": "-"
+    },
+    {
+      "id": "w450",
+      "family_id": "f394",
+      "spelling": "unsaturated",
+      "part_of_speech": "副詞",
+      "meaning": "(有機化合物が)不飽和の ,  (一定温度で)さらに溶解可能の",
+      "suffix": "-"
+    },
+    {
+      "id": "w451",
+      "family_id": "f395",
+      "spelling": "unschooled",
+      "part_of_speech": "形容詞",
+      "meaning": "教育(訓練)を受けていない,無学の",
+      "suffix": "-"
+    },
+    {
+      "id": "w452",
+      "family_id": "f396",
+      "spelling": "unscientific",
+      "part_of_speech": "形容詞",
+      "meaning": "非科学的な,科学的でない",
+      "suffix": "-"
+    },
+    {
+      "id": "w453",
+      "family_id": "f397",
+      "spelling": "unscramble",
+      "part_of_speech": "動詞",
+      "meaning": "〈混乱したもの〉を元どおりにする,整頓する ,  〈混線した通信など〉を分かるようにする,〈暗号〉",
+      "suffix": "-"
+    },
+    {
+      "id": "w454",
+      "family_id": "f398",
+      "spelling": "unscrupulous",
+      "part_of_speech": "形容詞",
+      "meaning": "善悪をわきまえない,無節操な,破廉恥な",
+      "suffix": "-"
+    },
+    {
+      "id": "w455",
+      "family_id": "f399",
+      "spelling": "unseasonable",
+      "part_of_speech": "形容詞",
+      "meaning": "時候(季節)はずれの,不順の ,  時を得ない,その場にふさわしくない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w456",
+      "family_id": "f400",
+      "spelling": "unseat",
+      "part_of_speech": "形容詞",
+      "meaning": "(馬が)〈騎手〉を[くらから]振り落とす(unsaddle) ,  …を免職(失格)させる",
+      "suffix": "-"
+    },
+    {
+      "id": "w457",
+      "family_id": "f401",
+      "spelling": "unseeing",
+      "part_of_speech": "形容詞",
+      "meaning": "目で見ていない,気づいていない",
+      "suffix": "-"
+    },
+    {
+      "id": "w458",
+      "family_id": "f402",
+      "spelling": "unseen",
+      "part_of_speech": "形容詞",
+      "meaning": "気づかれない,見られていない ,  目に見えない ,  下調べしていない,即席の",
+      "suffix": "-"
+    },
+    {
+      "id": "w459",
+      "family_id": "f403",
+      "spelling": "unserviceable",
+      "part_of_speech": "形容詞",
+      "meaning": "(壊れたり使い古して)使用できない,役に立たない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w460",
+      "family_id": "f404",
+      "spelling": "unsettle",
+      "part_of_speech": "動詞",
+      "meaning": "〈人心〉を動揺させる,不安にさせる ,  〈固定・安定した物〉をぐらぐらにする,不安定にする",
+      "suffix": "-"
+    },
+    {
+      "id": "w461",
+      "family_id": "f405",
+      "spelling": "unsex",
+      "part_of_speech": "動詞",
+      "meaning": "…を性的能力を奪う,〈特に女性〉を女らしくなくする",
+      "suffix": "-"
+    },
+    {
+      "id": "w462",
+      "family_id": "f406",
+      "spelling": "unsexed",
+      "part_of_speech": "形容詞",
+      "meaning": "(ひなが)雌雄に選別されていない",
+      "suffix": "-"
+    },
+    {
+      "id": "w463",
+      "family_id": "f407",
+      "spelling": "unshackle",
+      "part_of_speech": "動詞",
+      "meaning": "…をかせをはずす",
+      "suffix": "-"
+    },
+    {
+      "id": "w464",
+      "family_id": "f408",
+      "spelling": "unshakable",
+      "part_of_speech": "名詞",
+      "meaning": "揺り動かすことのできない,揺るぎない,確固とした(firm)",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w465",
+      "family_id": "f408",
+      "spelling": "unshaken",
+      "part_of_speech": "形容詞",
+      "meaning": "揺れない,びくともしない",
+      "suffix": "-"
+    },
+    {
+      "id": "w466",
+      "family_id": "f409",
+      "spelling": "unsheathe",
+      "part_of_speech": "形容詞",
+      "meaning": "〈刀など〉をさやから抜く",
+      "suffix": "-"
+    },
+    {
+      "id": "w467",
+      "family_id": "f410",
+      "spelling": "unshod",
+      "part_of_speech": "形容詞",
+      "meaning": "《文》(人が)靴をはいてない,はだしの ,  (馬が)蹄鉄を打ってない",
+      "suffix": "-"
+    },
+    {
+      "id": "w468",
+      "family_id": "f411",
+      "spelling": "unshorn",
+      "part_of_speech": "形容詞",
+      "meaning": "(羊などが)毛を刈取られていない",
+      "suffix": "-"
+    },
+    {
+      "id": "w469",
+      "family_id": "f412",
+      "spelling": "unsnap",
+      "part_of_speech": "不明",
+      "meaning": "…のスナップをはずして脱ぐ",
+      "suffix": "-"
+    },
+    {
+      "id": "w470",
+      "family_id": "f413",
+      "spelling": "unsnarl",
+      "part_of_speech": "不明",
+      "meaning": "…のもつれを解く(ほどく)",
+      "suffix": "-"
+    },
+    {
+      "id": "w471",
+      "family_id": "f414",
+      "spelling": "unsociable",
+      "part_of_speech": "形容詞",
+      "meaning": "打ち解けない,人づき合いの悪い",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w472",
+      "family_id": "f414",
+      "spelling": "unsocial",
+      "part_of_speech": "動詞",
+      "meaning": "非社会的な",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w473",
+      "family_id": "f415",
+      "spelling": "unsolved",
+      "part_of_speech": "不明",
+      "meaning": "未解決の,未解答の",
+      "suffix": "-"
+    },
+    {
+      "id": "w474",
+      "family_id": "f416",
+      "spelling": "unsophisticated",
+      "part_of_speech": "形容詞",
+      "meaning": "世慣れていない,人ずれしてない,素朴な,うぶな",
+      "suffix": "-"
+    },
+    {
+      "id": "w475",
+      "family_id": "f417",
+      "spelling": "unsound",
+      "part_of_speech": "形容詞",
+      "meaning": "(建物・考え方などが)堅固でない,ぐらついている ,  根拠のない,正しい判断に基づかない,論理的でない ,  安全(安定)性のない,当てにならない ,  (心・身体が)健康でない,病的な,不健康な",
+      "suffix": "-"
+    },
+    {
+      "id": "w476",
+      "family_id": "f418",
+      "spelling": "unsparing",
+      "part_of_speech": "形容詞",
+      "meaning": "けちけちしない,物惜しみをしない ,  遠慮会釈のない",
+      "suffix": "-"
+    },
+    {
+      "id": "w477",
+      "family_id": "f419",
+      "spelling": "unspotted",
+      "part_of_speech": "形容詞",
+      "meaning": "《古》道徳的に潔白な,非の打ち所のない ,  はん点のない,まだらでない",
+      "suffix": "-"
+    },
+    {
+      "id": "w478",
+      "family_id": "f420",
+      "spelling": "unsteady",
+      "part_of_speech": "動詞",
+      "meaning": "ぐらぐらする(shaky) ,  不安定な,一定しない ,  (行為などが)むらのある,あてにできない",
+      "suffix": "-"
+    },
+    {
+      "id": "w479",
+      "family_id": "f421",
+      "spelling": "unstressed",
+      "part_of_speech": "形容詞",
+      "meaning": "(音声が)アクセントのない",
+      "suffix": "-"
+    },
+    {
+      "id": "w480",
+      "family_id": "f422",
+      "spelling": "unstrung",
+      "part_of_speech": "形容詞",
+      "meaning": "unstring の過去・過去分詞 ,  (弦楽器・弓などが)弦をはずした(緩めた) ,  自制心を失った,取り乱した",
+      "suffix": "-"
+    },
+    {
+      "id": "w481",
+      "family_id": "f423",
+      "spelling": "unstuck",
+      "part_of_speech": "形容詞",
+      "meaning": "しっかり留められてない,くっついていない ,  うまくいかない",
+      "suffix": "-"
+    },
+    {
+      "id": "w482",
+      "family_id": "f424",
+      "spelling": "unstudied",
+      "part_of_speech": "形容詞",
+      "meaning": "(行為などが)自然な,わざとらしくない",
+      "suffix": "-"
+    },
+    {
+      "id": "w483",
+      "family_id": "f425",
+      "spelling": "unsubstantial",
+      "part_of_speech": "形容詞",
+      "meaning": "がんじょうでない,もろい,弱い ,  実質(実体)のない",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w484",
+      "family_id": "f426",
+      "spelling": "unsullied",
+      "part_of_speech": "形容詞",
+      "meaning": "汚れがない, 汚点のない",
+      "suffix": "-"
+    },
+    {
+      "id": "w485",
+      "family_id": "f427",
+      "spelling": "unsurpassed",
+      "part_of_speech": "形容詞",
+      "meaning": "勝るものがない,卓絶した,無比の",
+      "suffix": "-"
+    },
+    {
+      "id": "w486",
+      "family_id": "f428",
+      "spelling": "unsuspected",
+      "part_of_speech": "形容詞",
+      "meaning": "疑われない,怪しまれない ,  思いもよらない",
+      "suffix": "-"
+    },
+    {
+      "id": "w487",
+      "family_id": "f429",
+      "spelling": "unswerving",
+      "part_of_speech": "形容詞",
+      "meaning": "(意志などが)確固とした,不動の",
+      "suffix": "-"
+    },
+    {
+      "id": "w488",
+      "family_id": "f430",
+      "spelling": "untaught",
+      "part_of_speech": "形容詞",
+      "meaning": "教えられて会得したのではない ,  無学の,無教育の",
+      "suffix": "-"
+    },
+    {
+      "id": "w489",
+      "family_id": "f431",
+      "spelling": "untenable",
+      "part_of_speech": "形容詞",
+      "meaning": "擁護(支持)できない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w490",
+      "family_id": "f432",
+      "spelling": "unthinking",
+      "part_of_speech": "形容詞",
+      "meaning": "考えのない,軽率な ,  思考力のない,気がつかない",
+      "suffix": "-"
+    },
+    {
+      "id": "w491",
+      "family_id": "f433",
+      "spelling": "untidy",
+      "part_of_speech": "形容詞",
+      "meaning": "だらしがない",
+      "suffix": "-"
+    },
+    {
+      "id": "w492",
+      "family_id": "f434",
+      "spelling": "until",
+      "part_of_speech": "動詞",
+      "meaning": "《継続の期限》『…まで[ずっと]』 ,  《否定語の後に》『…までは[しない]』,…になって初めて[…する] ,  《継続の期限》『…する時まで[ずっと]』 ,  《結果》(…して)『ついに』 ,  《否定の主節に対して》『…するまでは[…しない]』,…して初めて[…する](before)",
+      "suffix": "-"
+    },
+    {
+      "id": "w493",
+      "family_id": "f435",
+      "spelling": "untimely",
+      "part_of_speech": "形容詞",
+      "meaning": "早すぎる,まだその時期できない ,  おりの悪い,時機を得ない ,  早すぎて,おり悪く",
+      "suffix": "-ly (副詞化)"
+    },
+    {
+      "id": "w494",
+      "family_id": "f436",
+      "spelling": "untinged",
+      "part_of_speech": "形容詞",
+      "meaning": "なんの兆候も示さない",
+      "suffix": "-"
+    },
+    {
+      "id": "w495",
+      "family_id": "f437",
+      "spelling": "untiring",
+      "part_of_speech": "形容詞",
+      "meaning": "疲れない,疲れを知らない ,  たゆまない,不屈の",
+      "suffix": "-"
+    },
+    {
+      "id": "w496",
+      "family_id": "f438",
+      "spelling": "unto",
+      "part_of_speech": "副詞",
+      "meaning": "…に,の方へ,まで(to)",
+      "suffix": "-"
+    },
+    {
+      "id": "w497",
+      "family_id": "f439",
+      "spelling": "untrained",
+      "part_of_speech": "形容詞",
+      "meaning": "訓練を受けていない,練習を積んでない",
+      "suffix": "-"
+    },
+    {
+      "id": "w498",
+      "family_id": "f440",
+      "spelling": "untrodden",
+      "part_of_speech": "形容詞",
+      "meaning": "踏まれていない,前人未踏の",
+      "suffix": "-"
+    },
+    {
+      "id": "w499",
+      "family_id": "f441",
+      "spelling": "untruth",
+      "part_of_speech": "名詞",
+      "meaning": "真実でないこと,虚偽",
+      "suffix": "-"
+    },
+    {
+      "id": "w500",
+      "family_id": "f442",
+      "spelling": "untutored",
+      "part_of_speech": "形容詞",
+      "meaning": "訓練(教育)を受けていない",
+      "suffix": "-"
+    },
+    {
+      "id": "w501",
+      "family_id": "f443",
+      "spelling": "untwist",
+      "part_of_speech": "不明",
+      "meaning": "よりがもどる,ほどける,〈糸〉のよりをもどす,〈もつれ〉をほどく",
+      "suffix": "-ist (人)"
+    },
+    {
+      "id": "w502",
+      "family_id": "f444",
+      "spelling": "unless",
+      "part_of_speech": "形容詞",
+      "meaning": "『もし…でなければ』,…でないかぎり",
+      "suffix": "-"
+    },
+    {
+      "id": "w503",
+      "family_id": "f445",
+      "spelling": "unusual",
+      "part_of_speech": "形容詞",
+      "meaning": "『普通でない』,異常な",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w504",
+      "family_id": "f446",
+      "spelling": "unutterable",
+      "part_of_speech": "動詞",
+      "meaning": "言いようのない,言語に絶する ,  発音できない",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w505",
+      "family_id": "f447",
+      "spelling": "unversed",
+      "part_of_speech": "形容詞",
+      "meaning": "(…を)経験していない,(…に)熟達していない《+in+名》",
+      "suffix": "-"
+    },
+    {
+      "id": "w506",
+      "family_id": "f448",
+      "spelling": "unwarranted",
+      "part_of_speech": "形容詞",
+      "meaning": "正しいと認められない,是認されない,不当な",
+      "suffix": "-"
+    },
+    {
+      "id": "w507",
+      "family_id": "f449",
+      "spelling": "unwary",
+      "part_of_speech": "形容詞",
+      "meaning": "油断した,不注意な",
+      "suffix": "-"
+    },
+    {
+      "id": "w508",
+      "family_id": "f450",
+      "spelling": "unwell",
+      "part_of_speech": "形容詞",
+      "meaning": "(特に短い時間)体の具合が悪い,気分がすぐれない ,  月経中である",
+      "suffix": "-"
+    },
+    {
+      "id": "w509",
+      "family_id": "f451",
+      "spelling": "unwholesome",
+      "part_of_speech": "形容詞",
+      "meaning": "体に悪い,健康に害がある ,  (道徳的に)有害な,不健全な",
+      "suffix": "-"
+    },
+    {
+      "id": "w510",
+      "family_id": "f452",
+      "spelling": "unworthy",
+      "part_of_speech": "形容詞",
+      "meaning": "『価値のない』,つまらない ,  《補語にのみ用いて》(…に)『ふさわしくない』,あるまじき《+of+名》",
+      "suffix": "-"
+    },
+    {
+      "id": "w511",
+      "family_id": "f453",
+      "spelling": "unwound",
+      "part_of_speech": "不明",
+      "meaning": "unwind の過去・過去分詞",
+      "suffix": "-"
+    },
+    {
+      "id": "w512",
+      "family_id": "f454",
+      "spelling": "unyielding",
+      "part_of_speech": "形容詞",
+      "meaning": "(人・性格が)屈しない,がん固な",
+      "suffix": "-"
+    },
+    {
+      "id": "w513",
+      "family_id": "f455",
+      "spelling": "comport",
+      "part_of_speech": "動詞",
+      "meaning": "〈自分〉を処する ,  (…に)似合う,釣り合う《+『with』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w514",
+      "family_id": "f456",
+      "spelling": "deport",
+      "part_of_speech": "動詞",
+      "meaning": "{動}国外退去させる ,  追放する ,  ふるまう《文語》",
+      "suffix": "-"
+    },
+    {
+      "id": "w515",
+      "family_id": "f457",
+      "spelling": "export",
+      "part_of_speech": "動詞",
+      "meaning": "(外国へ)〈商品〉を『輸出する』《+『名』+『to』+『名』》 ,  〈C〉『輸出品』 ,  〈U〉(…の)『輸出』《+『of』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w516",
+      "family_id": "f458",
+      "spelling": "importunity",
+      "part_of_speech": "不明",
+      "meaning": "しつこさ",
+      "suffix": "-ity (名詞化)"
+    },
+    {
+      "id": "w517",
+      "family_id": "f459",
+      "spelling": "opportune",
+      "part_of_speech": "形容詞",
+      "meaning": "(行為・事などが)適切な ,  (時が)ちょうどよい",
+      "suffix": "-"
+    },
+    {
+      "id": "w518",
+      "family_id": "f459",
+      "spelling": "opportunity",
+      "part_of_speech": "不明",
+      "meaning": "『機会』,好機",
+      "suffix": "-ity (名詞化)"
+    },
+    {
+      "id": "w519",
+      "family_id": "f460",
+      "spelling": "port",
+      "part_of_speech": "動詞",
+      "meaning": "〈C〉〈U〉『港』 ,  〈C〉『港町』,『港市』 ,  (船の)左舷(さげん)",
+      "suffix": "-"
+    },
+    {
+      "id": "w520",
+      "family_id": "f460",
+      "spelling": "portable",
+      "part_of_speech": "形容詞",
+      "meaning": "『持ち運びのできる』,携帯用の ,  携帯用器具,ポータブル(タイプ・ラジオなど)",
+      "suffix": "-able (形容詞化 (可能))"
+    },
+    {
+      "id": "w521",
+      "family_id": "f460",
+      "spelling": "portal",
+      "part_of_speech": "形容詞",
+      "meaning": "〈C〉(堂々とした)門,入り口 ,  《複数形》《文》(大きな建物の)正門,表玄関 ,  《複数形》《文》(…の)発端《+『of』+『名』》",
+      "suffix": "-al (形容詞化)"
+    },
+    {
+      "id": "w522",
+      "family_id": "f460",
+      "spelling": "porter",
+      "part_of_speech": "形容詞",
+      "meaning": "(市場の)運搬人 ,  (駅,空港などの)『赤帽』 ,  《米》(特等車・寝台車の)ボーイ ,  《おもに英》(客の荷物を運ぶホテルなどの)ボーイ,玄関番 ,  黒ビール",
+      "suffix": "-er (人・物)"
+    },
+    {
+      "id": "w523",
+      "family_id": "f460",
+      "spelling": "porterage",
+      "part_of_speech": "不明",
+      "meaning": "運搬人(赤帽)の仕事 ,  運搬料,運び賃",
+      "suffix": "-"
+    },
+    {
+      "id": "w524",
+      "family_id": "f460",
+      "spelling": "portico",
+      "part_of_speech": "形容詞",
+      "meaning": "柱廊玄関(大きな柱で屋根を支えた邸宅の玄関)",
+      "suffix": "-"
+    },
+    {
+      "id": "w525",
+      "family_id": "f460",
+      "spelling": "Portland",
+      "part_of_speech": "不明",
+      "meaning": "ポートランド米国Oregon州北西部の都市 ,  米国Maine州南西部の都市",
+      "suffix": "-"
+    },
+    {
+      "id": "w526",
+      "family_id": "f460",
+      "spelling": "portmanteau",
+      "part_of_speech": "副詞",
+      "meaning": "(特に両開きの)旅行かばん",
+      "suffix": "-"
+    },
+    {
+      "id": "w527",
+      "family_id": "f461",
+      "spelling": "report",
+      "part_of_speech": "動詞",
+      "meaning": "〈C〉(…についての)『報告』,『報道』《+『on』(『of』)+『名』》 ,  〈C〉銃声,砲声,爆発音 ,  〈U〉〈C〉うわさ,評判 ,  …を『報告する』,『報道する』 ,  (上役・警察などの…のことで)〈人〉を『言いつける,訴える』《+『名』〈『人』〉+『to』+『名』+『for』+『名』(doing)》 ,  (…について)『報告する』《+『on』(『upon』)+『名』(do『ing』)》 ,  (…に)『出頭する』《+『for』(『to』)+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w528",
+      "family_id": "f462",
+      "spelling": "sport",
+      "part_of_speech": "形容詞",
+      "meaning": "〈U〉《集合的に》『スポーツ』,運動競技 ,  〈C〉(個々の)『スポーツ』,運動競技 ,  《複数形で》《英》運動会,競技会 ,  〈U〉『気晴らし』,慰め,娯楽 ,  〈C〉《話》スポーツマンらしい人,さっぱりした人,いい人 ,  〈C〉(動・植物の)変種(mutant) ,  スポーツの",
+      "suffix": "-"
+    },
+    {
+      "id": "w529",
+      "family_id": "f462",
+      "spelling": "sportive",
+      "part_of_speech": "不明",
+      "meaning": "遊び戯れる,ふざける(playful)",
+      "suffix": "-ive (形容詞化 (性質))"
+    },
+    {
+      "id": "w530",
+      "family_id": "f462",
+      "spelling": "sports",
+      "part_of_speech": "不明",
+      "meaning": "=sport{形}",
+      "suffix": "-"
+    },
+    {
+      "id": "w531",
+      "family_id": "f462",
+      "spelling": "sportsman",
+      "part_of_speech": "不明",
+      "meaning": "『運動家』,スポーツマン",
+      "suffix": "-"
+    },
+    {
+      "id": "w532",
+      "family_id": "f462",
+      "spelling": "sportsmanlike",
+      "part_of_speech": "形容詞",
+      "meaning": "スポーツマンらしい,公明正大な",
+      "suffix": "-"
+    },
+    {
+      "id": "w533",
+      "family_id": "f462",
+      "spelling": "sportsmanship",
+      "part_of_speech": "不明",
+      "meaning": "スポーツマンシップ(精神)",
+      "suffix": "-"
+    },
+    {
+      "id": "w534",
+      "family_id": "f462",
+      "spelling": "sportswear",
+      "part_of_speech": "不明",
+      "meaning": "スポーツ着,スポーツウェア",
+      "suffix": "-"
+    },
+    {
+      "id": "w535",
+      "family_id": "f462",
+      "spelling": "sportswoman",
+      "part_of_speech": "不明",
+      "meaning": "女子運動(競技)家",
+      "suffix": "-"
+    },
+    {
+      "id": "w536",
+      "family_id": "f462",
+      "spelling": "sporty",
+      "part_of_speech": "形容詞",
+      "meaning": "スポーツマンらしい ,  (服装などが)はでな,いきな,軽快な",
+      "suffix": "-"
+    },
+    {
+      "id": "w537",
+      "family_id": "f463",
+      "spelling": "support",
+      "part_of_speech": "動詞",
+      "meaning": "…を『支える』 ,  〈家族など〉を『養う』,扶養する ,  〈人・主義など〉を『支持する』,擁護する ,  (精神的に)〈人〉を力づける",
+      "suffix": "-"
+    },
+    {
+      "id": "w538",
+      "family_id": "f464",
+      "spelling": "abstract",
+      "part_of_speech": "動詞",
+      "meaning": "『抽象的な』 ,  理論的な,観念的な ,  (美術において)抽象派の ,  〈U〉抽象 ,  〈C〉抜粋,摘要(summary) ,  〈C〉抽象美術作品 ,  (いくつかのものから)〈ある概念〉を抽象する,抽出する《+『名』+『from』+『名』》 ,  〈本・スピーチなど〉を要約する(summarize),抜粋する ,  (…から)〈金属など〉を抽出する,分離する《+『名』+『from』+『名』》",
+      "suffix": "-"
+    },
+    {
+      "id": "w539",
+      "family_id": "f464",
+      "spelling": "abstracted",
+      "part_of_speech": "不明",
+      "meaning": "抽出された ,  ぼんやりした",
+      "suffix": "-"
+    },
+    {
+      "id": "w540",
+      "family_id": "f465",
+      "spelling": "attraction",
+      "part_of_speech": "形容詞",
+      "meaning": "〈U〉『引力』 ,  〈C〉(人を)引きつける力,魅力となる物(事)《+『for』+『名』》 ,  〈C〉呼び物,出し物",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w541",
+      "family_id": "f466",
+      "spelling": "contraction",
+      "part_of_speech": "名詞",
+      "meaning": "〈U〉〈C〉(…の)収縮,短縮《+『of』+『名』》 ,  〈U〉(通貨・資金・支出などの)縮小,節減《+『of』+『名』》 ,  〈U〉(いやなこと・よくないことを)身に負うこと,(悪習などが)身につくこと《+『of』+『名』》 ,  〈C〉陣痛",
+      "suffix": "-tion (名詞化)"
+    },
+    {
+      "id": "w542",
+      "family_id": "f467",
+      "spelling": "protract",
+      "part_of_speech": "副詞",
+      "meaning": "(時間的に)…を長引かせる",
+      "suffix": "-"
+    },
+    {
+      "id": "w543",
+      "family_id": "f468",
+      "spelling": "retract",
+      "part_of_speech": "動詞",
+      "meaning": "…を引っ込ませる ,  〈宣言・約束など〉を撤回する,取り消す ,  引っ込む,縮む ,  (約束などを)取り消す《+『from』+『名』》",
       "suffix": "-"
     }
   ]
