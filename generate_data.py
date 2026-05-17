@@ -6,7 +6,6 @@ import sys
 import csv
 
 def load_csv_master(filename):
-    """CSV形式のマスターデータを読み込む"""
     if not os.path.exists(filename):
         print(f"⚠️ マスターファイル '{filename}' が見つかりません。スキップします。")
         return []
@@ -20,7 +19,6 @@ def load_csv_master(filename):
     return data
 
 def load_ejdict():
-    """ejdict-handのデータをローカルファイルからメモリに読み込む"""
     ejdict_file = "ejdict-hand-utf8.txt"
     if not os.path.exists(ejdict_file):
         print(f"❌ エラー: 辞書ファイル '{ejdict_file}' が見つかりません。")
@@ -49,12 +47,13 @@ def fetch_wiktionary_words(category_name, limit=None):
     
     headers = {"User-Agent": "EtymologyLearningApp/1.3 (Educational purpose)"}
     
-    print(f"[{category_name}] を検索中", end="", flush=True)
+    print(f"[{category_name}] をWiktionaryで検索中", end="", flush=True)
     words = []
     
     while True:
         try:
             response = requests.get(url, params=params, headers=headers)
+            
             if response.status_code == 429:
                 print(" ⏳制限に達しました。10秒待機して再試行します...", end="", flush=True)
                 time.sleep(10)
@@ -71,8 +70,12 @@ def fetch_wiktionary_words(category_name, limit=None):
                 title = member["title"]
                 if " " not in title and "-" not in title:
                     words.append(title)
-                if limit and len(words) >= limit: break
-        if limit and len(words) >= limit: break
+                
+                if limit and len(words) >= limit:
+                    break
+        
+        if limit and len(words) >= limit:
+            break
             
         if "continue" in data and "cmcontinue" in data["continue"]:
             params["cmcontinue"] = data["continue"]["cmcontinue"]
@@ -82,11 +85,13 @@ def fetch_wiktionary_words(category_name, limit=None):
             break
             
     print(f" -> {len(words)}件 取得完了")
-    if limit: words = words[:limit]
+    if limit:
+        words = words[:limit]
     return words
 
 def analyze_suffix(word, suffix_master):
-    if not suffix_master: return "-"
+    if not suffix_master:
+        return "-"
     sorted_suffixes = sorted(suffix_master, key=lambda x: len(x['suffix']), reverse=True)
     for suf_info in sorted_suffixes:
         if word.endswith(suf_info['suffix']):
@@ -94,6 +99,7 @@ def analyze_suffix(word, suffix_master):
     return "-"
 
 def load_existing_data(filename="etymology_data.json"):
+    """既存のJSONデータを読み込み、差分更新を行えるようにする"""
     if os.path.exists(filename):
         with open(filename, "r", encoding="utf-8") as f:
             try:
@@ -105,9 +111,10 @@ def load_existing_data(filename="etymology_data.json"):
     return {"etymologies": [], "word_families": [], "words": []}
 
 def generate_real_data():
-    print("=== データ生成プロセス開始 ===")
+    print("=== データ生成プロセス開始 (Wiktionary API 高精度版) ===")
+    start_time = time.time()
     
-    # マスターデータの読み込み
+    # 1. マスターデータの読み込み
     prefix_master = load_csv_master("prefix_master.csv")
     root_master = load_csv_master("root_master.csv")
     etymology_master = prefix_master + root_master
@@ -124,8 +131,10 @@ def generate_real_data():
     word_families = existing_data["word_families"]
     words_data = existing_data["words"]
 
+    # 既に処理済みの語源IDをセットとして取得（スキップ判定用）
     processed_ety_ids = {ety["id"] for ety in etymologies}
 
+    # IDカウンターの復元
     max_family_id = 0
     for f in word_families:
         num = int(f["id"].replace("f", ""))
@@ -140,7 +149,9 @@ def generate_real_data():
 
     has_new_data = False
 
+    # 2. マスターデータの各語源ごとに処理ループ
     for ety in etymology_master:
+        # スキップ判定
         if ety["id"] in processed_ety_ids:
             print(f"⏭️ [{ety['spelling']}] は既に取得済みのためスキップします。")
             continue
@@ -148,12 +159,14 @@ def generate_real_data():
         fetched_words = fetch_wiktionary_words(ety["category"], limit=None)
         time.sleep(3) 
 
+        # 辞書フィルタリング & 語根の厳格フィルタリング
         valid_words = []
-        target_spelling = ety["spelling"].lower()
+        target_spelling = ety["spelling"].lower().replace('-', '')
         
         for w in fetched_words:
             w_lower = w.lower()
             if w_lower in ejdict:
+                # 語根(root)の場合、指定した綴りが含まれていない単語は除外する
                 if ety["type"] == "root" and target_spelling not in w_lower:
                     continue
                 valid_words.append(w)
@@ -161,7 +174,7 @@ def generate_real_data():
         print(f"  -> 辞書フィルタリング後: {len(valid_words)}件の単語が残りました")
 
         if len(valid_words) == 0:
-            print(f"⚠️ 有効な単語が0件だったため、[{ety['spelling']}] は保存しません。")
+            print(f"⚠️ 有効な単語が0件だったため、[{ety['spelling']}] は保存しません（次回再試行します）。")
             continue
 
         has_new_data = True
@@ -172,7 +185,7 @@ def generate_real_data():
             "meaning": ety["meaning"]
         })
 
-        # グループ化処理
+        # 語幹・語根でグループ化
         groups = {}
         for w in valid_words:
             w_lower = w.lower()
@@ -192,20 +205,18 @@ def generate_real_data():
                 groups[stem_key] = []
             groups[stem_key].append(w)
 
-        # データ格納 ＆ Explanationのリッチ化
+        # データ構造への格納
         for stem_key, words_in_group in groups.items():
             family_id = f"f{family_id_counter}"
-            base_word = words_in_group[0]
+            base_word = words_in_group[0] 
             
             # === Explanation の動的生成 ===
             if ety["type"] == "prefix":
                 prefix_clean = ety['spelling'].replace('-', '')
-                # 残りのパーツ（語根部分）を抽出
                 base_part = base_word[len(prefix_clean):] if base_word.lower().startswith(prefix_clean) else base_word
                 
-                # root_master から残りのパーツに該当する語根があるか探す
                 found_root_spell = base_part
-                found_root_meaning = "?" # マスターに無い場合は ? になる
+                found_root_meaning = "?" 
                 for r in root_master:
                     if r['spelling'] in base_part:
                         found_root_spell = r['spelling']
@@ -215,14 +226,12 @@ def generate_real_data():
                 explanation = f"{prefix_clean}({ety['meaning']}) + {found_root_spell}({found_root_meaning})"
                 
             else:
-                # 語根(root)の場合
                 idx = base_word.lower().find(target_spelling)
                 if idx > 0:
-                    prefix_part = base_word[:idx] # 例: import の im
+                    prefix_part = base_word[:idx] 
                     found_pref_spell = prefix_part
                     found_pref_meaning = "?"
                     
-                    # prefix_master から前方のパーツに該当する接頭辞があるか探す
                     for p in prefix_master:
                         p_clean = p['spelling'].replace('-', '')
                         if p_clean in prefix_part or prefix_part in p_clean:
@@ -232,7 +241,6 @@ def generate_real_data():
                             
                     explanation = f"{found_pref_spell}({found_pref_meaning}) + {target_spelling}({ety['meaning']})"
                 else:
-                    # 語根が先頭にある単語
                     explanation = f"{target_spelling}({ety['meaning']}) から派生"
             
             word_families.append({
@@ -263,6 +271,7 @@ def generate_real_data():
                 })
                 word_id_counter += 1
 
+    # 4. JSONへ差分保存
     if has_new_data:
         final_data = {
             "etymologies": etymologies,
@@ -271,9 +280,11 @@ def generate_real_data():
         }
         with open('etymology_data.json', 'w', encoding='utf-8') as f:
             json.dump(final_data, f, ensure_ascii=False, indent=2)
-        print("✨ すべての処理が完了し、etymology_data.json を更新しました！")
+        end_time = time.time()
+        print(f"✨ すべての処理が完了し、etymology_data.json を更新しました！ (所要時間: {end_time - start_time:.1f}秒)")
     else:
-        print("✅ 新しく追加するデータはありませんでした。")
+        end_time = time.time()
+        print(f"✅ 新しく追加するデータはありませんでした。(所要時間: {end_time - start_time:.1f}秒)")
 
 if __name__ == "__main__":
     generate_real_data()
