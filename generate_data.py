@@ -6,6 +6,11 @@ import sys
 import csv
 
 # ==========================================
+# 🛑 キャッシュ設定
+# ==========================================
+CACHE_FILE = "wiktionary_cache.json"
+
+# ==========================================
 # 🛑 ブラックリスト
 # ==========================================
 # 偶然の一致で間違ったグループに入ってしまうのを防ぐ
@@ -53,7 +58,29 @@ def load_ejdict():
                 dictionary[word.lower()] = meaning
     return dictionary
 
-def fetch_wiktionary_words(category_name, limit=None): 
+def load_cache():
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            try:
+                print(f"📦 キャッシュファイル '{CACHE_FILE}' を読み込みました。")
+                return json.load(f)
+            except json.JSONDecodeError:
+                pass
+    return {}
+
+def save_cache(cache):
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+def fetch_wiktionary_words(category_name, cache, limit=None): 
+    if category_name in cache:
+        print(f"⚡ [{category_name}] キャッシュから即時読み込み", end="", flush=True)
+        words = cache[category_name]
+        print(f" -> {len(words)}件")
+        if limit:
+            return words[:limit]
+        return words
+
     url = "https://en.wiktionary.org/w/api.php"
     params = {
         "action": "query",
@@ -104,6 +131,11 @@ def fetch_wiktionary_words(category_name, limit=None):
             break
             
     print(f" -> {len(words)}件 取得完了")
+    
+    # 取得したデータをキャッシュに保存
+    cache[category_name] = words
+    save_cache(cache)
+
     if limit:
         words = words[:limit]
     return words
@@ -144,17 +176,6 @@ def analyze_suffix(word, suffix_master):
             
     return {"display": "-", "pos": "-"}
 
-def load_existing_data(filename="etymology_data.json"):
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as f:
-            try:
-                data = json.load(f)
-                print(f"📦 既存データ '{filename}' を読み込みました。")
-                return data
-            except json.JSONDecodeError:
-                print(f"⚠️ '{filename}' の形式が不正です。新規作成として扱います。")
-    return {"etymologies": [], "word_families": [], "words": []}
-
 def generate_real_data():
     print("=== データ生成プロセス開始 ===")
     start_time = time.time()
@@ -169,27 +190,15 @@ def generate_real_data():
 
     suffix_master = load_csv_master("suffix_master.csv")
     ejdict = load_ejdict()
-    existing_data = load_existing_data()
+    wiktionary_cache = load_cache()
     
-    etymologies = existing_data["etymologies"]
-    word_families = existing_data["word_families"]
-    words_data = existing_data["words"]
+    # 毎回全体をゼロから再構築する（追記型をやめる）
+    etymologies = []
+    word_families = []
+    words_data = []
 
-    processed_ety_ids = {ety["id"] for ety in etymologies}
-
-    max_family_id = 0
-    for f in word_families:
-        num = int(f["id"].replace("f", ""))
-        if num > max_family_id: max_family_id = num
-    family_id_counter = max_family_id + 1
-
-    max_word_id = 0
-    for w in words_data:
-        num = int(w["id"].replace("w", ""))
-        if num > max_word_id: max_word_id = num
-    word_id_counter = max_word_id + 1
-
-    has_new_data = False
+    family_id_counter = 1
+    word_id_counter = 1
 
     common_prefixes = [
         "a", "ab", "abs", "ad", "ac", "af", "ag", "al", "an", "ap", "ar", "as", "at", 
@@ -209,13 +218,13 @@ def generate_real_data():
         if not ety.get("category"):
             print(f"⚠️ [{ety['spelling']}] は category が設定されていないためスキップします。")
             continue
-            
-        if ety["id"] in processed_ety_ids:
-            print(f"⏭️ [{ety['spelling']}] は既に取得済みのためスキップします。")
-            continue
 
-        fetched_words = fetch_wiktionary_words(ety["category"], limit=None)
-        time.sleep(3) 
+        is_cached = ety["category"] in wiktionary_cache
+        fetched_words = fetch_wiktionary_words(ety["category"], wiktionary_cache, limit=None)
+        
+        # 新規取得時のみAPI負荷軽減の待機を入れる
+        if not is_cached:
+            time.sleep(3) 
 
         valid_words = []
         target_spelling = ety["spelling"].lower().replace('-', '')
@@ -327,6 +336,9 @@ def generate_real_data():
 
         for stem_key, words_in_group in groups.items():
             family_id = f"f{family_id_counter}"
+            
+            # 🌟【修正】文字数の短い順にソートして、接尾辞のつかない最も原形に近い単語を代表単語(base_word)にする
+            words_in_group.sort(key=len)
             base_word = words_in_group[0] 
             
             # ==========================================
@@ -386,15 +398,13 @@ def generate_real_data():
                 "etymology_id": ety["id"],
                 "base_word": base_word,
                 "explanation": explanation,
-                "explanation_parts": explanation_parts  # UI用の構造化データを追加
+                "explanation_parts": explanation_parts
             })
             family_id_counter += 1
 
             for w in words_in_group:
-                if is_compound(w, ejdict):
-                    suffix_data = {"display": "-", "pos": "-"}
-                else:
-                    suffix_data = analyze_suffix(w, suffix_master)
+                # 🌟【修正ポイント】複合語の判定による無条件スキップを廃止し、接尾辞があれば常に取得する
+                suffix_data = analyze_suffix(w, suffix_master)
                     
                 meaning_text = ejdict[w]
                 pos = "不明"
@@ -432,19 +442,17 @@ def generate_real_data():
                 })
                 word_id_counter += 1
 
-    if has_new_data:
-        final_data = {
-            "etymologies": etymologies,
-            "word_families": word_families,
-            "words": words_data
-        }
-        with open('etymology_data.json', 'w', encoding='utf-8') as f:
-            json.dump(final_data, f, ensure_ascii=False, indent=2)
-        end_time = time.time()
-        print(f"✨ すべての処理が完了し、etymology_data.json を更新しました！ (所要時間: {end_time - start_time:.1f}秒)")
-    else:
-        end_time = time.time()
-        print(f"✅ 新しく追加するデータはありませんでした。(所要時間: {end_time - start_time:.1f}秒)")
+    # キャッシュを使って毎回全件生成するため、判定なしに保存
+    final_data = {
+        "etymologies": etymologies,
+        "word_families": word_families,
+        "words": words_data
+    }
+    with open('etymology_data.json', 'w', encoding='utf-8') as f:
+        json.dump(final_data, f, ensure_ascii=False, indent=2)
+        
+    end_time = time.time()
+    print(f"✨ すべての処理が完了し、etymology_data.json を最新化しました！ (所要時間: {end_time - start_time:.1f}秒)")
 
 if __name__ == "__main__":
     generate_real_data()
