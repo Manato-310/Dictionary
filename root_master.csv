@@ -1,3 +1,21 @@
-id,type,spelling,meaning,category
-r1,root,port,運ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(fare)
-r2,root,tract,引く,English_terms_derived_from_the_Proto-Indo-European_root_*dʰregʰ-
+﻿id,type,spelling,meaning,category
+r1,root,fic,つくる、する、面,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r2,root,fact,つくる、する、面,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r3,root,fect,つくる、する、面,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r4,root,feat,つくる、する、面,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r5,root,fig,つくる、する、面,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r6,root,fy,つくる、する、面,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r7,root,face,つくる、する、面,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r8,root,fake,つくる、する、面,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r9,root,sist,立つ,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r10,root,st,立つ,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r11,root,stand,立つ,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r12,root,store,立つ,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r13,root,state,立つ,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r14,root,stood,立つ,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r15,root,cept,つかみ取る,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r16,root,cip,つかみ取る,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r17,root,cap,つかみ取る,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r18,root,ceive,つかみ取る,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r19,root,cup,つかみ取る,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r20,root,chase,つかみ取る,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
