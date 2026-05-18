@@ -6,7 +6,7 @@ import sys
 import csv
 
 # ==========================================
-# 🛑 ブラックリスト（誤爆除外リスト）
+# 🛑 ブラックリスト
 # ==========================================
 # 偶然の一致で間違ったグループに入ってしまうのを防ぐ
 EXCLUDE_LIST = {
@@ -14,7 +14,7 @@ EXCLUDE_LIST = {
 }
 
 # ==========================================
-# 💎 カスタム語源辞書（真理の書）
+# 💎 カスタム語源辞書
 # ==========================================
 # 激しく文字が変形(ope -> of)しており、システムが自動判定できない単語の
 # 「正しいパーツと意味」を強制的に上書き指定します。
@@ -330,8 +330,10 @@ def generate_real_data():
             base_word = words_in_group[0] 
             
             # ==========================================
-            # 🌟 説明文（explanation）の生成ロジック
+            # 🌟 説明文（explanation）とUI用パーツ（explanation_parts）の生成ロジック
             # ==========================================
+            explanation_parts = []
+
             if ety["type"] == "prefix":
                 prefix_clean = ety['spelling'].replace('-', '')
                 base_part = base_word[len(prefix_clean):] if base_word.startswith(prefix_clean) else base_word
@@ -343,12 +345,20 @@ def generate_real_data():
                         found_root_meaning = r['meaning']
                         break
                 explanation = f"{prefix_clean}({ety['meaning']}) + {found_root_spell}({found_root_meaning})"
+                
+                # UI用バッジパーツの構築
+                explanation_parts.append({"type": "prefix", "text": prefix_clean, "meaning": ety['meaning']})
+                explanation_parts.append({"type": "root", "text": found_root_spell, "meaning": found_root_meaning})
+
             else:
                 # 💎 カスタム辞書に登録されていれば、強制上書きする！
                 if base_word in CUSTOM_ETYMOLOGY:
                     found_pref_spell = CUSTOM_ETYMOLOGY[base_word]["prefix"]
                     found_pref_meaning = CUSTOM_ETYMOLOGY[base_word]["prefix_meaning"]
                     explanation = f"{found_pref_spell}({found_pref_meaning}) + {target_spelling}({ety['meaning']})"
+                    
+                    explanation_parts.append({"type": "prefix", "text": found_pref_spell, "meaning": found_pref_meaning})
+                    explanation_parts.append({"type": "root", "text": target_spelling, "meaning": ety['meaning']})
                 else:
                     idx = base_word.find(target_spelling)
                     if idx > 0:
@@ -362,14 +372,21 @@ def generate_real_data():
                                 found_pref_meaning = p['meaning']
                                 break
                         explanation = f"{found_pref_spell}({found_pref_meaning}) + {target_spelling}({ety['meaning']})"
+                        
+                        explanation_parts.append({"type": "prefix", "text": found_pref_spell, "meaning": found_pref_meaning})
+                        explanation_parts.append({"type": "root", "text": target_spelling, "meaning": ety['meaning']})
                     else:
                         explanation = f"{target_spelling}({ety['meaning']}) から派生"
+                        
+                        explanation_parts.append({"type": "root", "text": target_spelling, "meaning": ety['meaning']})
+                        explanation_parts.append({"type": "other", "text": "から派生", "meaning": ""})
             
             word_families.append({
                 "id": family_id,
                 "etymology_id": ety["id"],
                 "base_word": base_word,
-                "explanation": explanation
+                "explanation": explanation,
+                "explanation_parts": explanation_parts  # UI用の構造化データを追加
             })
             family_id_counter += 1
 
