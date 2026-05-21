@@ -1,0 +1,90 @@
+com-, con-, co-	ともに、強意
+re-	後ろへ、再び、反対に、強意
+in-, il-, im-, en-, em-	中へ、上に、その方向へ、その状態にする
+ad-, ar-, at-, ap-, af-, as-, ag-, ac-, an-, a-	それへ、付加
+pre-, per-, pro-, pur-	前に、前もって、代わりの
+ex-, ef-, e-	外へ、強意
+dis-, di-	否定、離れて、強意
+de-	離れて、下へ、否定、徹底的に、強意、外へ
+sub-, suf-, sup-, sus-, suc-, sug-	下に、代理、下から上へ
+in-, im-	否定
+un-	否定、反転
+ab-, abs-	離れた
+per-, par-	貫き通す、徹底的に
+ob-, oc-, of-, op-	その方向へ、反対の、後ろへ
+inter-, enter-	間の、中へ
+sur-, super-, supra-	上の、超えて
+trans-, tra-	向こう側へ、変換
+se-	離れて
+mis-	誤って、悪い
+sym-, syn-	ともに
+uni-	1 つ
+tri-	3 つの
+bene-, bon-, beni-	よい
+auto-	自身
+over-	上に、過度に、超えて
+bi-, di-	2 つの
+meso-, mid-, med-, mezzo-	中間
+mal-	悪い
+tele-	遠く
+non-	否定
+anti-	反する
+a-	否定、除外
+ambi-	周囲
+multi-	多くの
+para-	反する、近く
+milli-	千、千分の一
+semi-	半分の
+micro-	小さな
+mono-	単一の
+hydro-	水の
+contra-, contro-	反対に
+photo-	光
+deca-, deci-	10 の
+oxy-	酸
+techno-	技術の
+psycho-	精神、心理
+epi-	上の、間の
+a-	接する、その方向へ
+intro-	中へ
+gastro-	胃、腹
+yester-	すぐ前の
+retro-	後ろ
+infra-, infer-	下の
+agri-, agro-	畑、野原
+sim-, sin-	1 つ
+biblio-	本
+dia-	横切って
+penta-, pent-	5 つの
+octa-, octo-	8 つの
+anthropo-	人間
+ortho-	まっすぐ、ただしさ
+ana-	上げる、戻す
+tetra-	4 つの
+poly-	たくさんの
+archi-	主任、主な
+magni-	大きい
+pedi-, pedo-	子ども
+palaeo-, paleo-	古代
+dendro-	樹木の
+hexa-	6 つの
+ennea-	9 つの
+extra-	外側
+onto-	存在
+omni-	すべて
+xeno-	外国人、未知の
+spectro-	分光
+mega-	大きな、百万
+acro-	高い
+hepta-	7 つの
+dodeca-	12 の
+dys-	悪い
+pan-	すべて
+macro-	大きな、長い
+post-	後に
+philo-	愛
+logo-	言語の
+hemi-	半分の
+demi-	半分の
+stetho-	胸の
+peri-	周辺の

@@ -6,28 +6,30 @@ import sys
 import csv
 
 # ==========================================
-# 🛑 キャッシュ設定
+# キャッシュ設定
 # ==========================================
 CACHE_FILE = "wiktionary_cache.json"
 
 # ==========================================
-# 🛑 ブラックリスト
+# 接頭辞の例外リスト
 # ==========================================
-# 偶然の一致で間違ったグループに入ってしまうのを防ぐ
 EXCLUDE_LIST = {
-    "of": ["office", "officer", "official", "officiate"],
+    "of": ["office"],
 }
 
 # ==========================================
-# 💎 カスタム語源辞書
+# カスタム辞書
 # ==========================================
-# 激しく文字が変形(ope -> of)しており、システムが自動判定できない単語の
-# 「正しいパーツと意味」を強制的に上書き指定します。
 CUSTOM_ETYMOLOGY = {
     "office": {"prefix": "ope", "prefix_meaning": "仕事・富"},
-    "officer": {"prefix": "ope", "prefix_meaning": "仕事・富"},
-    "official": {"prefix": "ope", "prefix_meaning": "仕事・富"},
-    "officiate": {"prefix": "ope", "prefix_meaning": "仕事・富"},
+}
+
+# ==========================================
+# 接尾辞の例外リスト
+# ==========================================
+SUFFIX_EXCEPTIONS = {
+    "gooey": {"suffix": "y", "role": "のような、満ちた"},
+    "clayey": {"suffix": "y", "role": "のような、満ちた"}
 }
 
 def load_csv_master(filename):
@@ -150,9 +152,16 @@ def is_compound(word, ejdict):
             return True
     return False
 
-def analyze_suffix(word, suffix_master):
+def analyze_suffix(word, suffix_master, ejdict):
     if not suffix_master:
         return {"display": "-", "pos": "-"}
+    
+    if word in SUFFIX_EXCEPTIONS:
+        exc = SUFFIX_EXCEPTIONS[word]
+        return {
+            "display": f"-{exc['suffix']} ({exc['role']})",
+            "pos": "形容詞"
+        }
         
     sorted_suffixes = sorted(suffix_master, key=lambda x: len(x['suffix']), reverse=True)
     vowels = {'a', 'e', 'i', 'o', 'u'}

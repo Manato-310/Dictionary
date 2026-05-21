@@ -19,3 +19,125 @@ e17,prefix,ac-,それへ、付加,English_terms_prefixed_with_ac-
 e18,prefix,an-,それへ、付加,English_terms_prefixed_with_an-
 e19,prefix,a-,それへ、付加,English_terms_prefixed_with_a-
 e20,prefix,pre-,前に、前もって、代わりの,English_terms_prefixed_with_pre-
+e21,prefix,per-,前に、前もって、代わりの,English_terms_prefixed_with_per-
+e22,prefix,pro-,前に、前もって、代わりの,English_terms_prefixed_with_pro-
+e23,prefix,pur-,前に、前もって、代わりの,English_terms_prefixed_with_pur-
+e24,prefix,ex-,外へ、強意,English_terms_prefixed_with_ex-
+e25,prefix,ef-,外へ、強意,English_terms_prefixed_with_ef-
+e26,prefix,e-,外へ、強意,English_terms_prefixed_with_e-
+e27,prefix,dis-,否定、離れて、強意,English_terms_prefixed_with_dis-
+e28,prefix,di-,否定、離れて、強意,English_terms_prefixed_with_di-
+e29,prefix,de-,離れて、下へ、否定、徹底的に、強意、外へ,English_terms_prefixed_with_de-
+e30,prefix,sub-,下に、代理、下から上へ,English_terms_prefixed_with_sub-
+e31,prefix,suf-,下に、代理、下から上へ,English_terms_prefixed_with_suf-
+e32,prefix,sup-,下に、代理、下から上へ,English_terms_prefixed_with_sup-
+e33,prefix,sus-,下に、代理、下から上へ,English_terms_prefixed_with_sus-
+e34,prefix,suc-,下に、代理、下から上へ,English_terms_prefixed_with_suc-
+e35,prefix,sug-,下に、代理、下から上へ,English_terms_prefixed_with_sug-
+e36,prefix,in-,否定,English_terms_prefixed_with_in-
+e37,prefix,im-,否定,English_terms_prefixed_with_im-
+e38,prefix,un-,否定、反転,English_terms_prefixed_with_un-
+e39,prefix,ab-,離れた,English_terms_prefixed_with_ab-
+e40,prefix,abs-,離れた,English_terms_prefixed_with_abs-
+e41,prefix,per-,貫き通す、徹底的に,English_terms_prefixed_with_per-
+e42,prefix,par-,貫き通す、徹底的に,English_terms_prefixed_with_par-
+e43,prefix,ob-,その方向へ、反対の、後ろへ,English_terms_prefixed_with_ob-
+e44,prefix,oc-,その方向へ、反対の、後ろへ,English_terms_prefixed_with_oc-
+e45,prefix,of-,その方向へ、反対の、後ろへ,English_terms_prefixed_with_of-
+e46,prefix,op-,その方向へ、反対の、後ろへ,English_terms_prefixed_with_op-
+e47,prefix,inter-,間の、中へ,English_terms_prefixed_with_inter-
+e48,prefix,enter-,間の、中へ,English_terms_prefixed_with_enter-
+e49,prefix,sur-,上の、超えて,English_terms_prefixed_with_sur-
+e50,prefix,super-,上の、超えて,English_terms_prefixed_with_super-
+e51,prefix,supra-,上の、超えて,English_terms_prefixed_with_supra-
+e52,prefix,trans-,向こう側へ、変換,English_terms_prefixed_with_trans-
+e53,prefix,tra-,向こう側へ、変換,English_terms_prefixed_with_tra-
+e54,prefix,se-,離れて,English_terms_prefixed_with_se-
+e55,prefix,mis-,誤って、悪い,English_terms_prefixed_with_mis-
+e56,prefix,sym-,ともに,English_terms_prefixed_with_sym-
+e57,prefix,syn-,ともに,English_terms_prefixed_with_syn-
+e58,prefix,uni-,1 つ,English_terms_prefixed_with_uni-
+e59,prefix,tri-,3 つの,English_terms_prefixed_with_tri-
+e60,prefix,bene-,よい,English_terms_prefixed_with_bene-
+e61,prefix,bon-,よい,English_terms_prefixed_with_bon-
+e62,prefix,beni-,よい,English_terms_prefixed_with_beni-
+e63,prefix,auto-,自身,English_terms_prefixed_with_auto-
+e64,prefix,over-,上に、過度に、超えて,English_terms_prefixed_with_over-
+e65,prefix,bi-,2 つの,English_terms_prefixed_with_bi-
+e66,prefix,di-,2 つの,English_terms_prefixed_with_di-
+e67,prefix,meso-,中間,English_terms_prefixed_with_meso-
+e68,prefix,mid-,中間,English_terms_prefixed_with_mid-
+e69,prefix,med-,中間,English_terms_prefixed_with_med-
+e70,prefix,mezzo-,中間,English_terms_prefixed_with_mezzo-
+e71,prefix,mal-,悪い,English_terms_prefixed_with_mal-
+e72,prefix,tele-,遠く,English_terms_prefixed_with_tele-
+e73,prefix,non-,否定,English_terms_prefixed_with_non-
+e74,prefix,anti-,反する,English_terms_prefixed_with_anti-
+e75,prefix,a-,否定、除外,English_terms_prefixed_with_a-
+e76,prefix,ambi-,周囲,English_terms_prefixed_with_ambi-
+e77,prefix,multi-,多くの,English_terms_prefixed_with_multi-
+e78,prefix,para-,反する、近く,English_terms_prefixed_with_para-
+e79,prefix,milli-,千、千分の一,English_terms_prefixed_with_milli-
+e80,prefix,semi-,半分の,English_terms_prefixed_with_semi-
+e81,prefix,micro-,小さな,English_terms_prefixed_with_micro-
+e82,prefix,mono-,単一の,English_terms_prefixed_with_mono-
+e83,prefix,hydro-,水の,English_terms_prefixed_with_hydro-
+e84,prefix,contra-,反対に,English_terms_prefixed_with_contra-
+e85,prefix,contro-,反対に,English_terms_prefixed_with_contro-
+e86,prefix,photo-,光,English_terms_prefixed_with_photo-
+e87,prefix,deca-,10 の,English_terms_prefixed_with_deca-
+e88,prefix,deci-,10 の,English_terms_prefixed_with_deci-
+e89,prefix,oxy-,酸,English_terms_prefixed_with_oxy-
+e90,prefix,techno-,技術の,English_terms_prefixed_with_techno-
+e91,prefix,psycho-,精神、心理,English_terms_prefixed_with_psycho-
+e92,prefix,epi-,上の、間の,English_terms_prefixed_with_epi-
+e93,prefix,a-,接する、その方向へ,English_terms_prefixed_with_a-
+e94,prefix,intro-,中へ,English_terms_prefixed_with_intro-
+e95,prefix,gastro-,胃、腹,English_terms_prefixed_with_gastro-
+e96,prefix,yester-,すぐ前の,English_terms_prefixed_with_yester-
+e97,prefix,retro-,後ろ,English_terms_prefixed_with_retro-
+e98,prefix,infra-,下の,English_terms_prefixed_with_infra-
+e99,prefix,infer-,下の,English_terms_prefixed_with_infer-
+e100,prefix,agri-,畑、野原,English_terms_prefixed_with_agri-
+e101,prefix,agro-,畑、野原,English_terms_prefixed_with_agro-
+e102,prefix,sim-,1 つ,English_terms_prefixed_with_sim-
+e103,prefix,sin-,1 つ,English_terms_prefixed_with_sin-
+e104,prefix,biblio-,本,English_terms_prefixed_with_biblio-
+e105,prefix,dia-,横切って,English_terms_prefixed_with_dia-
+e106,prefix,penta-,5 つの,English_terms_prefixed_with_penta-
+e107,prefix,pent-,5 つの,English_terms_prefixed_with_pent-
+e108,prefix,octa-,8 つの,English_terms_prefixed_with_octa-
+e109,prefix,octo-,8 つの,English_terms_prefixed_with_octo-
+e110,prefix,anthropo-,人間,English_terms_prefixed_with_anthropo-
+e111,prefix,ortho-,まっすぐ、ただしさ,English_terms_prefixed_with_ortho-
+e112,prefix,ana-,上げる、戻す,English_terms_prefixed_with_ana-
+e113,prefix,tetra-,4 つの,English_terms_prefixed_with_tetra-
+e114,prefix,poly-,たくさんの,English_terms_prefixed_with_poly-
+e115,prefix,archi-,主任、主な,English_terms_prefixed_with_archi-
+e116,prefix,magni-,大きい,English_terms_prefixed_with_magni-
+e117,prefix,pedi-,子ども,English_terms_prefixed_with_pedi-
+e118,prefix,pedo-,子ども,English_terms_prefixed_with_pedo-
+e119,prefix,palaeo-,古代,English_terms_prefixed_with_palaeo-
+e120,prefix,paleo-,古代,English_terms_prefixed_with_paleo-
+e121,prefix,dendro-,樹木の,English_terms_prefixed_with_dendro-
+e122,prefix,hexa-,6 つの,English_terms_prefixed_with_hexa-
+e123,prefix,ennea-,9 つの,English_terms_prefixed_with_ennea-
+e124,prefix,extra-,外側,English_terms_prefixed_with_extra-
+e125,prefix,onto-,存在,English_terms_prefixed_with_onto-
+e126,prefix,omni-,すべて,English_terms_prefixed_with_omni-
+e127,prefix,xeno-,外国人、未知の,English_terms_prefixed_with_xeno-
+e128,prefix,spectro-,分光,English_terms_prefixed_with_spectro-
+e129,prefix,mega-,大きな、百万,English_terms_prefixed_with_mega-
+e130,prefix,acro-,高い,English_terms_prefixed_with_acro-
+e131,prefix,hepta-,7 つの,English_terms_prefixed_with_hepta-
+e132,prefix,dodeca-,12 の,English_terms_prefixed_with_dodeca-
+e133,prefix,dys-,悪い,English_terms_prefixed_with_dys-
+e134,prefix,pan-,すべて,English_terms_prefixed_with_pan-
+e135,prefix,macro-,大きな、長い,English_terms_prefixed_with_macro-
+e136,prefix,post-,後に,English_terms_prefixed_with_post-
+e137,prefix,philo-,愛,English_terms_prefixed_with_philo-
+e138,prefix,logo-,言語の,English_terms_prefixed_with_logo-
+e139,prefix,hemi-,半分の,English_terms_prefixed_with_hemi-
+e140,prefix,demi-,半分の,English_terms_prefixed_with_demi-
+e141,prefix,stetho-,胸の,English_terms_prefixed_with_stetho-
+e142,prefix,peri-,周辺の,English_terms_prefixed_with_peri-
