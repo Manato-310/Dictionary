@@ -60,3 +60,739 @@
 -in	化学物質
 -ium	物質
 -osis	病気
+-ability	特質
+-able	～できる、～され得る
+-able	～にふさわしい、～の特徴をもった
+-acy	状態、特質、行為
+-age	行為、状態
+-age	行為、状態、地位、集合、場所
+-al	行為、結果
+-al	～の、～に関連した
+-an	～の性質、～の人
+-ian	～の性質、～の人
+-ana	文献、知識、語録
+-iana	文献、知識、語録
+-ance	
+-ance	行為、状態、特質
+-ancy	元の形容詞の示す行為、状態、特質
+-ancy	行為、状態、特質
+-ant	～の特質を持つ
+-ant	～する人、～する物
+-arian	～関連の人、～支持者
+-ary	～の特徴を持つ
+-ary	～に関する、～の
+-ary	～する人、～に関するもの
+-ate	～させる、～する
+-ate	～の特徴を持つ
+-iate	～の特徴を持つ
+-ate	～にする
+-tiate	～にする
+-uate	～にする
+-atic	
+-ation	
+-ation	
+-ative	～の性質を持った
+-itive	～の性質を持った
+-atory	～の性質を持った
+-atory	～する場所
+-ception	-ceiveの動詞を名詞にする
+-ceptive	-ceiveの動詞を形容詞にする
+-cy	身分、地位、職、場所
+-dom	地位、階級、領土、集団、概念
+-ed	～を有する、～を備えた
+-ee	～される人
+-eer	～の専門家
+-en	～にする、～になる
+-en	～から作られた、～を成分とする
+-en	～を与える
+-ence	状態、特質 -entの形容詞の名詞化
+-ence	状態、特質
+-ency	状態、特質、行為　-entの形容詞の名詞化
+-ency	行為、状態、特質
+-ent	
+-ent	～する人、～する物
+-er	～する人
+-er	～と関係する人
+-ery	行為、場所、物
+-ery	行為、場所
+-ese	～人、～語、～の
+-esque	～の様式の、～風の
+-ess	女性を表す (使い方次第で差別語とされ、控える場合もある)
+-ette	小さい、可愛らしい、女性を表す
+-f	
+-ful	～の傾向がある
+-ful	～に満ちた、～の多い
+-ful	～一杯の量
+-gate	～のスキャンダル
+-hood	身分、立場、状態
+-ial	～に適した、～に関連した
+-ian	専門家、居住者、信奉者
+-ician	専門家、居住者、信奉者
+-ibility	特質 -ibleの形容詞の名詞化
+-ible	～できる、～される
+-ible	～に適した
+-ic	～の性質、～のような、～的
+-ical	～に適した、～に関連した
+-ics	研究、知識、技術
+-ification	
+-ify	～の状態にする
+-ify	～の状態にする
+-ing	動詞の示す行為の名詞化
+-ion	行為、状態、結果
+-ish	～に近い、～のような
+-ish	～が顕著である
+-ism	行為、状態、主義、表現、精神、差別
+-ism	～主義、～差別、～表現、～行為
+-ist	～主義者、～活動家
+-ist	～主義者、～専門家
+-istic	～的な
+-istic	～の特質を持つ
+-ite	～信奉者、～地方の人
+-ition	
+-itive	
+-itude	状態
+-ity	形容詞の抽象名詞化
+-ty	形容詞の抽象名詞化
+-ity	動詞の抽象名詞化
+-iety	動詞の抽象名詞化
+-ive	～の特質を持つ
+-ive	～する人、～するもの
+-ive	～の傾向がある
+-ize	～のようになる、～化する
+-ize	～の状態にする
+-less	～できない、～困難
+-less	～のない
+-let	名詞が示すものの小型化したもの
+-like	～のような、～らしい
+-ling	小さいこと、可愛らしさ
+-ly	～のような、～らしい
+-ly	～にふさわしい
+-ly	
+-manship	技量、手腕
+-ment	
+-mission	-mitの動詞の名詞化
+-missive	-mitの動詞の形容詞化
+-monger	特定のものを販売する人、良くないことを活発にする人
+-ness	形容詞の抽象名詞化
+-nik	～の関係者、～に熱中する人
+-or	～する人、～するもの
+-or	～する人
+-ory	～の性質がある
+-ous	～の特徴を持った
+-itious	～の特徴を持った
+-tious	～の特徴を持った
+-icious	～の特徴を持った
+-ous	状態
+-pulsion	-pelの動詞の名詞化
+-pulisive	-pelの動詞の形容詞化
+-ry	
+-scape	景観、～の全体の様子
+-scription	-scribeの動詞の名詞化
+-se	語尾が-dの動詞の名詞化
+-ship	能力、資格、地位、役職、特質、状態
+-sion	語尾が-d, -de, -t の動詞を名詞化する
+-sive	語尾が-d, -de の動詞を名詞化する
+-smith	職人
+-some	～を生じる
+-ster	～の常習者
+-sumption	語尾が -sumeの動詞の名詞化
+-sumptive	語尾が -sumeの動詞の形容詞化
+-t	
+-tial	～に適した、～に関連した
+-al	～に適した、～に関連した
+-tic	
+-tion	語尾が -ne, -ce, -d の動詞を名詞化
+-ual	～の特徴を持つ 語尾が -t の名詞の形容詞化
+-ular	語尾が -le, -ule の動詞を名詞化
+-ulent	～が充満している
+-ure	行為、状態、結果
+-ture	行為、状態、結果
+-iture	行為、状態、結果
+-ature	行為、状態、結果
+-ution	語尾が -ve の動詞の名詞化
+-y	
+-y	～の傾向がある
+-y	行為、結果、状態
+-y	名詞の示す性質を持つ
+-y	小さいこと、可愛いこと
+-able	～できる
+-ary	～に関する場所
+-ary	～の性質を持つ、～に関する、～の
+-ate	～にする
+-ate	～の特徴を持つ
+-ia	～の症状
+-ible	～できる
+-ic	～症
+-tic	～症
+-c	～症
+-ics	～学、～術
+-ify	～にする
+-itis	器官の炎症
+-itude	状態
+-ity	状態、性質
+-ize	～のようにする、～化する
+-orium	場所、手段
+-arium	場所、手段
+-ous	～の特徴の
+-sis	～症、症状、作用
+-th	状態、性質
+-ulent	～で満ちた
+-ure	動作、結果
+-aceous	～に似た、～の性質の
+-acious	語尾が -acity, -acyの名詞の形容詞化
+-red	状態を表す名詞の形成
+-iferous	～の含有、収量
+-caine	[物質]合成アルカロイド麻酔薬
+-carpous	果実を持つ
+-ergic	(物質・現象)～によって生じた効果
+-fuge	～に反発、追い払う、撃退する
+-gonium	種子、生殖細胞
+-gynous	女性の、雌蕊の、雌蕊のような器官を有する
+-gyny	～女性、雌蕊、雌蕊のような器官
+-iatric	治療の、癒しの
+-iatrics	治癒、医療行為
+-iatry	医療、治癒
+-kinesia	運動、筋肉活動
+-mas	休日、神聖な日、キリスト教の祭り・イベント
+-morph	形・構造を持つ
+-ome	指定された種類の質量または部分を示す
+-opia	視覚状態、視覚器官の状態
+-opias	視覚状態、視覚器官の状態 (-opia、 -opy の複数形)
+-opsia	視覚状態、視覚器官の状態
+-ops	(生物や勇気構造の)類似性
+-opsy	生検、生体組織検査
+-parous	出産する、生成する、生産する
+-phorous	運搬の、生出の
+-phorum	運搬するもの、支えるもの、生出すもの
+-poda	足を持つ
+-raphy	縫合線、縫合
+-sect	切る
+-spore	胞子を持つ
+-stomy	開口するための手術の名称
+-tactic	特定の形式を持つ、特定の力によって決定される配向を持つ
+-meal	尺度、(穀物の)粉末
+-pexy	固定、締める、留める
+-phila	～を愛する者、愛好者
+-philic	親和性のある
+-adelphous	雄しべ、雄蕊
+-agog	分泌を促す物質、先導するもの(人)
+-aholic	～中毒の
+-andra	雄ずいの保有
+-andria	雄ずいの保有
+-androus	雄ずいの保有
+-andry	雄ずいの保有
+-ard	おおいに～する者
+-cidal	～殺しの
+-clast	壊れたり破壊されたりするもの
+-cline	傾斜、、斜面
+-coele	腫瘍、ヘルニア、体腔
+-cola	居住者、耕運機、耕運者、崇拝者、名誉者
+-corn	角、触角
+-dentate	のこぎり歯状、歯状、 距歯
+-diene	二重結合を2つもった炭化水素
+-dromous	走る、動く
+-ennial	～年
+-ergy	働く
+-fer	生み出す、産するもの、運ぶ、実行
+-ferous	生産する、特定の素材を含む
+-genesis	遺伝、進化、発展、起源
+-geny	起源、発生、世代
+-grapher	書く人、描く人、記録者
+-kinesis	運動、細胞分裂
+-lyte	分解、溶解可能な物質
+-merous	～の部分から成る
+-morphy	形成された
+-nephroi	腎臓、肝単位 (-nephros、 -nephron の複数形)
+-nephros	腎臓、肝単位
+-ole	小さいもの、不飽和の複素五員環を含む、芳香族有機エーテル
+-ol	アルコール、フェノールを含む、物質名
+-oma	腫
+-on	化学合成物、素粒子、量子、不活性ガス、分子の単位
+-onymy	(集合的な)名前、名前研究学
+-phane	～と質が似た
+-phobe	～を恐れる者、～を嫌う者
+-phyte	～な特徴をもつ植物
+-plastic	～形成された、～から成る、～属す、～に関する、～の性質
+-poiesis	形成、生成
+-ptile	羽根、爬虫類・植物名
+-rrhea	流出、放出、排出
+-rrhexes	破裂、決裂、断絶、仲たがい、不和(-rrhexis の複数形)
+-rrhexis	破裂、決裂、断絶、仲たがい、不和
+-stasis	減速、停止
+-stat	一定に保つ装置、抑制するもの
+-stomy	開口術
+-style	柱、円柱、円柱状
+-tene	(生物の)リボン様構造、減数分裂における染色体の構造に関連する
+-trope	産生細胞、生成細胞、変化・回転・応答するもの
+-trophic	栄養の
+-uret	化合物、化学物質(=-ide)
+-urgy	特定の物質に関する技術・科学
+-uria	尿中の特定の物質(による病的な状態)
+-zoic	動物の、動物生態の、動物の化石を含む
+-lithic	石
+-idrosis	発汗
+-iform	～形状の
+-iformes	形状を持つ動物の学名の名称
+-pathic	苦痛な
+-pepsia	消化
+-petalous	花弁を持つ
+-phenone	[物質]フェニル
+-acanthus	とげ・脊柱・脊椎骨を持つ生物
+-aetus	鷲（ワシ）
+-ander	雄ずいを持つ
+-angia	容器、導管、脈管(-angium の複数形)
+-angium	容器、導管、脈管
+-anthema	発疹
+-anthemata	発疹(-anthema の複数形)
+-anthes	花を持つ植物名
+-antherous	葯を持つ
+-anthrene	[物質]アントラセンの
+-anthus	花に似た
+-auxae	肥大 (-auxe の複数形)
+-auxe	肥大
+-bacter	(細菌の)属
+-cardium	心臓
+-carp	果実
+-carpic	果実を持つ
+-carps	果実 (-carp、-carpiumの複数形)
+-carpus	果実を持つ植物名
+-carpy	果実を持つ植物
+-cene	（地質期の）新生代
+-centric	～を中心とする
+-cephala	～の頭を持つ(-cephalus の複数形)
+-cephalic	～の頭を持つ
+-cephalism	～頭症
+-cephalous	～の頭を持つ
+-cephalus	～の頭を持つ
+-chaeta	(毛のある)～属、～類
+-choerus	(イノシシ、アザラシなど)～属
+-chord	音階、音程、弦を持つ楽器
+-chory	(植物の)分布方法
+-chromasia	色、着色性
+-chromia	染色・着色の状態
+-chromy	着色の状態、塗装
+-chronous	～の時間、～の時代
+-chroous	～色の
+-cinesia	運動、筋肉活動
+-clases	崩壊 (-clasis の複数形)
+-clasia	崩壊
+-clastic	破壊、破壊者、～岩
+-clinal	傾き、傾斜の、～の特徴
+-clinic	傾斜の、2座標軸が斜交した
+-cliny	～遺伝
+-cocci	球菌、球状微生物 (-coccus の複数形)
+-coccus	球菌、球状微生物
+-corax	カラス
+-cotyl	胚
+-crania	～頭蓋骨の状態
+-cratic	支配者の、支配者の一員の
+-cystis	膀胱・嚢・包嚢を持つ者
+-dactylia	指を持つ
+-dactylism	指を持つ
+-dactylous	指を持つ
+-dactyly	指を持つ
+-dectes	(噛みつく生物)～属(学名)
+-delphis	(イルカ)～属(学名)
+-dermas	(生物の)皮膚 (-derma の複数形)
+-dermata	(生物の)皮膚 (-derma の複数形)
+-dermatous	皮膚の状態
+-dermia	皮膚の状態
+-dermis	皮膚、皮膚細胞
+-deses	連結、連鎖(-desis の複数形)
+-desis	連結、連鎖
+-ectome	切除手術の為の器具
+-encephali	脳を持つ(-encephalus の複数形)
+-encephalia	脳を持つ
+-encephalous	脳を持つ
+-encephaly	脳を持つ
+-enchyma	細胞組織
+-enchymas	細胞組織(-enchyma の複数形)
+-florate	花が咲く
+-florous	花を持つ
+-form	形状
+-formes	(動物の分類名)
+-gam	～の繁殖手段を持つ植物
+-gamae	～の繁殖手段を持つ植物
+-gamic	～生殖を持つ
+-gamous	～生殖の
+-gaster	胃、消化器官を持つ
+-gastria	胃を持つ
+-genesia	起源、発端、生成
+-genesiae	起源、発端、生成(-genesia の複数形)
+-genetic	遺伝、進化、発展、起源
+-genic	生産、生成
+-genin	[物質]サポニン（ステロイド配糖体のクラス）、サポゲニン（サポニンのアグリコン部分）
+-geusia	味覚がある
+-gnatha	(生物)顎を持つ
+-gnathae	(生物)顎を持つ (-gnatha の複数形)
+-gnathous	(生物)顎を持つ
+-gnathus	(生物)顎を持つ
+-gnosia	知識、認識、認知
+-gnosy	知識、認識、認知
+-iatrist	医師、癒す人
+-logue	言葉、言語
+-loph	鶏冠
+-lyses	分解、溶解 (-lysis の複数形)
+-megalies	身体器官の不規則な拡大 (-megaly、-megalia の複数形)
+-megaly	身体器官の不規則な拡大
+-melia	手足の状態
+-mer	特定のグループのメンバー
+-metric	～測定の
+-myces	菌類
+-mycetes	菌類
+-myelia	脊髄の状態
+-myia	ハエ
+-nema	～を糸を持つ
+-nemata	糸 (-nema の複数形)
+-neme	糸
+-ode	～のような、～に似た
+-onychia	爪の状態
+-ophthalma	目の状態
+-ophthalmia	目の症状
+-ophthalmus	目を持つ
+-opses	(生物や勇気構造の)類似性 (-ops の複数形、-opsis の複数形)
+-opsias	視覚状態、視覚器官の状態 (-opsia、 -opsy の複数形)
+-ornis	鳥
+-ornithes	鳥 (-ornis の複数形)
+-ostosis	～骨化
+-otic	疾患、異常状態
+-oyl	[物質]アシル基
+-pagus	双子、結合状態
+-para	～人の子を出産した女性
+-paras	～人の子を出産した女性 (-para の複数形)
+-ped	足
+-phil	～を愛する者、愛好者
+-phobic	～への恐れ、～症
+-phonies	音、声 (-phony、 -phonia の複数形)
+-phor	運搬するもの、支えるもの、生出すもの
+-phoreses	伝達 (-phoresis の複数形)
+-phoresis	伝達
+-phylla	～葉を持つ、～葉のような(-phyllum の複数形)
+-phyllum	～葉を持つ、～葉のような
+-phyric	斑状の
+-podia	足、足状の(-podium の複数形)
+-poietic	形成の
+-pterous	～の翼を持つ
+-ptysis	吐出
+-rhina	鼻を持つもの
+-rhinus	(鼻を持つもの)～属
+-rhiza	根
+-rhizae	根 (-rhiza、 -rrhiza の複数形)
+-sarc	肉、肉状
+-sauria	(恐竜、トカゲの)～類、～目
+-schises	分裂、分離、亀裂 (-schisis の複数形)
+-schisis	分裂、分離、亀裂
+-scopus	（生物名で）見る
+-seism	地震、振動
+-sepalous	萼を持つ
+-soma	動物の名前の形成、種、亜種
+-spermatous	～の種子［精子］を持つ
+-spondyli	脊椎骨・椎骨を持つ動物
+-spondylus	脊椎骨・椎骨を持つ動物
+-spongia	（海綿動物の）～属、～類
+-spora	胞子を持つ生物名
+-spory	～胞子を持つ
+-stich	(詩の)行
+-stoma	～口・気孔を持つ
+-stomata	～口・気孔を持つ (-stoma の複数形)
+-stomata	小孔(気孔・気門)を持つ (-stoma (1) の複数形)
+-stomate	小孔(気孔・気門)を持つ
+-stomia	～の口を持つ
+-stylar	円柱式の、柱を持つ
+-stylous	花柱を持つ
+-styly	花柱を持つ
+-syllabic	音節を持つ
+-taxia	順序、配置、配列
+-theism	～神の信仰
+-theist	～神の信仰者
+-theistic	～神の信仰
+-theria	哺乳類の分類群、獣亜綱、獣亜綱
+-therium	古代生息していた動物
+-therm	熱と関係のある動物
+-thermia	熱、体温
+-thrix	毛、毛状
+-tokous	産む
+-tonia	(筋・神経・血管などの)緊張
+-tony	(筋・神経・血管などの)緊張
+-trichia	毛を持つ
+-trichous	毛のある
+-typy	～法、～型
+-ura	(尾を持つ動物の学名)
+-urous	尾
+-urus	(動物の学名)
+-vora	～を食べる者たち
+-vorous	～を食べる
+-xylon	(植物の)～属
+-xylum	(植物の)～属
+-yl	(化学の)基、遊離基
+-zoon	生物、動物、個虫
+-zyme	酵素
+-chore	～媒植物、～よって分布した植物
+-zygous	接合体構造を有する、～のような発酵性質を持つ、頬骨の
+-diastasis	分解、離開
+-ectomy	切除手術、除去
+-branch	えら(のようなもの)を持つもの
+-branchia	えら(のようなもの)を持つもの
+-branchiae	えら(のようなもの)を持つもの(-branchiaの複数形)
+-chroia	着色、配色、彩色
+-chroic	～色の
+-cyan	青素、藍色、[物質]シアノ、シアン
+-cyst	膀胱、嚢、包嚢
+-techny	(専門の)技術
+-xene	(鉱物の)～石
+-xenous	宿主性の
+-xeny	宿主
+-phaga	～を食べる動物、～を食い尽くす動物
+-phagous	～を食べる、～食性の
+-philous	～を好む
+-algy	～痛
+-anthous	～の花をつけた
+-athon	～マラソン、～イベント(長時間連続して集中的に行う活動)
+-cephaly	～の頭を持つ
+-genous	～を生じる
+-gerous	～を生じる
+-gyne	女性の生殖器官の
+-idea	(動物の)～科
+-odus	～の歯を持つ動物
+-orexia	欲望、食欲
+-pathy	感情、苦しみ、～病、～症、～療法
+-penia	欠乏
+-phyllous	～の葉を持つ
+-phytic	植物のような
+-plex	(建築構造上の)～個の構成部分を持つ
+-ploid	染色体数が～の
+-pnea	呼吸
+-podous	～の足を持つ
+-related	～に関係のある、～関連の、～本位の、～系の
+-scopic	観察、測定
+-speak	～用語、～言葉 ～の言うところの
+-specific	～に特有、～固有の、 (医学)～特異
+-sporic	～の胞子を持つ
+-stichous	(生物・植物の)～の列を持つ
+-stomatous	小孔(気孔・気門)を持つ
+-stomous	～の口を持つ
+-thymia	～の気分(精神状態)
+-tropia	斜視
+-folious	～の葉をつける
+-spermic	～の種子［精子］を持つ
+-philia	～を好むこと、～に対する病的愛好
+-lingual	～つの言語を話す・使う。
+-‐valent	(原子の)価
+-phag	むさぼり食う
+-acea	種類、等級、綱
+-aceae	種族、群、科
+-acity	特質、特性
+-aemia	血液
+-aetio	原因
+-ain	～の人
+-amine	アミン(アンモニアの水素原子を炭化水素基または芳香族原子団で置換した化合物)
+-ar	～する人、～の性質
+-arch	支配者、統制者、君主、～に起点を持つ
+-arius	～を扱う人
+-ase	酵素
+-ast	～する人
+-aster	星
+-blast	成長、出芽、胚種、胚細胞、形成細胞、胚葉、形成層
+-bulia	意志
+-burger	ひき肉のサンドイッチ
+-cade	行列、パレード、見世物
+-ce	～度、～倍
+-cele	腫瘍、ヘルニア、脱腸、体腔
+-ceptor	受体、受容体、受容器
+-chrome	色、着色した、クロミウム、クロム
+-cle	小さい
+-cosm	宇宙、世界
+-craft	技巧、手先の技術、術、知識、～の乗り物
+-cyte	細胞
+-dendron	木
+-derm	(生物の)皮膚
+-emia	血液
+-etio	原因
+-fest	行事、イベント
+-fex	製作者、創案者、作り手
+-flavin	フラビンの誘導体
+-fold	倍数の、～重、～倍
+-gnomy	知識、判断術
+-hedron	～面体
+-lagnia	性交、性欲、欲望
+-land	土地
+-later	崇拝者
+-latry	礼拝、崇拝、過度の献身
+-logist	学者、研究家
+-lysis	分解、溶解
+-maker	製作者、製作者側
+-mancy	占い、予言
+-mere	部分
+-mycete	菌類
+-nasty	傾性の、外部刺激に反応で一定方向に曲がる植物の運動
+-noia	思考、考え
+-odynia	痛み
+-olatry	崇拝
+-onym	言葉、言語、名前
+-opia	視覚障害
+-phage	消費、食事、食べる者
+-phagia	消費、食事
+-phagy	消費、食事
+-phany	外観、表明、明示
+-phily	～の傾向、～の病的な愛好、(化学の)近似性
+-phonia	ある型の音
+-phony	音、声
+-phyl	葉、(植物の)色素
+-phyre	斑岩
+-plast	形成された
+-plasty	整形外科に用いる
+-ple	～重、～倍
+-plegia	麻痺
+-plegy	麻痺
+-podium	足、足状の
+-polis	都市
+-rhage	病的の、流出、発疹
+-rhea	流れ、降ろす
+-rrhage	病的の、流出、発疹
+-rrhaphy	縫い合せ、縫合
+-scopy	観察、検査、調査
+-section	切断、分割
+-sophy	ある分野についての知識
+-sperm	種、種子
+-stome	口、口腔
+-taxis	順序、配置、配列
+-taxy	順序、配置、配列
+-tome	切除器具、切断装置
+-type	型、形式
+-vore	食べること、食物
+-worthy	～に適した
+-zoa	動物たち、グループ名を示す
+-drome	走路、競走のコース、走ること、広い施設
+-lepsy	発作、発病、～症
+-proof	耐～、防～、～通さない、～保護された
+-algia	苦痛、痛み
+-bioses	生態、生活方法 (biosisの複数系)
+-biosis	生態、生活方法
+-biotic	(特定の)生き方をする、～の生態をもつ
+-gony	発生、生成、繁殖、製作
+-grade	歩く、歩き方
+-lite	石、石状の
+-machy	戦い、争い
+-phasia	言語の欠陥や不全、発話障害
+-phemia	言語の欠陥や不全、発話障害
+-phyceae	海藻、藻類、海草
+-plasia	成長、発達、形成作用、細胞増殖
+-plasm	（動植物細胞の）形成材料
+-sphere	球面体を覆うこと、球面体、球形
+-kin	小さい、小さいもの
+-phone	声、音、～発話者
+-phrenia	精神障害、精神の混乱
+-archy	支配、政府、規則
+-arium	～の場所、～物
+-cide	～殺し
+-cracy	統治、支配、政治、階級
+-crat	支配者、支配者の一員
+-gamy	結婚
+-gen	～を生じるもの、生成
+-gon	角形、角を持つ
+-gram	書かれた物、記録物、地面
+-graph	書かれた物、記録する機械
+-graphy	～学、記述法、表現法、記録形式
+-itis	器官の炎症
+-lith	石、岩石
+-logy	学問、学説、論、言語表現、談話
+-mania	～狂い、～に熱中する人
+-meter	計測器、計測手段
+-metry	測定法、測定過程
+-nomy	法則、学、法、律、統治
+-nym	名前
+-oid	～に似る
+-osis	～症
+-path	病気、患う人
+-phobia	恐怖症
+-scope	～検器、～鏡、～を見る器械
+-tomy	切断、切除、切開、切離、摘出
+-cotyl	杯状
+-anthropus	(人類学の)属
+-biont	(特定の)生き方をする、～の生態をもつ
+-blastic	未成熟細胞、身体の一部
+-cardia	心臓
+-crotic	脈拍
+-crotism	脈拍
+-long	～の継続時間
+-man	～の人
+-morpha	形・構造を持つ生物
+-morphosis	過程をもつ形成変化
+-mycin	(マイクロモノスポラ属)細菌が生成する物質
+-phyta	（植物の）～類、～植物
+-pteris	(シダ植物の)～属
+-saurus	恐竜
+-theca	覆われた
+-thecium	重なった層を持つ
+-work	工芸品、作品、構造
+-glot	複数言語が使いこなせる
+-logia	学問、学説、論、言語表現、談話
+-pod	足、足のある、特定の種類の足
+able, ible, ble	可能
+acy, cy	単語を名詞化
+ade	集まり/動作
+age	単語を名詞化
+al	①単語を形容詞化、②単語を名詞化
+an, ian	①単語を名詞化（人）、②単語を形容詞化
+ance, ence	単語を名詞化
+ancy, ency	単語を名詞化
+ant	①～する人/モノ、②単語を形容詞化
+ar	①単語を形容詞化、②単語を名詞化
+ar, er, eer, or	～する人/モノ
+ary	①単語を形容詞化、②単語を名詞化
+ate	①単語を動詞化、②形容詞化、③名詞化
+cide, cise	切る、殺す
+cracy, crat	rule 統治、支配
+cy, acy	単語を名詞化
+dom	単語を名詞化
+ee	～される人/～する人
+en	接尾辞 ①～にする / 単語を動詞化、②単語を形容詞化
+ence, acne	単語を名詞化
+ency, ancy	単語を名詞化
+ent	①単語を形容詞化、②単語を名詞化
+er, eer, ar, or	～する人/モノ
+ery, ry	単語を名詞化/集まり・場所・状態の意
+ess	単語を女性化
+ful	～に満ちた ①単語を形容詞化、②単語を名詞化
+fy	make ～にする、単語を動詞化する働き
+genic	～を生じる/～に適した
+hood	単語を名詞化
+ian, an	①単語を名詞化（人）、②単語を形容詞化
+ible, able, ble	可能
+ic	単語を形容詞化
+ics, ic	学問、術、活動、特性、減少
+ine	①単語を形容詞化、②単語を名詞化
+ion	単語を名詞化
+ish	①単語を形容詞化、②単語を動詞化
+ism	主義、態度・行動、特性、病状
+ist	人 / 単語を名詞化
+itis	inflammation 炎症
+itude	性質/単語を名詞化
+ive	①単語を形容詞化、②単語を名詞化
+ize, ise	～にする / 単語を動詞化
+less	否定
+log, logi, logue, logy	word 言葉、学
+ly	単語を副詞化/接尾辞
+ment	単語を名詞化
+ness	単語を名詞化
+nomy, nom	law 法則、秩序体系、～学
+oma	腫瘍
+onym, onoma	name 名前
+or, ar, er, eer	～する人/モノ
+ory	単語を形容詞化/名詞化
+osis	symptom 症状
+ous	単語を形容詞化「～の多い/～に富む/～の特徴を持つ」
+phobia	fear 恐怖
+proof	①～に耐える、②～にも扱える
+ry, ery	単語を名詞化/集まり・場所・状態の意
+scope	see 見る
+ship	単語を名詞化
+sis	単語を名詞化/ギリシャ語語源で複数形は-ses
+th	単語を名詞化
+tude	単語を名詞化
+ty	単語を名詞化
+ure	単語を名詞化
+ward, wards	単語を形容詞/副詞化、「方向」の意味にする
+ways	単語を副詞化
+wise	単語を副詞化
+y	①単語を形容詞化、②単語を名詞化

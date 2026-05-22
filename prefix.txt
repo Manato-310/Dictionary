@@ -88,3 +88,1455 @@ hemi-	半分の
 demi-	半分の
 stetho-	胸の
 peri-	周辺の
+a-	非、～と関係ない
+anti-	反対、敵対、対抗、防止
+be-	～にする ※名詞を他動詞にする。
+be-	全体に、まわりに、強固に
+by-	副次的、付随的
+co-	共同、共通、相互、同等
+col-	共同、共通、相互、同等
+cor-	共同、共通、相互、同等
+counter-	反対、対立、相殺、相当
+de-	分解、除去、悪化、否定
+dis-	否定、無、不
+dis-	除去、止めるなど・・・反対の作用を示す
+dis-	除く、奪う
+dis-	取り除く ※名詞を他動詞にする。
+en-	～に入れる ※名詞を他動詞にする。
+em-	～に入れる ※名詞を他動詞にする。
+en-	※形容詞を動詞にする。
+ex-	前の～、元の～
+extra-	～の外の、範囲外の、並外れた
+fore-	前もって、先～、予～
+fore-	前の
+hyper-	過度に、非常な、超えた
+hyper-	過度に、非常な、超えた
+il-	否定、反対、不足
+il-	不、逆、反対
+im-	否定、反対、不足
+im-	不、逆、反対
+in-	不、逆、反対
+in-	否定、反対、不足
+inter-	～の間、相互
+inter-	～の間・相互で～する
+inter-	～の間、相互
+intra-	内、間
+ir-	不、逆、反対
+ir-	否定、反対、不足
+mal-	悪性の、不良の、不全の、異常な
+mal-	悪、不良、不全
+mis-	誤って、悪く
+mis-	誤って、悪く、不利に
+multi-	多数の、多様の
+multi-	多数の、多様の
+non-	非
+non-	不、非
+out-	元の動詞の意味を上回る ※自動詞を他動詞に変える
+out-	元の名詞の意味を上回る ※名詞を他動詞に変える
+over-	～の限度を超えて
+over-	必要以上に～する
+over-	過度の、限度を超えた
+post-	後の、次の
+post-	～後の
+pre-	～以前の、前もって
+pre-	前もって～する
+pre-	あらかじめ～する、以前の、～の前
+pro-	～に賛成、～を支持
+re-	～を直す、再度～をする
+re-	再び
+semi-	半～、準～
+semi-	半～、準～
+semi-	一定期間に2回の
+sub-	準、下位、～に値しない
+sub-	下、下位、福～
+super-	極上の、とても良い
+super-	極上の、とても良い
+trans-	超えて、横切って
+trans-	超えて、横切って
+ultra-	超、過、極端に
+ultra-	並外れた
+un-	～でない、不～
+un-	元の動詞の意味の前の状態に戻す
+un-	非、無、不
+un-	除去、解放、奪取
+under-	十分に～する
+under-	下の、十分でない
+a-	不定
+an-	不定
+a-	～へ
+ac-	～へ
+ad-	～へ
+af-	～へ
+ag-	～へ
+ap-	～へ
+at-	～へ
+ab-	離れて
+ambi-	両方へ
+ante-	前に
+bene-	善い
+circum-	周りに、周りを
+con-	共に
+com-	共に
+con-	完全に
+cor-	完全に
+contra-	反して
+de-	下へ、離れて
+di-	離れて
+di-	二つ
+dis-	離れて
+dys-	障害
+e-	外に、外へ
+en-	中に、上に
+em-	中に、上に
+epi-	上に、間に、外に、後に
+eph-	上に、間に、外に、後に
+ep-	上に、間に、外に、後に
+equi-	等しい、等しく
+eu-	良い
+ex-	外へ
+extra-	～の外の、～を超えて
+in-	中に、上に
+im-	中に、上に
+inter-	間で
+intra-	～内の
+intro-	中に
+mal-	悪い
+omini-	すべての
+pan-	すべてにわたる
+per-	通って、通して
+per-	完全に
+post-	後に
+pre-	前に、前もって
+pro-	先に
+pro-	前もって、以前に
+re-	再び、後ろへ
+retro-	再び元へ、後方へ、逆に
+sub-	下に
+suc-	下に
+suf-	下に
+sus-	下に
+sup-	下に
+super-	上に
+sur-	上に
+syn-	共に
+sym-	共に
+trans-	超えて
+ischio-, ischi-	坐骨
+phaco-, phac-	レンズ、レンズ形状
+phaeo-, phae-	暗い、灰色
+atrio-, atri-	心房
+atto-, att-	1018分の1
+batho-, bath-	深、深度
+botryo-, botry-	ぶどうの房、クラスター
+bulbo-, bulb-	球根
+caprio-, capri-	山羊
+gamo-, gam-	結合、合併
+gono-, gon-	生殖の、性的な
+granulo-, granul-	顆粒、粒状
+heredo-, hered-	遺伝性
+hetero-, heter-	他の、異なる
+hidro-, hidr-	汗、汗腺の
+hiero-, hier-	聖なる、聖職者
+hygro-, hygr-	湿った、濡れた、湿気
+hyo-, hy-	舌骨
+iatro-, iatr-	医師、医学、治癒
+latero-, later-	横、側
+liparo-, lipar-	油性、脂肪性、油脂性
+meningo-, mening-	髄膜
+mixo-, mix-	混合、性交
+musico-, music-	音楽
+necro-, necr-	死、死体、死んだ組織
+neutro-, neutr-	中立の
+nimbo-, nimb-	雨雲、雪雲、(聖像の頭部を囲む)後光、光輪
+nitroso-, nitros-	[物質]ニトロソ化合物
+noci-, noc-	傷、痛み、苦痛
+nuci-, nuc-	木の実、堅果、ナッツ
+omento-, oment-	大網
+ophio-, ophi-	蛇
+osseo-, osse-	骨
+ossio-, ossi-	骨
+osteo-, oste-	骨
+pachyo-, pachy-	厚い
+pancreatico-, pancreatic-	膵臓
+papillo-, papill-	小乳頭状突起、乳頭突起
+papulo-, papul-	丘疹
+phoro-, phor-	運動、活動
+proprio-, propri-	自分のもの
+prosopo-, prosop-	顔
+proximo-, proxim-	(身体・植物の中央に)近いほうの
+psammo-, psamm-	砂
+psilo-, psil-	裸の、衣服を脱いだ、外皮のはがれた
+pterygo-, pteryg-	翼、翼状
+ptyalo-, ptyal-	唾液
+pulmono-, pulmon-	肺
+pyloro-, pylor-	幽門
+pyreto-, pyret-	発熱
+rachio-, rachi-	脊柱、脊椎骨
+rheo-, rhe-	流れ
+stego-, steg-	カバー、覆い
+sympatho-, sympath-	交感神経系
+teno-, ten-	腱
+tetano-, tetan-	破傷風
+thalamo-, thalam-	視床
+thallo-, thall-	若葉、[物質]タリウム
+trachelo-, trachel-	子宮頸部
+traumato-, traumat-	傷害、危害、損害、損傷
+tropo-, trop-	ターン、反応、応答、変化、対流圏
+tubio-, tubi-	チューブ、管、管状
+ulo-, ul-	瘢痕
+parvo-, parv-	小さい
+glio-, gli-	神経膠細胞、神経膠
+nemato-, nemat-	糸、糸状生物、線虫
+sacro-, sacr-	仙骨、神聖な
+acromio-, acromi-	肩関節の、肩の
+amnio-, amni-	羊膜、羊水の
+arachno-, arachn-	クモ、クモ膜炎
+arithmo-, arithm-	算術、計算能力
+arseno-, arsen-	アルセノ、アルセノ基を含む
+atelo-, atel-	不完全な
+bacillo-, bacill-	細菌、バクテリア
+batho-, bath-	深さ
+bathyo-, bathy-	深い、深さ、深海、体内
+branchio-, branchi-	(魚などの)えら、 人のあごのわきの肉、 ジル
+bronto-, bront-	雷、 雷鳴、 雷のような音、 威嚇、 非難、 怒号
+butyro-, butyr-	[物質]酪酸
+caco-, cac-	悪い、不快な
+calcaneo-, calcane-	踵骨
+cario-, cari-	虫歯
+caudo-, caud-	尻、尻のような
+ceno-, cen-	新しい、最近の
+decemo-, decem-	10
+dehydro-, dehydr-	脱水、水素原子を失った
+deko-, dek-	10
+demio-, demi-	半分、部分的
+deoxyo-, deoxy-	[物質]デオキシ
+desmo-, desm-	連結、連鎖
+disto-, dist-	末梢、末端
+eroto-, erot-	性欲
+femoro-, femor-	大腿骨、大腿部、もも、腿節
+femto-, femt-	10のマイナス15乗
+gamo-, gam-	有性、結合
+ganglio-, gangli-	神経節、ガングリオン、結節腫、中枢
+genio-, geni-	あご
+glacio-, glaci-	氷
+hapto-, hapt-	付着、結合
+he-	動物の雄(人間も含む)
+hebe-, heb-	青年時代、青春期、若いころ
+historico-, historic-	歴史
+historio-, histori-	歴史
+humero-, humer-	上腕骨、上膊骨
+hyo-, hy-	舌骨、豚
+idio-, idi-	個人特有の、自身の、独自の
+kerauno-, keraun-	雷
+klepto-, klept-	盗み、窃盗
+lacto-, lact-	乳、乳酸、ラクトース、乳糖
+linguo-, lingu-	言語、舌
+luso-, lus-	ポルトガルの
+lyo-, ly-	溶解、分散
+magnio-, magni-	大きい、偉い
+male-, mal-	悪い、邪悪な、縁起の悪い、不吉な
+megalo-, megal-	巨大な、異常に大きさ、大げさ
+mento-, ment-	顎、頤
+mito-, mit-	糸状
+myringo-, myring-	鼓膜
+nervo-, nerv-	神経、神経過敏、神経質な
+noto-, not-	背、背部、後ろ、南の
+oeno-, oen-	ワイン、アルコール飲料
+omo-, om-	肩、肩甲骨
+omphalo-, omphal-	へそ
+onto-, ont-	存在、実在
+onycho-, onych-	爪
+oo-, o-	卵、卵子
+ophthalmo-, ophthalm-	目
+opsono-, opson-	[物質]オプソニン(白血球の食菌作用を促進する血清中の物質)
+pinnatio-, pinnati-	羽状の、羽状に
+pneumo-, pneum-	肺、呼吸、空気、気体、肺炎
+pneumato-, pneumat-	空気、 気体、呼吸、魂、精神
+poro-, por-	細穴、毛穴、、気孔
+postero-, poster-	後ろ、後部の
+pygo-, pyg-	臀部、尻
+reticulo-, reticul-	細網、第二胃
+rhabdo-, rhabd-	棒状の
+salio-, sali-	塩
+skeleto-, skelet-	骨格、骸骨
+spheno-, sphen-	くさび状の、くさび型の
+stato-, stat-	安定、平衝
+strepto-, strept-	ねじれた、連鎖状球菌の、ストレプトミセス菌の.
+talo-, tal-	距骨
+tecno-, tecn-	子供
+temporo-, tempor-	側頭の
+thero-, ther-	野獣
+tibio-, tibi-	脛骨
+trocho-, troch-	車輪
+tympano-, tympan-	鼓膜
+ultramicro-, ultramicr-	超微量の、超微小の
+uro-, ur-	尿、尿路、尿素、尾
+utriculo-, utricul-	卵形嚢、 胞嚢
+vibro-, vibr-	振動、震え、震動
+visco-, visc-	粘度、粘着性
+viscero-, viscer-	腸、はらわた
+vitello-, vitell-	黄身、卵黄
+normo-, norm-	標準の、普通の (hyper- とhypo- の間)
+telluro-, tellur-	土、地球、[元素]テルル
+spiro-, spir-	呼吸、螺旋状の、スピロ化合物
+staphylo-, staphyl-	口蓋垂、ぶどう状球菌の、ぶどうの房に似た
+galacto-, galact-	乳、銀河の、ガラクトースを含む
+lamino-, lamin-	層の、舌端の
+leukocyto-, leukocyt-	白血球
+lipo-, lip-	不足、欠けている、去る
+insectio-, insecti-	昆虫
+leio-, lei-	滑らか、スムーズ
+pericardio-, pericardi-	心膜
+periosto-, periost-	骨膜
+peritono-, periton-	腹膜
+abdomino-, abdomin-	お腹の、腹部の
+acaro-, acar-	ダニ類、ダニ目
+achro-, achr-	無色の
+achromato-, achromat-	無色の
+acouo-, acou-	聴覚上の
+aeluro-, aelur-	猫
+aeto-, aet-	鷲（ワシ）
+afro-, afr-	アフリカの
+agamo-, agam-	無配偶
+agrio-, agri-	野生の
+ailuro-, ailur-	猫
+albo-, alb-	白
+albumino-, albumin-	アルブミン(一群の可溶性タンパク質の総称)
+alco-, alc-	アルコール
+allelo-, allel-	相互、相互
+alloxo-, allox-	［物質］アロキサン
+alveolo-, alveol-	胞、肺胞、歯槽
+amero-, amer-	アメリカの
+americo-, americ-	アメリカの
+ammo-, amm-	砂
+ammino-, ammin-	[物質]アンミン
+amorpho-, amorph-	無晶形、非晶形、非結晶
+amygdalo-, amygdal-	へんとう体、アーモンド
+anarcho-, anarch-	無政府状態
+anatomo-, anatom-	解剖
+anemo-, anem-	風、吸入
+angulio-, anguli-	角度
+angustio-, angusti-	狭い
+aniso-, anis-	不等、不平等、［物質］アニス、［植物］アニス
+ankylo-, ankyl-	屈曲
+anthro-, anthr-	[物質]アントラセンの
+antro-, antr-	洞、腔、幽門洞、上顎洞、卵胞腔
+apio-, api-	蜜蜂、養蜂
+apico-, apic-	頂点、絶頂、、明瞭
+appendo-, append-	虫垂
+arcto-, arct-	クマ
+arenaceo-, arenace-	砂、砂質、砂状
+argillo-, argill-	粘土
+argillaceo-, argillace-	粘土質
+arso-, ars-	［元素］ヒ素
+arsono-, arson-	アルソン酸
+arthro-, arthr-	関節
+arto-, art-	パン
+asco-, asc-	(人体の)腹水、(菌類の)子嚢
+astero-, aster-	星、(生物の)構造的・属名
+astheno-, asthen-	弱い、弱さ
+astragalo-, astragal-	距骨
+atlo-, atl-	環椎
+atloido-, atloid-	環椎
+audito-, audit-	聴覚の、音声
+auriculo-, auricul-	聴覚、耳
+auro-, aur-	金、黄金、金メッキ
+auxo-, aux-	増加、加速、成長
+azido-, azid-	アジド基を持つ、アゾ化合物
+azoxyo-, azoxy-	アゾキシ化合物
+balneo-, balne-	入浴、浴槽、浴室、沐浴
+baryto-, baryt-	酸化バリウム
+basi-, baso-	基礎、土台
+basidio-, basidi-	担子
+batracho-, batrach-	カエル、両生類
+Belgo-, Belg-	ベルギーの
+biblico-, biblic-	聖書の
+bilio-, bili-	胆汁
+bismuto-, bismut-	［物質］蒼鉛、ビスマス
+bothrio-, bothri-	吸溝
+bovio-, bovi-	牛
+bromo-, brom-	臭素
+bronchio-, bronchi-	気管支
+butoxyo-, butoxy-	［物質］ブトキシル
+calio-, cali-	美しい
+calcareo-, calcare-	石灰質
+calcio-, calc-	[元素]カルシウム
+calyco-, calyc-	(植物の)がく
+capsulo-, capsul-	カプセル
+carbo-, carb-	[元素]炭素
+carbolo-, carbol-	[物質]炭酸
+carbonio-, carboni-	炭、石炭
+carboxyo-, carboxy-	[物質]カルボキシル
+carcino-, carcin-	腫瘍、癌、[生物]カニ
+carpo-, carp-	果実
+carpo-, carp-	手根の
+ceco-, cec-	盲腸
+cello-, cell-	［物質］セルロース
+cellulo-, cellul-	細胞の
+cellulo-, cellul-	［生化］セルロース
+cephalo-, cephal-	頭
+cero-, cer-	蝋（ろう）
+cerauno-, ceraun-	雷
+cerebello-, cerebell-	小脳
+chalco-, chalc-	銅、真ちゅう
+Daco-, Dac-	ダキアの
+dactylio-, dactyli-	指輪、宝石
+Dano-, Dan-	デンマークの
+dento-, dent-	歯
+dermo-, derm-	(生物の)皮膚
+deuto-, deut-	第2の、再、二次的の
+deutero-, deuter-	[物質]重水素
+deuterio-, deuteri-	[物質]重水素
+dextro-, dextr-	右、右方向へ
+diabolo-, diabol-	悪魔
+diaphano-, diaphan-	透明
+diversio-, diversi-	多様性のある、多様に
+dryo-, dry-	(植物)～属(学名)
+duplicato-, duplicat-	複製、2倍、二重
+embryono-, embryon-	胚、胎児
+empirio-, empiri-	経験
+encephalo-, encephal-	脳
+epilepto-, epilept-	(病気の)てんかん
+epithelo-, epithel-	上皮
+epoxyo-, epoxy-	[物質]エポキシ
+ergo-, erg-	仕事
+ergato-, ergat-	働く人
+etho-, eth-	［物質］エチル
+ethoxyo-, ethoxy-	[物質]エトキシルを含む
+Etrusco-, Etrusc-	エトルリアの
+euro-, eur-	EUの、ヨーロッパの、西ヨーロッパの
+exa-, ex-	10の18乗、2の60乗
+facio-, faci-	顔
+femino-, femin-	女性
+Fenno-, Fenn-	フィンランドの
+ferroso-, ferros-	鉄、第 1 鉄
+fluo-, flu-	蛍光、［元素］フッ素
+fluoro-, fluor-	蛍光、［元素］フッ素
+fluorescio-, fluoresci-	蛍光
+fluvio-, fluvi-	河川の
+fumaro-, fumar-	フマル酸
+gameto-, gamet-	配偶子
+gastero-, gaster-	胃
+Germano-, German-	ドイツの
+germano-, german-	[物質]ゲルマニウム
+giga-, gig-	10億
+glotto-, glott-	言語
+glycero-, glycer-	[物質]グリセロール
+gramino-, gramin-	草
+gravio-, gravi-	重力
+gyno-, gyn-	女、女性、女性生殖器、卵巣、雌ずい
+gyro-, gyr-	円、サークル、輪、螺旋
+hagio-, hagi-	神聖な、聖人
+halo-, hal-	海、塩、塩水、[物質]ハロゲン
+haplo-, hapl-	単一の、単純の
+Helleno-, Hellen-	ギリシアの
+hemato-, hema-	血
+haemato-, haemat-	血
+heno-, hen-	1、単一
+hepato-, hepat-	肝臓
+Hiberno-, Hibern-	アイルランドの
+hippo-, hipp-	馬
+Hispano-, Hispan-	スペインの、スペイン人・語（の）
+histo-, hist-	組織
+histio-, histi-	組織
+holo-, hol-	全体の、全ての、全体に、全てに
+homo-, hom-	同一の、同様の、類似の
+homino-, homin-	人間
+hyalo-, hyal-	ガラス、ガラス状
+hydato-, hydat-	水
+hyeto-, hyet-	雨
+hypso-, hyps-	高さ
+hystero-, hyster-	子宮、ヒステリー
+Ibero-, Iber-	イベリアの
+ichthyo-, ichthy-	魚
+icono-, icon-	像、画像、肖像
+iodo-, iod-	[物質]ヨウ素
+Irano-, Iran-	イランの
+irido-, irid-	虹、虹彩、アヤメ(の類)、[物質]イリジウム
+Italo-, Ital-	イタリアの
+jejuno-, jejun-	空腸
+juxta-, juxt-	近接、近傍
+karyo-, kary-	細胞核
+keno-, ken-	空の
+keto-, ket-	[物質]ケトン基
+kino-, kin-	運動
+kinesio-, kinesi-	動作
+kineto-, kinet-	動作
+lamello-, lamell-	薄板、薄葉、薄膜、薄層、薄片
+lecitho-, lecith-	卵黄
+lepto-, lept-	小さい、細かい
+Letto-, Lett-	ラトビアの
+leuco-, leuc-	白、無色
+Libyo-, Liby-	リビアの
+ligno-, lign-	木、[物質]リグニン
+limno-, limn-	湖、湖水
+lithio-, lithi-	[元素]リチウム
+logico-, logic-	論理的な
+lophio-, lophi-	鶏冠
+loxo-, lox-	斜線、斜め
+lucio-, luci-	光、透明
+ludicro-, ludicr-	滑稽な、ばかげた
+lympho-, lymph-	リンパ組織、リンパ液、リンパ球
+lymphangio-, lymphangi-	血管、リンパ管
+lyso-, lys-	溶解、分解
+lyxo-, lyx-	［物質］リキソース(糖の一種)
+maculo-, macul-	斑点、斑状
+magnesio-, magnes-	［元素］マグネシウム
+Malayo-, Malay-	マレーの
+mangano-, mangan-	[元素]マンガンの
+manganoso-, manganos-	[元素]マンガン
+medio-, medi-	中間の
+Medo-, Med-	メディア（地名）の
+melo-, mel-	頬、四肢、手足
+mela-, mel-	黒い、暗い
+mello-, mell-	蜂蜜、蜂蜜のような
+membrano-, membran-	膜、膜状の
+mero-, mer-	海の、人魚の
+mero-, mer-	もも、大腿部
+mero-, mer-	部分の
+meteoro-, meteor-	天文学、天気、気候、隕石
+mio-, mi-	少ない、収縮
+Moldo-, Mold-	モルダビアの
+molybdo-, molybd-	[元素]鉛、モリブデン
+Mongolo-, Mongol-	モンゴルの
+moto-, mot-	動き、運動、モーター
+muco-, muc-	粘液
+muscio-, musci-	ハエ
+myo-, my-	筋肉
+myco-, myc-	菌類
+myceto-, mycet-	菌類
+myio-, myi-	ハエ
+myrmeco-, myrmec-	蟻
+myxo-, myx-	粘液、粘液性の
+naphtho-, naphth-	［物質］ナフサ、ナフタリン、ナフトエ酸、ナフトール
+necto-, nect-	泳ぐ
+nephro-, nephr-	腎臓
+nitro-, nitr-	[物質]硝酸～、窒素～
+nocto-, noct-	夜
+nucleolo-, nucleol-	小核
+oculo-, ocul-	目
+oophoro-, oophor-	卵巣
+operculio-, operculi-	蓋
+optico-, optic-	光学の、視覚の、視力の
+osmo-, osm-	臭い、浸透
+oto-, ot-	耳
+ovo-, ov-	卵、卵形
+ovario-, ovari-	卵巣、子房
+oxo-, ox-	[物質]シュウ酸
+oxido-, oxid-	酸化物
+palio-, pali-	再発、反復
+pancreato-, pancreat-	膵臓
+papyro-, papyr-	紙、パピルス
+parasito-, parasit-	寄生生物
+partio-, parti-	部分
+pedio-, pedi-	平坦な表面、平地、足の裏
+penta-, pent-	5
+pentadeca-, pentadec-	15
+phaeno-, phaen-	表す、[物質]ベンゼン、フェノール基の
+phanero-, phaner-	可視の、明白な、開かれた
+phaso-, phas-	段階
+phello-, phell-	樹皮、コルク
+phlebo-, phleb-	静脈、血管
+phoso-, phos-	光
+phthalo-, phthal-	[物質]フタル酸
+pico-, pic-	一兆分の1
+picto-, pict-	絵
+pigmento-, pigment-	色素
+pinaco-, pinac-	板、錠剤、タブレット
+pistillo-, pistill-	雄しべ
+plasmo-, plasm-	血漿、原形質
+plasmato-, plasmat-	血漿、原形質
+plasmodo-, plasmod-	マラリア原虫の
+plasto-, plast-	形成、プラスチック、細胞質、色素
+plato-, plat-	平坦な、平らな
+pleio-, plei-	より多くの
+pneumono-, pneumon-	肺
+podo-, pod-	足、足のような
+pogono-, pogon-	ひげ、ひげ状の
+politico-, politic-	政治の
+pollino-, pollin-	花粉の
+presbyo-, presby-	老、長老の
+pretero-, preter-	超、過
+prolio-, proli-	子孫
+propo-, prop-	[物質]プロピオン酸
+proso-, pros-	～前方へ
+proteo-, prote-	タンパク質
+psychro-, psychr-	冷たい、寒い
+ptilo-, ptil-	羽毛、羽状
+pupillo-, pupill-	瞳孔
+purpurio-, purpuri-	紫
+pyo-, py-	膿、化膿
+pycno-, pycn-	濃い、厚い
+pykno-, pykn-	濃い、厚い
+pylo-, pyl-	門脈
+quarto-, quart-	4
+quinto-, quint-	5、5つ、5度音階
+ranio-, rani-	カエル
+religio-, religi-	宗教
+rhampho-, rhamph-	くちばし
+rhino-, rhin-	鼻、鼻の
+rhipio-, rhipi-	扇
+rhombo-, rhomb-	ひし形
+Romano-, Roman-	古代ローマの
+rutheno-, ruthen-	［元素］ルテニウム
+salicylo-, salicyl-	［物質］サリチル酸
+sanguio-, sangui-	血液
+sanguino-, sanguin-	血液
+sauro-, saur-	トカゲ
+saxio-, saxi-	岩、石
+scapulo-, scapul-	肩甲骨
+scelo-, scel-	脚
+scientifico-, scientific-	科学の
+Scoto-, Scot-	スコットランドの
+secreto-, secret-	分泌
+Semito-, Semit-	セムの
+sensorio-, sensori-	感覚、感知
+serio-, seri-	真剣、重大、深刻
+serpentio-, serpenti-	蛇
+sextio-, sexti-	6
+sialo-, sial-	唾液
+Siculo-, Sicul-	シチリアの
+siliceo-, silice-	［物質］シリカ、ケイ土
+siphono-, siphon-	管、パイプ、サイフォン
+spleno-, splen-	脾臓
+spondylo-, spondyl-	脊椎骨、椎骨
+spongio-, spongi-	海綿動物、海綿状
+spongo-, spong-	海綿動物
+sporo-, spor-	種、胞子、芽胞
+sporangio-, sporangi-	胞子嚢
+stamino-, stamin-	雄ずい
+stanno-, stann-	[元素]スズ
+stauro-, staur-	十字、クロス
+steato-, steat-	脂肪、獣脂
+stereo-, stere-	固体の、実体の、堅固な、硬い
+sterno-, stern-	胸、胸骨
+stetho-, steth-	胸、胸部
+stibo-, stib-	［物質］アンチモン
+stomo-, stom-	口、小孔
+stomato-, stomat-	口、口腔、(植物の)気孔
+stropho-, stroph-	ねじれた
+succino-, succin-	琥珀、[物質]琥珀酸
+sulfo-, sulf-	[元素]硫黄、硫黄を含む
+sulfa-, sulf-	［化学］スルファニルアミドから派生した（に深い関連を持つ）、スルホニル基を含む
+sulfono-, sulfon-	[物質]スルホン酸
+Sumero-, Sumer-	シュメールの
+supero-, super-	～の上にある
+sursumo-, sursum-	上方向に
+symbolo-, symbol-	象徴
+sympathico-, sympathic-	交感神経系
+syro-, syr-	シリアの
+tacho-, tach-	速度
+taeno-, taen-	リボン、条虫状の
+talco-, talc-	滑石
+telo-, tel-	終わりの、完全の、終端、完成した、成熟した
+tera-, ter-	一兆
+terato-, terat-	奇観、奇形、怪物
+tessara-, tessar-	4
+thanato-, thanat-	死
+theatro-, theatr-	劇場
+thelyo-, thely-	雌
+therio-, theri-	野生動物
+thigmo-, thigm-	接触の
+thiono-, thion-	[元素]硫黄
+threo-, thre-	[物質]トレオース
+thrombo-, thromb-	凝血
+Tibeto-, Tibet-	チベットの
+titano-, titan-	[元素]チタン
+trigono-, trigon-	三角の
+triplo-, tripl-	3、3倍の
+troglo-, trogl-	洞穴生物
+tungsto-, tungst-	[元素]タングステン
+typo-, typ-	型、形式、イメージ、印刷
+tyro-, tyr-	チーズ
+ulcero-, ulcer-	潰瘍
+unguio-, ungui-	爪
+unso-, uns-	非対称の
+urano-, uran-	[元素]ウラン、ウラニウム
+urano-, uran-	天、空、天文の女神
+uranoso-, uranos-	[元素]ウラン、ウラニウム
+valvulo-, valvul-	小さな弁
+vanado-, vanad-	バナジウム
+vaso-, vas-	管(血管、脈管、導管、精管など)
+vasculo-, vascul-	血管
+ventio-, venti-	風
+veratro-, veratr-	ベラトリン
+vertebro-, vertebr-	脊椎、椎骨、 脊柱、 脊椎、 背骨
+wolframo-, wolfram-	[物質]タングステン
+xipho-, xiph-	剣、剣状の
+xylo-, xyl-	木、キシロース
+zircono-, zircon-	[元素]ジルコニウム
+zoo-, zo-	動物
+zono-, zon-	帯、バンド、地帯、帯状の、ベルト
+zygo-, zyg-	くびき、結合、融合、一対
+zygomatico-, zygomatic-	頬骨の
+zymo-, zym-	酵母、酵素
+dino-, din-	恐ろしい、大きい
+disco-, disc-	ディスク、円盤、蓄音記録
+tubulo-, tubul-	細管、管状の
+athero-, ather-	粥状、アテローム
+ethmo-, ethm-	篩骨、篩状の
+dictyo-, dicty-	網、網状
+acantho-, acanth-	とげ、針、針先、脊柱・脊椎骨
+aristo-, arist-	最善、最良、貴族、最上
+pinno-, pinn-	羽根、ひれ、水かき
+seleno-, selen-	月の、三日月形の、[元素]セレニウム
+hemo-, hem-	血
+acuto-, acut-	鋭い、尖った
+adipo-, adip-	脂肪
+adreno-, adren-	副腎、アドレナリンの
+alterno-, altern-	交互の
+ampelo-, ampel-	ぶどう
+arsenoso-, arsenos-	ヒ素と酸素から成る物質
+atlanto-, atlant-	地図書、地図帳、環椎
+boro-, bor-	［元素］ホウ素
+brito-, brit-	イギリスの
+calco-, calc-	石灰、カルシウム
+diphyo-, diphy-	二重
+glosso-, gloss-	舌、舌状の
+manno-, mann-	(植物の)マナ、[物質]マンノースの
+phospho-, phosph-	［物質］リン、リン酸
+phosphoro-, phosphor-	［物質］リン、リン酸
+picro-, picr-	苦味、［物質］ピクリン酸
+scuto-, scut-	盾、盾状、甲
+vesiculo-, vesicul-	小水疱、水疱液
+malo-, mal-	悪い、悪～、不良、不完全
+latio-, lati-	広い
+peta-, pet-	10の15乗
+alio-, ali-	翼
+allo-, all-	異なる、異質の
+allo-, all-	異なる、異質の
+aorto-, aort-	動脈
+apo-, ap-	～から離れた
+azygo-, azyg-	対を成さない
+biso-, bis-	2回、二度、両方
+campho-, camph-	[物質]樟脳
+ceno-, cen-	新しい
+cross-	交差～、直交～、横断～、断面～、～間
+cumulo-, cumul-	堆積、累積
+dioecio-, dioeci-	雌雄異体の
+diplo-, dipl-	二重、重複、複
+dolicho-, dolich-	長い
+elytro-, elytr-	翅鞘
+embolo-, embol-	塞栓
+eremo-, erem-	砂漠、孤立
+erucio-, eruci-	イモ虫
+feto-, fet-	胎児
+filio-, fili-	糸
+frigio-, frigo-	寒冷
+frutio-, fruti-	低木
+fuso-, fus-	紡錘、紡錘状
+gingivo-, gingiv-	歯茎、歯肉
+globo-, glob-	球形、球状
+glomerulo-, glomerul-	糸球体
+gonio-, goni-	角、顎角点
+helio-, heli-	太陽、光
+helio-, heli-	ヘリコプター
+herpeto-, herpet-	爬虫両生類、ヘルペス、疱疹
+hydroxyo-, hydroxy-	[物質]水酸基を含む
+hylo-, hyl-	木質の、物質の
+hypno-, hypn-	睡眠、催眠
+ichno-, ichn-	足、足跡
+ilio-, ili-	腸骨
+larvio-, larvi-	幼虫
+lemmo-, lemm-	髄鞘
+lopho-, loph-	冠ふさ、冠毛、羽毛飾り
+mechano-, mechan-	機械の
+melo-, mel-	歌
+meso-, mes-	中央、中間
+mesatio-, mesati-	中位
+mesio-, mesi-	中央の
+metro-, metr-	子宮、測定、大都市
+millio-, milli-	1000、1000分の1
+millimicro-, millimicr-	10億分の1
+mini-	小さい、小型の、小規模の、短い
+mnemo-, mnem-	記憶
+musculo-, muscul-	筋
+noso-, nos-	病気
+onco-, onc-	塊、腫瘍
+onomato-, onomat-	語、言葉
+opistho-, opisth-	後ろ、後部
+organo-, organ-	器官、有機の
+oro-, or-	口、山
+ozo-, oz-	匂い
+ozono-, ozon-	オゾン
+patho-, path-	病気
+paucio-, pauci-	不足
+pelvo-, pelv-	骨盤
+pulmo-, pulm-	肺
+quasio-, quasi-	類似、疑似、擬～、準～、～に準じる、半～
+resino-, resin-	樹脂
+reticulato-, reticulat-	網状に、網目模様に
+ribo-, rib-	[物質]リボース（糖）
+rostro-, rostr-	くちばし、吻状の
+salino-, salin-	塩、塩分
+salpingo-, salping-	卵管、耳管
+scapho-, scaph-	舟の、舟のような
+self-	自身の、自身に対する、それ自体で、独立の、自動の
+sesquio-, sesqui-	1倍半の
+silicio-, silici-	[物質]シリカ、[元素]ケイ素
+sinistro-, sinistr-	左の
+sodio-, sodi-	[元素]ナトリウム
+somnambulo-, somnambul-	夢遊、夢遊病
+spatio-, spati-	空間
+spectro-, spectr-	スペクトルの、分光器の
+step-	血縁のない
+synchro-, synchr-	同時（性）の、同時に発生する
+toco-, toc-	出産、分娩
+tonsillo-, tonsill-	扁桃
+trinitro-, trinitr-	3個のニトロ基を持つ
+trito-, trit-	3番目の
+ulno-, uln-	尺骨
+umbello-, umbell-	散形花序の
+undeca-, undec-	11
+vago-, vag-	迷走神経
+velo-, vel-	口蓋
+veno-, ven-	静脈、葉脈
+vivio-, vivi-	生命の、生体の
+vomero-, vomer-	鋤骨
+yocto-, yoct-	10のマイナス24乗
+yotta-, yott-	10の24乗
+zepto-, zept-	10のマイナス21乗
+zetta-, zett-	10の21乗
+tomo-, tom-	切断、切開、部分
+maxillo-, maxill-	顎骨、上顎
+poecilo-, poecil-	様々な、いろいろ
+schizo-, schiz-	分裂、分離、精神分裂症
+diptero-, dipter-	2つ、双
+esophago-, esophag-	食道の
+abso-, abs-	分離
+actino-, actin-	光線、放射構造
+acuo-, acu-	針、とげ
+aero-, aer-	空気、大気、航空機、飛行、気体、ガス
+after-	～の後
+air-	空気、大気
+algo-, alg-	苦痛
+alko-, alk-	メタン系化合物、アルカン、アルキル基
+alto-, alt-	高い
+amido-, amid-	NH2基と酸基を含む化合物
+amino-, amin-	無酸基と結合したNH2基
+amylo-, amyl-	でんぷん、アミル
+ancylo-, ancyl-	鍵形、屈曲部、間接、継目
+andro-, andr-	一般人、男性、雄ずい、葯
+angelo-, angel-	天使
+angio-, angi-	果皮、血管、リンパ管
+anhydro-, anhydr-	無水物
+ano-, an-	肛門、上、上方
+antero-, anter-	前
+anthraco-, anthrac-	石炭、炭、炭素
+areo-, are-	火星
+argento-, argent-	銀
+argyro-, argyr-	銀、銀色
+arsino-, arsin-	アルシノ基
+arterio-, arteri-	動脈、中枢
+arthoro-, arthor-	関節
+artio-, arti-	偶数
+aso-, as-	方向
+asco-, asc-	嚢
+auro-, aur-	金
+auro-, aur-	耳、聴覚の
+Austro-, Austr-	オーストラリアの
+austro-, austr-	南の
+auxo-, aux-	増加、成長
+avio-, avi-	鳥
+axo-, ax-	軸
+azo-, az-	窒素を含むもの
+baccio-, bacci-	液果
+bactero-, bacter-	細菌、バクテリア
+benzo-, benz-	ベンゼン
+bino-, bin-	2
+blepharo-, blephar-	まぶた
+bono-, bon-	良好
+brachio-, brachi-	腕
+brachyo-, brachy-	短い
+bradyo-, brady-	遅い、鈍い
+brevio-, brevi-	短い
+broncho-, bronch-	喉、気管支
+bryo-, bry-	苔
+bubono-, bubon-	鼠蹊
+bucco-, bucc-	頬
+caeco-, caec-	盲腸
+callio-, calli-	美しい
+calorio-, calori-	熱
+carto-, cart-	カード、トランプ
+caryo-, cary-	核、心、細胞核
+celo-, cel-	窩
+cerebro-, cerebr-	脳、大脳
+cero-, cer-	ろう
+cervico-, cervic-	首、えり、頸部
+cesto-, cest-	帯、腰帯、腰ひも
+ceto-, cet-	鯨
+chaeto-, chaet-	髪
+chalo-, chal-	銅、真鋳
+cheilo-, cheil-	唇
+cheiro-, cheir-	手
+chelio-, cheli-	鉤爪、爪、はさみ
+chemo-, chem-	化学的、化学反応
+chilo-, chil-	唇
+Chino-, Chin-	中国の
+chiro-, chir-	手
+chloro-, chlor-	淡緑色、塩素
+cholo-, chol-	胆汁、雄牛の胆汁
+chondro-, chondr-	軟骨
+choreo-, chore-	ダンス、舞踏
+chorio-, chor-	絨毛膜、卵膜、脈絡膜
+choro-, chor-	広い空間、地方
+Christo-, Christ-	キリスト
+chromato-, chromat-	色、着色、染色
+coeno-, coen-	普通の、共通の
+contro-, contr-	反対
+costo-, cost-	肋骨
+cranio-, crani-	頭葢、頭葢の、頭葢骨の
+critico-, critic-	批評的
+cryo-, cry-	冷凍、寒冷
+crystallo-, crystall-	水晶、結晶
+cteno-, cten-	櫛、櫛形の
+cupro-, cupr-	銅
+curvio-, curvi-	曲がった
+cyclo-, cycl-	回転
+cymo-, cym-	波
+cyno-, cyn-	犬
+cyprino-, cyprin-	鯉
+cyrto-, cyrt-	湾曲
+cysto-, cyst-	膀胱、嚢、包嚢
+cyto-, cyt-	細胞
+dacryo-, dacry-	涙
+dactylo-, dactyl-	手指、足指
+dasyo-, dasy-	毛状の、毛深い、濃い
+decio-, deci-	10の1
+demono-, demon-	悪魔、悪霊
+dendro-, dendr-	木
+deutero-, deuter-	第2の、再、二次的の
+diazo-, diaz-	ディアゾ基を含むもの
+dicho-, dich-	２つの、分離した、ばらばらに
+digito-, digit-	手の指、足指
+dodeca-, dodec-	12
+dormo-, dorm-	眠る
+dorso-, dors-	背、背の、背に
+double-	2、2倍の、2重の
+down-	下に
+doxo-, dox-	栄光、誉れ
+duo-, du-	2、二つ、両
+duodeno-, duoden-	十二指腸
+dyno-, dyn-	動力
+dynamo-, dynam-	力、動力
+ecclesio-, ecclesi-	教会
+echino-, echin-	とげのある、傷だらけの
+ecto-, ect-	外側、外部、外観
+ectro-, ectr-	先天性欠損
+Egypto-, Egypt-	エジプトの
+eighty-	80
+elaio-, elai-	油
+eleuthero-, eleuther-	自由
+embryo-, embry-	胚、胎児
+enantio-, enanti-	反対、逆
+endothelio-, endotheli-	内皮
+ennea-, enne-	9
+entero-, enter-	腸
+ento-, ent-	内側
+entomo-, entom-	昆虫
+epeiro-, epeir-	大陸
+epistemo-, epistem-	知識
+ergo-, erg-	麦角病、麦角
+erythro-, erythr-	赤
+ethico-, ethic-	倫理の
+ethno-, ethn-	人種、民族、人々
+etio-, eti-	原因、理由
+Europaeo-, Europae-	ヨーロッパの
+Europeo-, Europe-	ヨーロッパの
+euryo-, eury-	広い
+evaporo-, evapor-	蒸発する
+eventu-, event-	事件、結果
+excito-, excit-	興奮神経、興奮
+exo-, ex-	外、外部、外側
+febro-, febr-	発熱、熱病、興奮
+ferrio-, ferri-	鉄
+fibro-, fibr-	繊維
+fibrino-, fibrin-	フィブリン、繊維素
+fifty-	50
+fisso-, fiss-	分裂、分岐、裂開
+flabellio-, flabelli-	扇、扇状の
+flash-	短時間の、瞬間的の
+floro-, flor-	花
+florio-, flori-	花
+forty-	40
+fossilo-, fossil-	化石
+fracto-, fract-	壊れた、割れた
+Franco-, Franc-	フランスの
+fronto-, front-	前骨部、前線
+fructo-, fruct-	果実
+fungo-, fung-	菌類
+Gallico-, Gallic-	ガリア の、フランスの
+galvano-, galvan-	流電気、流電気の
+ganglio-, gangli-	神経節、節腫
+genito-, genit-	生殖、性器、生殖器
+glass-	ガラス
+gnatho-, gnath-	あご
+grapho-, graph-	書くこと
+Greco-, Grec-	ギリシャの
+gymno-, gymn-	裸の
+gyneco-, gynec-	女、女性、女性生殖器、卵巣、雌ずい
+gyno-, gyn-	女性、卵巣、雌ずい
+gypso-, gyps-	石膏
+haemo-, haem-	血
+haemato-, haemat-	血
+hair-	毛
+heart-	心、心臓
+hecto-, hect-	100
+helico-, helic-	螺旋
+hemato-, hemat-	血
+hendeca-, hendec-	11
+hepatico-, hepatic-	肝臓
+hernio-, herni-	ヘルニア
+hymeno-, hymen-	膜
+icosa-, icos-	20
+ideo-, ide-	考、思考、理想、観念、意味
+igno-, ign-	火
+ileo-, ile-	回腸
+imido-, imid-	イミド、二級アミン
+imino-, imin-	イミン
+immuno-, immun-	免疫性、免疫性の
+Indo-, Ind-	インドの
+indo-, ind-	藍色
+infero-, infer-	下に、下部に
+iso-, is-	同等、同質
+Japano-, Japan-	日本の
+Judeo-, Jude-	ユダヤの
+kilo-, kil-	1000
+labio-, labi-	くちびる
+lalo-, lal-	発話、発話障害
+laparo-, lapar-	横腹
+laryngo-, laryng-	喉頭
+lepido-, lepid-	鱗、薄片
+lexico-, lexic-	辞書
+lipo-, lip-	脂肪、脂肪質の、脂肪過多の、脂質
+litho-, lith-	石
+loco-, loc-	場所から場所へ
+logo-, log-	言葉、言語
+longo-, long-	長い
+longio-, longi-	長い
+lumbo-, lumb-	腰
+lunio-, luni-	月
+lymphato-, lymphat-	リンパの、リンパを含む、リンパを分泌する
+lysso-, lyss-	狂気
+mangano-, mangani-	[元素]マンガン
+manio-, mani-	手で
+masto-, mast-	胸部、胸、乳房、乳、乳腺
+matro-, matr-	母
+maxio-, maxi-	最大、最長、大型
+medico-, medic-	医学
+meno-, men-	月、月経、月経期間
+metho-, meth-	[物質]メチル基
+mid-	中央の、中間の
+myo-, my-	筋肉
+mytho-, myth-	神話
+narco-, narc-	無気力、麻痺状態、無感覚
+naso-, nas-	鼻、鼻声
+nepho-, neph-	雲
+ninety-	90
+nomo-, nom-	法律、慣習、風習、用法
+nullio-, nulli-	無、零
+numismato-, numismat-	流通貨幣
+octo-, octa-, oct-	8
+odonto-, odont-	歯
+odonto-, odont-	歯
+oleo-, ole-	石油、油、オレイン
+oligo-, olig-	小さい、少数の、僅少の
+ombro-, ombr-	雨
+optico-, optic-	光、光学
+opto-, opt-	光学の、視覚の、視力の
+orchio-, orchi-	蘭、蘭科植物、睾丸
+ornitho-, ornith-	鳥
+oxo-, ox-	酸素を含む
+oxyo-, oxy-	鋭い、急性、酸性、[物質]酸素を含む物質
+palato-, palat-	口葢
+panto-, pant-	すべての、あらゆる
+pario-, pari-	等しい
+pedatio-, pedati-	足の、足状の
+petro-, petr-	岩、石
+phago-, phag-	食べること
+pharmaco-, pharmac-	薬、薬剤
+pharyngo-, pharyng-	のど、喉頭
+pheno-, phen-	表す、[物質]ベンゼン、フェノール基の
+piezo-, piez-	圧力
+pisco-, pisc-	魚
+platino-, platin-	白金
+pleuro-, pleur-	側腹、肋骨
+plumbo-, plumb-	鉛
+plurio-, pluri-	より多く、多くの
+pluvio-, pluvi-	雨
+polio-, poli-	灰白質
+primo-, prim-	第一、原始、主部
+procto-, proct-	直腸、肛門
+proso-, pros-	～の方へ、その上
+prostato-, prostat-	前立腺
+psyco-, psyc-	霊魂、精神
+psyco-, psyc-	霊魂、精神
+ptero-, pter-	羽、翼、羽毛
+pyelo-, pyel-	腎盂、骨盤、腎盤
+quinque-, quinqu-	5、5つ
+recto-, rect-	右、真っ直ぐ
+recto-, rect-	直腸
+remio-, remi-	オール、櫓
+reno-, ren-	腎臓
+rhodo-, rhod-	ばら
+roentgeno-, roentgen-	X 線
+roto-, rot-	回転する
+Russo-, Russ-	ロシアの
+sapro-, sapr-	分解、腐敗、変質、腐敗作用、腐敗物
+sarco-, sarc-	肉
+scapo-, scap-	茎、軸
+scato-, scat-	糞、排泄物
+schisto-, schist-	裂けた、割れた、分割した、かた割れの
+sclero-, scler-	硬さ、硬い、堅い
+scoto-, scot-	暗闇
+scyphio-, scyphi-	器
+seismo-, seism-	地震、振動
+septo-, septi-, sept-	7、隔壁、囲い、鼻中隔
+sero-, ser-	血清
+Serbo-, Serb-	セルビアの
+serico-, seric-	絹
+servo-, serv-	サーボ機構を使用するデバイス・操作
+setio-, seti-	剛毛
+seventy-	70
+sexa-, sex-	6
+she-	女性、雌、雌性植物、雌株
+silico-, silic-	[元素]珪素、シリコン
+simplico-, simplic-	単純な、簡単な
+sino-, sin-	曲り、湾、洞、膿瘻
+Sino-, Sin-	中国の
+sito-, sit-	食物
+sixty-	60
+snow-	雪
+solio-, soli-	単一の、唯一の、太陽
+somato-, somat-	身体、肉体
+somnio-, somni-	睡眠
+space-	空間、宇宙
+spermato-, spermat-	種、精子
+sphygmo-, sphygm-	脈
+splanchno-, splanchn-	内臓、腹部
+squamo-, squam-	うろこ、鱗片、うろこ状構造
+stato-, stat-	位置
+stearo-, stear-	脂肪
+stego-, steg-	覆い、カバー
+stercoro-, stercor-	牛馬などの糞
+strato-, strat-	層、地層
+strato-, strat-	層雲、成層圏
+sucro-, sucr-	糖
+sulpho-, sulph-	硫黄
+sumo-, sum-	下
+supra-, supr-	超、上の
+syndesmo-, syndesm-	靭帯
+syso-, sys-	共同
+tachyo-, tachy-	速い
+tarso-, tars-	足根骨
+tauro-, taur-	雄牛、[物質]タウリン
+tauto-, taut-	同一の、等価の
+teleo-, tele-	終わりの、完全の
+tenonto-, tenont-	腱
+tero-, ter-	3、第3の、3重の、3倍
+tetarto-, tetart-	4分の1
+thaumato-, thaumat-	奇跡、驚異
+thermyo-, thermy-	熱
+thio-, thi-	[物質]硫黄酸化物
+thirty-	30
+thoraco-, thorac-	胸部
+thyro-, thyr-	甲状腺
+tono-, ton-	張力、応力、圧力、音調、音の高低
+topo-, top-	場所、地域
+totio-, toti-	全体の
+toxo-, tox-	毒
+toxico-, toxic-	毒
+tracheo-, trache-	気管
+tribo-, trib-	摩擦
+tuberculo-, tubercul-	結核、肺結核、結核菌
+turbo-, turb-	タービン
+Turco-, Turc-	トルコ、トルコ語
+twenty-	20
+twi-	2
+typho-, typh-	発疹チフス、腸チフス
+typhlo-, typhl-	盲目、盲腸
+udo-, ud-	湿った
+up-	上の（方へ）
+uretero-, ureter-	尿管、輸尿管
+urethro-, urethr-	尿道
+urico-, uric-	尿酸
+urino-, urin-	尿
+utero-, uter-	子宮
+vagino-, vagin-	腟
+vaporo-, vapor-	蒸気
+varico-, varic-	静脈
+ventro-, ventr-	腹、腹部
+ventriculo-, ventricul-	室、心室、脳室
+vermio-, vermi-	虫
+vesico-, vesic-	膀胱
+vice-	代理の、副の
+vino-, vin-	酒
+vitio-, viti-	葡萄の木
+vitro-, vitr-	ガラス
+with-	後方へ、離れて、反対に
+xero-, xer-	乾いた、乾燥
+yester-	昨～、去る～
+zoo-, zo-	動物
+abio-, abi-	無機、無生物の、無力
+dinitro-, dinitr-	2つのニトロ基を持つ
+dromo-, drom-	走路、競技のコース、走ること、スピード
+aceto-, acet-	酢酸、アセチル
+adeno-, aden-	腺
+aesthesio-, aesthesi-	感覚、知覚
+algo-, alg-	苦痛、痛み
+alumino-, alumin-	アルミニウム、ミョウバン
+ammono-, ammon-	[物質]アンモニア、アンモニウム
+ampho-, amph-	両側、周りに、両方、2方法
+anomo-, anom-	不規則な、普通でない
+anomalo-, anomal-	不規則な、普通でない
+antho-, anth-	花
+atmo-, atm-	蒸気、蒸発、空気
+baro-, bar-	重さ、大気圧、圧力
+blasto-, blast-	成長、出芽、胚種、初期胎児
+caulo-, caul-	茎
+esthesio-, esthesi-	感覚、知覚
+flavo-, flav-	黄色、［物質］フラビン
+geronto-, geront-	老年、老人
+gluco-, gluc-	糖、[物質]グルコース
+glyco-, glyc-	糖、[物質]グルコース
+granio-, grani-	粒、粒子、殻粒
+grano-, gran-	花崗岩、花崗岩状の
+lano-, lan-	羊毛
+magneto-, magnet-	磁石、磁気、磁性、電磁
+melano-, melan-	黒い、メラニン色素
+mercuro-, mercur-	[元素]水銀
+myelo-, myel-	脊髄、骨髄
+nucleo-, nucle-	原子核、細胞核、核酸
+nudio-, nudi-	裸の、素の、露出した
+nycto-, nyct-	夜、夜の、夜行性の
+oneiro-, oneir-	夢
+patro-, patr-	父
+phreno-, phren-	精神、横隔膜
+phyco-, phyc-	海藻、藻類、海草
+plagio-, plagi-	斜めの、傾いた
+plano-, plan-	動く、歩き回る、彷徨う
+plano-, plan-	平坦な、水平、平面
+protero-, proter-	以前の、早期の、前の
+retino-, retin-	網膜、樹脂
+rhizo-, rhiz-	根
+saccharo-, sacchar-	糖
+sebo-, seb-	脂肪
+sidero-, sider-	星、星の
+sidero-, sider-	鉄
+sono-, son-	音
+spermo-, sperm-	種、精子
+spino-, spin-	脊椎、脊髄、脊柱、とげ
+steno-, sten-	近い、狭い、きっちりした
+taxo-, tax-	配置、整理、配列、順序、分類、整復術
+tricho-, trich-	毛、髪、細糸
+vario-, vari-	種々の、異なった、多様な
+zinco-, zinc-	[元素]亜鉛
+tracho-, trach-	粗い
+baculo-, bacul-	棒、杖
+coelio-, coeli-	腔
+coelo-, coel-	腔
+cyano-, cyan-	青素、藍色、[物質]シアノ、シアン
+eo-, e-	原始、原初の、最も初期の
+phylo-, phyl-	種族、人種、分類上の種、(動物分類上の)門
+phyllo-, phyll-	葉、葉緑素
+stylo-, styl-	尖筆、(時頭骨の)茎状突起
+trapezo-, trapez-	台形、頭蓋骨板
+nympho-, nymph-	ニンフ、よう精、亜成虫、花嫁、若虫
+occipito-, occipit-	後頭の、後頭部の、後頭骨
+pilo-, pil-	毛、毛髪、フェルト、毛せん
+xantho-, xanth-	黄色、キサントン
+acro-, acr-	頂上、先端、先端の、終わりの、人体の四肢の
+agro-, agr-	農作、土壌、畑
+ante-, ant-	前に
+anthropo-, anthrop-	人間
+aquo-, aqu-	水
+archo-, arch-	首位の、第一の
+audio-, audi-	聴覚の
+auto-, aut-	自己の、自らの
+bi-	2、双、重、複、二、二つの
+biblio-, bibli-	本、聖書
+bio-, bi-	生、生命、生体、有機体
+cardio-, cardi-	心臓
+centi-, cent-	100番目、100分の1、100
+chromo-, chrom-	色、色のついた、クロミウム、クロム
+chrono-, chron-	時間
+cosmo-, cosm-	宇宙、世界
+crypto-, crypt-	隠された、秘密の
+deca-, dec-	10
+demo-, dem-	人々、民衆
+dyso-, dys-	障害、悪化、不良、困難
+endo-, end-	内部
+eu-	良好な、真の、簡単な
+helio-, heli-	太陽、太陽光線
+hemi-, hem-	半分
+hepta-, hept-	7
+hetero-, heter-	異なった、違った
+hexa-, hex-	6
+homeo-, home-	類似の
+homo-, hom-	同一の、類似の
+hypero-, hyper-	過度、誇張
+hypo-, hyp-	下に
+infra-, infr-	下に、下部に、～内に
+macro-, macr-	長い、大きい
+micro-, micr-	微小、拡大、100万分の1
+nano-, nan-	10億分の1、小さい
+omni-, omn-	全て、総
+ortho-, orth-	正しい、まっすぐ、直
+paleo-, pale-	原始、古、旧
+para-, par-	準～、擬似、保護、防護
+penta-, pent-	5
+peri-, per-	近い、周りの
+philo-, phil-	～を愛する、～に親近感を持つ
+poly-, pol-	多くの、多様、様々
+pyro-, pyr-	火、熱
+quadri-, quadr-	4、4番目、四角
+radio-, radi-	放射線、放射能、放射状
+socio-, soci-	社会
+tri-, tr-	三、3、三倍
+uni-, un-	1、単一の、1つ
+cosmeto-, cosmet-	化粧
+dermato-, dermat-	皮膚
+gastro-, gastr-	胃
+mega-, meg-	大きい、100万倍
+miso-, mis-	嫌悪
+neuro-, neur-	神経
+phono-, phon-	音、言語、声、発話
+phyto-, phyt-	植物、草木
+psycho-, psych-	心、霊魂、精神
+tele-, tel-	遠く離れた、遠隔操作の、テレビ、遠距離の、電信の、電送の
+tetra-, tetr-	4、4重、4倍
+theo-, the-	神、神学
+thermo-, therm-	熱
+meta-, met-	後～、共～、超～、変化した
+electro-, electr-	電気（の）、電気的に、電解の、電磁の、電子
+mono-, mon-	単独の、単一の、一つの
+morpho-, morph-	形、形態
+multi-, mult-	多数の、多数倍
+neo-, ne-	新しい、最近の
+proto-, prot-	最初の、主要な、基本の、元の、原始の
+techno-, techn-	技能、工芸、技芸、技巧、技術
+paedo-, paed-	足、子供、幼年時代、土壌
+pano-, pan-	全て（の）、それぞれ（の）、完全、全体
+pseudo-, pseud-	偽の、類似した、紛らわしい、仮の
+eco-, ec-	生態系、環境、家政、経済
+physio-, physi-	自然の、物理の、身体の
+geo-, ge-	地球、土地、地理
+hydro-, hydr-	水
+photo-, phot-	光、写真
+xeno-, xen-	外部の、外国の、異なった
+anglo-, angl-	英国の
+arboro-, arbor-	樹木、樹枝
+archaeo-, archae-	古代の
+archeo-, arche-	古代の
+automato-, automat-	自動の、機械的に動く
+baryo-, bary-	重量、圧力
+cerato-, cerat-	角の
+giganto-, gigant-	巨大な
+ionto-, iont-	イオン
+kerato-, kerat-	角、角膜、角質
+levo-, lev-	左
+lumino-, lumin-	発光
+luteo-, lute-	黄色、橙黄色
+oeco-, oec-	生態系、環境、家政、経済
+partheno-, parthen-	処女、受精しない、単為生殖
+physico-, physic-	自然の、物理の、身体の
+pterido-, pterid-	シダ植物
+pyramido-, pyramid-	錐形、ピラミッド型
+scypho-, scyph-	器、酒杯
+sphaero-, sphaer-	球、球状
+sphero-, spher-	球、球状
+syringo-, syring-	(人体の)管状の欠損、瘻孔
+verticillo-, verticill-	輪生の
+verticillio-, verticilli-	(バーティシリウム菌)～属
+violo-, viol-	スミレ科スミレ属
+esophago-, esophag-	食道
+centro-, centr-	中心
+geno-, gen-	遺伝子、人種、生成、生成物質
+glauco-, glauc-	灰色、緑灰色、不透明
+malaco-, malac-	柔らかい、軟らかい、軟体
+metallo-, metall-	金属
+myria-, myri-	１万、無数の、数え切れない
+thalasso-, thalass-	海
+tono-, ton-	音色、音調、圧力、緊張、 伸張
+tropho-, troph-	栄養物
+astro-, astr-	星、天体のね、天文学の、占星術の
+a, an	without 否定/ない
+ab	away 離れて
+ad, ac, af, ag, al, an, ap, ar, as, at	to ～に/～の方へ
+amb, amph	about, around 周囲
+ante	before 前
+anti	against 反/非
+auto	auto 自ら
+be	～にする/単語を動詞化
+bi	two ２つ
+cata	under 下に
+com, co, col, cor, con	①共に、②完全に
+contra	against 逆、反対
+counter	反対/～に対して against
+de	①下に、②強意、③反対
+di	two ２つ
+dia	横切る、通る、間
+dis	否定
+du, dou, do	two ２
+dys	bad 悪化
+e, ef, ex	①外へ、②前、元
+en	接頭辞 ～にする / 単語を動詞化
+en	接頭辞 中に
+epi	among 間/上
+eu	well 良い
+exter, extr, str	outer 外部の
+hemi, semi	half 半分
+hepta, sept	seven ７つ
+hetero	another 別の
+hexa	six ６つ
+home, homeo	same 同じ
+hydro	water 水
+hyper	super 上/超えて
+hypo	under 下
+ig	否定
+im, in, il, ir, ig	①否定、②中に、③単語を動詞化
+infra	under 下
+inter, intra	inter 間の、相互の
+int, ent	within 内側の
+macro	large 大きい
+magni	great 大きい
+mal	①悪い、②不完全な/否定
+mega	great 大きい
+meta	後/変化/超
+micro	small 小さい
+mis	悪い/誤って/不利に
+mon, mono	１つ
+multi	much 多くの
+non	否定
+ob, oc, of, og, op, o	①～に向かって、②～に反対して
+oct	eight ８つ
+omni	all 全て
+out	①外へ/外側の、②～より優れて/十分に、③長く/～以上
+over	over 上に/過大に
+pan	all 全ての
+para	beside わきの
+penta	five ５つ
+per	thoroughly ①完全に、②通して
+peri	around 周囲
+photo	light 光
+post	after (時系列的に)後ろ
+pre, pro	前に
+psycho	mind 心
+quadr, tetra	four ４つ
+re	①再び、②後ろ/元に
+retro	後ろに/元に
+se	away 離れて
+semi, hemi	half 半分
+sept, hepta	seven ７つ
+sub, suc, suf, sug, sum, sup, sus	下
+super	over, beyond 超えて
+sur	上、超える
+syn, syl, sys, sym	together 同じ
+tele	farway 遠い、離れた
+tetra, quadr	four ４つ
+trans, tra	移る/超える
+tri	three 三つの
+ultra, ultimat	extreme 極端な
+un	否定
+uni, un, on	one 1つ
+ut, out	out 外
