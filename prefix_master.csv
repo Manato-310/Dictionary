@@ -1,143 +1,538 @@
 ﻿id,type,spelling,meaning,category
-e1,prefix,com-,ともに、強意,English_terms_prefixed_with_com-
-e2,prefix,con-,ともに、強意,English_terms_prefixed_with_con-
-e3,prefix,co-,ともに、強意,English_terms_prefixed_with_co-
-e4,prefix,re-,後ろへ、再び、反対に、強意,English_terms_prefixed_with_re-
-e5,prefix,in-,中へ、上に、その方向へ、その状態にする,English_terms_prefixed_with_in-
-e6,prefix,il-,中へ、上に、その方向へ、その状態にする,English_terms_prefixed_with_il-
-e7,prefix,im-,中へ、上に、その方向へ、その状態にする,English_terms_prefixed_with_im-
-e8,prefix,en-,中へ、上に、その方向へ、その状態にする,English_terms_prefixed_with_en-
-e9,prefix,em-,中へ、上に、その方向へ、その状態にする,English_terms_prefixed_with_em-
-e10,prefix,ad-,それへ、付加,English_terms_prefixed_with_ad-
-e11,prefix,ar-,それへ、付加,English_terms_prefixed_with_ar-
-e12,prefix,at-,それへ、付加,English_terms_prefixed_with_at-
-e13,prefix,ap-,それへ、付加,English_terms_prefixed_with_ap-
-e14,prefix,af-,それへ、付加,English_terms_prefixed_with_af-
-e15,prefix,as-,それへ、付加,English_terms_prefixed_with_as-
-e16,prefix,ag-,それへ、付加,English_terms_prefixed_with_ag-
-e17,prefix,ac-,それへ、付加,English_terms_prefixed_with_ac-
-e18,prefix,an-,それへ、付加,English_terms_prefixed_with_an-
-e19,prefix,a-,それへ、付加,English_terms_prefixed_with_a-
-e20,prefix,pre-,前に、前もって、代わりの,English_terms_prefixed_with_pre-
-e21,prefix,per-,前に、前もって、代わりの,English_terms_prefixed_with_per-
-e22,prefix,pro-,前に、前もって、代わりの,English_terms_prefixed_with_pro-
-e23,prefix,pur-,前に、前もって、代わりの,English_terms_prefixed_with_pur-
-e24,prefix,ex-,外へ、強意,English_terms_prefixed_with_ex-
-e25,prefix,ef-,外へ、強意,English_terms_prefixed_with_ef-
-e26,prefix,e-,外へ、強意,English_terms_prefixed_with_e-
-e27,prefix,dis-,否定、離れて、強意,English_terms_prefixed_with_dis-
-e28,prefix,di-,否定、離れて、強意,English_terms_prefixed_with_di-
-e29,prefix,de-,離れて、下へ、否定、徹底的に、強意、外へ,English_terms_prefixed_with_de-
-e30,prefix,sub-,下に、代理、下から上へ,English_terms_prefixed_with_sub-
-e31,prefix,suf-,下に、代理、下から上へ,English_terms_prefixed_with_suf-
-e32,prefix,sup-,下に、代理、下から上へ,English_terms_prefixed_with_sup-
-e33,prefix,sus-,下に、代理、下から上へ,English_terms_prefixed_with_sus-
-e34,prefix,suc-,下に、代理、下から上へ,English_terms_prefixed_with_suc-
-e35,prefix,sug-,下に、代理、下から上へ,English_terms_prefixed_with_sug-
-e36,prefix,in-,否定,English_terms_prefixed_with_in-
-e37,prefix,im-,否定,English_terms_prefixed_with_im-
-e38,prefix,un-,否定、反転,English_terms_prefixed_with_un-
-e39,prefix,ab-,離れた,English_terms_prefixed_with_ab-
-e40,prefix,abs-,離れた,English_terms_prefixed_with_abs-
-e41,prefix,per-,貫き通す、徹底的に,English_terms_prefixed_with_per-
-e42,prefix,par-,貫き通す、徹底的に,English_terms_prefixed_with_par-
-e43,prefix,ob-,その方向へ、反対の、後ろへ,English_terms_prefixed_with_ob-
-e44,prefix,oc-,その方向へ、反対の、後ろへ,English_terms_prefixed_with_oc-
-e45,prefix,of-,その方向へ、反対の、後ろへ,English_terms_prefixed_with_of-
-e46,prefix,op-,その方向へ、反対の、後ろへ,English_terms_prefixed_with_op-
-e47,prefix,inter-,間の、中へ,English_terms_prefixed_with_inter-
-e48,prefix,enter-,間の、中へ,English_terms_prefixed_with_enter-
-e49,prefix,sur-,上の、超えて,English_terms_prefixed_with_sur-
-e50,prefix,super-,上の、超えて,English_terms_prefixed_with_super-
-e51,prefix,supra-,上の、超えて,English_terms_prefixed_with_supra-
-e52,prefix,trans-,向こう側へ、変換,English_terms_prefixed_with_trans-
-e53,prefix,tra-,向こう側へ、変換,English_terms_prefixed_with_tra-
-e54,prefix,se-,離れて,English_terms_prefixed_with_se-
-e55,prefix,mis-,誤って、悪い,English_terms_prefixed_with_mis-
-e56,prefix,sym-,ともに,English_terms_prefixed_with_sym-
-e57,prefix,syn-,ともに,English_terms_prefixed_with_syn-
-e58,prefix,uni-,1 つ,English_terms_prefixed_with_uni-
-e59,prefix,tri-,3 つの,English_terms_prefixed_with_tri-
-e60,prefix,bene-,よい,English_terms_prefixed_with_bene-
-e61,prefix,bon-,よい,English_terms_prefixed_with_bon-
-e62,prefix,beni-,よい,English_terms_prefixed_with_beni-
-e63,prefix,auto-,自身,English_terms_prefixed_with_auto-
-e64,prefix,over-,上に、過度に、超えて,English_terms_prefixed_with_over-
-e65,prefix,bi-,2 つの,English_terms_prefixed_with_bi-
-e66,prefix,di-,2 つの,English_terms_prefixed_with_di-
-e67,prefix,meso-,中間,English_terms_prefixed_with_meso-
-e68,prefix,mid-,中間,English_terms_prefixed_with_mid-
-e69,prefix,med-,中間,English_terms_prefixed_with_med-
-e70,prefix,mezzo-,中間,English_terms_prefixed_with_mezzo-
-e71,prefix,mal-,悪い,English_terms_prefixed_with_mal-
-e72,prefix,tele-,遠く,English_terms_prefixed_with_tele-
-e73,prefix,non-,否定,English_terms_prefixed_with_non-
-e74,prefix,anti-,反する,English_terms_prefixed_with_anti-
-e75,prefix,a-,否定、除外,English_terms_prefixed_with_a-
-e76,prefix,ambi-,周囲,English_terms_prefixed_with_ambi-
-e77,prefix,multi-,多くの,English_terms_prefixed_with_multi-
-e78,prefix,para-,反する、近く,English_terms_prefixed_with_para-
-e79,prefix,milli-,千、千分の一,English_terms_prefixed_with_milli-
-e80,prefix,semi-,半分の,English_terms_prefixed_with_semi-
-e81,prefix,micro-,小さな,English_terms_prefixed_with_micro-
-e82,prefix,mono-,単一の,English_terms_prefixed_with_mono-
-e83,prefix,hydro-,水の,English_terms_prefixed_with_hydro-
-e84,prefix,contra-,反対に,English_terms_prefixed_with_contra-
-e85,prefix,contro-,反対に,English_terms_prefixed_with_contro-
-e86,prefix,photo-,光,English_terms_prefixed_with_photo-
-e87,prefix,deca-,10 の,English_terms_prefixed_with_deca-
-e88,prefix,deci-,10 の,English_terms_prefixed_with_deci-
-e89,prefix,oxy-,酸,English_terms_prefixed_with_oxy-
-e90,prefix,techno-,技術の,English_terms_prefixed_with_techno-
-e91,prefix,psycho-,精神、心理,English_terms_prefixed_with_psycho-
-e92,prefix,epi-,上の、間の,English_terms_prefixed_with_epi-
-e93,prefix,a-,接する、その方向へ,English_terms_prefixed_with_a-
-e94,prefix,intro-,中へ,English_terms_prefixed_with_intro-
-e95,prefix,gastro-,胃、腹,English_terms_prefixed_with_gastro-
-e96,prefix,yester-,すぐ前の,English_terms_prefixed_with_yester-
-e97,prefix,retro-,後ろ,English_terms_prefixed_with_retro-
-e98,prefix,infra-,下の,English_terms_prefixed_with_infra-
-e99,prefix,infer-,下の,English_terms_prefixed_with_infer-
-e100,prefix,agri-,畑、野原,English_terms_prefixed_with_agri-
-e101,prefix,agro-,畑、野原,English_terms_prefixed_with_agro-
-e102,prefix,sim-,1 つ,English_terms_prefixed_with_sim-
-e103,prefix,sin-,1 つ,English_terms_prefixed_with_sin-
-e104,prefix,biblio-,本,English_terms_prefixed_with_biblio-
-e105,prefix,dia-,横切って,English_terms_prefixed_with_dia-
-e106,prefix,penta-,5 つの,English_terms_prefixed_with_penta-
-e107,prefix,pent-,5 つの,English_terms_prefixed_with_pent-
-e108,prefix,octa-,8 つの,English_terms_prefixed_with_octa-
-e109,prefix,octo-,8 つの,English_terms_prefixed_with_octo-
-e110,prefix,anthropo-,人間,English_terms_prefixed_with_anthropo-
-e111,prefix,ortho-,まっすぐ、ただしさ,English_terms_prefixed_with_ortho-
-e112,prefix,ana-,上げる、戻す,English_terms_prefixed_with_ana-
-e113,prefix,tetra-,4 つの,English_terms_prefixed_with_tetra-
-e114,prefix,poly-,たくさんの,English_terms_prefixed_with_poly-
-e115,prefix,archi-,主任、主な,English_terms_prefixed_with_archi-
-e116,prefix,magni-,大きい,English_terms_prefixed_with_magni-
-e117,prefix,pedi-,子ども,English_terms_prefixed_with_pedi-
-e118,prefix,pedo-,子ども,English_terms_prefixed_with_pedo-
-e119,prefix,palaeo-,古代,English_terms_prefixed_with_palaeo-
-e120,prefix,paleo-,古代,English_terms_prefixed_with_paleo-
-e121,prefix,dendro-,樹木の,English_terms_prefixed_with_dendro-
-e122,prefix,hexa-,6 つの,English_terms_prefixed_with_hexa-
-e123,prefix,ennea-,9 つの,English_terms_prefixed_with_ennea-
-e124,prefix,extra-,外側,English_terms_prefixed_with_extra-
-e125,prefix,onto-,存在,English_terms_prefixed_with_onto-
-e126,prefix,omni-,すべて,English_terms_prefixed_with_omni-
-e127,prefix,xeno-,外国人、未知の,English_terms_prefixed_with_xeno-
-e128,prefix,spectro-,分光,English_terms_prefixed_with_spectro-
-e129,prefix,mega-,大きな、百万,English_terms_prefixed_with_mega-
-e130,prefix,acro-,高い,English_terms_prefixed_with_acro-
-e131,prefix,hepta-,7 つの,English_terms_prefixed_with_hepta-
-e132,prefix,dodeca-,12 の,English_terms_prefixed_with_dodeca-
-e133,prefix,dys-,悪い,English_terms_prefixed_with_dys-
-e134,prefix,pan-,すべて,English_terms_prefixed_with_pan-
-e135,prefix,macro-,大きな、長い,English_terms_prefixed_with_macro-
-e136,prefix,post-,後に,English_terms_prefixed_with_post-
-e137,prefix,philo-,愛,English_terms_prefixed_with_philo-
-e138,prefix,logo-,言語の,English_terms_prefixed_with_logo-
-e139,prefix,hemi-,半分の,English_terms_prefixed_with_hemi-
-e140,prefix,demi-,半分の,English_terms_prefixed_with_demi-
-e141,prefix,stetho-,胸の,English_terms_prefixed_with_stetho-
-e142,prefix,peri-,周辺の,English_terms_prefixed_with_peri-
+e1,prefix,co-,[1] 共に、共同、共通、相互、同等、ともに [2] 完全に、強意,English_terms_prefixed_with_co-
+e2,prefix,col-,[1] 共に、共同、共通、相互、同等、ともに [2] 完全に、強意,English_terms_prefixed_with_col-
+e3,prefix,com-,[1] 共に、共同、共通、相互、同等、ともに [2] 完全に、強意,English_terms_prefixed_with_com-
+e4,prefix,con-,[1] 共に、共同、共通、相互、同等、ともに [2] 完全に、強意,English_terms_prefixed_with_con-
+e5,prefix,cor-,[1] 共に、共同、共通、相互、同等、ともに [2] 完全に、強意,English_terms_prefixed_with_cor-
+e6,prefix,re-,[1] 再び、再度～をする [2] 後ろへ、元に、反対に [3] ～を直す [4] 強意,English_terms_prefixed_with_re-
+e7,prefix,em-,[1] 中に、中へ、上に、その方向へ [2] ～に入れる、その状態にする、単語を動詞化 (※名詞を他動詞にする),English_terms_prefixed_with_em-
+e8,prefix,en-,[1] 中に、中へ、上に、その方向へ [2] ～に入れる、その状態にする、単語を動詞化 (※名詞を他動詞にする),English_terms_prefixed_with_en-
+e9,prefix,il-,[1] 中に、中へ、上に、その方向へ [2] ～に入れる、その状態にする、単語を動詞化 (※名詞を他動詞にする) [3] 否定、不、反対、逆 [4] 不足,English_terms_prefixed_with_il-
+e10,prefix,im-,[1] 中に、中へ、上に、その方向へ [2] ～に入れる、その状態にする、単語を動詞化 (※名詞を他動詞にする) [3] 否定、不、反対、逆 [4] 不足,English_terms_prefixed_with_im-
+e11,prefix,in-,[1] 中に、中へ、上に、その方向へ [2] ～に入れる、その状態にする、単語を動詞化 (※名詞を他動詞にする) [3] 否定、不、反対、逆 [4] 不足,English_terms_prefixed_with_in-
+e12,prefix,ir-,[1] 中に、中へ、上に、その方向へ [2] ～に入れる、その状態にする、単語を動詞化 (※名詞を他動詞にする) [3] 否定、不、反対、逆 [4] 不足,English_terms_prefixed_with_ir-
+e13,prefix,ig-,[1] 否定、不、反対、逆 [2] 不足,English_terms_prefixed_with_ig-
+e14,prefix,ac-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_ac-
+e15,prefix,ad-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_ad-
+e16,prefix,af-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_af-
+e17,prefix,ag-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_ag-
+e18,prefix,al-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_al-
+e19,prefix,ap-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_ap-
+e20,prefix,ar-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_ar-
+e21,prefix,as-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_as-
+e22,prefix,at-,[1] 方向、～へ、～に、～の方へ、それへ、その方向へ [2] 付加、接する,English_terms_prefixed_with_at-
+e23,prefix,a-,[1] 否定、非、ない、不定、除外、～と関係ない,English_terms_prefixed_with_a-
+e24,prefix,an-,[1] 否定、非、ない、不定、除外、～と関係ない,English_terms_prefixed_with_an-
+e25,prefix,pre-,前に、先に、前もって、以前に,English_terms_prefixed_with_pre-
+e26,prefix,pro-,[1] 代わりの [2] ～に賛成、～を支持,English_terms_prefixed_with_pro-
+e27,prefix,pur-,[1] 代わりの [2] ～に賛成、～を支持,English_terms_prefixed_with_pur-
+e28,prefix,per-,[1] 通って、通して、貫き通す [2] 完全に、徹底的に,English_terms_prefixed_with_per-
+e29,prefix,para-,[1] 準～、擬似 [2] 保護、防護,English_terms_prefixed_with_para-
+e30,prefix,e-,[1] 外へ、外、外部、外側 [2] 前の～、元の～、前、元 [3] 強意,English_terms_prefixed_with_e-
+e31,prefix,ef-,[1] 外へ、外、外部、外側 [2] 前の～、元の～、前、元 [3] 強意,English_terms_prefixed_with_ef-
+e32,prefix,ex-,[1] 外へ、外、外部、外側 [2] 前の～、元の～、前、元 [3] 強意,English_terms_prefixed_with_ex-
+e33,prefix,exo-,外へ、外、外部、外側,English_terms_prefixed_with_exo-
+e34,prefix,bi-,2、2つの、二つ、双、重、複,English_terms_prefixed_with_bi-
+e35,prefix,di-,[1] 離れて [2] 否定 [3] 強意 [4] 2、2つの、二つ、双、重、複,English_terms_prefixed_with_di-
+e36,prefix,dis-,[1] 離れて [2] 否定 [3] 強意,English_terms_prefixed_with_dis-
+e37,prefix,de-,[1] 下に、下へ [2] 外へ [3] 離れて、分解、除去 [4] 悪化、否定、反対 [5] 完全に、徹底的に、強意,English_terms_prefixed_with_de-
+e38,prefix,sub-,[1] 下、下に、下位 [2] 準、副～、代理 [3] ～に値しない [4] 下から上へ,English_terms_prefixed_with_sub-
+e39,prefix,suc-,[1] 下、下に、下位 [2] 準、副～、代理 [3] ～に値しない [4] 下から上へ,English_terms_prefixed_with_suc-
+e40,prefix,suf-,[1] 下、下に、下位 [2] 準、副～、代理 [3] ～に値しない [4] 下から上へ,English_terms_prefixed_with_suf-
+e41,prefix,sug-,[1] 下、下に、下位 [2] 準、副～、代理 [3] ～に値しない [4] 下から上へ,English_terms_prefixed_with_sug-
+e42,prefix,sum-,[1] 下、下に、下位 [2] 準、副～、代理 [3] ～に値しない [4] 下から上へ,English_terms_prefixed_with_sum-
+e43,prefix,sumo-,[1] 下、下に、下位 [2] 準、副～、代理 [3] ～に値しない [4] 下から上へ,English_terms_prefixed_with_sumo-
+e44,prefix,sup-,[1] 下、下に、下位 [2] 準、副～、代理 [3] ～に値しない [4] 下から上へ,English_terms_prefixed_with_sup-
+e45,prefix,sus-,[1] 下、下に、下位 [2] 準、副～、代理 [3] ～に値しない [4] 下から上へ,English_terms_prefixed_with_sus-
+e46,prefix,ob-,[1] ～に向かって、その方向へ [2] ～に反対して、反対の [3] 後ろへ,English_terms_prefixed_with_ob-
+e47,prefix,oc-,[1] ～に向かって、その方向へ [2] ～に反対して、反対の [3] 後ろへ,English_terms_prefixed_with_oc-
+e48,prefix,of-,[1] ～に向かって、その方向へ [2] ～に反対して、反対の [3] 後ろへ,English_terms_prefixed_with_of-
+e49,prefix,og-,[1] ～に向かって、その方向へ [2] ～に反対して、反対の [3] 後ろへ,English_terms_prefixed_with_og-
+e50,prefix,op-,[1] ～に向かって、その方向へ [2] ～に反対して、反対の [3] 後ろへ,English_terms_prefixed_with_op-
+e51,prefix,enter-,腸,English_terms_prefixed_with_enter-
+e52,prefix,entero-,腸,English_terms_prefixed_with_entero-
+e53,prefix,inter-,[1] ～の間、間で、間の [2] 相互、相互の、～の間・相互で～する,English_terms_prefixed_with_inter-
+e54,prefix,intra-,～の内部に、中へ,English_terms_prefixed_with_intra-
+e55,prefix,super-,[1] 上に、上の、～の上にある [2] 超えて、超 [3] 極上の、とても良い,English_terms_prefixed_with_super-
+e56,prefix,supero-,[1] 上に、上の、～の上にある [2] 超えて、超 [3] 極上の、とても良い,English_terms_prefixed_with_supero-
+e57,prefix,supr-,[1] 上に、上の、～の上にある [2] 超えて、超 [3] 極上の、とても良い,English_terms_prefixed_with_supr-
+e58,prefix,supra-,[1] 上に、上の、～の上にある [2] 超えて、超 [3] 極上の、とても良い,English_terms_prefixed_with_supra-
+e59,prefix,sur-,[1] 上に、上の、～の上にある [2] 超えて、超 [3] 極上の、とても良い,English_terms_prefixed_with_sur-
+e60,prefix,se-,離れて,English_terms_prefixed_with_se-
+e61,prefix,aut-,自己の、自ら(の)、自身,English_terms_prefixed_with_aut-
+e62,prefix,auto-,自己の、自ら(の)、自身,English_terms_prefixed_with_auto-
+e63,prefix,over-,[1] 上に [2] 過度の、過大に、限度を超えた、～の限度を超えて、超えて [3] 必要以上に～する,English_terms_prefixed_with_over-
+e64,prefix,med-,中間,English_terms_prefixed_with_med-
+e65,prefix,meso-,中間,English_terms_prefixed_with_meso-
+e66,prefix,mezzo-,中間,English_terms_prefixed_with_mezzo-
+e67,prefix,mid-,中間,English_terms_prefixed_with_mid-
+e68,prefix,tel-,[1] 遠い、遠く離れた、遠距離の、遠く [2] テレビ、遠隔操作の、電信の、電送の,English_terms_prefixed_with_tel-
+e69,prefix,tele-,[1] 遠い、遠く離れた、遠距離の、遠く [2] テレビ、遠隔操作の、電信の、電送の,English_terms_prefixed_with_tele-
+e70,prefix,anti-,[1] 反対、反、非、反する [2] 敵対、対抗 [3] 防止,English_terms_prefixed_with_anti-
+e71,prefix,mon-,単独の、単一の、一つの、１つ,English_terms_prefixed_with_mon-
+e72,prefix,mono-,単独の、単一の、一つの、１つ,English_terms_prefixed_with_mono-
+e73,prefix,phot-,[1] 光 [2] 写真,English_terms_prefixed_with_phot-
+e74,prefix,photo-,[1] 光 [2] 写真,English_terms_prefixed_with_photo-
+e75,prefix,psych-,心、霊魂、精神、心理,English_terms_prefixed_with_psych-
+e76,prefix,psycho-,心、霊魂、精神、心理,English_terms_prefixed_with_psycho-
+e77,prefix,infer-,[1] 下の、下に、下部に [2] ～内に,English_terms_prefixed_with_infer-
+e78,prefix,infero-,[1] 下の、下に、下部に [2] ～内に,English_terms_prefixed_with_infero-
+e79,prefix,infr-,[1] 下の、下に、下部に [2] ～内に,English_terms_prefixed_with_infr-
+e80,prefix,infra-,[1] 下の、下に、下部に [2] ～内に,English_terms_prefixed_with_infra-
+e81,prefix,sim-,1 つ,English_terms_prefixed_with_sim-
+e82,prefix,sin-,[1] 1 つ [2] 曲り、湾、洞 [3] 膿瘻,English_terms_prefixed_with_sin-
+e83,prefix,sino-,[1] 曲り、湾、洞 [2] 膿瘻,English_terms_prefixed_with_sino-
+e84,prefix,pent-,5、5つの,English_terms_prefixed_with_pent-
+e85,prefix,penta-,5、5つの,English_terms_prefixed_with_penta-
+e86,prefix,pol-,多くの、たくさんの、多様、様々,English_terms_prefixed_with_pol-
+e87,prefix,poly-,多くの、たくさんの、多様、様々,English_terms_prefixed_with_poly-
+e88,prefix,extra-,[1] ～の外の、範囲外の、外側 [2] 並外れた、～を超えて,English_terms_prefixed_with_extra-
+e89,prefix,pan-,[1] 全て(の)、すべてにわたる、全体 [2] それぞれ(の) [3] 完全,English_terms_prefixed_with_pan-
+e90,prefix,pano-,[1] 全て(の)、すべてにわたる、全体 [2] それぞれ(の) [3] 完全,English_terms_prefixed_with_pano-
+e91,prefix,post-,後の、次の、～後の、後に、(時系列的に)後ろ,English_terms_prefixed_with_post-
+e92,prefix,apo-,～から離れた,English_terms_prefixed_with_apo-
+e93,prefix,be-,[1] ～にする、単語を動詞化 (※名詞を他動詞にする) [2] 全体に、まわりに [3] 強固に,English_terms_prefixed_with_be-
+e94,prefix,by-,副次的、付随的,English_terms_prefixed_with_by-
+e95,prefix,counter-,[1] 反対、対立、～に対して [2] 相殺、相当,English_terms_prefixed_with_counter-
+e96,prefix,fore-,[1] 前の、先～ [2] 前もって、予～,English_terms_prefixed_with_fore-
+e97,prefix,out-,[1] 外、外へ、外側の [2] ～より優れて、十分に [3] 元の動詞・名詞の意味を上回る (※自動詞・名詞を他動詞に変える) [4] 長く、～以上,English_terms_prefixed_with_out-
+e98,prefix,ut-,[1] 外、外へ、外側の [2] ～より優れて、十分に [3] 元の動詞・名詞の意味を上回る (※自動詞・名詞を他動詞に変える) [4] 長く、～以上,English_terms_prefixed_with_ut-
+e99,prefix,ultimat-,[1] 超、過 [2] 極端に、極端な [3] 並外れた,English_terms_prefixed_with_ultimat-
+e100,prefix,ultra-,[1] 超、過 [2] 極端に、極端な [3] 並外れた,English_terms_prefixed_with_ultra-
+e101,prefix,under-,[1] 下の [2] 十分でない [3] 十分に～する,English_terms_prefixed_with_under-
+e102,prefix,ant-,前に、前,English_terms_prefixed_with_ant-
+e103,prefix,ante-,前に、前,English_terms_prefixed_with_ante-
+e104,prefix,eu-,[1] 良い、良好な [2] 真の [3] 簡単な,English_terms_prefixed_with_eu-
+e105,prefix,bath-,深、深さ、深度,English_terms_prefixed_with_bath-
+e106,prefix,batho-,深、深さ、深度,English_terms_prefixed_with_batho-
+e107,prefix,bulb-,球根,English_terms_prefixed_with_bulb-
+e108,prefix,bulbo-,球根,English_terms_prefixed_with_bulbo-
+e109,prefix,gam-,[1] 結合、合併 [2] 有性,English_terms_prefixed_with_gam-
+e110,prefix,gamo-,[1] 結合、合併 [2] 有性,English_terms_prefixed_with_gamo-
+e111,prefix,later-,横、側,English_terms_prefixed_with_later-
+e112,prefix,latero-,横、側,English_terms_prefixed_with_latero-
+e113,prefix,mix-,[1] 混合 [2] 性交,English_terms_prefixed_with_mix-
+e114,prefix,mixo-,[1] 混合 [2] 性交,English_terms_prefixed_with_mixo-
+e115,prefix,music-,音楽,English_terms_prefixed_with_music-
+e116,prefix,musico-,音楽,English_terms_prefixed_with_musico-
+e117,prefix,pancreatic-,膵臓,English_terms_prefixed_with_pancreatic-
+e118,prefix,pancreatico-,膵臓,English_terms_prefixed_with_pancreatico-
+e119,prefix,proxim-,(身体・植物の中央に)近いほうの,English_terms_prefixed_with_proxim-
+e120,prefix,proximo-,(身体・植物の中央に)近いほうの,English_terms_prefixed_with_proximo-
+e121,prefix,ten-,腱,English_terms_prefixed_with_ten-
+e122,prefix,teno-,腱,English_terms_prefixed_with_teno-
+e123,prefix,he-,動物の雄(人間も含む),English_terms_prefixed_with_he-
+e124,prefix,historic-,歴史,English_terms_prefixed_with_historic-
+e125,prefix,historico-,歴史,English_terms_prefixed_with_historico-
+e126,prefix,mal-,[1] 悪い、邪悪な [2] 縁起の悪い、不吉な,English_terms_prefixed_with_mal-
+e127,prefix,male-,[1] 悪い、邪悪な [2] 縁起の悪い、不吉な,English_terms_prefixed_with_male-
+e128,prefix,not-,[1] 背、背部、後ろ [2] 南の,English_terms_prefixed_with_not-
+e129,prefix,noto-,[1] 背、背部、後ろ [2] 南の,English_terms_prefixed_with_noto-
+e130,prefix,om-,肩、肩甲骨,English_terms_prefixed_with_om-
+e131,prefix,omo-,肩、肩甲骨,English_terms_prefixed_with_omo-
+e132,prefix,o-,卵、卵子,English_terms_prefixed_with_o-
+e133,prefix,oo-,卵、卵子,English_terms_prefixed_with_oo-
+e134,prefix,poster-,後ろ、後部の,English_terms_prefixed_with_poster-
+e135,prefix,postero-,後ろ、後部の,English_terms_prefixed_with_postero-
+e136,prefix,norm-,標準の、普通の (- と- の間),English_terms_prefixed_with_norm-
+e137,prefix,normo-,標準の、普通の (- と- の間),English_terms_prefixed_with_normo-
+e138,prefix,lip-,[1] 脂肪、脂肪質の、脂肪過多の、脂質 [2] 不足、欠けている、去る,English_terms_prefixed_with_lip-
+e139,prefix,lipo-,[1] 脂肪、脂肪質の、脂肪過多の、脂質 [2] 不足、欠けている、去る,English_terms_prefixed_with_lipo-
+e140,prefix,lei-,滑らか、スムーズ,English_terms_prefixed_with_lei-
+e141,prefix,leio-,滑らか、スムーズ,English_terms_prefixed_with_leio-
+e142,prefix,afr-,アフリカの,English_terms_prefixed_with_afr-
+e143,prefix,afro-,アフリカの,English_terms_prefixed_with_afro-
+e144,prefix,alb-,白,English_terms_prefixed_with_alb-
+e145,prefix,albo-,白,English_terms_prefixed_with_albo-
+e146,prefix,albumin-,アルブミン(一群の可溶性タンパク質の総称),English_terms_prefixed_with_albumin-
+e147,prefix,albumino-,アルブミン(一群の可溶性タンパク質の総称),English_terms_prefixed_with_albumino-
+e148,prefix,amm-,砂,English_terms_prefixed_with_amm-
+e149,prefix,ammo-,砂,English_terms_prefixed_with_ammo-
+e150,prefix,anis-,[1] 不等、不平等 [2] ［物質］アニス、［植物］アニス,English_terms_prefixed_with_anis-
+e151,prefix,aniso-,[1] 不等、不平等 [2] ［物質］アニス、［植物］アニス,English_terms_prefixed_with_aniso-
+e152,prefix,append-,虫垂,English_terms_prefixed_with_append-
+e153,prefix,appendo-,虫垂,English_terms_prefixed_with_appendo-
+e154,prefix,arson-,アルソン酸,English_terms_prefixed_with_arson-
+e155,prefix,arsono-,アルソン酸,English_terms_prefixed_with_arsono-
+e156,prefix,art-,パン,English_terms_prefixed_with_art-
+e157,prefix,arto-,パン,English_terms_prefixed_with_arto-
+e158,prefix,aster-,[1] 星 [2] (生物の)構造的・属名,English_terms_prefixed_with_aster-
+e159,prefix,astero-,[1] 星 [2] (生物の)構造的・属名,English_terms_prefixed_with_astero-
+e160,prefix,audit-,聴覚の、音声,English_terms_prefixed_with_audit-
+e161,prefix,audito-,聴覚の、音声,English_terms_prefixed_with_audito-
+e162,prefix,bronchi-,気管支,English_terms_prefixed_with_bronchi-
+e163,prefix,bronchio-,気管支,English_terms_prefixed_with_bronchio-
+e164,prefix,carp-,[1] 果実 [2] 手根の,English_terms_prefixed_with_carp-
+e165,prefix,carpo-,[1] 果実 [2] 手根の,English_terms_prefixed_with_carpo-
+e166,prefix,cell-,［物質］セルロース,English_terms_prefixed_with_cell-
+e167,prefix,cello-,［物質］セルロース,English_terms_prefixed_with_cello-
+e168,prefix,dent-,歯,English_terms_prefixed_with_dent-
+e169,prefix,dento-,歯,English_terms_prefixed_with_dento-
+e170,prefix,dry-,(植物)～属(学名),English_terms_prefixed_with_dry-
+e171,prefix,dryo-,(植物)～属(学名),English_terms_prefixed_with_dryo-
+e172,prefix,epoxy-,[物質]エポキシ,English_terms_prefixed_with_epoxy-
+e173,prefix,epoxyo-,[物質]エポキシ,English_terms_prefixed_with_epoxyo-
+e174,prefix,erg-,[1] 仕事 [2] 麦角病、麦角,English_terms_prefixed_with_erg-
+e175,prefix,ergo-,[1] 仕事 [2] 麦角病、麦角,English_terms_prefixed_with_ergo-
+e176,prefix,flu-,[1] 蛍光 [2] ［元素］フッ素,English_terms_prefixed_with_flu-
+e177,prefix,fluo-,[1] 蛍光 [2] ［元素］フッ素,English_terms_prefixed_with_fluo-
+e178,prefix,german-,[物質]ゲルマニウム,English_terms_prefixed_with_german-
+e179,prefix,germano-,[物質]ゲルマニウム,English_terms_prefixed_with_germano-
+e180,prefix,gig-,10億,English_terms_prefixed_with_gig-
+e181,prefix,giga-,10億,English_terms_prefixed_with_giga-
+e182,prefix,hal-,[1] 海、塩、塩水 [2] [物質]ハロゲン,English_terms_prefixed_with_hal-
+e183,prefix,halo-,[1] 海、塩、塩水 [2] [物質]ハロゲン,English_terms_prefixed_with_halo-
+e184,prefix,hen-,1、単一,English_terms_prefixed_with_hen-
+e185,prefix,heno-,1、単一,English_terms_prefixed_with_heno-
+e186,prefix,hipp-,馬,English_terms_prefixed_with_hipp-
+e187,prefix,hippo-,馬,English_terms_prefixed_with_hippo-
+e188,prefix,hist-,組織,English_terms_prefixed_with_hist-
+e189,prefix,histo-,組織,English_terms_prefixed_with_histo-
+e190,prefix,hom-,同一の、同様の、類似の,English_terms_prefixed_with_hom-
+e191,prefix,homo-,同一の、同様の、類似の,English_terms_prefixed_with_homo-
+e192,prefix,ken-,空の,English_terms_prefixed_with_ken-
+e193,prefix,keno-,空の,English_terms_prefixed_with_keno-
+e194,prefix,kin-,運動,English_terms_prefixed_with_kin-
+e195,prefix,kino-,運動,English_terms_prefixed_with_kino-
+e196,prefix,limn-,湖、湖水,English_terms_prefixed_with_limn-
+e197,prefix,limno-,湖、湖水,English_terms_prefixed_with_limno-
+e198,prefix,logic-,論理的な,English_terms_prefixed_with_logic-
+e199,prefix,logico-,論理的な,English_terms_prefixed_with_logico-
+e200,prefix,lox-,斜線、斜め,English_terms_prefixed_with_lox-
+e201,prefix,loxo-,斜線、斜め,English_terms_prefixed_with_loxo-
+e202,prefix,lymph-,リンパ組織、リンパ液、リンパ球,English_terms_prefixed_with_lymph-
+e203,prefix,lympho-,リンパ組織、リンパ液、リンパ球,English_terms_prefixed_with_lympho-
+e204,prefix,meteor-,[1] 天文学、天気、気候 [2] 隕石,English_terms_prefixed_with_meteor-
+e205,prefix,meteoro-,[1] 天文学、天気、気候 [2] 隕石,English_terms_prefixed_with_meteoro-
+e206,prefix,mi-,[1] 少ない [2] 収縮,English_terms_prefixed_with_mi-
+e207,prefix,mio-,[1] 少ない [2] 収縮,English_terms_prefixed_with_mio-
+e208,prefix,mot-,[1] 動き、運動 [2] モーター,English_terms_prefixed_with_mot-
+e209,prefix,moto-,[1] 動き、運動 [2] モーター,English_terms_prefixed_with_moto-
+e210,prefix,my-,筋肉,English_terms_prefixed_with_my-
+e211,prefix,myo-,筋肉,English_terms_prefixed_with_myo-
+e212,prefix,optic-,[1] 光学の、光 [2] 視覚の、視力(の),English_terms_prefixed_with_optic-
+e213,prefix,optico-,[1] 光学の、光 [2] 視覚の、視力(の),English_terms_prefixed_with_optico-
+e214,prefix,ot-,耳,English_terms_prefixed_with_ot-
+e215,prefix,oto-,耳,English_terms_prefixed_with_oto-
+e216,prefix,ox-,[1] 酸素を含む [2] [物質]シュウ酸,English_terms_prefixed_with_ox-
+e217,prefix,oxo-,[1] 酸素を含む [2] [物質]シュウ酸,English_terms_prefixed_with_oxo-
+e218,prefix,pic-,一兆分の1,English_terms_prefixed_with_pic-
+e219,prefix,pico-,一兆分の1,English_terms_prefixed_with_pico-
+e220,prefix,pigment-,色素,English_terms_prefixed_with_pigment-
+e221,prefix,pigmento-,色素,English_terms_prefixed_with_pigmento-
+e222,prefix,plat-,平坦な、平らな,English_terms_prefixed_with_plat-
+e223,prefix,plato-,平坦な、平らな,English_terms_prefixed_with_plato-
+e224,prefix,pod-,足、足のような,English_terms_prefixed_with_pod-
+e225,prefix,podo-,足、足のような,English_terms_prefixed_with_podo-
+e226,prefix,politic-,政治の,English_terms_prefixed_with_politic-
+e227,prefix,politico-,政治の,English_terms_prefixed_with_politico-
+e228,prefix,prop-,[物質]プロピオン酸,English_terms_prefixed_with_prop-
+e229,prefix,propo-,[物質]プロピオン酸,English_terms_prefixed_with_propo-
+e230,prefix,quart-,4,English_terms_prefixed_with_quart-
+e231,prefix,quarto-,4,English_terms_prefixed_with_quarto-
+e232,prefix,quint-,[1] 5、5つ [2] 5度音階,English_terms_prefixed_with_quint-
+e233,prefix,quinto-,[1] 5、5つ [2] 5度音階,English_terms_prefixed_with_quinto-
+e234,prefix,rani-,カエル,English_terms_prefixed_with_rani-
+e235,prefix,ranio-,カエル,English_terms_prefixed_with_ranio-
+e236,prefix,rhin-,鼻、鼻の,English_terms_prefixed_with_rhin-
+e237,prefix,rhino-,鼻、鼻の,English_terms_prefixed_with_rhino-
+e238,prefix,scientific-,科学の,English_terms_prefixed_with_scientific-
+e239,prefix,scientifico-,科学の,English_terms_prefixed_with_scientifico-
+e240,prefix,secret-,分泌,English_terms_prefixed_with_secret-
+e241,prefix,secreto-,分泌,English_terms_prefixed_with_secreto-
+e242,prefix,stere-,固体の、実体の、堅固な、硬い,English_terms_prefixed_with_stere-
+e243,prefix,stereo-,固体の、実体の、堅固な、硬い,English_terms_prefixed_with_stereo-
+e244,prefix,stern-,胸、胸骨,English_terms_prefixed_with_stern-
+e245,prefix,sterno-,胸、胸骨,English_terms_prefixed_with_sterno-
+e246,prefix,symbol-,象徴,English_terms_prefixed_with_symbol-
+e247,prefix,symbolo-,象徴,English_terms_prefixed_with_symbolo-
+e248,prefix,tach-,速度,English_terms_prefixed_with_tach-
+e249,prefix,tacho-,速度,English_terms_prefixed_with_tacho-
+e250,prefix,talc-,滑石,English_terms_prefixed_with_talc-
+e251,prefix,talco-,滑石,English_terms_prefixed_with_talco-
+e252,prefix,titan-,[元素]チタン,English_terms_prefixed_with_titan-
+e253,prefix,titano-,[元素]チタン,English_terms_prefixed_with_titano-
+e254,prefix,ulcer-,潰瘍,English_terms_prefixed_with_ulcer-
+e255,prefix,ulcero-,潰瘍,English_terms_prefixed_with_ulcero-
+e256,prefix,wolfram-,[物質]タングステン,English_terms_prefixed_with_wolfram-
+e257,prefix,wolframo-,[物質]タングステン,English_terms_prefixed_with_wolframo-
+e258,prefix,zircon-,[元素]ジルコニウム,English_terms_prefixed_with_zircon-
+e259,prefix,zircono-,[元素]ジルコニウム,English_terms_prefixed_with_zircono-
+e260,prefix,zo-,動物,English_terms_prefixed_with_zo-
+e261,prefix,zoo-,動物,English_terms_prefixed_with_zoo-
+e262,prefix,din-,[1] 恐ろしい [2] 大きい,English_terms_prefixed_with_din-
+e263,prefix,dino-,[1] 恐ろしい [2] 大きい,English_terms_prefixed_with_dino-
+e264,prefix,disc-,ディスク、円盤、蓄音記録,English_terms_prefixed_with_disc-
+e265,prefix,disco-,ディスク、円盤、蓄音記録,English_terms_prefixed_with_disco-
+e266,prefix,hem-,血,English_terms_prefixed_with_hem-
+e267,prefix,hemo-,血,English_terms_prefixed_with_hemo-
+e268,prefix,gloss-,舌、舌状の,English_terms_prefixed_with_gloss-
+e269,prefix,glosso-,舌、舌状の,English_terms_prefixed_with_glosso-
+e270,prefix,mann-,[1] (植物の)マナ [2] [物質]マンノースの,English_terms_prefixed_with_mann-
+e271,prefix,manno-,[1] (植物の)マナ [2] [物質]マンノースの,English_terms_prefixed_with_manno-
+e272,prefix,phosphor-,［物質］リン、リン酸,English_terms_prefixed_with_phosphor-
+e273,prefix,phosphoro-,［物質］リン、リン酸,English_terms_prefixed_with_phosphoro-
+e274,prefix,scut-,盾、盾状、甲,English_terms_prefixed_with_scut-
+e275,prefix,scuto-,盾、盾状、甲,English_terms_prefixed_with_scuto-
+e276,prefix,pet-,10の15乗,English_terms_prefixed_with_pet-
+e277,prefix,peta-,10の15乗,English_terms_prefixed_with_peta-
+e278,prefix,all-,異なる、異質の,English_terms_prefixed_with_all-
+e279,prefix,allo-,異なる、異質の,English_terms_prefixed_with_allo-
+e280,prefix,cross-,交差～、直交～、横断～、断面～、～間,English_terms_prefixed_with_cross-
+e281,prefix,glob-,球形、球状,English_terms_prefixed_with_glob-
+e282,prefix,globo-,球形、球状,English_terms_prefixed_with_globo-
+e283,prefix,metr-,[1] 測定 [2] 子宮 [3] 大都市,English_terms_prefixed_with_metr-
+e284,prefix,metro-,[1] 測定 [2] 子宮 [3] 大都市,English_terms_prefixed_with_metro-
+e285,prefix,mini-,小さい、小型の、小規模の、短い,English_terms_prefixed_with_mini-
+e286,prefix,organ-,[1] 器官 [2] 有機の,English_terms_prefixed_with_organ-
+e287,prefix,organo-,[1] 器官 [2] 有機の,English_terms_prefixed_with_organo-
+e288,prefix,or-,[1] 口 [2] 山,English_terms_prefixed_with_or-
+e289,prefix,oro-,[1] 口 [2] 山,English_terms_prefixed_with_oro-
+e290,prefix,oz-,匂い,English_terms_prefixed_with_oz-
+e291,prefix,ozo-,匂い,English_terms_prefixed_with_ozo-
+e292,prefix,path-,病気,English_terms_prefixed_with_path-
+e293,prefix,patho-,病気,English_terms_prefixed_with_patho-
+e294,prefix,quasi-,類似、疑似、擬～、準～、～に準じる、半～,English_terms_prefixed_with_quasi-
+e295,prefix,quasio-,類似、疑似、擬～、準～、～に準じる、半～,English_terms_prefixed_with_quasio-
+e296,prefix,resin-,樹脂,English_terms_prefixed_with_resin-
+e297,prefix,resino-,樹脂,English_terms_prefixed_with_resino-
+e298,prefix,rib-,[物質]リボース（糖）,English_terms_prefixed_with_rib-
+e299,prefix,ribo-,[物質]リボース（糖）,English_terms_prefixed_with_ribo-
+e300,prefix,self-,自身の、自身に対する、それ自体で、独立の、自動の,English_terms_prefixed_with_self-
+e301,prefix,step-,血縁のない,English_terms_prefixed_with_step-
+e302,prefix,tom-,[1] 切断、切開 [2] 部分,English_terms_prefixed_with_tom-
+e303,prefix,tomo-,[1] 切断、切開 [2] 部分,English_terms_prefixed_with_tomo-
+e304,prefix,actin-,[1] 光線 [2] 放射構造,English_terms_prefixed_with_actin-
+e305,prefix,actino-,[1] 光線 [2] 放射構造,English_terms_prefixed_with_actino-
+e306,prefix,after-,～の後,English_terms_prefixed_with_after-
+e307,prefix,air-,空気、大気,English_terms_prefixed_with_air-
+e308,prefix,alt-,高い,English_terms_prefixed_with_alt-
+e309,prefix,alto-,高い,English_terms_prefixed_with_alto-
+e310,prefix,amid-,2基と酸基を含む化合物,English_terms_prefixed_with_amid-
+e311,prefix,amido-,2基と酸基を含む化合物,English_terms_prefixed_with_amido-
+e312,prefix,angel-,天使,English_terms_prefixed_with_angel-
+e313,prefix,angelo-,天使,English_terms_prefixed_with_angelo-
+e314,prefix,are-,火星,English_terms_prefixed_with_are-
+e315,prefix,areo-,火星,English_terms_prefixed_with_areo-
+e316,prefix,argent-,銀,English_terms_prefixed_with_argent-
+e317,prefix,argento-,銀,English_terms_prefixed_with_argento-
+e318,prefix,az-,窒素を含むもの,English_terms_prefixed_with_az-
+e319,prefix,azo-,窒素を含むもの,English_terms_prefixed_with_azo-
+e320,prefix,bin-,2,English_terms_prefixed_with_bin-
+e321,prefix,bino-,2,English_terms_prefixed_with_bino-
+e322,prefix,bronch-,喉、気管支,English_terms_prefixed_with_bronch-
+e323,prefix,broncho-,喉、気管支,English_terms_prefixed_with_broncho-
+e324,prefix,cart-,カード、トランプ,English_terms_prefixed_with_cart-
+e325,prefix,carto-,カード、トランプ,English_terms_prefixed_with_carto-
+e326,prefix,chore-,ダンス、舞踏,English_terms_prefixed_with_chore-
+e327,prefix,choreo-,ダンス、舞踏,English_terms_prefixed_with_choreo-
+e328,prefix,cost-,肋骨,English_terms_prefixed_with_cost-
+e329,prefix,costo-,肋骨,English_terms_prefixed_with_costo-
+e330,prefix,critic-,批評的,English_terms_prefixed_with_critic-
+e331,prefix,critico-,批評的,English_terms_prefixed_with_critico-
+e332,prefix,cry-,冷凍、寒冷,English_terms_prefixed_with_cry-
+e333,prefix,cryo-,冷凍、寒冷,English_terms_prefixed_with_cryo-
+e334,prefix,cyst-,膀胱、嚢、包嚢,English_terms_prefixed_with_cyst-
+e335,prefix,cysto-,膀胱、嚢、包嚢,English_terms_prefixed_with_cysto-
+e336,prefix,dactyl-,手指、足指,English_terms_prefixed_with_dactyl-
+e337,prefix,dactylo-,手指、足指,English_terms_prefixed_with_dactylo-
+e338,prefix,demon-,悪魔、悪霊,English_terms_prefixed_with_demon-
+e339,prefix,demono-,悪魔、悪霊,English_terms_prefixed_with_demono-
+e340,prefix,digit-,手の指、足指,English_terms_prefixed_with_digit-
+e341,prefix,digito-,手の指、足指,English_terms_prefixed_with_digito-
+e342,prefix,dorm-,眠る,English_terms_prefixed_with_dorm-
+e343,prefix,dormo-,眠る,English_terms_prefixed_with_dormo-
+e344,prefix,double-,2、2倍の、2重の,English_terms_prefixed_with_double-
+e345,prefix,down-,下に,English_terms_prefixed_with_down-
+e346,prefix,do-,2、二つ、両、2つ,English_terms_prefixed_with_do-
+e347,prefix,dou-,2、二つ、両、2つ,English_terms_prefixed_with_dou-
+e348,prefix,du-,2、二つ、両、2つ,English_terms_prefixed_with_du-
+e349,prefix,duo-,2、二つ、両、2つ,English_terms_prefixed_with_duo-
+e350,prefix,dynam-,力、動力,English_terms_prefixed_with_dynam-
+e351,prefix,dynamo-,力、動力,English_terms_prefixed_with_dynamo-
+e352,prefix,eighty-,80,English_terms_prefixed_with_eighty-
+e353,prefix,embry-,胚、胎児,English_terms_prefixed_with_embry-
+e354,prefix,embryo-,胚、胎児,English_terms_prefixed_with_embryo-
+e355,prefix,ethic-,倫理の,English_terms_prefixed_with_ethic-
+e356,prefix,ethico-,倫理の,English_terms_prefixed_with_ethico-
+e357,prefix,event-,[1] 事件 [2] 結果,English_terms_prefixed_with_event-
+e358,prefix,eventu-,[1] 事件 [2] 結果,English_terms_prefixed_with_eventu-
+e359,prefix,fibrin-,フィブリン、繊維素,English_terms_prefixed_with_fibrin-
+e360,prefix,fibrino-,フィブリン、繊維素,English_terms_prefixed_with_fibrino-
+e361,prefix,fifty-,50,English_terms_prefixed_with_fifty-
+e362,prefix,flash-,短時間の、瞬間的の,English_terms_prefixed_with_flash-
+e363,prefix,flor-,花,English_terms_prefixed_with_flor-
+e364,prefix,floro-,花,English_terms_prefixed_with_floro-
+e365,prefix,forty-,40,English_terms_prefixed_with_forty-
+e366,prefix,fossil-,化石,English_terms_prefixed_with_fossil-
+e367,prefix,fossilo-,化石,English_terms_prefixed_with_fossilo-
+e368,prefix,front-,[1] 前骨部 [2] 前線,English_terms_prefixed_with_front-
+e369,prefix,fronto-,[1] 前骨部 [2] 前線,English_terms_prefixed_with_fronto-
+e370,prefix,glass-,ガラス,English_terms_prefixed_with_glass-
+e371,prefix,graph-,書くこと,English_terms_prefixed_with_graph-
+e372,prefix,grapho-,書くこと,English_terms_prefixed_with_grapho-
+e373,prefix,hair-,毛,English_terms_prefixed_with_hair-
+e374,prefix,heart-,心、心臓,English_terms_prefixed_with_heart-
+e375,prefix,hepatic-,肝臓,English_terms_prefixed_with_hepatic-
+e376,prefix,hepatico-,肝臓,English_terms_prefixed_with_hepatico-
+e377,prefix,hymen-,膜,English_terms_prefixed_with_hymen-
+e378,prefix,hymeno-,膜,English_terms_prefixed_with_hymeno-
+e379,prefix,is-,同等、同質,English_terms_prefixed_with_is-
+e380,prefix,iso-,同等、同質,English_terms_prefixed_with_iso-
+e381,prefix,kil-,1000,English_terms_prefixed_with_kil-
+e382,prefix,kilo-,1000,English_terms_prefixed_with_kilo-
+e383,prefix,loc-,場所から場所へ,English_terms_prefixed_with_loc-
+e384,prefix,loco-,場所から場所へ,English_terms_prefixed_with_loco-
+e385,prefix,log-,言葉、言語,English_terms_prefixed_with_log-
+e386,prefix,logo-,言葉、言語,English_terms_prefixed_with_logo-
+e387,prefix,long-,長い,English_terms_prefixed_with_long-
+e388,prefix,longo-,長い,English_terms_prefixed_with_longo-
+e389,prefix,mast-,胸部、胸、乳房、乳、乳腺,English_terms_prefixed_with_mast-
+e390,prefix,masto-,胸部、胸、乳房、乳、乳腺,English_terms_prefixed_with_masto-
+e391,prefix,maxi-,最大、最長、大型,English_terms_prefixed_with_maxi-
+e392,prefix,maxio-,最大、最長、大型,English_terms_prefixed_with_maxio-
+e393,prefix,medic-,医学,English_terms_prefixed_with_medic-
+e394,prefix,medico-,医学,English_terms_prefixed_with_medico-
+e395,prefix,men-,月、月経、月経期間,English_terms_prefixed_with_men-
+e396,prefix,meno-,月、月経、月経期間,English_terms_prefixed_with_meno-
+e397,prefix,myth-,神話,English_terms_prefixed_with_myth-
+e398,prefix,mytho-,神話,English_terms_prefixed_with_mytho-
+e399,prefix,narc-,無気力、麻痺状態、無感覚,English_terms_prefixed_with_narc-
+e400,prefix,narco-,無気力、麻痺状態、無感覚,English_terms_prefixed_with_narco-
+e401,prefix,nas-,鼻、鼻声,English_terms_prefixed_with_nas-
+e402,prefix,naso-,鼻、鼻声,English_terms_prefixed_with_naso-
+e403,prefix,ninety-,90,English_terms_prefixed_with_ninety-
+e404,prefix,ole-,[1] 石油、油 [2] オレイン,English_terms_prefixed_with_ole-
+e405,prefix,oleo-,[1] 石油、油 [2] オレイン,English_terms_prefixed_with_oleo-
+e406,prefix,opt-,光学の、視覚の、視力の,English_terms_prefixed_with_opt-
+e407,prefix,opto-,光学の、視覚の、視力の,English_terms_prefixed_with_opto-
+e408,prefix,pant-,すべての、あらゆる,English_terms_prefixed_with_pant-
+e409,prefix,panto-,すべての、あらゆる,English_terms_prefixed_with_panto-
+e410,prefix,plumb-,鉛,English_terms_prefixed_with_plumb-
+e411,prefix,plumbo-,鉛,English_terms_prefixed_with_plumbo-
+e412,prefix,poli-,灰白質,English_terms_prefixed_with_poli-
+e413,prefix,polio-,灰白質,English_terms_prefixed_with_polio-
+e414,prefix,prim-,[1] 第一 [2] 原始 [3] 主部,English_terms_prefixed_with_prim-
+e415,prefix,primo-,[1] 第一 [2] 原始 [3] 主部,English_terms_prefixed_with_primo-
+e416,prefix,rect-,[1] 右、真っ直ぐ [2] 直腸,English_terms_prefixed_with_rect-
+e417,prefix,recto-,[1] 右、真っ直ぐ [2] 直腸,English_terms_prefixed_with_recto-
+e418,prefix,rot-,回転する,English_terms_prefixed_with_rot-
+e419,prefix,roto-,回転する,English_terms_prefixed_with_roto-
+e420,prefix,scat-,糞、排泄物,English_terms_prefixed_with_scat-
+e421,prefix,scato-,糞、排泄物,English_terms_prefixed_with_scato-
+e422,prefix,schist-,裂けた、割れた、分割した、かた割れの,English_terms_prefixed_with_schist-
+e423,prefix,schisto-,裂けた、割れた、分割した、かた割れの,English_terms_prefixed_with_schisto-
+e424,prefix,scot-,暗闇,English_terms_prefixed_with_scot-
+e425,prefix,scoto-,暗闇,English_terms_prefixed_with_scoto-
+e426,prefix,seism-,地震、振動,English_terms_prefixed_with_seism-
+e427,prefix,seismo-,地震、振動,English_terms_prefixed_with_seismo-
+e428,prefix,ser-,血清,English_terms_prefixed_with_ser-
+e429,prefix,sero-,血清,English_terms_prefixed_with_sero-
+e430,prefix,serv-,サーボ機構を使用するデバイス・操作,English_terms_prefixed_with_serv-
+e431,prefix,servo-,サーボ機構を使用するデバイス・操作,English_terms_prefixed_with_servo-
+e432,prefix,seventy-,70,English_terms_prefixed_with_seventy-
+e433,prefix,sex-,6,English_terms_prefixed_with_sex-
+e434,prefix,sexa-,6,English_terms_prefixed_with_sexa-
+e435,prefix,she-,女性、雌、雌性植物、雌株,English_terms_prefixed_with_she-
+e436,prefix,sit-,食物,English_terms_prefixed_with_sit-
+e437,prefix,sito-,食物,English_terms_prefixed_with_sito-
+e438,prefix,sixty-,60,English_terms_prefixed_with_sixty-
+e439,prefix,snow-,雪,English_terms_prefixed_with_snow-
+e440,prefix,space-,空間、宇宙,English_terms_prefixed_with_space-
+e441,prefix,taut-,同一の、等価の,English_terms_prefixed_with_taut-
+e442,prefix,tauto-,同一の、等価の,English_terms_prefixed_with_tauto-
+e443,prefix,thi-,[物質]硫黄酸化物,English_terms_prefixed_with_thi-
+e444,prefix,thio-,[物質]硫黄酸化物,English_terms_prefixed_with_thio-
+e445,prefix,thirty-,30,English_terms_prefixed_with_thirty-
+e446,prefix,ton-,[1] 張力、応力、圧力、緊張、伸張 [2] 音調、音色、音の高低,English_terms_prefixed_with_ton-
+e447,prefix,tono-,[1] 張力、応力、圧力、緊張、伸張 [2] 音調、音色、音の高低,English_terms_prefixed_with_tono-
+e448,prefix,top-,場所、地域,English_terms_prefixed_with_top-
+e449,prefix,topo-,場所、地域,English_terms_prefixed_with_topo-
+e450,prefix,toxic-,毒,English_terms_prefixed_with_toxic-
+e451,prefix,toxico-,毒,English_terms_prefixed_with_toxico-
+e452,prefix,twenty-,20,English_terms_prefixed_with_twenty-
+e453,prefix,up-,上の（方へ）,English_terms_prefixed_with_up-
+e454,prefix,ureter-,尿管、輸尿管,English_terms_prefixed_with_ureter-
+e455,prefix,uretero-,尿管、輸尿管,English_terms_prefixed_with_uretero-
+e456,prefix,uric-,尿酸,English_terms_prefixed_with_uric-
+e457,prefix,urico-,尿酸,English_terms_prefixed_with_urico-
+e458,prefix,vice-,代理の、副の,English_terms_prefixed_with_vice-
+e459,prefix,vin-,酒,English_terms_prefixed_with_vin-
+e460,prefix,vino-,酒,English_terms_prefixed_with_vino-
+e461,prefix,with-,[1] 後方へ、離れて [2] 反対に,English_terms_prefixed_with_with-
+e462,prefix,aden-,腺,English_terms_prefixed_with_aden-
+e463,prefix,adeno-,腺,English_terms_prefixed_with_adeno-
+e464,prefix,bar-,[1] 重さ [2] 大気圧、圧力,English_terms_prefixed_with_bar-
+e465,prefix,baro-,[1] 重さ [2] 大気圧、圧力,English_terms_prefixed_with_baro-
+e466,prefix,blast-,成長、出芽、胚種、初期胎児,English_terms_prefixed_with_blast-
+e467,prefix,blasto-,成長、出芽、胚種、初期胎児,English_terms_prefixed_with_blasto-
+e468,prefix,magnet-,磁石、磁気、磁性、電磁,English_terms_prefixed_with_magnet-
+e469,prefix,magneto-,磁石、磁気、磁性、電磁,English_terms_prefixed_with_magneto-
+e470,prefix,plan-,[1] 動く、歩き回る、彷徨う [2] 平坦な、水平、平面,English_terms_prefixed_with_plan-
+e471,prefix,plano-,[1] 動く、歩き回る、彷徨う [2] 平坦な、水平、平面,English_terms_prefixed_with_plano-
+e472,prefix,son-,音,English_terms_prefixed_with_son-
+e473,prefix,sono-,音,English_terms_prefixed_with_sono-
+e474,prefix,sperm-,種、精子,English_terms_prefixed_with_sperm-
+e475,prefix,spermo-,種、精子,English_terms_prefixed_with_spermo-
+e476,prefix,spin-,脊椎、脊髄、脊柱、とげ,English_terms_prefixed_with_spin-
+e477,prefix,spino-,脊椎、脊髄、脊柱、とげ,English_terms_prefixed_with_spino-
+e478,prefix,sten-,[1] 狭い、きっちりした [2] 近い,English_terms_prefixed_with_sten-
+e479,prefix,steno-,[1] 狭い、きっちりした [2] 近い,English_terms_prefixed_with_steno-
+e480,prefix,tax-,[1] 配置、整理、配列、順序、分類 [2] 整復術,English_terms_prefixed_with_tax-
+e481,prefix,taxo-,[1] 配置、整理、配列、順序、分類 [2] 整復術,English_terms_prefixed_with_taxo-
+e482,prefix,zinc-,[元素]亜鉛,English_terms_prefixed_with_zinc-
+e483,prefix,zinco-,[元素]亜鉛,English_terms_prefixed_with_zinco-
+e484,prefix,cyan-,[1] 青素、藍色 [2] [物質]シアノ、シアン,English_terms_prefixed_with_cyan-
+e485,prefix,cyano-,[1] 青素、藍色 [2] [物質]シアノ、シアン,English_terms_prefixed_with_cyano-
+e486,prefix,nymph-,[1] ニンフ、よう精 [2] 亜成虫、若虫 [3] 花嫁,English_terms_prefixed_with_nymph-
+e487,prefix,nympho-,[1] ニンフ、よう精 [2] 亜成虫、若虫 [3] 花嫁,English_terms_prefixed_with_nympho-
+e488,prefix,arch-,首位の、第一の,English_terms_prefixed_with_arch-
+e489,prefix,archo-,首位の、第一の,English_terms_prefixed_with_archo-
+e490,prefix,audi-,聴覚の,English_terms_prefixed_with_audi-
+e491,prefix,audio-,聴覚の,English_terms_prefixed_with_audio-
+e492,prefix,cent-,[1] 100 [2] 100番目、100分の1,English_terms_prefixed_with_cent-
+e493,prefix,centi-,[1] 100 [2] 100番目、100分の1,English_terms_prefixed_with_centi-
+e494,prefix,chrom-,[1] 色、色のついた [2] クロミウム、クロム,English_terms_prefixed_with_chrom-
+e495,prefix,chromo-,[1] 色、色のついた [2] クロミウム、クロム,English_terms_prefixed_with_chromo-
+e496,prefix,crypt-,隠された、秘密の,English_terms_prefixed_with_crypt-
+e497,prefix,crypto-,隠された、秘密の,English_terms_prefixed_with_crypto-
+e498,prefix,end-,内部,English_terms_prefixed_with_end-
+e499,prefix,endo-,内部,English_terms_prefixed_with_endo-
+e500,prefix,hex-,6,English_terms_prefixed_with_hex-
+e501,prefix,hexa-,6,English_terms_prefixed_with_hexa-
+e502,prefix,home-,同じ、類似の,English_terms_prefixed_with_home-
+e503,prefix,homeo-,同じ、類似の,English_terms_prefixed_with_homeo-
+e504,prefix,hyp-,下、下に,English_terms_prefixed_with_hyp-
+e505,prefix,hypo-,下、下に,English_terms_prefixed_with_hypo-
+e506,prefix,pale-,原始、古、旧,English_terms_prefixed_with_pale-
+e507,prefix,paleo-,原始、古、旧,English_terms_prefixed_with_paleo-
+e508,prefix,radi-,[1] 放射線、放射能 [2] 放射状,English_terms_prefixed_with_radi-
+e509,prefix,radio-,[1] 放射線、放射能 [2] 放射状,English_terms_prefixed_with_radio-
+e510,prefix,meg-,[1] 大きい [2] 100万倍,English_terms_prefixed_with_meg-
+e511,prefix,mega-,[1] 大きい [2] 100万倍,English_terms_prefixed_with_mega-
+e512,prefix,the-,神、神学,English_terms_prefixed_with_the-
+e513,prefix,theo-,神、神学,English_terms_prefixed_with_theo-
+e514,prefix,met-,後～、共～、超～、変化した,English_terms_prefixed_with_met-
+e515,prefix,meta-,後～、共～、超～、変化した,English_terms_prefixed_with_meta-
+e516,prefix,ne-,新しい、最近の,English_terms_prefixed_with_ne-
+e517,prefix,neo-,新しい、最近の,English_terms_prefixed_with_neo-
+e518,prefix,pseud-,偽の、類似した、紛らわしい、仮の,English_terms_prefixed_with_pseud-
+e519,prefix,pseudo-,偽の、類似した、紛らわしい、仮の,English_terms_prefixed_with_pseudo-
+e520,prefix,ec-,[1] 生態系、環境 [2] 家政、経済,English_terms_prefixed_with_ec-
+e521,prefix,eco-,[1] 生態系、環境 [2] 家政、経済,English_terms_prefixed_with_eco-
+e522,prefix,physi-,自然の、物理の、身体の,English_terms_prefixed_with_physi-
+e523,prefix,physio-,自然の、物理の、身体の,English_terms_prefixed_with_physio-
+e524,prefix,ge-,地球、土地、地理,English_terms_prefixed_with_ge-
+e525,prefix,geo-,地球、土地、地理,English_terms_prefixed_with_geo-
+e526,prefix,arbor-,樹木、樹枝,English_terms_prefixed_with_arbor-
+e527,prefix,arboro-,樹木、樹枝,English_terms_prefixed_with_arboro-
+e528,prefix,automat-,自動の、機械的に動く,English_terms_prefixed_with_automat-
+e529,prefix,automato-,自動の、機械的に動く,English_terms_prefixed_with_automato-
+e530,prefix,lute-,黄色、橙黄色,English_terms_prefixed_with_lute-
+e531,prefix,luteo-,黄色、橙黄色,English_terms_prefixed_with_luteo-
+e532,prefix,physic-,自然の、物理の、身体の,English_terms_prefixed_with_physic-
+e533,prefix,physico-,自然の、物理の、身体の,English_terms_prefixed_with_physico-
+e534,prefix,pyramid-,錐形、ピラミッド型,English_terms_prefixed_with_pyramid-
+e535,prefix,pyramido-,錐形、ピラミッド型,English_terms_prefixed_with_pyramido-
+e536,prefix,viol-,スミレ科スミレ属,English_terms_prefixed_with_viol-
+e537,prefix,violo-,スミレ科スミレ属,English_terms_prefixed_with_violo-

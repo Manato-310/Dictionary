@@ -1,840 +1,1208 @@
 ﻿id,type,spelling,meaning,category
-r1,root,fic,つくる、する、面,
-r2,root,fact,つくる、する、面,
-r3,root,fect,つくる、する、面,
-r4,root,feat,つくる、する、面,
-r5,root,fig,つくる、する、面,
-r6,root,fy,つくる、する、面,
-r7,root,face,つくる、する、面,
-r8,root,fake,つくる、する、面,
-r9,root,sist,立つ,
-r10,root,st,立つ,
-r11,root,stand,立つ,
-r12,root,store,立つ,
-r13,root,state,立つ,
-r14,root,stood,立つ,
-r15,root,cept,つかみ取る,
-r16,root,cip,つかみ取る,
-r17,root,cap,つかみ取る,
-r18,root,ceive,つかみ取る,
-r19,root,cup,つかみ取る,
-r20,root,chase,つかみ取る,
-r21,root,rect,導く、まっすぐな、右,
-r22,root,ress,導く、まっすぐな、右,
-r23,root,reg,導く、まっすぐな、右,
-r24,root,right,導く、まっすぐな、右,
-r25,root,rail,導く、まっすぐな、右,
-r26,root,vert,向きを変える、形や性質を変える,
-r27,root,verse,向きを変える、形や性質を変える,
-r28,root,tend,伸ばす,
-r29,root,tens,伸ばす,
-r30,root,tent,伸ばす,
-r31,root,ten,伸ばす,
-r32,root,spect,見る,
-r33,root,duce,導く,
-r34,root,duct,導く,
-r35,root,pos,置く,
-r36,root,posit,置く,
-r37,root,pose,置く,
-r38,root,pone,置く,
-r39,root,pound,置く,
-r40,root,view,見る,
-r41,root,vis,見る,
-r42,root,videre,見る,
-r43,root,vide,見る,
-r44,root,vice,見る,
-r45,root,vise,見る,
-r46,root,ply,折る,
-r47,root,ploy,折る,
-r48,root,play,折る,
-r49,root,plex,折る,
-r50,root,ject,投げる,
-r51,root,cede,進む,
-r52,root,ceed,進む,
-r53,root,cess,進む,
-r54,root,port,運ぶ、港,
-r55,root,dict,話す,
-r56,root,ne,否定,
-r57,root,neg,否定,
-r58,root,migr,動く、変わる,
-r59,root,mut,動く、変わる,
-r60,root,mun,動く、変わる,
-r61,root,mon,動く、変わる,
-r62,root,movere,動く,
-r63,root,mov,動く,
-r64,root,mot,動く,
-r65,root,move,動く,
-r66,root,lect,集める、選ぶ,
-r67,root,don,与える,
-r68,root,dit,与える,
-r69,root,dat,与える,
-r70,root,act,行動,
-r71,root,age,行動,
-r72,root,gen,生む、種類,
-r73,root,gene,生む、種類,
-r74,root,gn,生む、種類,
-r75,root,ment,考える、心、思い,
-r76,root,man,考える、心、思い,
-r77,root,men,考える、心、思い,
-r78,root,mind,考える、心、思い,
-r79,root,mynd,考える、心、思い,
-r80,root,fort,強い、かたい,
-r81,root,firm,強い、かたい,
-r82,root,bio,命,
-r83,root,bium,命,
-r84,root,ope,はたらく、最高,
-r85,root,tain,つかむ,
-r86,root,tinent,つかむ,
-r87,root,tinue,つかむ,
-r88,root,tent,つかむ,
-r89,root,fin,終わる、境界を定める、よいものにする,
-r90,root,fine,終わる、境界を定める、よいものにする,
-r91,root,mit,送る,
-r92,root,mess,送る,
-r93,root,miss,送る,
-r94,root,mise,送る,
-r95,root,circu,輪、周囲、周期,
-r96,root,circle,輪、周囲、周期,
-r97,root,circum,輪、周囲、周期,
-r98,root,cycle,輪、周囲、周期,
-r99,root,cercle,輪、周囲、周期,
-r100,root,search,輪、周囲、周期,
-r101,root,kyklos,輪、周囲、周期,
-r102,root,just,ただしさ、法律、ちょうど,
-r103,root,jure,ただしさ、法律、ちょうど,
-r104,root,ius,ただしさ、法律、ちょうど,
-r105,root,tract,引っぱる,
-r106,root,know,知る,
-r107,root,gno,知る,
-r108,root,knew,知る,
-r109,root,not,知る,
-r110,root,spiritus,呼吸,
-r111,root,sprit,呼吸,
-r112,root,spire,呼吸,
-r113,root,pire,呼吸,
-r114,root,pul,満たす,
-r115,root,ple,満たす,
-r116,root,ply,満たす,
-r117,root,mani,手,
-r118,root,main,手,
-r119,root,man,手,
-r120,root,manu,手,
-r121,root,clude,閉じる,
-r122,root,cluse,閉じる,
-r123,root,fide,信じる,
-r124,root,faith,信じる,
-r125,root,use,使う,
-r126,root,serv,見守る、保つ,
-r127,root,set,座る、置く,
-r128,root,sed,座る、置く,
-r129,root,sit,座る、置く,
-r130,root,side,座る、置く,
-r131,root,fer,運ぶ,
-r132,root,fort,運ぶ,
-r133,root,graph,書く、書かれたもの,
-r134,root,gram,書く、書かれたもの,
-r135,root,form,形,
-r136,root,forma,形,
-r137,root,scribe,書く,
-r138,root,script,書く,
-r139,root,pend,ぶら下げる,
-r140,root,pede,足,
-r141,root,pod,足,
-r142,root,gress,歩く、段階,
-r143,root,grad,歩く、段階,
-r144,root,val,価値、強い,
-r145,root,meter,測る、測定器、メートル,
-r146,root,metry,測る、測定器、メートル,
-r147,root,metron,測る、測定器、メートル,
-r148,root,way,道、行く,
-r149,root,weg,道、行く,
-r150,root,wegh,道、行く,
-r151,root,via,道、行く,
-r152,root,se,それ自身,
-r153,root,selu,それ自身,
-r154,root,sui,それ自身,
-r155,root,self,それ自身,
-r156,root,voc,呼ぶ、声,
-r157,root,vok,呼ぶ、声,
-r158,root,cor,心,
-r159,root,point,穴を開ける、さす,
-r160,root,punc,穴を開ける、さす,
-r161,root,press,押す,
-r162,root,premere,押す,
-r163,root,vince,征服する,
-r164,root,nat,生まれる,
-r165,root,grav,重い,
-r166,root,grie,重い,
-r167,root,grave,重い,
-r168,root,grief,重い,
-r169,root,part,部分,
-r170,root,reel,現実、もの,
-r171,root,real,現実、もの,
-r172,root,re,現実、もの,
-r173,root,paratus,準備,
-r174,root,pair,準備,
-r175,root,pare,準備,
-r176,root,nov,新しい,
-r177,root,neo,新しい,
-r178,root,newo,新しい,
-r179,root,new,新しい,
-r180,root,roll,回転する、名簿、車輪,
-r181,root,rot,回転する、名簿、車輪,
-r182,root,round,回転する、名簿、車輪,
-r183,root,popul,人々,
-r184,root,publ,人々,
-r185,root,quire,探し求める,
-r186,root,quis,探し求める,
-r187,root,quest,探し求める,
-r188,root,habit,持つ、住む,
-r189,root,hibit,持つ、住む,
-r190,root,ordi,整える,
-r191,root,orn,整える,
-r192,root,order,整える,
-r193,root,volve,回転する,
-r194,root,volt,回転する,
-r195,root,seque,続く,
-r196,root,sequi,続く,
-r197,root,secu,続く,
-r198,root,duo,2 つ,
-r199,root,dup,2 つ,
-r200,root,cult,耕す、住む,
-r201,root,cole,耕す、住む,
-r202,root,gon,カド,
-r203,root,heah,高い,
-r204,root,high,高い,
-r205,root,height,高い,
-r206,root,heap,高い,
-r207,root,docu,適切な,
-r208,root,doc,適切な,
-r209,root,man,人,
-r210,root,anima,魂、命、風,
-r211,root,anemo,魂、命、風,
-r212,root,crease,増やす,
-r213,root,chrono,時の,
-r214,root,aster,星,
-r215,root,astro,星,
-r216,root,ster,星,
-r217,root,star,星,
-r218,root,by,わきの、副次的な、あらゆる,
-r219,root,be,わきの、副次的な、あらゆる,
-r220,root,stru,積み重ねる,
-r221,root,centr,中央,
-r222,root,dom,家、領域、支配,
-r223,root,dan,家、領域、支配,
-r224,root,posse,できる、力,
-r225,root,pot,できる、力,
-r226,root,power,できる、力,
-r227,root,lve,ほどく,
-r228,root,lut,ほどく,
-r229,root,lue,ほどく,
-r230,root,lye,ほどく,
-r231,root,it,行く,
-r232,root,clin,寄りかかる,
-r233,root,lean,寄りかかる,
-r234,root,phone,音,
-r235,root,place,場所、広がり,
-r236,root,platea,場所、広がり,
-r237,root,plat,場所、広がり,
-r238,root,plate,場所、広がり,
-r239,root,plaud,拍手、大きな音,
-r240,root,plaus,拍手、大きな音,
-r241,root,plode,拍手、大きな音,
-r242,root,corpus,身体,
-r243,root,corpo,身体,
-r244,root,term,終わり、境界,
-r245,root,terminus,終わり、境界,
-r246,root,sign,印,
-r247,root,signum,印,
-r248,root,lingua,舌、言葉,
-r249,root,sci,知る,
-r250,root,her,粘着する,
-r251,root,hes,粘着する,
-r252,root,sorb,吸う,
-r253,root,sorp,吸う,
-r254,root,oper,覆う,
-r255,root,sert,つなげる,
-r256,root,minu,小さな、細かな,
-r257,root,min,小さな、細かな,
-r258,root,mei,小さな、細かな,
-r259,root,fund,基礎を置く、底,
-r260,root,found,基礎を置く、底,
-r261,root,under,下に,
-r262,root,cogni,知る,
-r263,root,pass,歩く,
-r264,root,passus,歩く,
-r265,root,latus,運ぶ,
-r266,root,cure,手入れ、気遣い,
-r267,root,flame,炎,
-r268,root,flaume,炎,
-r269,root,verb,言葉,
-r270,root,cuss,振る,
-r271,root,cue,振る,
-r272,root,vov,誓う,
-r273,root,vote,誓う,
-r274,root,memor,心に留める,
-r275,root,equal,等しい,
-r276,root,equi,等しい,
-r277,root,aequus,等しい,
-r278,root,host,見知らぬ人、客,
-r279,root,hosp,見知らぬ人、客,
-r280,root,nur,養う、育てる,
-r281,root,nutri,養う、育てる,
-r282,root,nour,養う、育てる,
-r283,root,grace,喜び、慈悲深さ,
-r284,root,grate,喜び、慈悲深さ,
-r285,root,gree,喜び、慈悲深さ,
-r286,root,norm,規格,
-r287,root,norma,規格,
-r288,root,flu,流れ,
-r289,root,dent,歯,
-r290,root,pel,押して走らせる,
-r291,root,pul,押して走らせる,
-r292,root,gest,運ぶ,
-r293,root,gist,運ぶ,
-r294,root,prov,試す,
-r295,root,prob,試す,
-r296,root,stom,慣れる,
-r297,root,civis,町民,
-r298,root,ori,生まれる,
-r299,root,cis,切る,
-r300,root,cid,切る,
-r301,root,the,神,
-r302,root,theo,神,
-r303,root,age,年,
-r304,root,aevum,年,
-r305,root,evum,年,
-r306,root,eter,年,
-r307,root,plane,平ら、飛行機,
-r308,root,plain,平ら、飛行機,
-r309,root,plan,平ら、飛行機,
-r310,root,pert,試す,
-r311,root,peri,試す,
-r312,root,gala,ミルク,
-r313,root,lact,ミルク,
-r314,root,kwo,どれほどの,
-r315,root,quo,どれほどの,
-r316,root,vid,分ける,
-r317,root,vis,分ける,
-r318,root,ali,別,
-r319,root,alter,別,
-r320,root,el,別,
-r321,root,auc,増やす,
-r322,root,auth,増やす,
-r323,root,human,人間,
-r324,root,humanus,人間,
-r325,root,linea,リネン、線,
-r326,root,line,リネン、線,
-r327,root,change,変える,
-r328,root,cambiare,変える,
-r329,root,laud,たたえる,
-r330,root,work,働く,
-r331,root,worc,働く,
-r332,root,rest,休息,
-r333,root,acid,酢,
-r334,root,ide,酢,
-r335,root,later,側面,
-r336,root,sult,跳ねる,
-r337,root,sault,跳ねる,
-r338,root,salt,跳ねる,
-r339,root,sail,跳ねる,
-r340,root,volun,願う,
-r341,root,vol,願う,
-r342,root,willa,望み,
-r343,root,will,望み,
-r344,root,wel,望み,
-r345,root,texe,織る,
-r346,root,text,織る,
-r347,root,tis,織る,
-r348,root,vela,覆う,
-r349,root,veal,覆う,
-r350,root,veil,覆う,
-r351,root,sidus,星,
-r352,root,siren,星,
-r353,root,ware,知覚する、気を配る、物品,
-r354,root,wer,知覚する、気を配る、物品,
-r355,root,gard,知覚する、気を配る、物品,
-r356,root,ward,知覚する、気を配る、物品,
-r357,root,mark,境界、印,
-r358,root,merg,境界、印,
-r359,root,moun,突き出る、積み重ねる,
-r360,root,men,突き出る、積み重ねる,
-r361,root,unda,波,
-r362,root,wed,波,
-r363,root,water,波,
-r364,root,nomen,名前,
-r365,root,name,名前,
-r366,root,satis,十分な,
-r367,root,vade,進んで行く,
-r368,root,nect,結びつける,
-r369,root,nex,結びつける,
-r370,root,pay,満足させる、合意、平和、支払う,
-r371,root,pes,満足させる、合意、平和、支払う,
-r372,root,peace,満足させる、合意、平和、支払う,
-r373,root,pacare,満足させる、合意、平和、支払う,
-r374,root,neuro,神経,
-r375,root,neur,神経,
-r376,root,nerv,神経,
-r377,root,sensus,感じる、意味,
-r378,root,sens,感じる、意味,
-r379,root,sence,感じる、意味,
-r380,root,apt,適合させる,
-r381,root,figur,形づくる,
-r382,root,fue,火,
-r383,root,foc,火,
-r384,root,lieve,愛,
-r385,root,lief,愛,
-r386,root,leub,愛,
-r387,root,love,愛,
-r388,root,be,強意、ともに,
-r389,root,a,強意、ともに,
-r390,root,ga,強意、ともに,
-r391,root,mark,取引、商売,
-r392,root,merc,取引、商売,
-r393,root,modor,母,
-r394,root,mother,母,
-r395,root,mater,母,
-r396,root,corona,冠、曲げる,
-r397,root,leg,法,
-r398,root,book,書き残す、本,
-r399,root,boc,書き残す、本,
-r400,root,serv,仕える,
-r401,root,ante,前に,
-r402,root,vene,来る,
-r403,root,vent,来る,
-r404,root,ess,存在する,
-r405,root,sent,存在する,
-r406,root,est,存在する,
-r407,root,rub,赤,
-r408,root,red,赤,
-r409,root,electr,電気、琥珀,
-r410,root,light,明かり、火をつける,
-r411,root,leoht,明かり、火をつける,
-r412,root,join,繋げる,
-r413,root,audio,聞く、音声の、聴覚の,
-r414,root,aud,聞く、音声の、聴覚の,
-r415,root,edi,聞く、音声の、聴覚の,
-r416,root,ey,聞く、音声の、聴覚の,
-r417,root,like,体質に合う、好き、似ている,
-r418,root,lic,体質に合う、好き、似ている,
-r419,root,historia,歴史、階、物語,
-r420,root,storia,歴史、階、物語,
-r421,root,story,歴史、階、物語,
-r422,root,vive,生きる,
-r423,root,viv,生きる,
-r424,root,vit,生きる,
-r425,root,long,長い,
+r1,root,fact,[1] つくる、する、作る,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r2,root,feat,[1] つくる、する、作る,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r3,root,fect,[1] つくる、する、作る,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r4,root,fic,[1] つくる、する、作る,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r5,root,fy,[1] つくる、する、作る,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r6,root,face,[1] 面、形,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r7,root,fake,[1] 面、形,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r8,root,fig,[1] 面、形,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r9,root,sist,[1] 立つ [2] 耐える,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r10,root,st,[1] 立つ [2] 耐える,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r11,root,stand,[1] 立つ [2] 耐える,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r12,root,state,[1] 立つ [2] 耐える,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r13,root,stood,[1] 立つ [2] 耐える,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r14,root,store,[1] 立つ [2] 耐える,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r15,root,t,[1] 立つ [2] 耐える,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r16,root,cap,[1] 取る、つかむ、つかみ取る [2] 頭,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r17,root,caput,[1] 取る、つかむ、つかみ取る [2] 頭,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r18,root,ceive,[1] 取る、つかむ、つかみ取る [2] 頭,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r19,root,cept,[1] 取る、つかむ、つかみ取る [2] 頭,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r20,root,chase,[1] 取る、つかむ、つかみ取る [2] 頭,English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(seize)
+r21,root,cip,[1] 取る、つかむ、つかみ取る [2] 頭,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r22,root,cup,[1] 取る、つかむ、つかみ取る [2] 頭,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r23,root,rail,[1] 導く、まっすぐな、右 [2] 規則,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r24,root,rect,[1] 導く、まっすぐな、右 [2] 規則,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r25,root,reg,[1] 導く、まっすぐな、右 [2] 規則,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r26,root,reign,[1] 導く、まっすぐな、右 [2] 規則,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r27,root,ress,[1] 導く、まっすぐな、右 [2] 規則,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r28,root,right,[1] 導く、まっすぐな、右 [2] 規則,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r29,root,verse,向きを変える、形や性質を変える,English_terms_derived_from_the_Proto-Indo-European_root_*wert-
+r30,root,vert,向きを変える、形や性質を変える,English_terms_derived_from_the_Proto-Indo-European_root_*wert-
+r31,root,tain,[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*den- | English_terms_derived_from_the_Proto-Indo-European_root_*tend-_(stretch)
+r32,root,tempt,[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*den- | English_terms_derived_from_the_Proto-Indo-European_root_*tend-_(stretch)
+r33,root,ten,[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*den- | English_terms_derived_from_the_Proto-Indo-European_root_*tend-_(stretch)
+r34,root,tend,[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*den- | English_terms_derived_from_the_Proto-Indo-European_root_*tend-_(stretch)
+r35,root,tens,[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*den- | English_terms_derived_from_the_Proto-Indo-European_root_*tend-_(stretch)
+r36,root,tent,[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*ten-
+r37,root,tinent,[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*den- | English_terms_derived_from_the_Proto-Indo-European_root_*tend-_(stretch)
+r38,root,tinue,[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*den- | English_terms_derived_from_the_Proto-Indo-European_root_*tend-_(stretch)
+r39,root,duce,[1] 導く、沿って描く [2] 鉛,English_terms_derived_from_the_Proto-Indo-European_root_*dewk-
+r40,root,duct,[1] 導く、沿って描く [2] 鉛,English_terms_derived_from_the_Proto-Indo-European_root_*dewk-
+r41,root,pone,置く、場所,English_terms_derived_from_the_Proto-Indo-European_root_*teḱ- | English_terms_derived_from_the_Proto-Indo-European_root_*tḱey-
+r42,root,pos,置く、場所,English_terms_derived_from_the_Proto-Indo-European_root_*teḱ- | English_terms_derived_from_the_Proto-Indo-European_root_*tḱey-
+r43,root,pose,置く、場所,English_terms_derived_from_the_Proto-Indo-European_root_*teḱ- | English_terms_derived_from_the_Proto-Indo-European_root_*tḱey-
+r44,root,posit,置く、場所,English_terms_derived_from_the_Proto-Indo-European_root_*tḱey-
+r45,root,pound,置く、場所,English_terms_derived_from_the_Proto-Indo-European_root_*(s)pend-
+r46,root,pausa,止める,
+r47,root,vide,見る,English_terms_derived_from_the_Proto-Indo-European_root_*weyh₁-
+r48,root,videre,見る,English_terms_derived_from_the_Proto-Indo-European_root_*weyh₁-
+r49,root,view,見る,English_terms_derived_from_the_Proto-Indo-European_root_*weyh₁-
+r50,root,vis,見る,English_terms_derived_from_the_Proto-Indo-European_root_*weyh₁-
+r51,root,vise,見る,English_terms_derived_from_the_Proto-Indo-European_root_*weyh₁-
+r52,root,vice,[1] 見る [2] 代理の、副の,
+r53,root,plex,[1] 折る、折りたたむ、折り重ねる [2] 倍 [3] 編む,English_terms_derived_from_the_Proto-Indo-European_root_*pelḱ-
+r54,root,pli,[1] 折る、折りたたむ、折り重ねる [2] 倍 [3] 編む,English_terms_derived_from_the_Proto-Indo-European_root_*pelḱ-
+r55,root,ploy,[1] 折る、折りたたむ、折り重ねる [2] 倍 [3] 編む,English_terms_derived_from_the_Proto-Indo-European_root_*pelḱ-
+r56,root,ply,[1] 折る、折りたたむ、折り重ねる [2] 倍 [3] 編む,English_terms_derived_from_the_Proto-Indo-European_root_*pelḱ-
+r57,root,ple,満たす,
+r58,root,pul,満たす,
+r59,root,play,動く、遊ぶ,
+r60,root,plegan,動く、遊ぶ,
+r61,root,cede,[1] 進む、行く [2] 戻る,
+r62,root,ceed,[1] 進む、行く [2] 戻る,
+r63,root,cess,[1] 進む、行く [2] 戻る,
+r64,root,port,[1] 運ぶ [2] 港,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(fare)
+r65,root,ne,否定、否定する,
+r66,root,neg,否定、否定する,
+r67,root,ni,否定、否定する,
+r68,root,ny,否定、否定する,
+r69,root,mot,動く、動き、動かす,English_terms_derived_from_the_Proto-Indo-European_root_*m(y)ewh₁-
+r70,root,mov,動く、動き、動かす,English_terms_derived_from_the_Proto-Indo-European_root_*m(y)ewh₁-
+r71,root,move,動く、動き、動かす,English_terms_derived_from_the_Proto-Indo-European_root_*m(y)ewh₁-
+r72,root,movere,動く、動き、動かす,English_terms_derived_from_the_Proto-Indo-European_root_*m(y)ewh₁-
+r73,root,dat,[1] 与える [2] する,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r74,root,dit,[1] 与える [2] する,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r75,root,do,[1] 与える [2] する,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r76,root,don,[1] 与える [2] する,English_terms_derived_from_the_Proto-Indo-European_root_*dem-
+r77,root,act,[1] 行う、行動、行動する [2] ドライブ,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eǵ- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂eǵ-_(drive)
+r78,root,aevum,年、時代、年を取った,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life)
+r79,root,age,年、時代、年を取った,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life)
+r80,root,eter,年、時代、年を取った,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life)
+r81,root,evum,年、時代、年を取った,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life)
+r82,root,gen,生む、種類,English_terms_derived_from_the_Proto-Indo-European_root_*ǵenh₁-
+r83,root,gene,生む、種類,English_terms_derived_from_the_Proto-Indo-European_root_*ǵenh₁-
+r84,root,cn,知る,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r85,root,gn,知る,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r86,root,kn,知る,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r87,root,mani,手,
+r88,root,manu,手,
+r89,root,men,考える、心、思い,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r90,root,ment,考える、心、思い,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r91,root,mind,考える、心、思い,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r92,root,mn,考える、心、思い,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r93,root,mynd,考える、心、思い,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r94,root,moun,突き出る、積み重ねる,
+r95,root,minis,突き出る、積み重ねる,
+r96,root,mnant,残る、居住する,
+r97,root,main,[1] 手 [2] 人 [3] 考える、心、思い [4] 残る、居住する,English_terms_derived_from_the_Proto-Indo-European_root_*megʰ-
+r98,root,man,[1] 手 [2] 人 [3] 考える、心、思い [4] 残る、居住する,English_terms_derived_from_the_Proto-Indo-European_root_*mon-
+r99,root,fer,運ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r100,root,firm,[1] 強い、かたい、堅固な [2] 会社を作る [3] サポート [4] 運 [5] チャンス,English_terms_derived_from_the_Proto-Indo-European_root_*dʰer-
+r101,root,forc,[1] 強い、かたい、堅固な [2] 会社を作る [3] サポート [4] 運 [5] チャンス,English_terms_derived_from_the_Proto-Indo-European_root_*dʰer-
+r102,root,fort,[1] 強い、かたい、堅固な [2] 会社を作る [3] サポート [4] 運 [5] チャンス,English_terms_derived_from_the_Proto-Indo-European_root_*bʰerǵʰ-
+r103,root,fin,[1] 終わる、終わり、制限、境界を定める [2] よいものにする,
+r104,root,fine,[1] 終わる、終わり、制限、境界を定める [2] よいものにする,
+r105,root,mess,送る,English_terms_derived_from_the_Proto-Indo-European_root_*mey-_(change) | English_terms_derived_from_the_Proto-Indo-European_root_*meyth₂-
+r106,root,mise,送る,English_terms_derived_from_the_Proto-Indo-European_root_*mey-_(change) | English_terms_derived_from_the_Proto-Indo-European_root_*meyth₂-
+r107,root,miss,送る,English_terms_derived_from_the_Proto-Indo-European_root_*mey-_(change) | English_terms_derived_from_the_Proto-Indo-European_root_*meyth₂-
+r108,root,mit,送る,English_terms_derived_from_the_Proto-Indo-European_root_*mey-_(change) | English_terms_derived_from_the_Proto-Indo-European_root_*meyth₂-
+r109,root,cercle,輪、周囲、周期,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r110,root,circle,輪、周囲、周期,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r111,root,circu,輪、周囲、周期,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r112,root,circum,輪、周囲、周期,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r113,root,cycle,輪、周囲、周期,English_terms_derived_from_the_Proto-Indo-European_root_*kʷel- | English_terms_derived_from_the_Proto-Indo-European_root_*kʷelh₁-
+r114,root,kyklos,輪、周囲、周期,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r115,root,search,輪、周囲、周期,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r116,root,ius,[1] 正義、ただしさ、ちょうど [2] 法律、法 [3] 誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₂yew-
+r117,root,jur,[1] 正義、ただしさ、ちょうど [2] 法律、法 [3] 誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₂yew-
+r118,root,jure,[1] 正義、ただしさ、ちょうど [2] 法律、法 [3] 誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₂yew-
+r119,root,juris,[1] 正義、ただしさ、ちょうど [2] 法律、法 [3] 誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₂yew-
+r120,root,just,[1] 正義、ただしさ、ちょうど [2] 法律、法 [3] 誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₂yew-
+r121,root,tract,引く、引っ張る,
+r122,root,gno,[1] 知る [2] 印、マークする、しるしをつける,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r123,root,knew,[1] 知る [2] 印、マークする、しるしをつける,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r124,root,know,[1] 知る [2] 印、マークする、しるしをつける,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r125,root,not,[1] 知る [2] 印、マークする、しるしをつける,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life) | English_terms_derived_from_the_Proto-Indo-European_root_*wekʷ- | English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r126,root,pire,呼吸,English_terms_derived_from_the_Proto-Indo-European_root_*spey-
+r127,root,spire,呼吸,English_terms_derived_from_the_Proto-Indo-European_root_*spey-
+r128,root,spiritus,呼吸,English_terms_derived_from_the_Proto-Indo-European_root_*(s)peys-
+r129,root,sprit,呼吸,English_terms_derived_from_the_Proto-Indo-European_root_*spey-
+r130,root,faith,信じる,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeydʰ-
+r131,root,fide,信じる,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeydʰ-
+r132,root,use,使う,
+r133,root,sed,[1] 座る [2] 置く,English_terms_derived_from_the_Proto-Indo-European_root_*sed-
+r134,root,sess,[1] 座る [2] 置く,English_terms_derived_from_the_Proto-Indo-European_root_*sed-
+r135,root,set,[1] 座る [2] 置く,English_terms_derived_from_the_Proto-Indo-European_root_*sed-
+r136,root,side,[1] 座る [2] 置く,English_terms_derived_from_the_Proto-Indo-European_root_*seh₁-_(long)
+r137,root,sis,[1] 座る [2] 置く,English_terms_derived_from_the_Proto-Indo-European_root_*sed-
+r138,root,sit,[1] 座る [2] 置く,English_terms_derived_from_the_Proto-Indo-European_root_*sed-
+r139,root,gram,[1] 書く、描く、書くもの、書かれたもの [2] 録音,English_terms_derived_from_the_Proto-Indo-European_root_*gerbʰ-
+r140,root,graph,[1] 書く、描く、書くもの、書かれたもの [2] 録音,English_terms_derived_from_the_Proto-Indo-European_root_*gerbʰ-
+r141,root,form,形、形状、形式,
+r142,root,forma,形、形状、形式,
+r143,root,scribe,書く、書くこと、書かれた,English_terms_derived_from_the_Proto-Indo-European_root_*(s)kreybʰ-
+r144,root,script,書く、書くこと、書かれた,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(cut) | English_terms_derived_from_the_Proto-Indo-European_root_*(s)kreybʰ-
+r145,root,pede,足,English_terms_derived_from_the_Proto-Indo-European_root_*ped-
+r146,root,pod,足,English_terms_derived_from_the_Proto-Indo-European_root_*ped-
+r147,root,grad,[1] 歩く、行く、踏む [2] 段階,
+r148,root,gress,[1] 歩く、行く、踏む [2] 段階,
+r149,root,meter,測る、測定器、メートル、計測,English_terms_derived_from_the_Proto-Indo-European_root_*meh₁-
+r150,root,metron,測る、測定器、メートル、計測,English_terms_derived_from_the_Proto-Indo-European_root_*meh₁-
+r151,root,metry,測る、測定器、メートル、計測,English_terms_derived_from_the_Proto-Indo-European_root_*meh₁-
+r152,root,vey,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r153,root,vi,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r154,root,via,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r155,root,voy,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r156,root,wag,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r157,root,way,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r158,root,weg,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r159,root,wegh,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r160,root,weigh,[1] 行く、動く [2] 道、道路、方法,English_terms_derived_from_the_Proto-Indo-European_root_*weǵʰ-
+r161,root,secut,後に続く,English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r162,root,sequ,後に続く,English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r163,root,sue,後に続く,English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r164,root,se,それ自身、それ,
+r165,root,self,それ自身、それ,
+r166,root,selu,それ自身、それ,
+r167,root,sui,それ自身、それ,
+r168,root,cord,心、ハート,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰerH-_(bowels)
+r169,root,cor,[1] 心、ハート [2] 走る,
+r170,root,point,[1] 穴を開ける、さす、刺す [2] 点,English_terms_derived_from_the_Proto-Indo-European_root_*pewǵ-
+r171,root,punc,[1] 穴を開ける、さす、刺す [2] 点,English_terms_derived_from_the_Proto-Indo-European_root_*pewǵ-
+r172,root,premere,押す,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(beat)
+r173,root,press,押す,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(beat)
+r174,root,grav,[1] 重い [2] 重要な [3] 掘る,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*gʷreh₂-
+r175,root,grave,[1] 重い [2] 重要な [3] 掘る,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*gʷreh₂-
+r176,root,grie,[1] 重い [2] 重要な [3] 掘る,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*gʷreh₂-
+r177,root,grief,[1] 重い [2] 重要な [3] 掘る,English_terms_derived_from_the_Proto-Indo-European_root_*gʷreh₂-
+r178,root,griev,[1] 重い [2] 重要な [3] 掘る,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*gʷreh₂-
+r179,root,grub,[1] 重い [2] 重要な [3] 掘る,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ-
+r180,root,part,[1] 部分 [2] 分割、分ける,English_terms_derived_from_the_Proto-Indo-European_root_*perh₃-
+r181,root,re,現実、物、もの,English_terms_derived_from_the_Proto-Indo-European_root_*(H)reh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(grow) | English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r182,root,real,現実、物、もの,English_terms_derived_from_the_Proto-Indo-European_root_*(H)reh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(grow) | English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r183,root,reel,王,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r184,root,roy,王,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r185,root,pair,[1] 準備、準備する [2] 前に出る、現れる [3] 等しい [4] 出産,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r186,root,par,[1] 準備、準備する [2] 前に出る、現れる [3] 等しい [4] 出産,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r187,root,paratus,[1] 準備、準備する [2] 前に出る、現れる [3] 等しい [4] 出産,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r188,root,pare,[1] 準備、準備する [2] 前に出る、現れる [3] 等しい [4] 出産,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r189,root,pear,[1] 準備、準備する [2] 前に出る、現れる [3] 等しい [4] 出産,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r190,root,peer,[1] 準備、準備する [2] 前に出る、現れる [3] 等しい [4] 出産,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r191,root,neo,新しい,English_terms_derived_from_the_Proto-Indo-European_root_*new-_(new)
+r192,root,new,新しい,English_terms_derived_from_the_Proto-Indo-European_root_*new-_(new)
+r193,root,newo,新しい,English_terms_derived_from_the_Proto-Indo-European_root_*new-_(new)
+r194,root,nov,新しい,English_terms_derived_from_the_Proto-Indo-European_root_*new-_(new)
+r195,root,rol,[1] 回転する、輪、車輪 [2] 順番 [3] 名簿,English_terms_derived_from_the_Proto-Indo-European_root_*Hreth₂-
+r196,root,roll,[1] 回転する、輪、車輪 [2] 順番 [3] 名簿,English_terms_derived_from_the_Proto-Indo-European_root_*Hreth₂-
+r197,root,rot,[1] 回転する、輪、車輪 [2] 順番 [3] 名簿,English_terms_derived_from_the_Proto-Indo-European_root_*Hreth₂-
+r198,root,round,[1] 回転する、輪、車輪 [2] 順番 [3] 名簿,English_terms_derived_from_the_Proto-Indo-European_root_*Hreth₂-
+r199,root,queri,[1] 頼む [2] 探し求める、求める、探求する,
+r200,root,quest,[1] 頼む [2] 探し求める、求める、探求する,
+r201,root,quire,[1] 頼む [2] 探し求める、求める、探求する,
+r202,root,quis,[1] 頼む [2] 探し求める、求める、探求する,
+r203,root,habit,[1] 持つ [2] 住む,English_terms_derived_from_the_Proto-Indo-European_root_*gʰeh₁bʰ-
+r204,root,hibit,[1] 持つ [2] 住む,English_terms_derived_from_the_Proto-Indo-European_root_*gʰeh₁bʰ-
+r205,root,order,整える、順序,English_terms_derived_from_the_Proto-Indo-European_root_*h₂er-
+r206,root,ordi,整える、順序,English_terms_derived_from_the_Proto-Indo-European_root_*h₂er-
+r207,root,orn,飾る、整える,
+r208,root,volt,回転する,
+r209,root,volve,回転する,
+r210,root,duo,2、2つ,
+r211,root,dup,2、2つ,
+r212,root,cole,[1] 耕す [2] 住む,English_terms_derived_from_the_Proto-Indo-European_root_*kʷel-
+r213,root,cult,[1] 耕す [2] 住む,English_terms_derived_from_the_Proto-Indo-European_root_*kʷel-
+r214,root,heah,高い,English_terms_derived_from_the_Proto-Indo-European_root_*kewk-
+r215,root,heap,高い,English_terms_derived_from_the_Proto-Indo-European_root_*kewk-
+r216,root,height,高い,English_terms_derived_from_the_Proto-Indo-European_root_*kewk-
+r217,root,high,高い,English_terms_derived_from_the_Proto-Indo-European_root_*kewk-
+r218,root,doc,[1] 教える [2] 適切な,English_terms_derived_from_the_Proto-Indo-European_root_*deḱ-
+r219,root,docu,[1] 教える [2] 適切な,English_terms_derived_from_the_Proto-Indo-European_root_*deḱ-
+r220,root,crease,増やす,
+r221,root,aster,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r222,root,astro,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r223,root,star,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r224,root,ster,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r225,root,a,わきの、副次的な,
+r226,root,be,[1] 強意、ともに [2] 副次的な、生命、生活,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*h₁es- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂wes-
+r227,root,by,[1] 強意、ともに [2] 副次的な、生命、生活,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*h₁es- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂wes-
+r228,root,ga,[1] 強意、ともに [2] 副次的な、生命、生活,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*h₁es- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂wes-
+r229,root,posi,[1] できる [2] 力、パワー、力強い [3] 飲む,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r230,root,poss,[1] できる [2] 力、パワー、力強い [3] 飲む,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r231,root,posse,[1] できる [2] 力、パワー、力強い [3] 飲む,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r232,root,pot,[1] できる [2] 力、パワー、力強い [3] 飲む,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r233,root,power,[1] できる [2] 力、パワー、力強い [3] 飲む,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r234,root,laund,[1] 洗う [2] ほどく,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₃-
+r235,root,lav,[1] 洗う [2] ほどく,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₃-
+r236,root,lue,[1] 洗う [2] ほどく,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₃-
+r237,root,lug,[1] 洗う [2] ほどく,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₃-
+r238,root,lut,[1] 洗う [2] ほどく,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₃-
+r239,root,lve,[1] 洗う [2] ほどく,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₃-
+r240,root,lye,[1] 洗う [2] ほどく,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₃-
+r241,root,it,[1] 行く [2] 旅 [3] 道路,
+r242,root,ish,[1] 行く [2] 旅 [3] 道路,
+r243,root,ins,島,English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r244,root,is,島,English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r245,root,isol,島,English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r246,root,clin,寄りかかる,English_terms_derived_from_the_Proto-Indo-European_root_*ḱley-_(incline)
+r247,root,lean,寄りかかる,English_terms_derived_from_the_Proto-Indo-European_root_*ḱley-_(incline)
+r248,root,phone,音、声,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(speak) | English_terms_derived_from_the_Proto-Indo-European_root_*kʷelh₁-
+r249,root,place,[1] 場所、広がり [2] 平ら、平らな [3] 飛行機,English_terms_derived_from_the_Proto-Indo-European_root_*pleth₂-
+r250,root,plain,[1] 場所、広がり [2] 平ら、平らな [3] 飛行機,English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₂-
+r251,root,plan,[1] 場所、広がり [2] 平ら、平らな [3] 飛行機,English_terms_derived_from_the_Proto-Indo-European_root_*pel-_(fold) | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*pleth₂-
+r252,root,plane,[1] 場所、広がり [2] 平ら、平らな [3] 飛行機,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ews-_(dawn) | English_terms_derived_from_the_Proto-Indo-European_root_*pel-_(fold) | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*pleth₂-
+r253,root,plat,[1] 場所、広がり [2] 平ら、平らな [3] 飛行機,English_terms_derived_from_the_Proto-Indo-European_root_*pleth₂-
+r254,root,plate,[1] 場所、広がり [2] 平ら、平らな [3] 飛行機,English_terms_derived_from_the_Proto-Indo-European_root_*pleth₂-
+r255,root,platea,[1] 場所、広がり [2] 平ら、平らな [3] 飛行機,English_terms_derived_from_the_Proto-Indo-European_root_*pleth₂-
+r256,root,corpo,身体,English_terms_derived_from_the_Proto-Indo-European_root_*krep-
+r257,root,corpus,身体,English_terms_derived_from_the_Proto-Indo-European_root_*krep-
+r258,root,term,[1] 終わり [2] 境界、限界,English_terms_derived_from_the_Proto-Indo-European_root_*ter- | English_terms_derived_from_the_Proto-Indo-European_root_*terh₂-
+r259,root,terminus,[1] 終わり [2] 境界、限界,English_terms_derived_from_the_Proto-Indo-European_root_*ter- | English_terms_derived_from_the_Proto-Indo-European_root_*terh₂-
+r260,root,sign,印、マーク,English_terms_derived_from_the_Proto-Indo-European_root_*sek- | English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r261,root,signum,印、マーク,English_terms_derived_from_the_Proto-Indo-European_root_*sek- | English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r262,root,lingua,[1] 舌 [2] 言葉,
+r263,root,hes,粘着する、くっつく、スティック,
+r264,root,heir,受け継ぐ、相続人,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰeh₁-
+r265,root,herit,受け継ぐ、相続人,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰeh₁-
+r266,root,her,[1] 粘着する、くっつく [2] 受け継ぐ,
+r267,root,found,[1] 基礎を置く、底、下、土台、基礎 [2] 注ぐ [3] 溶ける,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰewd-
+r268,root,fund,[1] 基礎を置く、底、下、土台、基礎 [2] 注ぐ [3] 溶ける,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰewd-
+r269,root,under,下に,
+r270,root,pass,[1] 歩く、通る [2] 苦しみ、耐え,English_terms_derived_from_the_Proto-Indo-European_root_*peth₂-
+r271,root,passus,[1] 歩く、通る [2] 苦しみ、耐え,English_terms_derived_from_the_Proto-Indo-European_root_*peth₂-
+r272,root,cure,手入れ、気遣い、注意,English_terms_derived_from_the_Proto-Indo-European_root_*kʷeys-
+r273,root,flame,炎,English_terms_derived_from_the_Proto-Indo-European_root_*bʰel-_(shiny)
+r274,root,flaume,炎,English_terms_derived_from_the_Proto-Indo-European_root_*bʰel-_(shiny)
+r275,root,verb,言葉、ワード、語,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*werh₁-
+r276,root,cue,[1] 振る [2] 打つ,
+r277,root,cuss,[1] 振る [2] 打つ,
+r278,root,quash,[1] 振る [2] 打つ,
+r279,root,vote,誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₁wegʷʰ-
+r280,root,vov,誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₁wegʷʰ-
+r281,root,aequus,等しい,
+r282,root,equal,等しい,
+r283,root,equi,等しい,
+r284,root,hosp,[1] 客、ホスト、ゲスト [2] 見知らぬ人、敵,
+r285,root,host,[1] 客、ホスト、ゲスト [2] 見知らぬ人、敵,
+r286,root,grace,喜び、慈悲深さ、感謝,English_terms_derived_from_the_Proto-Indo-European_root_*gʷerH-
+r287,root,grate,喜び、慈悲深さ、感謝,English_terms_derived_from_the_Proto-Indo-European_root_*gʷerH-
+r288,root,gree,喜び、慈悲深さ、感謝,English_terms_derived_from_the_Proto-Indo-European_root_*gʷerH-
+r289,root,grade,[1] 行く、踏む [2] 段階,
+r290,root,norm,[1] 規格、規則、パターン [2] 物差し,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r291,root,norma,[1] 規格、規則、パターン [2] 物差し,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r292,root,flood,流れ、流れる,English_terms_derived_from_the_Proto-Indo-European_root_*plew-
+r293,root,flow,流れ、流れる,English_terms_derived_from_the_Proto-Indo-European_root_*plew-
+r294,root,flu,流れ、流れる,English_terms_derived_from_the_Proto-Indo-European_root_*plew-
+r295,root,pleu,流れ、流れる,English_terms_derived_from_the_Proto-Indo-European_root_*plew-
+r296,root,dan,歯,
+r297,root,dent,歯,
+r298,root,ger,運ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r299,root,gest,運ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r300,root,gist,運ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r301,root,jest,運ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r302,root,cid,[1] 切る [2] 殺す [3] 落ちる,
+r303,root,cis,[1] 切る [2] 殺す [3] 落ちる,
+r304,root,the,神,
+r305,root,theo,神,
+r306,root,thus,神,
+r307,root,per,試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(before)
+r308,root,peri,試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(before)
+r309,root,pert,試す、試みる,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(before)
+r310,root,gala,ミルク,
+r311,root,lact,ミルク,
+r312,root,ali,[1] 他の、別 [2] 変化する,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(other)
+r313,root,allo,[1] 他の、別 [2] 変化する,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(other)
+r314,root,alter,[1] 他の、別 [2] 変化する,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(other)
+r315,root,altr,[1] 他の、別 [2] 変化する,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(other)
+r316,root,el,[1] 他の、別 [2] 変化する,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(other)
+r317,root,human,人間,
+r318,root,humanus,人間,
+r319,root,line,[1] 線 [2] リネン,
+r320,root,linea,[1] 線 [2] リネン,
+r321,root,cambiare,変える,
+r322,root,change,変える,
+r323,root,laud,たたえる,
+r324,root,worc,働く,English_terms_derived_from_the_Proto-Indo-European_root_*werǵ-
+r325,root,work,働く,English_terms_derived_from_the_Proto-Indo-European_root_*werǵ-
+r326,root,rest,[1] 休息 [2] 停止、滞在,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r327,root,acid,酢,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂eḱ-
+r328,root,ide,酢,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂eḱ-
+r329,root,later,側面,
+r330,root,sail,跳ねる,English_terms_derived_from_the_Proto-Indo-European_root_*sel-
+r331,root,salt,跳ねる,English_terms_derived_from_the_Proto-Indo-European_root_*sel-
+r332,root,sault,跳ねる,English_terms_derived_from_the_Proto-Indo-European_root_*sel-
+r333,root,sult,跳ねる,English_terms_derived_from_the_Proto-Indo-European_root_*sel-
+r334,root,weal,[1] 望み [2] よい、幸福な,English_terms_derived_from_the_Proto-Indo-European_root_*welH-
+r335,root,wel,[1] 望み [2] よい、幸福な,English_terms_derived_from_the_Proto-Indo-European_root_*welH-
+r336,root,well,[1] 望み [2] よい、幸福な,English_terms_derived_from_the_Proto-Indo-European_root_*welH-
+r337,root,will,[1] 望み [2] よい、幸福な,English_terms_derived_from_the_Proto-Indo-European_root_*welh₁-
+r338,root,willa,[1] 望み [2] よい、幸福な,English_terms_derived_from_the_Proto-Indo-European_root_*welH-
+r339,root,texe,織る、織られた,English_terms_derived_from_the_Proto-Indo-European_root_*tetḱ-
+r340,root,text,織る、織られた,English_terms_derived_from_the_Proto-Indo-European_root_*tetḱ-
+r341,root,tis,織る、織られた,English_terms_derived_from_the_Proto-Indo-European_root_*tetḱ-
+r342,root,veal,覆う、覆い,English_terms_derived_from_the_Proto-Indo-European_root_*weg-
+r343,root,veil,覆う、覆い,English_terms_derived_from_the_Proto-Indo-European_root_*weg-
+r344,root,vel,覆う、覆い,English_terms_derived_from_the_Proto-Indo-European_root_*weg-
+r345,root,vela,覆う、覆い,English_terms_derived_from_the_Proto-Indo-European_root_*weg-
+r346,root,sidus,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r347,root,siren,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r348,root,gard,[1] 知覚する、気を配る、注意する [2] 守る [3] 物品,English_terms_derived_from_the_Proto-Indo-European_root_*wer-_(heed)
+r349,root,guar,[1] 知覚する、気を配る、注意する [2] 守る [3] 物品,English_terms_derived_from_the_Proto-Indo-European_root_*wer-_(heed)
+r350,root,war,[1] 知覚する、気を配る、注意する [2] 守る [3] 物品,English_terms_derived_from_the_Proto-Indo-European_root_*wer-_(heed)
+r351,root,ward,[1] 知覚する、気を配る、注意する [2] 守る [3] 物品,English_terms_derived_from_the_Proto-Indo-European_root_*wer-_(heed)
+r352,root,ware,[1] 知覚する、気を配る、注意する [2] 守る [3] 物品,English_terms_derived_from_the_Proto-Indo-European_root_*wer-_(heed)
+r353,root,wer,[1] 知覚する、気を配る、注意する [2] 守る [3] 物品,English_terms_derived_from_the_Proto-Indo-European_root_*wer-_(heed)
+r354,root,mark,境界、印,
+r355,root,merc,取引、商売、商う,
+r356,root,merg,浸す、沈む、潜る,
+r357,root,merge,浸す、沈む、潜る,
+r358,root,unda,波,English_terms_derived_from_the_Proto-Indo-European_root_*wed-
+r359,root,water,波,English_terms_derived_from_the_Proto-Indo-European_root_*wed-
+r360,root,wed,波,English_terms_derived_from_the_Proto-Indo-European_root_*wedʰ-
+r361,root,name,名前,
+r362,root,nomen,名前,
+r363,root,pac,[1] 平和、合意、満足させる [2] 支払う,
+r364,root,pacare,[1] 平和、合意、満足させる [2] 支払う,
+r365,root,pay,[1] 平和、合意、満足させる [2] 支払う,
+r366,root,peac,[1] 平和、合意、満足させる [2] 支払う,
+r367,root,peace,[1] 平和、合意、満足させる [2] 支払う,
+r368,root,peas,[1] 平和、合意、満足させる [2] 支払う,
+r369,root,pes,[1] 平和、合意、満足させる [2] 支払う,
+r370,root,apt,適合させる、適合、適した,
+r371,root,att,適合させる、適合、適した,
+r372,root,ept,適合させる、適合、適した,
+r373,root,leub,愛,English_terms_derived_from_the_Proto-Indo-European_root_*lewbʰ-_(love)
+r374,root,lief,愛,English_terms_derived_from_the_Proto-Indo-European_root_*lewbʰ-_(love)
+r375,root,lieve,愛,English_terms_derived_from_the_Proto-Indo-European_root_*lewbʰ-_(love)
+r376,root,love,愛,English_terms_derived_from_the_Proto-Indo-European_root_*lewbʰ-_(love)
+r377,root,mater,母,
+r378,root,modor,母,
+r379,root,mother,母,
+r380,root,corona,[1] 冠 [2] 曲げる,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r381,root,leg,[1] 法、法律 [2] 集める、選択、読む [3] 送る,
+r382,root,legis,[1] 法、法律 [2] 集める、選択、読む [3] 送る,
+r383,root,loy,[1] 法、法律 [2] 集める、選択、読む [3] 送る,
+r384,root,boc,[1] 本 [2] 書き残す,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂g-
+r385,root,book,[1] 本 [2] 書き残す,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂g-
+r386,root,ante,前に,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ent-
+r387,root,vene,[1] 来る [2] 風,English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r388,root,vent,[1] 来る [2] 風,English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r389,root,ent,[1] 存在、存在する [2] 人、物,English_terms_derived_from_the_Proto-Indo-European_root_*h₃neh₂-
+r390,root,ess,[1] 存在、存在する [2] 人、物,English_terms_derived_from_the_Proto-Indo-European_root_*h₃neh₂-
+r391,root,est,[1] 存在、存在する [2] 人、物,English_terms_derived_from_the_Proto-Indo-European_root_*h₃neh₂-
+r392,root,sense,感じる、知覚する,English_terms_derived_from_the_Proto-Indo-European_root_*sent-_(perceive)
+r393,root,sent,感じる、知覚する,English_terms_derived_from_the_Proto-Indo-European_root_*sent-_(perceive)
+r394,root,red,赤,English_terms_derived_from_the_Proto-Indo-European_root_*h₁rewdʰ-
+r395,root,rub,赤,English_terms_derived_from_the_Proto-Indo-European_root_*h₁rewdʰ-
+r396,root,rud,赤,English_terms_derived_from_the_Proto-Indo-European_root_*h₁rewdʰ-
+r397,root,russ,赤,English_terms_derived_from_the_Proto-Indo-European_root_*h₁rewdʰ-
+r398,root,rur,田舎,English_terms_derived_from_the_Proto-Indo-European_root_*h₁rewdʰ-
+r399,root,rust,田舎,English_terms_derived_from_the_Proto-Indo-European_root_*h₁rewdʰ-
+r400,root,leoht,[1] 明かり、火をつける [2] 軽い [3] 持ち上げる,English_terms_derived_from_the_Proto-Indo-European_root_*lewk-
+r401,root,lev,[1] 明かり、火をつける [2] 軽い [3] 持ち上げる,English_terms_derived_from_the_Proto-Indo-European_root_*lewk-
+r402,root,light,[1] 明かり、火をつける [2] 軽い [3] 持ち上げる,English_terms_derived_from_the_Proto-Indo-European_root_*lewk-
+r403,root,jeo,[1] 繋げる、結ぶ [2] 喜び,English_terms_derived_from_the_Proto-Indo-European_root_*yewg-
+r404,root,jewel,[1] 繋げる、結ぶ [2] 喜び,English_terms_derived_from_the_Proto-Indo-European_root_*yewg-
+r405,root,joc,[1] 繋げる、結ぶ [2] 喜び,English_terms_derived_from_the_Proto-Indo-European_root_*yewg-
+r406,root,join,[1] 繋げる、結ぶ [2] 喜び,English_terms_derived_from_the_Proto-Indo-European_root_*yewg-
+r407,root,joint,[1] 繋げる、結ぶ [2] 喜び,English_terms_derived_from_the_Proto-Indo-European_root_*yewg-
+r408,root,jok,[1] 繋げる、結ぶ [2] 喜び,English_terms_derived_from_the_Proto-Indo-European_root_*yewg-
+r409,root,jug,[1] 繋げる、結ぶ [2] 喜び,English_terms_derived_from_the_Proto-Indo-European_root_*yewg-
+r410,root,junct,[1] 繋げる、結ぶ [2] 喜び,English_terms_derived_from_the_Proto-Indo-European_root_*yewg-
+r411,root,aud,聞く、音声の、聴覚の,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(perceive)
+r412,root,audi,聞く、音声の、聴覚の,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(perceive)
+r413,root,audio,聞く、音声の、聴覚の,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(perceive)
+r414,root,audit,聞く、音声の、聴覚の,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(perceive)
+r415,root,edi,[1] 歌 [2] 詩,
+r416,root,edy,[1] 歌 [2] 詩,
+r417,root,ey,[1] 歌 [2] 詩,
+r418,root,ode,[1] 歌 [2] 詩,
+r419,root,odi,[1] 歌 [2] 詩,
+r420,root,ody,[1] 歌 [2] 詩,
+r421,root,lic,[1] 体質に合う、好き [2] 似ている,English_terms_derived_from_the_Proto-Indo-European_root_*leyg-_(like)
+r422,root,like,[1] 体質に合う、好き [2] 似ている,English_terms_derived_from_the_Proto-Indo-European_root_*leyg-_(like)
+r423,root,historia,[1] 歴史、物語 [2] 階,English_terms_derived_from_the_Proto-Indo-European_root_*weyd-
+r424,root,storia,[1] 歴史、物語 [2] 階,English_terms_derived_from_the_Proto-Indo-European_root_*weyd-
+r425,root,story,[1] 歴史、物語 [2] 階,English_terms_derived_from_the_Proto-Indo-European_root_*weyd-
 r426,root,lang,長い,
 r427,root,leng,長い,
-r428,root,fungi,実行,
-r429,root,lustr,輝かせる,
-r430,root,venge,罰する、申し立てる,
-r431,root,vindi,罰する、申し立てる,
-r432,root,cret,分ける,
+r428,root,ling,長い,
+r429,root,long,長い,
+r430,root,lack,緩んだ、不足,
+r431,root,lax,緩んだ、不足,
+r432,root,leas,緩んだ、不足,
 r433,root,maci,形づくる,
 r434,root,make,形づくる,
-r435,root,peat,進む,
-r436,root,pete,進む,
-r437,root,patho,患う,
-r438,root,cuman,来る,
-r439,root,come,来る,
-r440,root,eco,家,
-r441,root,virus,毒、ウイルス,
-r442,root,nounce,叫ぶ,
-r443,root,simil,似ている,
-r444,root,simul,似ている,
-r445,root,bai,行く、土台,
-r446,root,base,行く、土台,
-r447,root,basis,行く、土台,
-r448,root,lab,働く,
-r449,root,cap,頭,
-r450,root,caput,頭,
-r451,root,her,受け継ぐ,
-r452,root,herit,受け継ぐ,
-r453,root,sect,切る,
-r454,root,arm,組み合わせる、武器、腕,
-r455,root,pausa,止める、置く,
-r456,root,pose,止める、置く,
-r457,root,torn,回転する、向きを変える、ろくろ,
-r458,root,turn,回転する、向きを変える、ろくろ,
-r459,root,mat,熟れた,
-r460,root,ladan,率いる,
-r461,root,lead,率いる,
-r462,root,sult,集まる,
-r463,root,sul,集まる,
-r464,root,classe,分ける,
-r465,root,class,分ける,
-r466,root,lagu,権威が決めた規則、法,
-r467,root,law,権威が決めた規則、法,
-r468,root,liber,自由,
-r469,root,one,1 つ,
-r470,root,an,1 つ,
-r471,root,ainaz,1 つ,
-r472,root,angle,カド,
-r473,root,numer,数,
-r474,root,lith,石、岩,
-r475,root,flict,ぶつける,
-r476,root,tom,切る,
-r477,root,dem,民衆,
-r478,root,demo,民衆,
-r479,root,sophy,知、賢さ,
-r480,root,sophi,知、賢さ,
-r481,root,centi,100、100 分の 1,
-r482,root,cent,100、100 分の 1,
-r483,root,zoo,動物,
-r484,root,polar,極,
-r485,root,polus,極,
-r486,root,time,時、刻む,
-r487,root,tima,時、刻む,
-r488,root,stop,止まる,
-r489,root,stoppian,止まる,
-r490,root,count,数え合わせる,
-r491,root,sure,確実な,
-r492,root,slave,奴隷,
-r493,root,Sclavus,奴隷,
-r494,root,terra,大地、土台、地球,
-r495,root,par,等しい,
-r496,root,fict,形づくる,
-r497,root,limen,境界,
-r498,root,limit,境界,
-r499,root,limin,境界,
-r500,root,situs,場所,
-r501,root,situ,場所,
-r502,root,hond,手,
-r503,root,hand,手,
-r504,root,aise,安らぎ,
-r505,root,ease,安らぎ,
-r506,root,vari,変わる,
-r507,root,good,よい,
-r508,root,ut,外へ,
-r509,root,out,外へ,
-r510,root,jour,日,
-r511,root,puta,数える,
-r512,root,hard,かたい,
-r513,root,heard,かたい,
-r514,root,vac,からっぽ,
-r515,root,tect,覆う,
-r516,root,cur,走る、流れる,
-r517,root,cour,走る、流れる,
-r518,root,lond,土地,
-r519,root,land,土地,
-r520,root,day,日にち,
-r521,root,dages,日にち,
-r522,root,look,目を向ける,
-r523,root,locian,目を向ける,
-r524,root,talk,詳しく述べる,
-r525,root,talo,詳しく述べる,
-r526,root,tell,詳しく述べる,
-r527,root,play,動く,
-r528,root,plegan,動く,
-r529,root,logue,談話,
-r530,root,stel,立てて置く,
-r531,root,rig,かたい,
-r532,root,wicca,悪い、魔法使い,
-r533,root,wicce,悪い、魔法使い,
-r534,root,witch,悪い、魔法使い,
-r535,root,pena,刑罰,
-r536,root,poena,刑罰,
-r537,root,puni,刑罰,
-r538,root,lyft,右の逆、左,
-r539,root,left,右の逆、左,
-r540,root,minist,務める,
-r541,root,vent,風,
-r542,root,vit,進む,
-r543,root,sonus,音,
-r544,root,son,音,
-r545,root,ghel,輝く、金,
-r546,root,gold,輝く、金,
-r547,root,gild,輝く、金,
-r548,root,anxi,締めつける,
-r549,root,ang,締めつける,
-r550,root,pleu,流れ,
-r551,root,flow,流れ,
-r552,root,tochier,触れる,
-r553,root,touch,触れる,
-r554,root,atmo,蒸気,
-r555,root,sucre,砂糖、砂利,
-r556,root,saccharon,砂糖、砂利,
-r557,root,opt,選ぶ,
-r558,root,cred,信じる,
-r559,root,sal,塩,
-r560,root,bat,たたく,
-r561,root,word,単語、話す,
-r562,root,wordam,単語、話す,
-r563,root,cand,輝く、白い,
-r564,root,well,よい,
-r565,root,wel,よい,
-r566,root,cell,隠す,
-r567,root,ceal,隠す,
-r568,root,calc,石、石灰,
-r569,root,gregate,集まり、群れ,
-r570,root,sphaera,球,
-r571,root,sphere,球,
-r572,root,god,呼ぶ,
-r573,root,head,頭,
-r574,root,heafod,頭,
-r575,root,fire,火,
-r576,root,fyr,火,
-r577,root,fix,固定する,
-r578,root,do,する,
-r579,root,don,する,
-r580,root,see,見る,
-r581,root,seon,見る,
-r582,root,happ,機会,
-r583,root,hap,機会,
-r584,root,tone,音、調子,
-r585,root,tonos,音、調子,
-r586,root,charge,台車、積む、満たす,
-r587,root,car,台車、積む、満たす,
-r588,root,front,前,
-r589,root,frons,前,
-r590,root,trieve,探す、見つける,
-r591,root,tempus,時間,
-r592,root,tempo,時間,
-r593,root,kith,子ヤギ、子ども,
-r594,root,kid,子ヤギ、子ども,
-r595,root,rive,岸,
-r596,root,ripa,岸,
-r597,root,rida,乗る、準備する,
-r598,root,ride,乗る、準備する,
-r599,root,oti,暇,
-r600,root,alesce,育つ,
-r601,root,pater,父,
-r602,root,father,父,
-r603,root,deop,深い,
-r604,root,deep,深い,
-r605,root,cynd,種、生まれながらの,
-r606,root,kind,種、生まれながらの,
-r607,root,main,残る,
-r608,root,mnant,残る,
-r609,root,kalla,叫ぶ,
-r610,root,call,叫ぶ,
-r611,root,vacca,牛,
-r612,root,nigen,9 つの,
-r613,root,nine,9 つの,
-r614,root,eahta,8,
-r615,root,eight,8,
-r616,root,seofon,7,
-r617,root,seven,7,
-r618,root,siex,6,
-r619,root,six,6,
-r620,root,fif,5,
-r621,root,five,5,
-r622,root,feower,4,
-r623,root,four,4,
-r624,root,freond,友達,
-r625,root,friend,友達,
-r626,root,parler,話す,
-r627,root,stimulus,刺す,
-r628,root,sol,太陽,
-r629,root,lexis,言葉づかい,
-r630,root,lexico,言葉づかい,
-r631,root,bysc,茂み,
-r632,root,bush,茂み,
-r633,root,aria,空気,
-r634,root,air,空気,
-r635,root,aer,空気,
-r636,root,quali,質,
-r637,root,bet,エサ、エサをやる,
-r638,root,alb,白,
-r639,root,albus,白,
-r640,root,tange,触れる,
-r641,root,tain,触れる,
-r642,root,fess,言う,
-r643,root,fail,誤り,
-r644,root,fault,誤り,
-r645,root,false,誤り,
-r646,root,ieg,水に囲まれたもの、島,
-r647,root,isol,水に囲まれたもの、島,
-r648,root,month,月,
-r649,root,mona,月,
-r650,root,menon,月,
-r651,root,weik,巻きつける、週,
-r652,root,week,巻きつける、週,
-r653,root,bed,寝る場所、(おそらく) 掘る,
-r654,root,beddian,寝る場所、(おそらく) 掘る,
-r655,root,year,年,
-r656,root,gear,年,
-r657,root,kinein,運動,
-r658,root,cast,投げる、割り当てる,
-r659,root,kosta,投げる、割り当てる,
-r660,root,thesis,置く,
-r661,root,nut,木の実、核,
-r662,root,card,紙、手札,
-r663,root,carta,紙、手札,
-r664,root,pear,前に出る,
-r665,root,joie,喜び,
-r666,root,joy,喜び,
-r667,root,dear,大事な,
-r668,root,deore,大事な,
-r669,root,job,仕事,
-r670,root,gobbe,仕事,
-r671,root,tax,税金、評価,
-r672,root,taxare,税金、評価,
-r673,root,fot,足,
-r674,root,foot,足,
-r675,root,maxi,大きい,
-r676,root,mag,大きい,
-r677,root,veget,育つ,
-r678,root,naut,船員,
-r679,root,top,頂上,
-r680,root,awk,誤り,
-r681,root,thurth,貫く,
-r682,root,nap,つかみ取る,
-r683,root,sen,老いた,
-r684,root,pharm,薬,
-r685,root,bodig,身体,
-r686,root,body,身体,
-r687,root,hashish,大麻,
-r688,root,vestigium,たどる,
-r689,root,vestig,たどる,
-r690,root,testa,つぼ、試す,
-r691,root,test,つぼ、試す,
-r692,root,wif,女性,
-r693,root,wo,女性,
-r694,root,illus,少しも,
-r695,root,taster,味わう,
-r696,root,taste,味わう,
-r697,root,twa,2,
-r698,root,two,2,
-r699,root,threo,3,
-r700,root,three,3,
-r701,root,doxa,意見,
-r702,root,scapan,切る、形,
-r703,root,shape,切る、形,
-r704,root,soft,やさしい、ゆるやかな,
-r705,root,softe,やさしい、ゆるやかな,
-r706,root,horr,ぞっとする,
-r707,root,tempt,試す,
-r708,root,tent,試す,
-r709,root,sacr,神聖,
-r710,root,sum,一番高い,
-r711,root,summa,一番高い,
-r712,root,topo,場所、位置,
-r713,root,calare,呼ぶ、叫ぶ,
-r714,root,cla,呼ぶ、叫ぶ,
-r715,root,igni,火,
-r716,root,pan,パン,
-r717,root,ethn,民族,
-r718,root,second,秒、2 番目,
-r719,root,secundus,秒、2 番目,
-r720,root,night,夜,
-r721,root,niht,夜,
-r722,root,annu,年,
-r723,root,marine,海の,
-r724,root,marinus,海の,
-r725,root,honor,名誉,
-r726,root,foris,外側、森林,
-r727,root,sleep,寝る,
-r728,root,slepan,寝る,
-r729,root,large,大きい,
-r730,root,code,符号、法典,
-r731,root,codex,符号、法典,
-r732,root,athlon,競技,
-r733,root,la,歩く,
-r734,root,tect,大工,
-r735,root,cel,速める,
-r736,root,se,それ,
-r737,root,of,離れて,
-r738,root,off,離れて,
-r739,root,to,その方向へ,
-r740,root,feder,同盟,
-r741,root,fuge,逃げる,
-r742,root,lig,結ぶ,
-r743,root,eall,すべて,
-r744,root,all,すべて,
-r745,root,gubern,統治する,
-r746,root,govern,統治する,
-r747,root,militar,軍人,
-r748,root,liber,バランスをとる,
-r749,root,sito,食べもの,
-r750,root,site,食べもの,
-r751,root,yel,呼ぶ,
-r752,root,acade,教えの森,
-r753,root,putian,置く,
-r754,root,put,置く,
-r755,root,brad,広い,
-r756,root,broad,広い,
-r757,root,thing,もの,
-r758,root,bezzle,こわす,
-r759,root,ball,ボール,
-r760,root,bollr,ボール,
-r761,root,feraz,危険,
-r762,root,fear,危険,
-r763,root,weax,ろう,
-r764,root,wax,ろう,
-r765,root,beo,蜂,
-r766,root,bee,蜂,
-r767,root,tut,見守る,
-r768,root,potamo,川,
-r769,root,potamos,川,
-r770,root,cutte,切る,
-r771,root,cut,切る,
-r772,root,posi,飲む,
-r773,root,pot,飲む,
-r774,root,fili,子,
-r775,root,prou,利益,
-r776,root,loqu,力強く話す,
-r777,root,locu,力強く話す,
-r778,root,alt,高い,
-r779,root,ammonia,アメンの神殿、アミン、アンモニア,
-r780,root,Ammon,アメンの神殿、アミン、アンモニア,
-r781,root,amine,アメンの神殿、アミン、アンモニア,
-r782,root,ego,自分,
-r783,root,chol,胆汁,
-r784,root,melan,黒,
-r785,root,fare,旅、過ごす,
-r786,root,faran,旅、過ごす,
-r787,root,cel,上げる,
-r788,root,etymo,本当,
-r789,root,tail,切る,
-r790,root,space,距離、宇宙,
-r791,root,spatium,距離、宇宙,
-r792,root,gram,グラム、小さい重さ,
-r793,root,gramma,グラム、小さい重さ,
-r794,root,morn,朝,
-r795,root,morgen,朝,
-r796,root,noon,正午,
-r797,root,non,正午,
-r798,root,bredan,生む,
-r799,root,breed,生む,
-r800,root,laryng,喉頭 (こうとう),
-r801,root,larynx,喉頭 (こうとう),
-r802,root,ear,耳,
-r803,root,eare,耳,
-r804,root,spell,話す,
-r805,root,spel,話す,
-r806,root,read,読む,
-r807,root,reden,読む,
-r808,root,deal,他者に分ける,
-r809,root,delan,他者に分ける,
-r810,root,derma,真皮,
-r811,root,born,生む,
-r812,root,boren,生む,
-r813,root,graft,接ぎ木,
-r814,root,path,小道,
-r815,root,busi,勤める,
-r816,root,busig,勤める,
-r817,root,pelago,海,
-r818,root,postis,家の出入り口の側柱,
-r819,root,brows,つぼみ,
-r820,root,sea,海,
-r821,root,tween,2 つずつ,
-r822,root,illr,悪,
-r823,root,ill,悪,
-r824,root,lif,余り,
-r825,root,hippos,馬,
-r826,root,bole,投げること,
-r827,root,scoru,20 の集まり、印,
-r828,root,causa,原因,
-r829,root,moros,ばか,
-r830,root,group,結び目、集まり,
-r831,root,even,晩,
-r832,root,afen,晩,
-r833,root,cheance,サイコロを振る、運,
-r834,root,chance,サイコロを振る、運,
-r835,root,therapy,治療,
-r836,root,mesh,網目,
-r837,root,mesch,網目,
-r838,root,crust,皮,
-r839,root,crusta,皮,
+r435,root,peat,[1] 進む [2] 探す,
+r436,root,pet,[1] 進む [2] 探す,
+r437,root,pete,[1] 進む [2] 探す,
+r438,root,come,来る,English_terms_derived_from_the_Proto-Indo-European_root_*gʷem-
+r439,root,cuman,来る,English_terms_derived_from_the_Proto-Indo-European_root_*gʷem-
+r440,root,virus,毒、ウイルス,
+r441,root,bai,[1] 行く [2] 土台,English_terms_derived_from_the_Proto-Indo-European_root_*gʷeh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*gʷem-
+r442,root,base,[1] 行く [2] 土台,English_terms_derived_from_the_Proto-Indo-European_root_*gʷeh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*gʷem-
+r443,root,basis,[1] 行く [2] 土台,English_terms_derived_from_the_Proto-Indo-European_root_*gʷem-
+r444,root,lab,働く、仕事へ,
+r445,root,saw,切る、分割する,English_terms_derived_from_the_Proto-Indo-European_root_*sek- | English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r446,root,sect,切る、分割する,English_terms_derived_from_the_Proto-Indo-European_root_*sek- | English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r447,root,seg,切る、分割する,English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r448,root,sex,6,English_terms_derived_from_the_Proto-Indo-European_root_*sek- | English_terms_derived_from_the_Proto-Indo-European_root_*sek-_(cut)
+r449,root,arm,[1] 武器 [2] 腕 [3] 組み合わせる,English_terms_derived_from_the_Proto-Indo-European_root_*h₂er-
+r450,root,torn,[1] 回転する、回る、向きを変える [2] ろくろ,English_terms_derived_from_the_Proto-Indo-European_root_*terh₁-
+r451,root,tour,[1] 回転する、回る、向きを変える [2] ろくろ,English_terms_derived_from_the_Proto-Indo-European_root_*terh₁-
+r452,root,tu,[1] 回転する、回る、向きを変える [2] ろくろ,English_terms_derived_from_the_Proto-Indo-European_root_*terh₁-
+r453,root,tur,[1] 回転する、回る、向きを変える [2] ろくろ,English_terms_derived_from_the_Proto-Indo-European_root_*terh₁-
+r454,root,turn,[1] 回転する、回る、向きを変える [2] ろくろ,English_terms_derived_from_the_Proto-Indo-European_root_*terh₁-
+r455,root,mat,熟れた,
+r456,root,ladan,率いる,
+r457,root,lead,率いる,
+r458,root,class,分ける,English_terms_derived_from_the_Proto-Indo-European_root_*kelh₁-
+r459,root,classe,分ける,English_terms_derived_from_the_Proto-Indo-European_root_*kelh₁-
+r460,root,lagu,権威が決めた規則、法,English_terms_derived_from_the_Proto-Indo-European_root_*legʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*ḱley-_(incline)
+r461,root,law,権威が決めた規則、法,English_terms_derived_from_the_Proto-Indo-European_root_*legʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*ḱley-_(incline)
+r462,root,ainaz,1、1つ,English_terms_derived_from_the_Proto-Indo-European_root_*h₂en-
+r463,root,an,1、1つ,English_terms_derived_from_the_Proto-Indo-European_root_*h₂en-
+r464,root,one,1、1つ,English_terms_derived_from_the_Proto-Indo-European_root_*h₂en-
+r465,root,angle,カド,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eng- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂enk-
+r466,root,tom,切る、分ける,English_terms_derived_from_the_Proto-Indo-European_root_*temh₁-
+r467,root,tome,切る、分ける,English_terms_derived_from_the_Proto-Indo-European_root_*temh₁-
+r468,root,cant,歌う,English_terms_derived_from_the_Proto-Indo-European_root_*keh₂n-
+r469,root,chant,歌う,English_terms_derived_from_the_Proto-Indo-European_root_*keh₂n-
+r470,root,cent,[1] 100 [2] 100分、100分の1,
+r471,root,centi,[1] 100 [2] 100分、100分の1,
+r472,root,zoo,[1] 動物 [2] 生活,
+r473,root,polar,極,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(grow)
+r474,root,polus,極,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(grow)
+r475,root,tima,[1] 時 [2] 刻む,English_terms_derived_from_the_Proto-Indo-European_root_*deh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*deh₂y-
+r476,root,time,[1] 時 [2] 刻む,English_terms_derived_from_the_Proto-Indo-European_root_*deh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*deh₂y-
+r477,root,stop,止まる,English_terms_derived_from_the_Proto-Indo-European_root_*(s)tewp-
+r478,root,stoppian,止まる,English_terms_derived_from_the_Proto-Indo-European_root_*(s)tewp-
+r479,root,count,数え合わせる、数える,
+r480,root,sure,確実な,
+r481,root,Sclavus,奴隷,English_terms_derived_from_the_Proto-Indo-European_root_*ḱlewH-
+r482,root,slave,奴隷,English_terms_derived_from_the_Proto-Indo-European_root_*ḱlewH-
+r483,root,limen,境界,
+r484,root,limin,境界,
+r485,root,limit,境界,
+r486,root,situ,場所,
+r487,root,situs,場所,
+r488,root,hand,手,
+r489,root,hond,手,
+r490,root,aise,安らぎ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r491,root,ease,安らぎ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r492,root,good,よい,English_terms_derived_from_the_Proto-Indo-European_root_*gʰedʰ-
+r493,root,out,外へ,
+r494,root,ut,外へ,
+r495,root,us,使う、使用する,
+r496,root,hard,かたい、固い,English_terms_derived_from_the_Proto-Indo-European_root_*kret-_(strong)
+r497,root,heard,かたい、固い,English_terms_derived_from_the_Proto-Indo-European_root_*kret-_(strong)
+r498,root,va,空の、空っぽ、からっぽ,English_terms_derived_from_the_Proto-Indo-European_root_*h₁weh₂-
+r499,root,vac,空の、空っぽ、からっぽ,English_terms_derived_from_the_Proto-Indo-European_root_*h₁weh₂-
+r500,root,void,空の、空っぽ、からっぽ,English_terms_derived_from_the_Proto-Indo-European_root_*h₁weh₂-
+r501,root,cour,走る、流れる,
+r502,root,cur,[1] 走る、流れる [2] ケアする,
+r503,root,cupid,欲しがる,
+r504,root,cupis,欲しがる,
+r505,root,cover,覆う,English_terms_derived_from_the_Proto-Indo-European_root_*h₁ep-
+r506,root,ker,覆う,English_terms_derived_from_the_Proto-Indo-European_root_*h₁ep-
+r507,root,land,土地,English_terms_derived_from_the_Proto-Indo-European_root_*lendʰ-_(land)
+r508,root,lond,土地,English_terms_derived_from_the_Proto-Indo-European_root_*lendʰ-_(land)
+r509,root,dages,日、日にち,English_terms_derived_from_the_Proto-Indo-European_root_*dʰegʷʰ-
+r510,root,dai,日、日にち,English_terms_derived_from_the_Proto-Indo-European_root_*dʰegʷʰ-
+r511,root,dawn,日、日にち,English_terms_derived_from_the_Proto-Indo-European_root_*dʰegʷʰ-
+r512,root,day,日、日にち,English_terms_derived_from_the_Proto-Indo-European_root_*dʰegʷʰ-
+r513,root,di,日、日にち,English_terms_derived_from_the_Proto-Indo-European_root_*dʰegʷʰ-
+r514,root,dia,日、日にち,English_terms_derived_from_the_Proto-Indo-European_root_*dʰegʷʰ-
+r515,root,dis,日、日にち,English_terms_derived_from_the_Proto-Indo-European_root_*dʰegʷʰ-
+r516,root,diurn,日、日にち,English_terms_derived_from_the_Proto-Indo-European_root_*dʰegʷʰ-
+r517,root,locian,目を向ける,
+r518,root,look,目を向ける,
+r519,root,talk,詳しく述べる,
+r520,root,talo,詳しく述べる,
+r521,root,tell,詳しく述べる,
+r522,root,rig,[1] かたい、硬い、剛性 [2] まっすぐ [3] 王、規則、ガイド,
+r523,root,wicca,[1] 悪い [2] 魔法使い,English_terms_derived_from_the_Proto-Indo-European_root_*weyk-_(separate)
+r524,root,wicce,[1] 悪い [2] 魔法使い,English_terms_derived_from_the_Proto-Indo-European_root_*weyk-_(separate)
+r525,root,witch,[1] 悪い [2] 魔法使い,English_terms_derived_from_the_Proto-Indo-European_root_*weyk-_(separate)
+r526,root,left,右の逆、左,English_terms_derived_from_the_Proto-Indo-European_root_*lewbʰ-_(cut_off)
+r527,root,lyft,右の逆、左,English_terms_derived_from_the_Proto-Indo-European_root_*lewbʰ-_(cut_off)
+r528,root,son,音,English_terms_derived_from_the_Proto-Indo-European_root_*sewH-
+r529,root,sonus,音,English_terms_derived_from_the_Proto-Indo-European_root_*sewH-
+r530,root,sound,音,English_terms_derived_from_the_Proto-Indo-European_root_*sewH-
+r531,root,ghel,[1] 輝く [2] 金,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰelh₃-
+r532,root,gild,[1] 輝く [2] 金,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰelh₃-
+r533,root,gold,[1] 輝く [2] 金,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰelh₃-
+r534,root,tochier,触れる,English_terms_derived_from_the_Proto-Indo-European_root_*dewk-
+r535,root,touch,触れる,English_terms_derived_from_the_Proto-Indo-European_root_*dewk-
+r536,root,op,[1] 目、視覚的な症状 [2] ビジョン、光景 [3] 検査,
+r537,root,ops,[1] 目、視覚的な症状 [2] ビジョン、光景 [3] 検査,
+r538,root,opt,[1] 選ぶ、選択 [2] 最善 [3] 目、視覚的な症状 [4] ビジョン、光景 [5] 検査,
+r539,root,bat,[1] たたく、打つ [2] ビート,
+r540,root,beat,[1] たたく、打つ [2] ビート,
+r541,root,word,[1] 単語 [2] 話す,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*werh₁-
+r542,root,wordam,[1] 単語 [2] 話す,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*werh₁-
+r543,root,ceal,隠す,English_terms_derived_from_the_Proto-Indo-European_root_*ḱel-_(cover)
+r544,root,cell,隠す,English_terms_derived_from_the_Proto-Indo-European_root_*ḱel-_(cover)
+r545,root,hall,隠す,English_terms_derived_from_the_Proto-Indo-European_root_*ḱel-_(cover)
+r546,root,hell,隠す,English_terms_derived_from_the_Proto-Indo-European_root_*ḱel-_(cover)
+r547,root,helm,隠す,English_terms_derived_from_the_Proto-Indo-European_root_*ḱel-_(cover) | English_terms_derived_from_the_Proto-Indo-European_root_*ḱelh₂-
+r548,root,col,耕す,
+r549,root,cul,耕す,
+r550,root,sphaera,球、玉,
+r551,root,sphere,球、玉,
+r552,root,god,呼ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰew-
+r553,root,head,頭,
+r554,root,heafod,頭,
+r555,root,fire,火,
+r556,root,fyr,火,
+r557,root,fix,[1] 固定、固定する [2] 取り付け,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeygʷ-
+r558,root,see,見る,English_terms_derived_from_the_Proto-Indo-European_root_*sed- | English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(see)
+r559,root,seon,見る,English_terms_derived_from_the_Proto-Indo-European_root_*weyh₁-
+r560,root,hap,[1] 機会 [2] 偶然,
+r561,root,happ,[1] 機会 [2] 偶然,
+r562,root,ton,音、調子,English_terms_derived_from_the_Proto-Indo-European_root_*ten-
+r563,root,tone,音、調子,English_terms_derived_from_the_Proto-Indo-European_root_*ten-
+r564,root,tonos,音、調子,English_terms_derived_from_the_Proto-Indo-European_root_*ten-
+r565,root,toun,音、調子,English_terms_derived_from_the_Proto-Indo-European_root_*ten-
+r566,root,car,[1] 車、台車 [2] 積む、満たす,English_terms_derived_from_the_Proto-Indo-European_root_*ḱers-
+r567,root,charge,[1] 車、台車 [2] 積む、満たす,English_terms_derived_from_the_Proto-Indo-European_root_*ḱers-
+r568,root,cher,かわいい,
+r569,root,char,[1] 車、台車 [2] かわいい,
+r570,root,frons,[1] 前 [2] 額,
+r571,root,front,[1] 前 [2] 額,
+r572,root,temp,時間,English_terms_derived_from_the_Proto-Indo-European_root_*temh₁-
+r573,root,tempest,時間,English_terms_derived_from_the_Proto-Indo-European_root_*temh₁-
+r574,root,tempo,時間,English_terms_derived_from_the_Proto-Indo-European_root_*temh₁-
+r575,root,tempor,時間,English_terms_derived_from_the_Proto-Indo-European_root_*temh₁-
+r576,root,tempus,時間,English_terms_derived_from_the_Proto-Indo-European_root_*temh₁-
+r577,root,kid,子ヤギ、子ども,
+r578,root,kith,子ヤギ、子ども,
+r579,root,ripa,岸,English_terms_derived_from_the_Proto-Indo-European_root_*h₁reyp-
+r580,root,rive,岸,English_terms_derived_from_the_Proto-Indo-European_root_*h₁reyp-
+r581,root,rida,[1] 乗る [2] 準備する,
+r582,root,ride,[1] 乗る [2] 準備する,
+r583,root,father,[1] 父 [2] 祖国,English_terms_derived_from_the_Proto-Indo-European_root_*peh₂-
+r584,root,papa,[1] 父 [2] 祖国,English_terms_derived_from_the_Proto-Indo-European_root_*peh₂-
+r585,root,pater,[1] 父 [2] 祖国,English_terms_derived_from_the_Proto-Indo-European_root_*peh₂-
+r586,root,deep,深い,English_terms_derived_from_the_Proto-Indo-European_root_*dʰewbʰ-
+r587,root,deop,深い,English_terms_derived_from_the_Proto-Indo-European_root_*dʰewbʰ-
+r588,root,cand,輝く,
+r589,root,cend,輝く,
+r590,root,cens,輝く,
+r591,root,chand,輝く,
+r592,root,cynd,[1] 種、生まれながらの [2] 血縁 [3] 運動,English_terms_derived_from_the_Proto-Indo-European_root_*ǵenh₁-
+r593,root,kin,[1] 種、生まれながらの [2] 血縁 [3] 運動,English_terms_derived_from_the_Proto-Indo-European_root_*ǵenh₁-
+r594,root,kind,[1] 種、生まれながらの [2] 血縁 [3] 運動,English_terms_derived_from_the_Proto-Indo-European_root_*ǵenh₁-
+r595,root,king,[1] 種、生まれながらの [2] 血縁 [3] 運動,English_terms_derived_from_the_Proto-Indo-European_root_*ǵenh₁-
+r596,root,call,叫ぶ、呼ぶ,
+r597,root,kalla,叫ぶ、呼ぶ,
+r598,root,calor,熱い,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r599,root,chafe,熱い,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r600,root,chal,熱い,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r601,root,chalk,石,
+r602,root,cil,石,
+r603,root,cal,[1] 叫ぶ、呼ぶ [2] 石,
+r604,root,nigen,9、9つの,
+r605,root,nine,9、9つの,
+r606,root,eahta,8,
+r607,root,eight,8,
+r608,root,seofon,7,
+r609,root,seven,7,
+r610,root,siex,6,English_terms_derived_from_the_Proto-Indo-European_root_*sek- | English_terms_derived_from_the_Proto-Indo-European_root_*sek-_(cut)
+r611,root,six,6,English_terms_derived_from_the_Proto-Indo-European_root_*sek- | English_terms_derived_from_the_Proto-Indo-European_root_*sek-_(cut)
+r612,root,fif,5,
+r613,root,five,5,
+r614,root,feower,4,
+r615,root,four,4,
+r616,root,freond,友達,English_terms_derived_from_the_Proto-Indo-European_root_*preyH-
+r617,root,friend,友達,English_terms_derived_from_the_Proto-Indo-European_root_*preyH-
+r618,root,stimul,刺す、刺激する,
+r619,root,stimulus,刺す、刺激する,
+r620,root,stinct,[1] 刺す [2] 色づける,
+r621,root,sting,[1] 刺す [2] 色づける,
+r622,root,sol,[1] 太陽 [2] 一人で、単独の、寂しい [3] 慰める,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*solh₂-
+r623,root,sull,[1] 太陽 [2] 一人で、単独の、寂しい [3] 慰める,English_terms_derived_from_the_Proto-Indo-European_root_*lewh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*solh₂-
+r624,root,lexico,言葉づかい,English_terms_derived_from_the_Proto-Indo-European_root_*leǵ-
+r625,root,lexis,言葉づかい,English_terms_derived_from_the_Proto-Indo-European_root_*leǵ-
+r626,root,bouqu,茂み,
+r627,root,bush,茂み,
+r628,root,bysc,茂み,
+r629,root,aer,空気,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ews-_(dawn)
+r630,root,air,空気,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ews-_(dawn)
+r631,root,aria,空気,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ews-_(dawn)
+r632,root,bet,[1] エサ、エサをやる [2] 興奮させる,
+r633,root,alb,白,
+r634,root,albus,白,
+r635,root,fail,[1] 誤り、誤る [2] 欺くために,
+r636,root,fal,[1] 誤り、誤る [2] 欺くために,
+r637,root,false,[1] 誤り、誤る [2] 欺くために,
+r638,root,faul,[1] 誤り、誤る [2] 欺くために,
+r639,root,fault,[1] 誤り、誤る [2] 欺くために,
+r640,root,menon,月,English_terms_derived_from_the_Proto-Indo-European_root_*meh₁-
+r641,root,mona,月,English_terms_derived_from_the_Proto-Indo-European_root_*meh₁-
+r642,root,month,月,English_terms_derived_from_the_Proto-Indo-European_root_*meh₁-
+r643,root,week,[1] 週 [2] 巻きつける,English_terms_derived_from_the_Proto-Indo-European_root_*weyg-
+r644,root,weik,[1] 週 [2] 巻きつける,English_terms_derived_from_the_Proto-Indo-European_root_*weyg-
+r645,root,bed,[1] 寝る場所 [2] (おそらく) 掘る,English_terms_derived_from_the_Proto-Indo-European_root_*bʰedʰ-_(bend) | English_terms_derived_from_the_Proto-Indo-European_root_*bʰedʰh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₁-
+r646,root,beddian,[1] 寝る場所 [2] (おそらく) 掘る,English_terms_derived_from_the_Proto-Indo-European_root_*bʰedʰ-_(bend) | English_terms_derived_from_the_Proto-Indo-European_root_*bʰedʰh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₁-
+r647,root,gear,年,English_terms_derived_from_the_Proto-Indo-European_root_*h₂er- | English_terms_derived_from_the_Proto-Indo-European_root_*h₃er-
+r648,root,year,年,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r649,root,cast,[1] 投げる、割り当てる [2] 純粋な,
+r650,root,chast,純粋な,
+r651,root,kosta,純粋な,
+r652,root,theme,置く,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r653,root,thesis,置く,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r654,root,nut,木の実、核,
+r655,root,card,[1] 紙 [2] 手札,
+r656,root,cart,[1] 紙 [2] 手札,
+r657,root,carta,[1] 紙 [2] 手札,
+r658,root,chart,[1] 紙 [2] 手札,
+r659,root,joic,喜び,
+r660,root,joie,喜び,
+r661,root,joy,喜び,
+r662,root,dear,大事な,
+r663,root,deore,大事な,
+r664,root,gobbe,仕事,
+r665,root,job,仕事,
+r666,root,tax,[1] 税金、評価 [2] 配置、順序,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r667,root,taxare,[1] 税金、評価 [2] 配置、順序,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r668,root,foot,足,English_terms_derived_from_the_Proto-Indo-European_root_*ped-
+r669,root,fot,足,English_terms_derived_from_the_Proto-Indo-European_root_*ped-
+r670,root,mag,大きい、最大,
+r671,root,maxi,大きい、最大,
+r672,root,top,頂上,
+r673,root,nap,つかみ取る,
+r674,root,sen,老いた、古い,
+r675,root,bodig,身体,English_terms_derived_from_the_Proto-Indo-European_root_*krep-
+r676,root,body,身体,English_terms_derived_from_the_Proto-Indo-European_root_*bʰewdʰ-
+r677,root,hashish,大麻,
+r678,root,test,[1] つぼ、試す [2] 証言する,English_terms_derived_from_the_Proto-Indo-European_root_*ters-
+r679,root,testa,[1] つぼ、試す [2] 証言する,English_terms_derived_from_the_Proto-Indo-European_root_*ters-
+r680,root,wif,女性,
+r681,root,wo,女性,
+r682,root,taste,味わう,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r683,root,taster,味わう,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r684,root,twa,2,
+r685,root,two,2,
+r686,root,three,3,
+r687,root,threo,3,
+r688,root,scapan,[1] 切る [2] 形,English_terms_derived_from_the_Proto-Indo-European_root_*(s)kep-
+r689,root,shape,[1] 切る [2] 形,English_terms_derived_from_the_Proto-Indo-European_root_*(s)kep-
+r690,root,soft,やさしい、ゆるやかな,English_terms_derived_from_the_Proto-Indo-European_root_*sem-
+r691,root,softe,やさしい、ゆるやかな,English_terms_derived_from_the_Proto-Indo-European_root_*sem-
+r692,root,summa,一番高い、最高、最高の,
+r693,root,sumpt,取る,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ent- | English_terms_derived_from_the_Proto-Indo-European_root_*h₃emh₃- | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁-
+r694,root,sov,一番高い、最高、上の,English_terms_derived_from_the_Proto-Indo-European_root_*peh₃- | English_terms_derived_from_the_Proto-Indo-European_root_*sewH-
+r695,root,sup,一番高い、最高、上の,English_terms_derived_from_the_Proto-Indo-European_root_*peh₃- | English_terms_derived_from_the_Proto-Indo-European_root_*sewH-
+r696,root,sum,[1] 一番高い、最高、最高の [2] 取る,
+r697,root,panto,すべて,
+r698,root,fam,[1] 現れる [2] 話す,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r699,root,fan,[1] 現れる [2] 話す,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r700,root,pha,[1] 現れる [2] 話す,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r701,root,phe,[1] 現れる [2] 話す,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r702,root,pan,[1] すべて [2] パン,
+r703,root,second,[1] 2番目 [2] 秒,English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r704,root,secundus,[1] 2番目 [2] 秒,English_terms_derived_from_the_Proto-Indo-European_root_*sekʷ-_(follow)
+r705,root,night,夜,English_terms_derived_from_the_Proto-Indo-European_root_*negʷ-
+r706,root,niht,夜,English_terms_derived_from_the_Proto-Indo-European_root_*negʷ-
+r707,root,marine,海、海の,English_terms_derived_from_the_Proto-Indo-European_root_*mer-_(sea)
+r708,root,marinus,海、海の,English_terms_derived_from_the_Proto-Indo-European_root_*mer-_(sea)
+r709,root,mir,驚く,
+r710,root,mar,[1] 海、海の [2] 驚く,
+r711,root,sleep,寝る,
+r712,root,slepan,寝る,
+r713,root,large,大きい,
+r714,root,code,符号、法典,
+r715,root,codex,符号、法典,
+r716,root,la,歩く,
+r717,root,of,離れて,
+r718,root,off,離れて,
+r719,root,to,その方向へ,
+r720,root,all,[1] すべて [2] 他の、異なる,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(all)
+r721,root,eall,[1] すべて [2] 他の、異なる,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(all)
+r722,root,govern,統治する,
+r723,root,gubern,統治する,
+r724,root,site,食べもの,English_terms_derived_from_the_Proto-Indo-European_root_*teḱ- | English_terms_derived_from_the_Proto-Indo-European_root_*tḱey-
+r725,root,sito,食べもの,English_terms_derived_from_the_Proto-Indo-European_root_*teḱ- | English_terms_derived_from_the_Proto-Indo-European_root_*tḱey-
+r726,root,put,[1] 置く [2] 考える、計算 [3] 仮定 [4] 調整,
+r727,root,putian,[1] 置く [2] 考える、計算 [3] 仮定 [4] 調整,
+r728,root,brad,広い、幅広い,English_terms_derived_from_the_Proto-Indo-European_root_*bʰrewh₁-
+r729,root,bread,広い、幅広い,English_terms_derived_from_the_Proto-Indo-European_root_*bʰrewh₁-
+r730,root,broad,広い、幅広い,English_terms_derived_from_the_Proto-Indo-European_root_*bʰer-
+r731,root,thing,もの,
+r732,root,ball,[1] ボール、球 [2] 踊り,English_terms_derived_from_the_Proto-Indo-European_root_*bʰel-_(blow) | English_terms_derived_from_the_Proto-Indo-European_root_*gʷelH-
+r733,root,ble,投げる,
+r734,root,blem,投げる,
+r735,root,bol,投げる,
+r736,root,bola,投げる,
+r737,root,bollr,投げる,
+r738,root,vil,投げる,
+r739,root,fear,危険,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(fare)
+r740,root,feraz,危険,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(fare)
+r741,root,wax,ろう,
+r742,root,weax,ろう,
+r743,root,bee,蜂,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(speak) | English_terms_derived_from_the_Proto-Indo-European_root_*bʰewgʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*bʰey-
+r744,root,beo,蜂,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(speak) | English_terms_derived_from_the_Proto-Indo-European_root_*bʰewgʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*bʰey-
+r745,root,tuit,[1] 見守る、見る [2] 教える,
+r746,root,tut,[1] 見守る、見る [2] 教える,
+r747,root,cut,[1] 切る [2] 鋭い,
+r748,root,cutte,[1] 切る [2] 鋭い,
+r749,root,Ammon,アメンの神殿、アミン、アンモニア,
+r750,root,amine,アメンの神殿、アミン、アンモニア,
+r751,root,ammonia,アメンの神殿、アミン、アンモニア,
+r752,root,ego,私、自分、自己,
+r753,root,faran,[1] 旅、過ごす [2] 行く,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(fare)
+r754,root,fare,[1] 旅、過ごす [2] 行く,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(fare)
+r755,root,tail,切る,
+r756,root,space,[1] 距離 [2] 宇宙,
+r757,root,spatium,[1] 距離 [2] 宇宙,
+r758,root,morgen,朝,
+r759,root,morn,朝,
+r760,root,non,正午,
+r761,root,noon,正午,
+r762,root,bredan,生む,
+r763,root,breed,生む,
+r764,root,laryng,喉頭 (こうとう),
+r765,root,larynx,喉頭 (こうとう),
+r766,root,ear,耳,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(perceive) | English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(see) | English_terms_derived_from_the_Proto-Indo-European_root_*h₂eḱ-
+r767,root,eare,耳,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(perceive) | English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(see) | English_terms_derived_from_the_Proto-Indo-European_root_*h₂eḱ-
+r768,root,spel,話す,English_terms_derived_from_the_Proto-Indo-European_root_*(s)pel-
+r769,root,spell,話す,English_terms_derived_from_the_Proto-Indo-European_root_*(s)pel-
+r770,root,read,読む,English_terms_derived_from_the_Proto-Indo-European_root_*Hreh₁dʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂er-
+r771,root,reden,読む,English_terms_derived_from_the_Proto-Indo-European_root_*Hreh₁dʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂er-
+r772,root,deal,他者に分ける,
+r773,root,delan,他者に分ける,
+r774,root,derma,肌、真皮,English_terms_derived_from_the_Proto-Indo-European_root_*der-
+r775,root,boren,生む,
+r776,root,born,生む,
+r777,root,graft,接ぎ木,
+r778,root,path,[1] 小道 [2] 感知 [3] 苦しみ [4] 疾患,English_terms_derived_from_the_Proto-Indo-European_root_*pent-
+r779,root,sea,海,
+r780,root,ill,悪,
+r781,root,illr,悪,
+r782,root,bole,投げること,
+r783,root,group,結び目、集まり,English_terms_derived_from_the_Proto-Indo-European_root_*grewbʰ-
+r784,root,afen,晩,English_terms_derived_from_the_Proto-Indo-European_root_*h₁ep-
+r785,root,even,晩,English_terms_derived_from_the_Proto-Indo-European_root_*h₁ep-
+r786,root,chance,[1] 運 [2] サイコロを振る,English_terms_derived_from_the_Proto-Indo-European_root_*ḱh₂d-
+r787,root,cheance,[1] 運 [2] サイコロを振る,English_terms_derived_from_the_Proto-Indo-European_root_*ḱh₂d-
+r788,root,therapy,治療,English_terms_derived_from_the_Proto-Indo-European_root_*treb-
+r789,root,mesch,網目,
+r790,root,mesh,網目,
+r791,root,crust,皮,
+r792,root,crusta,皮,
+r793,root,ac,[1] 鋭い [2] 酸、酸っぱい、苦い,
+r794,root,ag,[1] 行う [2] ドライブ,
+r795,root,agog,リーダー,
+r796,root,alp,高い,English_terms_derived_from_the_Proto-Indo-European_root_*kewk-
+r797,root,alt,高い,English_terms_derived_from_the_Proto-Indo-European_root_*kewk-
+r798,root,alto,高い,English_terms_derived_from_the_Proto-Indo-European_root_*h₂el-_(grow)
+r799,root,haught,高い,English_terms_derived_from_the_Proto-Indo-European_root_*kewk-
+r800,root,am,[1] 愛 [2] 友情、友人,English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r801,root,ama,[1] 愛 [2] 友情、友人,English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r802,root,em,[1] 愛 [2] 友情、友人,English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r803,root,im,[1] 愛 [2] 友情、友人,English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r804,root,mi,[1] 愛 [2] 友情、友人,English_terms_derived_from_the_Proto-Indo-European_root_*h₁es-
+r805,root,aqua,水,
+r806,root,aque,水,
+r807,root,arbor,木,
+r808,root,arch,[1] 首位、最高位の、支配者 [2] 時間の初め,English_terms_derived_from_the_Proto-Indo-European_root_*h₂erkʷ- | English_terms_derived_from_the_Proto-Indo-European_root_*tetḱ- | English_terms_derived_from_the_Proto-Indo-European_root_*teḱ-
+r809,root,arc,アーチ,English_terms_derived_from_the_Proto-Indo-European_root_*h₂erkʷ-
+r810,root,au,鳥,
+r811,root,aus,鳥,
+r812,root,avi,鳥,
+r813,root,bar,[1] 圧力、重量 [2] 棒,English_terms_derived_from_the_Proto-Indo-European_root_*gʷreh₂-
+r814,root,beau,美しい,
+r815,root,bell,[1] 美しい [2] 戦争,English_terms_derived_from_the_Proto-Indo-European_root_*bʰel-_(sound)
+r816,root,bi,生命、生活,
+r817,root,bibl,本,
+r818,root,blast,芽、胚、形成細胞、細胞層,English_terms_derived_from_the_Proto-Indo-European_root_*bʰleh₁-_(blow)
+r819,root,cad,落ちる,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r820,root,carp,果物,English_terms_derived_from_the_Proto-Indo-European_root_*kerp-
+r821,root,chromo,[1] 色、顔料 [2] クロム・クロマチンを含む,
+r822,root,cine,動作,
+r823,root,kine,動作,
+r824,root,cite,引き起こす,English_terms_derived_from_the_Proto-Indo-European_root_*keyh₂-
+r825,root,claim,叫ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*kelh₁-
+r826,root,clam,叫ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*kelh₁-
+r827,root,cline,リーン、スロープ,English_terms_derived_from_the_Proto-Indo-European_root_*ḱley-_(incline)
+r828,root,cred,信じる,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeydʰ-
+r829,root,credit,信じる,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*ḱerd-
+r830,root,creed,信じる,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*ḱerd-
+r831,root,grant,信じる,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeydʰ-
+r832,root,crypt,秘密、隠す,
+r833,root,cyan,青,
+r834,root,dactyl,指,
+r835,root,deavor,負う,
+r836,root,deb,負う,
+r837,root,du,負う,
+r838,root,dog,意見、信念,English_terms_derived_from_the_Proto-Indo-European_root_*deḱ-
+r839,root,dogma,意見、信念,English_terms_derived_from_the_Proto-Indo-European_root_*deḱ-
+r840,root,dox,意見、信念,English_terms_derived_from_the_Proto-Indo-European_root_*deḱ-
+r841,root,ec,外,
+r842,root,erg,[1] 作業、働く [2] 駆り立てる,
+r843,root,ergo,[1] 作業、働く [2] 駆り立てる,
+r844,root,urg,[1] 作業、働く [2] 駆り立てる,
+r845,root,err,[1] エラー、誤り [2] 不思議 [3] さまよう,English_terms_derived_from_the_Proto-Indo-European_root_*h₁ers-
+r846,root,fall,欺くために,
+r847,root,fem,女性,
+r848,root,flat,吹く,English_terms_derived_from_the_Proto-Indo-European_root_*pleth₂-
+r849,root,flex,曲がり,
+r850,root,flor,花,
+r851,root,flux,流れ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰel-_(blow)
+r852,root,foil,[1] 葉 [2] ページ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰleh₃-
+r853,root,fore,[1] 前 [2] 適切な位置・時間,English_terms_derived_from_the_Proto-Indo-European_root_*preh₂-
+r854,root,fra,壊れる,
+r855,root,fract,壊れる,
+r856,root,frag,壊れる,
+r857,root,fug,逃げる、逃げます,
+r858,root,gam,結婚,English_terms_derived_from_the_Proto-Indo-European_root_*kh₂em-
+r859,root,gust,味,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰew-
+r860,root,hem,血液、血状態,
+r861,root,hex,6,English_terms_derived_from_the_Proto-Indo-European_root_*sek- | English_terms_derived_from_the_Proto-Indo-European_root_*sek-_(cut)
+r862,root,homo,[1] 1 [2] 同じ,
+r863,root,jet,[1] 投げる [2] 嘘,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r864,root,kilo,1000,English_terms_derived_from_the_Proto-Indo-European_root_*melh₂-
+r865,root,lat,[1] 持つ、運ぶ [2] 側面,English_terms_derived_from_the_Proto-Indo-European_root_*legʰ-
+r866,root,late,[1] 持つ、運ぶ [2] 側面,English_terms_derived_from_the_Proto-Indo-European_root_*legʰ-
+r867,root,lay,[1] 持つ、運ぶ [2] 側面,English_terms_derived_from_the_Proto-Indo-European_root_*legʰ-
+r868,root,libra,バランス、重量,
+r869,root,lip,脂肪,English_terms_derived_from_the_Proto-Indo-European_root_*leb-
+r870,root,laps,滑る,
+r871,root,letter,[1] 文字、手紙 [2] 読書,
+r872,root,lit,[1] 文字、手紙 [2] 読書,
+r873,root,liter,[1] 文字、手紙 [2] 読書,
+r874,root,log,[1] 単語、会話 [2] 書かれた作品,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂g- | English_terms_derived_from_the_Proto-Indo-European_root_*legʰ-
+r875,root,luna,月,English_terms_derived_from_the_Proto-Indo-European_root_*lewk-
+r876,root,male,病気、悪い,
+r877,root,mania,過度の欲望,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r878,root,member,記憶,
+r879,root,mere,部,English_terms_derived_from_the_Proto-Indo-European_root_*mer-_(sea)
+r880,root,mill,1000,English_terms_derived_from_the_Proto-Indo-European_root_*melh₂-
+r881,root,mitt,手放す、送信,
+r882,root,mob,動き,
+r883,root,mono,1、シングル、一人で,
+r884,root,my,筋,
+r885,root,nas,誕生、生まれた,
+r886,root,noun,名前,
+r887,root,nown,名前,
+r888,root,nounc,宣言する、報告する,
+r889,root,nunc,宣言する、報告する,
+r890,root,or,[1] 口 [2] 話す [3] 弁護,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ews-_(dawn)
+r891,root,orb,ホイール、円,
+r892,root,ot,耳,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(perceive) | English_terms_derived_from_the_Proto-Indo-European_root_*h₂ew-_(see) | English_terms_derived_from_the_Proto-Indo-European_root_*h₂eḱ-
+r893,root,pale,古代,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*peh₂ǵ- | English_terms_derived_from_the_Proto-Indo-European_root_*pelH-
+r894,root,pent,5,
+r895,root,phage,食べる,
+r896,root,phobia,恐怖,English_terms_derived_from_the_Proto-Indo-European_root_*bʰegʷ-
+r897,root,photo,光,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(shine) | English_terms_derived_from_the_Proto-Indo-European_root_*gerbʰ-
+r898,root,physio,[1] 物理的な [2] 自然の,
+r899,root,pol,市、市民,
+r900,root,poly,たくさんの,
+r901,root,pr,[1] 最初、第一の [2] 1番目の,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r902,root,prem,[1] 最初、第一の [2] 1番目の,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r903,root,prim,[1] 最初、第一の [2] 1番目の,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r904,root,prin,[1] 最初、第一の [2] 1番目の,English_terms_derived_from_the_Proto-Indo-European_root_*per-
+r905,root,prince,[1] 最初、第一の [2] 1番目の,English_terms_derived_from_the_Proto-Indo-European_root_*keh₂p-
+r906,root,prise,把握する,
+r907,root,prob,[1] 証明、証明する [2] 良い [3] テスト,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH-
+r908,root,proof,[1] 証明、証明する [2] 良い [3] テスト,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH-
+r909,root,prov,[1] 証明、証明する [2] 良い [3] テスト,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH-
+r910,root,prove,[1] 証明、証明する [2] 良い [3] テスト,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH-
+r911,root,pseudo,誤った、偽,
+r912,root,psych,心、魂、精神,
+r913,root,psycho,心、魂、精神,
+r914,root,pug,戦い,English_terms_derived_from_the_Proto-Indo-European_root_*gʷem- | English_terms_derived_from_the_Proto-Indo-European_root_*ped- | English_terms_derived_from_the_Proto-Indo-European_root_*pewǵ-
+r915,root,quart,4、第四,
+r916,root,quin,5、第五,
+r917,root,quint,5、第五,
+r918,root,ram,枝,
+r919,root,rap,[1] 押収する [2] 力ずくで運ぶ、つかむ,
+r920,root,rhino,鼻,
+r921,root,rid,笑い,English_terms_derived_from_the_Proto-Indo-European_root_*Hrew- | English_terms_derived_from_the_Proto-Indo-European_root_*Hrewdʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂rey- | English_terms_derived_from_the_Proto-Indo-European_root_*kret-_(shake)
+r922,root,ris,笑い,English_terms_derived_from_the_Proto-Indo-European_root_*Hrew- | English_terms_derived_from_the_Proto-Indo-European_root_*Hrewdʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂rey- | English_terms_derived_from_the_Proto-Indo-European_root_*kret-_(shake)
+r923,root,rog,[1] 頼み [2] 聞く、尋ねる,
+r924,root,scope,観察、表示,English_terms_derived_from_the_Proto-Indo-European_root_*speḱ-
+r925,root,soph,[1] 賢い [2] 知恵,
+r926,root,spec,見る,English_terms_derived_from_the_Proto-Indo-European_root_*weyh₁-
+r927,root,stance,[1] 立つ [2] 安定化,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂-
+r928,root,strain,縛る、締め,English_terms_derived_from_the_Proto-Indo-European_root_*strew- | English_terms_derived_from_the_Proto-Indo-European_root_*streyg-
+r929,root,strict,縛る、締め,English_terms_derived_from_the_Proto-Indo-European_root_*streyg-
+r930,root,string,縛る、締め,English_terms_derived_from_the_Proto-Indo-European_root_*strengʰ-
+r931,root,sourc,上がり、盛り上がる,
+r932,root,surg,上がり、盛り上がる,
+r933,root,surrect,上がり、盛り上がる,
+r934,root,tach,触れる、触る,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r935,root,tack,触れる、触る,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r936,root,tact,触れる、触る,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r937,root,tag,触れる、触る,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r938,root,taint,触れる、触る,English_terms_derived_from_the_Proto-Indo-European_root_*teng-_(dip)
+r939,root,tang,触れる、触る,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r940,root,tegr,触れる、触る,English_terms_derived_from_the_Proto-Indo-European_root_*teh₂g-_(touch)
+r941,root,tinct,色づける,English_terms_derived_from_the_Proto-Indo-European_root_*teng-_(dip)
+r942,root,ting,色づける,English_terms_derived_from_the_Proto-Indo-European_root_*teng-_(dip)
+r943,root,tint,色づける,English_terms_derived_from_the_Proto-Indo-European_root_*teng-_(dip)
+r944,root,tele,[1] 距離 [2] 終わり,
+r945,root,tic,静か,
+r946,root,tin,保持する,
+r947,root,tort,ねじれ、ねじる,English_terms_derived_from_the_Proto-Indo-European_root_*terkʷ-
+r948,root,trophy,栄養,
+r949,root,urb,市、都市,
+r950,root,vail,[1] 強い、力 [2] 価値、価値がある,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂welh₁-_(rule)
+r951,root,val,[1] 強い、力 [2] 価値、価値がある,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂welh₁-_(rule)
+r952,root,valid,[1] 強い、力 [2] 価値、価値がある,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂welh₁-_(rule)
+r953,root,vest,[1] 衣類 [2] 着せ、服を着せる,English_terms_derived_from_the_Proto-Indo-European_root_*wes-_(dress)
+r954,root,vic,代わりに,
+r955,root,abdomen,腹,
+r956,root,abdomin,腹,
+r957,root,ache,痛み,English_terms_derived_from_the_Proto-Indo-European_root_*kʷey-
+r958,root,aid,助け,
+r959,root,aim,評価する,
+r960,root,esteem,評価する,
+r961,root,estim,評価する,
+r962,root,ample,取る,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ent- | English_terms_derived_from_the_Proto-Indo-European_root_*h₃emh₃- | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁-
+r963,root,eem,取る,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ent- | English_terms_derived_from_the_Proto-Indo-European_root_*h₃emh₃- | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁-
+r964,root,empl,取る,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ent- | English_terms_derived_from_the_Proto-Indo-European_root_*h₃emh₃- | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁-
+r965,root,empt,取る,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ent- | English_terms_derived_from_the_Proto-Indo-European_root_*h₃emh₃- | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁-
+r966,root,m,取る,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ent- | English_terms_derived_from_the_Proto-Indo-European_root_*h₃emh₃- | English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁-
+r967,root,art,結びつける技術,English_terms_derived_from_the_Proto-Indo-European_root_*h₂er-
+r968,root,ert,結びつける技術,English_terms_derived_from_the_Proto-Indo-European_root_*h₂er-
+r969,root,back,背中、後ろ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeg-_(bend)
+r970,root,bag,袋,
+r971,root,budg,袋,
+r972,root,band,結ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰendʰ-
+r973,root,bind,結ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰendʰ-
+r974,root,bond,結ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰendʰ-
+r975,root,bound,結ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH-
+r976,root,bund,結ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰendʰ-
+r977,root,barb,あごひげ,
+r978,root,brav,見慣れない,
+r979,root,bev,飲む,English_terms_derived_from_the_Proto-Indo-European_root_*peh₃-
+r980,root,bib,飲む,English_terms_derived_from_the_Proto-Indo-European_root_*peh₃-
+r981,root,bide,待つ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeydʰ-
+r982,root,bode,待つ,English_terms_derived_from_the_Proto-Indo-European_root_*bʰewdʰ- | English_terms_derived_from_the_Proto-Indo-European_root_*bʰeydʰ-
+r983,root,bleed,血,
+r984,root,bless,血,
+r985,root,blood,血,
+r986,root,board,板,
+r987,root,bomb,ブンブンという擬声音,
+r988,root,bump,ブンブンという擬声音,
+r989,root,brace,腕,English_terms_derived_from_the_Proto-Indo-European_root_*mreǵʰ-
+r990,root,breast,胸,
+r991,root,broach,とがった棒,
+r992,root,broc,とがった棒,
+r993,root,brok,とがった棒,
+r994,root,brooch,とがった棒,
+r995,root,brev,短い,English_terms_derived_from_the_Proto-Indo-European_root_*mreǵʰ-
+r996,root,bridge,短い,English_terms_derived_from_the_Proto-Indo-European_root_*mreǵʰ-
+r997,root,brief,短い,English_terms_derived_from_the_Proto-Indo-European_root_*mreǵʰ-
+r998,root,camer,部屋,
+r999,root,chamber,部屋,
+r1000,root,comr,部屋,
+r1001,root,camp,野原,English_terms_derived_from_the_Proto-Indo-European_root_*kh₂em-
+r1002,root,champ,野原,English_terms_derived_from_the_Proto-Indo-European_root_*kh₂em-
+r1003,root,canal,運河,
+r1004,root,channel,運河,
+r1005,root,cape,ケープ、外衣,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r1006,root,chap,ケープ、外衣,English_terms_derived_from_the_Proto-Indo-European_root_*kap- | English_terms_derived_from_the_Proto-Indo-European_root_*kap-_(head)
+r1007,root,cause,理由,
+r1008,root,cert,確かな,
+r1009,root,cl,[1] 集まる [2] カチカチ、衝突,
+r1010,root,clar,はっきりした,English_terms_derived_from_the_Proto-Indo-European_root_*kelh₁-
+r1011,root,clean,はっきりした,English_terms_derived_from_the_Proto-Indo-European_root_*kelh₁-
+r1012,root,clear,はっきりした,English_terms_derived_from_the_Proto-Indo-European_root_*kelh₁-
+r1013,root,close,閉じる,English_terms_derived_from_the_Proto-Indo-European_root_*(s)kleh₂w-
+r1014,root,coro,王冠,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r1015,root,crown,王冠,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r1016,root,coast,側,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*ǵews-
+r1017,root,cost,側,English_terms_derived_from_the_Proto-Indo-European_root_*steh₂- | English_terms_derived_from_the_Proto-Indo-European_root_*ǵews-
+r1018,root,costum,習慣,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r1019,root,custom,習慣,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r1020,root,court,囲まれた場所,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰer-
+r1021,root,cub,横たわる,
+r1022,root,cumb,横たわる,
+r1023,root,curb,曲げる,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r1024,root,curv,曲げる,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r1025,root,kerb,曲げる,English_terms_derived_from_the_Proto-Indo-European_root_*(s)ker-_(turn)
+r1026,root,dam,害を与える,
+r1027,root,dem,害を与える,
+r1028,root,dec,10,
+r1029,root,dim,10,
+r1030,root,dorm,眠る,English_terms_derived_from_the_Proto-Indo-European_root_*drem-_(sleep)
+r1031,root,fa,話す,English_terms_derived_from_the_Proto-Indo-European_root_*(s)pel-
+r1032,root,fab,話す,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(speak) | English_terms_derived_from_the_Proto-Indo-European_root_*h₃ed-_(smell)
+r1033,root,fat,話す,English_terms_derived_from_the_Proto-Indo-European_root_*peyH-
+r1034,root,far,遠くに,
+r1035,root,feast,宴,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r1036,root,fest,宴,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r1037,root,fenc,打つ,English_terms_derived_from_the_Proto-Indo-European_root_*gʷʰen- | English_terms_derived_from_the_Proto-Indo-European_root_*peh₁-
+r1038,root,fend,打つ,English_terms_derived_from_the_Proto-Indo-European_root_*gʷʰen- | English_terms_derived_from_the_Proto-Indo-European_root_*peh₁-
+r1039,root,fens,打つ,English_terms_derived_from_the_Proto-Indo-European_root_*gʷʰen- | English_terms_derived_from_the_Proto-Indo-European_root_*peh₁-
+r1040,root,fair,作る,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeygʷ-
+r1041,root,feit,作る,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeygʷ-
+r1042,root,fit,作る,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeygʷ-
+r1043,root,fl,素早い動き,
+r1044,root,foreign,外側の,English_terms_derived_from_the_Proto-Indo-European_root_*perkʷ-
+r1045,root,forest,外側の,English_terms_derived_from_the_Proto-Indo-European_root_*perkʷ-
+r1046,root,fortune,運,English_terms_derived_from_the_Proto-Indo-European_root_*bʰer-
+r1047,root,fresh,新しい,English_terms_derived_from_the_Proto-Indo-European_root_*new-_(new)
+r1048,root,friger,寒い,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r1049,root,frigid,寒い,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r1050,root,fraid,恐れ,
+r1051,root,fright,恐れ,
+r1052,root,fuse,注ぐ,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰewd-
+r1053,root,gage,誓約する,English_terms_derived_from_the_Proto-Indo-European_root_*wedʰ-
+r1054,root,wage,誓約する,English_terms_derived_from_the_Proto-Indo-European_root_*wedʰ-
+r1055,root,gain,反対に,
+r1056,root,germ,芽,English_terms_derived_from_the_Proto-Indo-European_root_*ǵenh₁-
+r1057,root,grab,つかむ,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ-
+r1058,root,grap,つかむ,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ-
+r1059,root,grasp,つかむ,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ-
+r1060,root,grip,つかむ,English_terms_derived_from_the_Proto-Indo-European_root_*gʰrebʰ-
+r1061,root,heal,[1] 健全な [2] 完全な,
+r1062,root,hol,[1] 健全な [2] 完全な,
+r1063,root,whole,[1] 健全な [2] 完全な,
+r1064,root,hod,道,
+r1065,root,od,道,
+r1066,root,house,家,English_terms_derived_from_the_Proto-Indo-European_root_*(s)kewH-
+r1067,root,hus,家,English_terms_derived_from_the_Proto-Indo-European_root_*(s)kewH-
+r1068,root,hom,[1] 人間 [2] 天に対する低い存在,
+r1069,root,hum,[1] 人間 [2] 天に対する低い存在,
+r1070,root,emper,支配する,
+r1071,root,empir,支配する,
+r1072,root,empr,支配する,
+r1073,root,imper,支配する,
+r1074,root,ion,[1] 進む [2] イオン,English_terms_derived_from_the_Proto-Indo-European_root_*h₁ey-
+r1075,root,judge,[1] 正しいことを言う人 [2] 裁判官,English_terms_derived_from_the_Proto-Indo-European_root_*deyḱ- | English_terms_derived_from_the_Proto-Indo-European_root_*h₂yew-
+r1076,root,jun,若い,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life)
+r1077,root,juven,若い,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life)
+r1078,root,you,若い,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life)
+r1079,root,young,若い,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ey-_(life)
+r1080,root,len,柔らかい,
+r1081,root,lent,柔らかい,
+r1082,root,liber,自由な,English_terms_derived_from_the_Proto-Indo-European_root_*lewbʰ-_(cut_off)
+r1083,root,liver,自由な,English_terms_derived_from_the_Proto-Indo-European_root_*h₂en- | English_terms_derived_from_the_Proto-Indo-European_root_*leyp-
+r1084,root,loc,場所,
+r1085,root,loco,場所,
+r1086,root,luc,光,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(shine) | English_terms_derived_from_the_Proto-Indo-European_root_*gerbʰ-
+r1087,root,lumin,光,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(shine) | English_terms_derived_from_the_Proto-Indo-European_root_*gerbʰ-
+r1088,root,lust,光,English_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(shine) | English_terms_derived_from_the_Proto-Indo-European_root_*gerbʰ-
+r1089,root,lux,光,English_terms_derived_from_the_Proto-Indo-European_root_*lewk-
+r1090,root,mand,命じる,
+r1091,root,mend,[1] 命じる [2] 誤り,English_terms_derived_from_the_Proto-Indo-European_root_*mend-
+r1092,root,merit,値する,English_terms_derived_from_the_Proto-Indo-European_root_*(s)mer-_(allot)
+r1093,root,mil,千,
+r1094,root,mod,測る,
+r1095,root,mold,測る,
+r1096,root,mon,[1] 見せる [2] 警告する,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r1097,root,monster,[1] 見せる [2] 警告する,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r1098,root,monstr,[1] 見せる [2] 警告する,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r1099,root,monu,[1] 見せる [2] 警告する,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r1100,root,munstr,[1] 見せる [2] 警告する,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(think)
+r1101,root,mount,山に登る,English_terms_derived_from_the_Proto-Indo-European_root_*men-_(stand_out)
+r1102,root,mus,熟考する,
+r1103,root,number,数,English_terms_derived_from_the_Proto-Indo-European_root_*nem- | English_terms_derived_from_the_Proto-Indo-European_root_*nem-_(distribute)
+r1104,root,numer,数,English_terms_derived_from_the_Proto-Indo-European_root_*nem- | English_terms_derived_from_the_Proto-Indo-European_root_*nem-_(distribute)
+r1105,root,omen,前兆,
+r1106,root,omin,前兆,
+r1107,root,ordain,命令,
+r1108,root,orde,命令,
+r1109,root,ordin,命令,
+r1110,root,ova,卵,
+r1111,root,ovo,卵,
+r1112,root,pack,固定する,English_terms_derived_from_the_Proto-Indo-European_root_*peh₂ǵ-
+r1113,root,pact,固定する,English_terms_derived_from_the_Proto-Indo-European_root_*peh₂ǵ-
+r1114,root,pag,固定する,English_terms_derived_from_the_Proto-Indo-European_root_*peh₂ǵ-
+r1115,root,pain,痛み,English_terms_derived_from_the_Proto-Indo-European_root_*kʷey-
+r1116,root,pen,痛み,English_terms_derived_from_the_Proto-Indo-European_root_*peth₂-
+r1117,root,pin,痛み,English_terms_derived_from_the_Proto-Indo-European_root_*kʷey-
+r1118,root,pand,広げる,
+r1119,root,pans,広げる,
+r1120,root,pat,広げる,
+r1121,root,peal,追いやる,
+r1122,root,parson,人,
+r1123,root,person,人,
+r1124,root,plaud,[1] 打つ [2] 拍手する,
+r1125,root,plaus,[1] 打つ [2] 拍手する,
+r1126,root,plod,[1] 打つ [2] 拍手する,
+r1127,root,plos,[1] 打つ [2] 拍手する,
+r1128,root,plea,喜ばせる,
+r1129,root,plead,喜ばせる,
+r1130,root,plur,より多くの,English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁-
+r1131,root,plus,より多くの,English_terms_derived_from_the_Proto-Indo-European_root_*pleh₁-
+r1132,root,pour,注ぐ,English_terms_derived_from_the_Proto-Indo-European_root_*ǵʰewd-
+r1133,root,pur,純粋な,
+r1134,root,prehend,[1] 保つ [2] とらえる,English_terms_derived_from_the_Proto-Indo-European_root_*gʰed-
+r1135,root,prehens,[1] 保つ [2] とらえる,English_terms_derived_from_the_Proto-Indo-European_root_*gʰed-
+r1136,root,prent,[1] 保つ [2] とらえる,English_terms_derived_from_the_Proto-Indo-European_root_*gʰed-
+r1137,root,prey,[1] 保つ [2] とらえる,English_terms_derived_from_the_Proto-Indo-European_root_*gʰed-
+r1138,root,pris,[1] 保つ [2] とらえる,English_terms_derived_from_the_Proto-Indo-European_root_*gʰed-
+r1139,root,praise,価値,
+r1140,root,preci,価値,
+r1141,root,pri,価値,
+r1142,root,print,押す,English_terms_derived_from_the_Proto-Indo-European_root_*per-_(beat)
+r1143,root,proper,[1] 個別の [2] 特定の,English_terms_derived_from_the_Proto-Indo-European_root_*preyH-
+r1144,root,propri,[1] 個別の [2] 特定の,English_terms_derived_from_the_Proto-Indo-European_root_*preyH-
+r1145,root,pup,子ども,
+r1146,root,quaint,知る,English_terms_derived_from_the_Proto-Indo-European_root_*ǵneh₃-
+r1147,root,quiet,[1] 放つ [2] 静かな,English_terms_derived_from_the_Proto-Indo-European_root_*kʷyeh₁-
+r1148,root,quil,[1] 放つ [2] 静かな,English_terms_derived_from_the_Proto-Indo-European_root_*kʷyeh₁-
+r1149,root,quit,[1] 放つ [2] 静かな,English_terms_derived_from_the_Proto-Indo-European_root_*kʷyeh₁-
+r1150,root,radi,光線,
+r1151,root,ray,光線,
+r1152,root,rang,[1] 階級 [2] 列,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r1153,root,rank,[1] 階級 [2] 列,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r1154,root,riv,川岸,
+r1155,root,rob,力,
+r1156,root,rule,線を引く,English_terms_derived_from_the_Proto-Indo-European_root_*h₃reǵ-
+r1157,root,sam,[1] 似ている [2] 一緒,English_terms_derived_from_the_Proto-Indo-European_root_*sem-
+r1158,root,seem,[1] 似ている [2] 一緒,English_terms_derived_from_the_Proto-Indo-European_root_*sem-
+r1159,root,sembl,[1] 似ている [2] 一緒,English_terms_derived_from_the_Proto-Indo-European_root_*sem-
+r1160,root,simil,[1] 似ている [2] 一緒,English_terms_derived_from_the_Proto-Indo-European_root_*sem-
+r1161,root,simul,[1] 似ている [2] 一緒,English_terms_derived_from_the_Proto-Indo-European_root_*sem-
+r1162,root,sat,十分な,
+r1163,root,scal,登る,English_terms_derived_from_the_Proto-Indo-European_root_*sent-_(perceive)
+r1164,root,scan,登る,English_terms_derived_from_the_Proto-Indo-European_root_*sent-_(perceive)
+r1165,root,scend,登る,English_terms_derived_from_the_Proto-Indo-European_root_*sent-_(perceive)
+r1166,root,scens,登る,English_terms_derived_from_the_Proto-Indo-European_root_*sent-_(perceive)
+r1167,root,scent,登る,English_terms_derived_from_the_Proto-Indo-European_root_*sent-_(perceive)
+r1168,root,schol,[1] ひま [2] 学校,English_terms_derived_from_the_Proto-Indo-European_root_*seǵʰ-
+r1169,root,school,[1] ひま [2] 学校,English_terms_derived_from_the_Proto-Indo-European_root_*seǵʰ-
+r1170,root,ser,置く,English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r1171,root,sever,重大な,
+r1172,root,sider,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r1173,root,sir,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r1174,root,stella,星,English_terms_derived_from_the_Proto-Indo-European_root_*h₂eHs-
+r1175,root,sn,鼻,
+r1176,root,solid,堅い,English_terms_derived_from_the_Proto-Indo-European_root_*solh₂-
+r1177,root,sort,分類する,English_terms_derived_from_the_Proto-Indo-European_root_*ser-_(bind)
+r1178,root,stoma,口,
+r1179,root,swear,誓う,English_terms_derived_from_the_Proto-Indo-European_root_*swer-_(swear)
+r1180,root,swer,誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₁wegʷʰ-
+r1181,root,temper,調節する,
+r1182,root,trad,引き渡す,
+r1183,root,trait,引き渡す,
+r1184,root,tray,引き渡す,
+r1185,root,treas,引き渡す,
+r1186,root,tribute,割り当てる,English_terms_derived_from_the_Proto-Indo-European_root_*bʰuH- | English_terms_derived_from_the_Proto-Indo-European_root_*dʰeh₁-
+r1187,root,tumult,騒ぎ,English_terms_derived_from_the_Proto-Indo-European_root_*tewh₂-
+r1188,root,vad,行く,
+r1189,root,vas,行く,
+r1190,root,wad,行く,
+r1191,root,van,前に,English_terms_derived_from_the_Proto-Indo-European_root_*h₂ent-
+r1192,root,veg,生き生きした,
+r1193,root,vig,生き生きした,
+r1194,root,veh,運ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r1195,root,vein,運ぶ,English_terms_derived_from_the_Proto-Indo-European_root_*(H)yeh₁-
+r1196,root,voc,声,
+r1197,root,vok,声,
+r1198,root,vot,誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₁wegʷʰ-
+r1199,root,vow,誓う,English_terms_derived_from_the_Proto-Indo-European_root_*h₁wegʷʰ-
+r1200,root,wait,待つ,English_terms_derived_from_the_Proto-Indo-European_root_*weǵ-
+r1201,root,wail,嘆き悲しむ,
+r1202,root,weather,風,English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r1203,root,wind,風,English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r1204,root,with,風,English_terms_derived_from_the_Proto-Indo-European_root_*h₂weh₁-
+r1205,root,wis,知っている,English_terms_derived_from_the_Proto-Indo-European_root_*weyd-
+r1206,root,wit,知っている,English_terms_derived_from_the_Proto-Indo-European_root_*weyd-
+r1207,root,wiz,知っている,English_terms_derived_from_the_Proto-Indo-European_root_*weyd-
