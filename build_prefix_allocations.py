@@ -23,6 +23,22 @@ def build_prefix_allocations():
     ejdict = load_ejdict()
     wiktionary_cache = load_cache(CACHE_FILE)
 
+    # 共通接頭辞の定義
+    common_prefixes = [
+        "a", "ab", "abs", "ad", "ac", "af", "ag", "al", "an", "ap", "ar", "as", "at", 
+        "con", "com", "col", "cor", "co", "de", "dis", "dif", "di", "en", "em",
+        "ex", "e", "ef", "im", "in", "il", "ir", "inter", "intro", "ob", "oc", "of", "op",
+        "per", "pre", "pro", "re", "retro", "sub", "suc", "suf", "sug", "sup", "sur", "sus", 
+        "trans", "tra", "un", "non", "over", "out", "auto", "anti", "bi", "mono", "poly", "under"
+    ]
+    
+    # 🌟 より長いパーツ（接頭辞・語根）の優先判定用リストを作成
+    all_starting_parts = set(common_prefixes)
+    for p in etymology_master:
+        all_starting_parts.add(p['spelling'].replace('-', ''))
+    for r in root_master:
+        all_starting_parts.add(r['spelling'].replace('-', ''))
+
     # =========================================================================
     # フェーズ 1: Wiktionary API による抽出
     # =========================================================================
@@ -93,6 +109,16 @@ def build_prefix_allocations():
                 continue
                 
             if dict_word.startswith(p_spell):
+                # 🌟 より長い別のパーツ(語根など)で始まる単語はそちらに譲る
+                is_overridden = False
+                for other_part in all_starting_parts:
+                    if len(other_part) > len(p_spell) and dict_word.startswith(other_part):
+                        is_overridden = True
+                        break
+                
+                if is_overridden:
+                    continue
+                
                 base_part = dict_word[len(p_spell):]
                 if len(base_part) >= 3:
                     is_valid_base = False
