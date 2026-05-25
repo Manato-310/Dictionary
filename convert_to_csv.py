@@ -1,149 +1,147 @@
+import csv
 import os
-import re
-from collections import defaultdict
 
-# ==========================================
-# 設定
-# ==========================================
-EJDICT_FILE = "ejdict-hand-utf8.txt"  # ejdictのテキストファイルのパス
-INPUT_FILES = ["prefix2.txt", "root2.txt", "suffix2.txt"] # 処理する入力ファイル群
-
-# 丸数字（①〜⑳）のリスト
-CIRCLED_NUMBERS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳"
-
-def load_ejdict(filepath):
-    """
-    1. ejdict-hand-utf8.txtを読み込み、見出し語のセットを作成する
-    """
-    ejdict_words = set()
-    if not os.path.exists(filepath):
-        print(f"【警告】{filepath} が見つかりません。辞書チェックをスキップして他の処理のみ実行します。")
-        return ejdict_words
-
-    with open(filepath, 'r', encoding='utf-8') as f:
-        for line in f:
-            if '\t' in line:
-                word = line.split('\t')[0].strip().lower()
-                ejdict_words.add(word)
-    
-    print(f"ejdictから {len(ejdict_words)} 語を読み込みました。")
-    return ejdict_words
-
-def check_in_dict(stem_raw, ejdict_words):
-    """
-    語幹が辞書に存在するか確認する
-    """
-    if not ejdict_words:
-        return True 
-
-    stems = [s.strip(" -,") for s in stem_raw.split(",")]
-    for s in stems:
-        if s in ejdict_words or f"{s}-" in ejdict_words or f"-{s}" in ejdict_words:
-            return True
-    return False
-
-def replace_circled_numbers(text):
-    """
-    丸数字（①、②...）を角括弧の数字（[1]、[2]...）に変換する
-    """
-    for i, char in enumerate(CIRCLED_NUMBERS, start=1):
-        text = text.replace(char, f"[{i}]")
-    return text
-
-def clean_meaning(meaning):
-    """
-    2. 意味の欄から英単語（アルファベット）を削除し、丸数字を変換する
-    """
-    cleaned = re.sub(r'[a-zA-Zａ-ｚＡ-Ｚ]', '', meaning)
-    cleaned = re.sub(r'\s+', ' ', cleaned).strip()
-    cleaned = re.sub(r'^[/／、・]+|[/／、・]+$', '', cleaned) 
-    cleaned = replace_circled_numbers(cleaned)
-    return cleaned if cleaned else "意味なし"
-
-def process_file(input_file, ejdict_words):
-    """
-    ファイルを読み込んで処理し、結果を新しいファイルに書き出す
-    """
+def convert_prefix_root(input_file, output_file, ety_type):
     if not os.path.exists(input_file):
-        print(f"【スキップ】{input_file} が見つかりません。")
+        print(f"⚠️ {input_file} が見つかりません。")
         return
 
-    # 統合用リスト: [ [元の語幹セット, 比較用のハイフン無し語幹セット, 意味のリスト], ... ]
-    merged_data = []
+    data = []
+    with open(input_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
-    with open(input_file, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
-            if not line or '\t' not in line:
-                continue
+    id_counter = 1
+    for line in lines:
+        parts = line.strip().split("\t")
+        # 修正: 2列のデータを処理するように変更
+        if len(parts) >= 2:
+            spellings = parts[0]
+            meaning = parts[1]
 
-            parts = line.split('\t', 1)
-            if len(parts) != 2:
-                continue
-
-            stem_raw, meaning_raw = parts[0].strip(), parts[1].strip()
-
-            # [処理1] ejdictチェック
-            if not check_in_dict(stem_raw, ejdict_words):
-                continue
-
-            # [処理2] 意味のクリーンアップ
-            cleaned_meaning = clean_meaning(meaning_raw)
-
-            # --- [処理3] 表記揺れの統合 ---
-            raw_stems = set(s.strip() for s in stem_raw.split(","))
-            # ハイフンを除外した比較用のセット
-            clean_stems = set(s.replace("-", "") for s in raw_stems)
-
-            merged = False
-            for entry in merged_data:
-                existing_raw_stems, existing_clean_stems, existing_meanings = entry
+            # カンマで分割して独立行として登録
+            for sp in spellings.split(","):
+                sp_clean = sp.strip()
                 
-                # ハイフン無しの状態で完全に一致する要素が1つでもあれば統合
-                if clean_stems & existing_clean_stems:
-                    existing_raw_stems.update(raw_stems)
-                    existing_clean_stems.update(clean_stems)
-                    
-                    if cleaned_meaning not in existing_meanings:
-                        existing_meanings.append(cleaned_meaning)
-                    merged = True
-                    break
-            
-            if not merged:
-                merged_data.append([raw_stems, clean_stems, [cleaned_meaning]])
+                id_prefix = "e" if ety_type == "prefix" else "r"
+                category = f"English_terms_prefixed_with_{sp_clean}" if ety_type == "prefix" else ""
 
-    output_file = input_file.replace(".txt", "_cleaned.txt")
+                data.append({
+                    "id": f"{id_prefix}{id_counter}",
+                    "type": ety_type,
+                    "spelling": sp_clean,
+                    "meaning": meaning,
+                    "category": category
+                })
+                id_counter += 1
 
-    with open(output_file, 'w', encoding='utf-8') as f:
-        for raw_stems, _, meanings in merged_data:
-            stems_list = list(raw_stems)
-            final_stems = []
-            
-            # --- 追加: ダッシュあり・なしの重複表示を解消する処理 ---
-            for s in stems_list:
-                # 文字列にダッシュ(-)が含まれていない場合
-                if "-" not in s:
-                    # ダッシュ付き（接頭辞 or 接尾辞）が既に存在していれば、ダッシュ無しの方は表示から除外
-                    if (s + "-") in stems_list or ("-" + s) in stems_list:
-                        continue
-                final_stems.append(s)
-                
-            # 見やすくアルファベット順にソートして出力
-            stem_str = ", ".join(sorted(final_stems))
-            merged_meaning = " / ".join(meanings)
-            
-            f.write(f"{stem_str}\t{merged_meaning}\n")
-            
-    print(f"完了: {input_file} -> {output_file} に保存しました（{len(merged_data)} 項目に圧縮）。")
+    # 🌟 utf-8-sig で保存し、最初からBOM問題を回避する
+    with open(output_file, "w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["id", "type", "spelling", "meaning", "category"])
+        writer.writeheader()
+        writer.writerows(data)
+    print(f"✅ {output_file} を生成しました（{len(data)}件）。")
 
-# ==========================================
-# 実行部
-# ==========================================
-if __name__ == "__main__":
-    print("処理を開始します...")
-    dict_words = load_ejdict(EJDICT_FILE)
+
+def get_pos_from_role(suffix, role):
+    """接尾辞のつづりと日本語の役割テキストから、品詞を高精度で推測する"""
+    poses = set()
     
-    for filename in INPUT_FILES:
-        process_file(filename, dict_words)
-        
-    print("すべての処理が完了しました。")
+    # 1. テキスト内の明示的なキーワードで判定（最優先）
+    if "名詞化" in role or "抽象名詞" in role:
+        poses.add("名詞")
+    if "形容詞化" in role:
+        poses.add("形容詞")
+    if "動詞化" in role:
+        poses.add("動詞")
+    if "副詞化" in role:
+        poses.add("副詞")
+
+    # 2. 日本語の意味（役割）からの推測
+    # 動詞的な表現
+    if "～させる" in role or "～にする" in role or "～を生じる" in role or role == "する":
+        poses.add("動詞")
+
+    # 形容詞的な表現
+    adj_keywords = [
+        "のような", "できる", "しうる", "され得る", "満ちた", "無い", "のない", 
+        "ふさわしい", "～の性質", "～に関連した", "～に適した", "特有", "固有", 
+        "～らしい", "～重", "～倍", "の傾向がある", "～関連の", "～系の"
+    ]
+    if any(k in role for k in adj_keywords) or role.endswith("の") or "～の、" in role:
+        poses.add("形容詞")
+
+    # 副詞的な表現
+    if "のように" in role or "方向" in role:
+        poses.add("副詞")
+
+    # 名詞的な表現 (明確に名詞を示すキーワードを多数追加)
+    noun_keywords = [
+        "こと", "もの", "人", "学", "主義", "主張", "場所", "状態", "病気", "物質", 
+        "政治", "法", "規則", "地位", "恐怖症", "面体", "行為", "結果", 
+        "資格", "役職", "器械", "鏡", "症", "語", "スキャンダル", "職人", 
+        "尺度", "粉末", "細胞", "生物", "植物", "動物", "岩", "微生物", "皮膚", 
+        "形状", "地震", "振動", "信仰", "藍色", "嚢", "用語", "言葉", "君主", "星", 
+        "層", "肉", "度", "術", "土地", "部分", "球", "音", "作品", "工芸品", "足"
+    ]
+    if any(k in role for k in noun_keywords):
+        poses.add("名詞")
+
+    # 3. テキストから判定できなかった場合、つづりから推測 (フォールバック)
+    if not poses:
+        if suffix in ["ate", "ize", "ise", "ify", "en", "le", "fy"]: 
+            poses.add("動詞")
+        elif suffix in ["ly", "ward", "wards", "fold", "wise"]: 
+            poses.add("副詞")
+        elif suffix in ["ic", "ous", "ar", "fic", "ish", "al", "able", "ible", "ble", "tic", "se", "related", "specific", "lingual", "proof", "biotic", "long", "worthy", "plastic", "clastic", "clinic", "metric"]: 
+            poses.add("形容詞")
+        else:
+            poses.add("名詞") # 最終的なデフォルト
+
+    # 複数の品詞が見つかった場合、決まった順序で結合して返す
+    order = {"名詞": 1, "動詞": 2, "形容詞": 3, "副詞": 4}
+    sorted_poses = sorted(list(poses), key=lambda x: order.get(x, 99))
+    
+    # "名詞・形容詞" のように「・」で繋いで返す
+    return "・".join(sorted_poses)
+
+
+def convert_suffix(input_file, output_file):
+    if not os.path.exists(input_file):
+        print(f"⚠️ {input_file} が見つかりません。")
+        return
+
+    data = []
+    with open(input_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    for line in lines:
+        parts = line.strip().split("\t")
+        # 修正: 2列のデータを処理するように変更
+        if len(parts) >= 2:
+            spellings = parts[0]
+            role = parts[1]
+
+            for sp in spellings.split(","):
+                sp_clean = sp.strip().replace("-", "") 
+                pos = get_pos_from_role(sp_clean, role)
+
+                data.append({
+                    "suffix": sp_clean,
+                    "role": role,
+                    "pos": pos
+                })
+
+    # 🌟 utf-8-sig で保存
+    with open(output_file, "w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["suffix", "role", "pos"])
+        writer.writeheader()
+        writer.writerows(data)
+    print(f"✅ {output_file} を生成しました（{len(data)}件）。")
+
+
+if __name__ == "__main__":
+    print("=== マスターデータCSV変換プロセス開始 (utf-8-sig版) ===")
+    convert_prefix_root("prefix.txt", "prefix_master.csv", "prefix")
+    convert_prefix_root("root.txt", "root_master.csv", "root")
+    convert_suffix("suffix.txt", "suffix_master.csv")
+    print("✨ すべての変換が完了しました！")
