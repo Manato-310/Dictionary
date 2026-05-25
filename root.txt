@@ -1,12 +1,10 @@
 face, fact, fake, feat, fect, fic, fig, fy	[1] つくる、する、作る [2] 面、形
 sist, st, stand, state, stood, store, t	[1] 立つ [2] 耐える
-cap, caput, ceive, cept, chase, cip, cup	[1] 取る、つかむ、つかみ取る
-cap, caput, ceive, cept, chase, cip, cup	頭
+cap, caput, ceive, cept, chase, cip, cup	[1] 取る、つかむ、つかみ取る [2] 頭
 rail, rect, reg, reign, ress, right	[1] 導く、まっすぐな、右 [2] 規則
 verse, vert	向きを変える、形や性質を変える
 tain, tempt, ten, tend, tens, tent, tinent, tinue	[1] 伸ばす、引っ張る [2] つかむ、保持する [3] 試す、試みる
-duce, duct	導く、沿って描く
-duce, duct	鉛
+duce, duct	[1] 導く、沿って描く [2] 鉛
 pausa, pone, pos, pose, posit, pound	[1] 置く、場所 [2] 止める
 vice, vide, videre, view, vis, vise	見る
 play, ple, plegan, plex, pli, ploy, ply, pul	[1] 折る、折りたたむ、折り重ねる [2] 満たす [3] 動く [4] 倍 [5] 編む
@@ -15,25 +13,16 @@ port	[1] 運ぶ [2] 港
 ne, neg, ni, ny	否定、否定する
 mot, mov, move, movere	動く、動き、動かす
 dat, dit, do, don	[1] 与える [2] する
-act, aevum, age, eter, evum	[1] 行う、行動、行動する [2] ドライブ
-act, aevum, age, eter, evum	年、年を取った
-cn, gen, gene, gn, kn	生む、種類
-cn, gen, gene, gn, kn	知る
-main, man, mani, manu, men, ment, mind, minis, mn, mnant, moun, mynd	考える、心、思い
-main, man, mani, manu, men, ment, mind, minis, mn, mnant, moun, mynd	手
-main, man, mani, manu, men, ment, mind, minis, mn, mnant, moun, mynd	人
-main, man, mani, manu, men, ment, mind, minis, mn, mnant, moun, mynd	突き出る、積み重ねる
-main, man, mani, manu, men, ment, mind, minis, mn, mnant, moun, mynd	残る、居住する
-fer, firm, forc, fort	[1] 強い、かたい、堅固な [2] 会社を作る [3] サポート
-fer, firm, forc, fort	運ぶ
-fer, firm, forc, fort	[1] 運 [2] チャンス
+act, aevum, age, eter, evum	[1] 行う、行動、行動する [2] ドライブ [3] 年、年を取った
+cn, gen, gene, gn, kn	[1] 生む、種類 [2] 知る
+main, man, mani, manu, men, ment, mind, minis, mn, mnant, moun, mynd	[1] 考える、心、思い [2] 手 [3] 人 [4] 突き出る、積み重ねる [5] 残る、居住する
+fer, firm, forc, fort	[1] 強い、かたい、堅固な [2] 会社を作る [3] サポート [4] 運ぶ [5] 運 [6] チャンス
 fin, fine	[1] 終わる、終わり、制限、境界を定める [2] よいものにする
 mess, mise, miss, mit	送る
 cercle, circle, circu, circum, cycle, kyklos, search	輪、周囲、周期
 ius, jur, jure, juris, just	[1] 正義、ただしさ、ちょうど [2] 法律、法 [3] 誓う
 tract	引く、引っ張る
-gno, knew, know, not	知る
-gno, knew, know, not	印、マークする、しるしをつける
+gno, knew, know, not	[1] 知る [2] 印、マークする、しるしをつける
 pire, spire, spiritus, sprit	呼吸
 faith, fide	信じる
 use	使う
@@ -46,18 +35,13 @@ grad, gress	[1] 歩く、行く、踏む [2] 段階
 meter, metron, metry	測る、測定器、メートル、計測
 vey, vi, via, voy, wag, way, weg, wegh, weigh	[1] 行く、動く [2] 道、道路、方法
 se, secut, self, selu, sequ, sue, sui	[1] それ自身、それ [2] 後に続く
-cor	心、ハート
-cor	走る
+cor	[1] 心、ハート [2] 走る
 point, punc	[1] 穴を開ける、さす、刺す [2] 点
 premere, press	押す
-grav, grave, grie, grief, griev, grub	[1] 重い [2] 重要な
-grav, grave, grie, grief, griev, grub	掘る
+grav, grave, grie, grief, griev, grub	[1] 重い [2] 重要な [3] 掘る
 part	[1] 部分 [2] 分割、分ける
-re, real, reel, roy	現実、物、もの
-re, real, reel, roy	王
-pair, par, paratus, pare, pear, peer	[1] 準備、準備する [2] 前に出る、現れる
-pair, par, paratus, pare, pear, peer	等しい
-pair, par, paratus, pare, pear, peer	出産
+re, real, reel, roy	[1] 現実、物、もの [2] 王
+pair, par, paratus, pare, pear, peer	[1] 準備、準備する [2] 前に出る、現れる [3] 等しい [4] 出産
 neo, new, newo, nov	新しい
 rol, roll, rot, round	[1] 回転する、輪、車輪 [2] 順番 [3] 名簿
 queri, quest, quire, quis	[1] 頼む [2] 探し求める、求める、探求する
@@ -70,13 +54,10 @@ heah, heap, height, high	高い
 doc, docu	[1] 教える [2] 適切な
 crease	増やす
 aster, astro, star, ster	星
-a, be, by, ga	[1] わきの、副次的な、あらゆる [2] 強意、ともに
-a, be, by, ga	生命、生活
-posi, poss, posse, pot, power	[1] できる [2] 力、パワー、力強い
-posi, poss, posse, pot, power	飲む
+a, be, by, ga	[1] わきの、副次的な、あらゆる [2] 強意、ともに [3] 生命、生活
+posi, poss, posse, pot, power	[1] できる [2] 力、パワー、力強い [3] 飲む
 laund, lav, lue, lug, lut, lve, lye	[1] 洗う [2] ほどく
-ins, is, ish, isol, it	[1] 行く [2] 旅 [3] 道路
-ins, is, ish, isol, it	島
+ins, is, ish, isol, it	[1] 行く [2] 旅 [3] 道路 [4] 島
 clin, lean	寄りかかる
 phone	音、声
 place, plain, plan, plane, plat, plate, platea	[1] 場所、広がり [2] 平ら、平らな [3] 飛行機
@@ -85,11 +66,9 @@ term, terminus	[1] 終わり [2] 境界、限界
 sign, signum	印、マーク
 lingua	[1] 舌 [2] 言葉
 heir, her, herit, hes	[1] 粘着する、くっつく、スティック [2] 受け継ぐ、相続人
-found, fund	基礎を置く、底、下、土台、基礎
-found, fund	[1] 注ぐ [2] 溶ける
+found, fund	[1] 基礎を置く、底、下、土台、基礎 [2] 注ぐ [3] 溶ける
 under	下に
-pass, passus	歩く、通る
-pass, passus	苦しみ、耐え
+pass, passus	[1] 歩く、通る [2] 苦しみ、耐え
 cure	手入れ、気遣い、注意
 flame, flaume	炎
 verb	言葉、ワード、語
@@ -97,14 +76,12 @@ cue, cuss, quash	[1] 振る [2] 打つ
 vote, vov	誓う
 aequus, equal, equi	等しい
 hosp, host	[1] 客、ホスト、ゲスト [2] 見知らぬ人、敵
-grace, grade, grate, gree	喜び、慈悲深さ
-grace, grade, grate, gree	[1] 行く、踏む [2] 段階
+grace, grade, grate, gree	[1] 喜び、慈悲深さ [2] 行く、踏む [3] 段階
 norm, norma	[1] 規格、規則、パターン [2] 物差し
 flood, flow, flu, pleu	流れ、流れる
 dan, dent	歯
 ger, gest, gist, jest	運ぶ
-cid, cis	[1] 切る [2] 殺す
-cid, cis	落ちる
+cid, cis	[1] 切る [2] 殺す [3] 落ちる
 the, theo, thus	神
 per, peri, pert	試す、試みる
 gala, lact	ミルク
@@ -131,35 +108,25 @@ apt, att, ept	適合させる、適合、適した
 leub, lief, lieve, love	愛
 mater, modor, mother	母
 corona	[1] 冠 [2] 曲げる
-leg, legis, loy	法、法律
-leg, legis, loy	集める、選択、読む
-leg, legis, loy	送る
+leg, legis, loy	[1] 法、法律 [2] 集める、選択、読む [3] 送る
 boc, book	[1] 本 [2] 書き残す
 ante	前に
-vene, vent	来る
-vene, vent	風
-ent, ess, est, sense, sent	[1] 存在、存在する [2] 感じる、知覚する
-ent, ess, est, sense, sent	人、物
-red, rub, rud, rur, russ, rust	赤
-red, rub, rud, rur, russ, rust	田舎
-leoht, lev, light	[1] 明かり、火をつける [2] 軽い
-leoht, lev, light	持ち上げる
-jeo, jewel, joc, join, joint, jok, jug, junct	繋げる、結ぶ
-jeo, jewel, joc, join, joint, jok, jug, junct	喜び
-aud, audio, edi, edy, ey, ode, odi, ody	聞く、音声の、聴覚の
-aud, audio, edi, edy, ey, ode, odi, ody	[1] 歌 [2] 詩
+vene, vent	[1] 来る [2] 風
+ent, ess, est, sense, sent	[1] 存在、存在する [2] 感じる、知覚する [3] 人、物
+red, rub, rud, rur, russ, rust	[1] 赤 [2] 田舎
+leoht, lev, light	[1] 明かり、火をつける [2] 軽い [3] 持ち上げる
+jeo, jewel, joc, join, joint, jok, jug, junct	[1] 繋げる、結ぶ [2] 喜び
+aud, audio, edi, edy, ey, ode, odi, ody	[1] 聞く、音声の、聴覚の [2] 歌 [3] 詩
 lic, like	[1] 体質に合う、好き [2] 似ている
 historia, storia, story	[1] 歴史、物語 [2] 階
-lack, lang, lax, leas, leng, ling, long	長い
-lack, lang, lax, leas, leng, ling, long	緩んだ
+lack, lang, lax, leas, leng, ling, long	[1] 長い [2] 緩んだ
 maci, make	形づくる
 peat, pet, pete	[1] 進む [2] 探す
 come, cuman	来る
 virus	毒、ウイルス
 bai, base, basis	[1] 行く [2] 土台
 lab	働く、仕事へ
-saw, sect, seg, sex	切る、分割する
-saw, sect, seg, sex	6
+saw, sect, seg, sex	[1] 切る、分割する [2] 6
 arm	[1] 武器 [2] 腕 [3] 組み合わせる
 torn, tour, tu, tur, turn	[1] 回転する、回る、向きを変える [2] ろくろ
 mat	熟れた
@@ -169,10 +136,8 @@ lagu, law	権威が決めた規則、法
 ainaz, an, one	1、1つ
 angle	カド
 tom	切る、分ける
-cant, cent, centi, chant	[1] 100 [2] 100分、100分の1
-cant, cent, centi, chant	歌う
-zoo	動物
-zoo	生活
+cant, cent, centi, chant	[1] 100 [2] 100分、100分の1 [3] 歌う
+zoo	[1] 動物 [2] 生活
 polar, polus	極
 tima, time	[1] 時 [2] 刻む
 stop, stoppian	止まる
@@ -184,32 +149,24 @@ situ, situs	場所
 hand, hond	手
 aise, ease	安らぎ
 good	よい
-out, us, ut	外へ
-out, us, ut	使う、使用する
+out, us, ut	[1] 外へ [2] 使う、使用する
 hard, heard	かたい、固い
 va, vac, void	空の、空っぽ、からっぽ
-cour, cover, cupid, cupis, cur, ker	[1] 走る、流れる [2] ケアする
-cour, cover, cupid, cupis, cur, ker	覆う
-cour, cover, cupid, cupis, cur, ker	欲しがる
+cour, cover, cupid, cupis, cur, ker	[1] 走る、流れる [2] ケアする [3] 覆う [4] 欲しがる
 land, lond	土地
 dages, dai, dawn, day, di, dia, dis, diurn	日、日にち
 locian, look	目を向ける
 talk, talo, tell	詳しく述べる
-rig	かたい、硬い、剛性
-rig	まっすぐ
-rig	王、規則、ガイド
+rig	[1] かたい、硬い、剛性 [2] まっすぐ [3] 王、規則、ガイド
 wicca, wicce, witch	[1] 悪い [2] 魔法使い
 left, lyft	右の逆、左
 son, sonus, sound	音
 ghel, gild, gold	[1] 輝く [2] 金
 tochier, touch	触れる
-opt	選ぶ、選択
-opt	最善
-opt	[1] 目、視覚的な症状 [2] ビジョン、光景 [3] 検査
+opt	[1] 選ぶ、選択 [2] 最善 [3] 目、視覚的な症状 [4] ビジョン、光景 [5] 検査
 bat, beat	[1] たたく、打つ [2] ビート
 word, wordam	[1] 単語 [2] 話す
-ceal, cell, col, cul, hall, hell, helm	隠す
-ceal, cell, col, cul, hall, hell, helm	耕す
+ceal, cell, col, cul, hall, hell, helm	[1] 隠す [2] 耕す
 sphaera, sphere	球、玉
 god	呼ぶ
 head, heafod	頭
@@ -218,22 +175,16 @@ fix	[1] 固定、固定する [2] 取り付け
 see, seon	見る
 hap, happ	[1] 機会 [2] 偶然
 tone, tonos	音、調子
-car, char, charge, cher	[1] 車、台車 [2] 積む、満たす
-car, char, charge, cher	かわいい
+car, char, charge, cher	[1] 車、台車 [2] 積む、満たす [3] かわいい
 frons, front	[1] 前 [2] 額
 temp, tempest, tempo, tempor, tempus	時間
 kid, kith	子ヤギ、子ども
 ripa, rive	岸
 rida, ride	[1] 乗る [2] 準備する
-father, papa, pater	父
-father, papa, pater	祖国
+father, papa, pater	[1] 父 [2] 祖国
 deep, deop	深い
-cand, cend, cens, chand, cynd, kin, kind, king	[1] 種、生まれながらの [2] 血縁
-cand, cend, cens, chand, cynd, kin, kind, king	輝く
-cand, cend, cens, chand, cynd, kin, kind, king	運動
-cal, call, calor, chafe, chal, chalk, cil, kalla	叫ぶ、呼ぶ
-cal, call, calor, chafe, chal, chalk, cil, kalla	石
-cal, call, calor, chafe, chal, chalk, cil, kalla	熱い
+cand, cend, cens, chand, cynd, kin, kind, king	[1] 種、生まれながらの [2] 血縁 [3] 輝く [4] 運動
+cal, call, calor, chafe, chal, chalk, cil, kalla	[1] 叫ぶ、呼ぶ [2] 石 [3] 熱い
 nigen, nine	9、9つの
 eahta, eight	8
 seofon, seven	7
@@ -242,9 +193,7 @@ fif, five	5
 feower, four	4
 freond, friend	友達
 stimulus	刺す
-sol, sull	太陽
-sol, sull	一人で、単独の、寂しい
-sol, sull	慰める
+sol, sull	[1] 太陽 [2] 一人で、単独の、寂しい [3] 慰める
 lexico, lexis	言葉づかい
 bouqu, bush, bysc	茂み
 aer, air, aria	空気
@@ -255,8 +204,7 @@ menon, mona, month	月
 week, weik	[1] 週 [2] 巻きつける
 bed, beddian	[1] 寝る場所 [2] (おそらく) 掘る
 gear, year	年
-cast, chast, kosta	[1] 投げる、割り当てる
-cast, chast, kosta	純粋な
+cast, chast, kosta	[1] 投げる、割り当てる [2] 純粋な
 theme, thesis	置く
 nut	木の実、核
 card, cart, carta, chart	[1] 紙 [2] 手札
@@ -278,10 +226,8 @@ twa, two	2
 three, threo	3
 scapan, shape	[1] 切る [2] 形
 soft, softe	やさしい、ゆるやかな
-sov, sum, summa, sumpt, sup	一番高い、最高、最高の
-sov, sum, summa, sumpt, sup	取る
-fam, fan, pan, pha, phe	[1] すべて [2] 現れる [3] 話す
-fam, fan, pan, pha, phe	パン
+sov, sum, summa, sumpt, sup	[1] 一番高い、最高、最高の [2] 取る
+fam, fan, pan, pha, phe	[1] すべて [2] 現れる [3] 話す [4] パン
 second, secundus	[1] 2番目 [2] 秒
 night, niht	夜
 marine, marinus	海の
@@ -291,23 +237,18 @@ code, codex	符号、法典
 la	歩く
 of, off	離れて
 to	その方向へ
-all, eall	すべて
-all, eall	他の、異なる
+all, eall	[1] すべて [2] 他の、異なる
 govern, gubern	統治する
 site, sito	食べもの
 put, putian	[1] 置く [2] 考える、計算 [3] 仮定 [4] 調整
 brad, bread, broad	広い、幅広い
 thing	もの
-ball, ble, blem, bol, bola, bollr, vil	ボール、球
-ball, ble, blem, bol, bola, bollr, vil	踊り
-ball, ble, blem, bol, bola, bollr, vil	投げる
+ball, ble, blem, bol, bola, bollr, vil	[1] ボール、球 [2] 踊り [3] 投げる
 fear, feraz	危険
 wax, weax	ろう
 bee, beo	蜂
-tuit, tut	見守る、見る
-tuit, tut	教える
-cut, cutte	切る
-cut, cutte	鋭い
+tuit, tut	[1] 見守る、見る [2] 教える
+cut, cutte	[1] 切る [2] 鋭い
 Ammon, amine, ammonia	アメンの神殿、アミン、アンモニア
 ego	私、自分、自己
 faran, fare	[1] 旅、過ごす [2] 行く
@@ -338,20 +279,15 @@ ac	[1] 鋭い [2] 酸、酸っぱい、苦い
 ag	[1] 行う [2] ドライブ
 agog	リーダー
 alto	高い
-am, em, im, mi	愛
-am, em, im, mi	友情、友人
-ama	愛
-ama	友情
+am, em, im, mi	[1] 愛 [2] 友情、友人
+ama	[1] 愛 [2] 友情
 aqua, aque	水
 arbor	木
-arc, arch	[1] 首位、最高位の、支配者 [2] 時間の初め
-arc, arch	アーチ
+arc, arch	[1] 首位、最高位の、支配者 [2] 時間の初め [3] アーチ
 au	鳥
 audit	聞く
-bar	圧力、重量
-bar	棒
-beau, bell	美しい
-beau, bell	戦争
+bar	[1] 圧力、重量 [2] 棒
+beau, bell	[1] 美しい [2] 戦争
 bi	生命、生活
 bibl	本
 blast	芽、胚、形成細胞、細胞層
@@ -371,20 +307,16 @@ dactyl	指
 deavor, deb, du	負う
 dogma	意見、信念
 ec	外
-erg, urg	作業、働く
-erg, urg	駆り立てる
+erg, urg	[1] 作業、働く [2] 駆り立てる
 ergo	作業
-err	エラー、誤り
-err	不思議
-err	さまよう
+err	[1] エラー、誤り [2] 不思議 [3] さまよう
 fall	欺くために
 fem	女性
 flat	吹く
 flex	曲がり
 flor	花
 flux	流れ
-foil	葉
-foil	ページ
+foil	[1] 葉 [2] ページ
 fore	[1] 前 [2] 適切な位置・時間
 fra, fract, frag	壊れる
 fug	逃げる、逃げます
@@ -393,22 +325,18 @@ gust	味
 hem	血液、血状態
 hex	6
 homo	[1] 1 [2] 同じ
-jet	投げる
-jet	嘘
+jet	[1] 投げる [2] 嘘
 kilo	1000
 kine	動作
-lat, late, lay	持つ、運ぶ
-lat, late, lay	側面
+lat, late, lay	[1] 持つ、運ぶ [2] 側面
 libra	バランス、重量
-laps, lip	脂肪
-laps, lip	滑る
+laps, lip	[1] 脂肪 [2] 滑る
 lit	[1] 手紙 [2] 読書
 log	[1] 単語、会話 [2] 書かれた作品
 luna	月
 male	病気、悪い
 mania	過度の欲望
-mar, mir	海
-mar, mir	驚く
+mar, mir	[1] 海 [2] 驚く
 member	記憶
 mere	部
 merge	浸す、沈む、潜る
@@ -418,8 +346,7 @@ mob	動き
 mono	1、シングル、一人で
 my	筋
 nas	誕生、生まれた
-noun, nounc, nown, nunc	宣言する、報告する
-noun, nounc, nown, nunc	名前
+noun, nounc, nown, nunc	[1] 宣言する、報告する [2] 名前
 op	[1] 目、視覚的な症状 [2] ビジョン、光景 [3] 検査
 ops	[1] 目、視覚的な症状 [2] ビジョン、光景 [3] 検査
 or	[1] 口 [2] 話す [3] 弁護
@@ -457,11 +384,9 @@ strain	縛る、締め
 strict	縛る、締め
 string	縛る、締め
 sourc, surg, surrect	上がり、盛り上がる
-stimul, stinct, sting, tach, tack, tact, tag, taint, tang, tegr, tinct, ting, tint	触れる、触る
-stimul, stinct, sting, tach, tack, tact, tag, taint, tang, tegr, tinct, ting, tint	刺す
-stimul, stinct, sting, tach, tack, tact, tag, taint, tang, tegr, tinct, ting, tint	色づける
-tele	距離
-tele	終わり
+stimul, stinct, sting [1] 触れる、触る [2] 刺す [3] 色づける
+tach, tack, tact, tag, taint, tang, tegr, tinct, ting, tint	[1] 触れる、触る [2] 刺す [3] 色づける
+tele	[1] 距離 [2] 終わり
 tic	静か
 tin	保持する
 tome	切る
@@ -469,8 +394,7 @@ tort	ねじれ、ねじる
 trophy	栄養
 urb	市、都市
 valid	[1] 力 [2] 価値
-vest	衣類
-vest	着せ、服を着せる
+vest	[1] 衣類 [2] 着せ、服を着せる
 vic	代わりに
 abdomen, abdomin	腹
 ache	痛み
@@ -483,8 +407,7 @@ aus, avi	鳥
 back	背中、後ろ
 bag, budg	袋
 band, bind, bond, bound, bund	結ぶ
-barb, brav	あごひげ
-barb, brav	見慣れない
+barb, brav	[1] あごひげ [2] 見慣れない
 bev, bib	飲む
 bide, bode	待つ
 bleed, bless, blood	血
@@ -500,8 +423,7 @@ canal, channel	運河
 cape, chap	ケープ、外衣
 cause	理由
 cert	確かな
-cl	集まる
-cl	カチカチ、衝突
+cl	[1] 集まる [2] カチカチ、衝突
 clar, clean, clear	はっきりした
 close	閉じる
 coro, crown	王冠
@@ -517,8 +439,7 @@ dog, dox	意見
 dorm	眠る
 fa, fab, fat	話す
 far	遠くに
-feast, fenc, fend, fens, fest	宴
-feast, fenc, fend, fens, fest	打つ
+feast, fenc, fend, fens, fest	[1] 宴 [2] 打つ
 fair, feit	作る
 fit	作る
 fl	素早い動き
@@ -537,8 +458,7 @@ hod, od	道
 house, hus	家
 hom, hum	[1] 人間 [2] 天に対する低い存在
 emper, empir, empr, imper	支配する
-ion	進む
-ion	イオン
+ion	[1] 進む [2] イオン
 judge	[1] 正しいことを言う人 [2] 裁判官
 jun, juven, you, young	若い
 len, lent	柔らかい
@@ -546,8 +466,7 @@ letter, liter	文字
 liber, liver	自由な
 loc, loco	場所
 luc, lumin, lust, lux	光
-mand, mend	命じる
-mand, mend	誤り
+mand, mend	[1] 命じる [2] 誤り
 merit	値する
 mil	千
 mod, mold	測る
@@ -566,31 +485,25 @@ parson, person	人
 plaud, plaus, plod, plos	[1] 打つ [2] 拍手する
 plea, plead	喜ばせる
 plur, plus	より多くの
-pour, pur	注ぐ
-pour, pur	純粋な
-prehend, prehens, prent, prey, pris	保つ
-prehend, prehens, prent, prey, pris	とらえる
+pour, pur	[1] 注ぐ [2] 純粋な
+prehend, prehens, prent, prey, pris	[1] 保つ [2] とらえる
 praise, preci, pri	価値
 print	押す
 prince	1番目の
-prob, proof, prov	証明する
-prob, proof, prov	良い
+prob, proof, prov	[1] 証明する [2] 良い
 proper, propri	[1] 個別の [2] 特定の
 pup	子ども
 quaint	知る
-quiet, quil, quit	放つ
-quiet, quil, quit	静かな
+quiet, quil, quit	[1] 放つ [2] 静かな
 radi, ray	光線
 rang, rank	[1] 階級 [2] 列
 riv	川岸
 rob	力
 rule	線を引く
-sam, seem, sembl, simil, simul	似ている
-sam, seem, sembl, simil, simul	一緒
+sam, seem, sembl, simil, simul	[1] 似ている [2] 一緒
 sat	十分な
 scal, scan, scend, scens, scent	登る
-schol, school	ひま
-schol, school	学校
+schol, school	[1] ひま [2] 学校
 ser	置く
 sever	重大な
 sider, sir, stella	星
@@ -605,13 +518,11 @@ trad, trait, tray, treas	引き渡す
 tribute	割り当てる
 tumult	騒ぎ
 vad, vas, wad	行く
-vail, val	強い
-vail, val	価値がある
+vail, val	[1] 強い [2] 価値がある
 van	前に
 veg, vig	生き生きした
 veh, vein	運ぶ
-voc, vok, vot, vow	声
-voc, vok, vot, vow	誓う
+voc, vok, vot, vow	[1] 声 [2] 誓う
 wait	待つ
 wail	嘆き悲しむ
 weather, wind, with	風
