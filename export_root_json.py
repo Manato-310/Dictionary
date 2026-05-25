@@ -135,9 +135,6 @@ def export_root_json():
                 
                 if pos == "不明" and suffix_data["pos"] != "-":
                     pos = suffix_data["pos"]
-                    
-                if pos == "不明":
-                    pos = "名詞"
                 
                 short_meaning = meaning_text.replace('/', ', ').split(';')[0]
                 
