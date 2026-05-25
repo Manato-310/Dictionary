@@ -1,3 +1,4 @@
 etymology.parquet
 *.parquet
 *.txt
+*.pyc
