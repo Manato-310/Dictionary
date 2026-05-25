@@ -1,6 +1,5 @@
 import os
 import re
-from collections import defaultdict
 
 # ==========================================
 # 設定
@@ -13,11 +12,11 @@ CIRCLED_NUMBERS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳"
 
 def load_ejdict(filepath):
     """
-    1. ejdict-hand-utf8.txtを読み込み、見出し語のセットを作成する
+    ejdict-hand-utf8.txtを読み込み、見出し語のセットを作成する
     """
     ejdict_words = set()
     if not os.path.exists(filepath):
-        print(f"【警告】{filepath} が見つかりません。辞書チェックをスキップして他の処理のみ実行します。")
+        print(f"【警告】{filepath} が見つかりません。辞書チェックをスキップします。")
         return ejdict_words
 
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -52,7 +51,7 @@ def replace_circled_numbers(text):
 
 def clean_meaning(meaning):
     """
-    2. 意味の欄から英単語（アルファベット）を削除し、丸数字を変換する
+    意味の欄から英単語を削除し、丸数字を変換する
     """
     cleaned = re.sub(r'[a-zA-Zａ-ｚＡ-Ｚ]', '', meaning)
     cleaned = re.sub(r'\s+', ' ', cleaned).strip()
@@ -60,10 +59,13 @@ def clean_meaning(meaning):
     cleaned = replace_circled_numbers(cleaned)
     return cleaned if cleaned else "意味なし"
 
+def clean_stem_str(s):
+    """
+    あらゆる種類のダッシュやハイフンを除去して比較用文字列を作る
+    """
+    return re.sub(r'[-–—−－]', '', s)
+
 def process_file(input_file, ejdict_words):
-    """
-    ファイルを読み込んで処理し、結果を新しいファイルに書き出す
-    """
     if not os.path.exists(input_file):
         print(f"【スキップ】{input_file} が見つかりません。")
         return
@@ -83,34 +85,43 @@ def process_file(input_file, ejdict_words):
 
             stem_raw, meaning_raw = parts[0].strip(), parts[1].strip()
 
-            # [処理1] ejdictチェック
             if not check_in_dict(stem_raw, ejdict_words):
                 continue
 
-            # [処理2] 意味のクリーンアップ
             cleaned_meaning = clean_meaning(meaning_raw)
 
-            # --- [処理3] 表記揺れの統合 ---
+            # カンマで分割してセット化
             raw_stems = set(s.strip() for s in stem_raw.split(","))
             # ハイフンを除外した比較用のセット
-            clean_stems = set(s.replace("-", "") for s in raw_stems)
+            clean_stems = set(clean_stem_str(s) for s in raw_stems)
 
-            merged = False
-            for entry in merged_data:
-                existing_raw_stems, existing_clean_stems, existing_meanings = entry
-                
-                # ハイフン無しの状態で完全に一致する要素が1つでもあれば統合
+            # 既存のグループと一致するものがあるか全検索
+            matching_indices = []
+            for i, entry in enumerate(merged_data):
+                existing_clean_stems = entry[1]
+                # ハイフン無しの状態で一致する要素が1つでもあればインデックスを記録
                 if clean_stems & existing_clean_stems:
-                    existing_raw_stems.update(raw_stems)
-                    existing_clean_stems.update(clean_stems)
-                    
-                    if cleaned_meaning not in existing_meanings:
-                        existing_meanings.append(cleaned_meaning)
-                    merged = True
-                    break
+                    matching_indices.append(i)
             
-            if not merged:
+            if not matching_indices:
+                # どのグループにも属さなければ新規追加
                 merged_data.append([raw_stems, clean_stems, [cleaned_meaning]])
+            else:
+                # 複数のグループにまたがって一致した場合、最初のグループに全てを吸収・統合する
+                first_idx = matching_indices[0]
+                merged_data[first_idx][0].update(raw_stems)
+                merged_data[first_idx][1].update(clean_stems)
+                if cleaned_meaning not in merged_data[first_idx][2]:
+                    merged_data[first_idx][2].append(cleaned_meaning)
+                
+                # 吸収された残りのグループはデータを移したあとに削除する（後ろから削除）
+                for idx in reversed(matching_indices[1:]):
+                    merged_data[first_idx][0].update(merged_data[idx][0])
+                    merged_data[first_idx][1].update(merged_data[idx][1])
+                    for m in merged_data[idx][2]:
+                        if m not in merged_data[first_idx][2]:
+                            merged_data[first_idx][2].append(m)
+                    merged_data.pop(idx)
 
     output_file = input_file.replace(".txt", "_cleaned.txt")
 
@@ -119,16 +130,15 @@ def process_file(input_file, ejdict_words):
             stems_list = list(raw_stems)
             final_stems = []
             
-            # --- 追加: ダッシュあり・なしの重複表示を解消する処理 ---
+            # ダッシュあり・なしの重複表示を解消する処理
             for s in stems_list:
-                # 文字列にダッシュ(-)が含まれていない場合
                 if "-" not in s:
-                    # ダッシュ付き（接頭辞 or 接尾辞）が既に存在していれば、ダッシュ無しの方は表示から除外
+                    # ダッシュ付き（接頭辞 or 接尾辞）が存在していれば、ダッシュ無しの方は表示から除外
                     if (s + "-") in stems_list or ("-" + s) in stems_list:
                         continue
                 final_stems.append(s)
                 
-            # 見やすくアルファベット順にソートして出力
+            # アルファベット順にソートして出力
             stem_str = ", ".join(sorted(final_stems))
             merged_meaning = " / ".join(meanings)
             
