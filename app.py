@@ -113,12 +113,42 @@ st.markdown("""
 
 @st.cache_data
 def load_data():
+    """prefix_data.json と root_data.json を読み込んで結合する"""
+    merged_data = {
+        "etymologies": [],
+        "word_families": [],
+        "words": []
+    }
+    
+    files_loaded = 0
+
+    # 接頭辞データの読み込み
     try:
-        with open('etymology_data.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
+        with open('prefix_data.json', 'r', encoding='utf-8') as f:
+            prefix_data = json.load(f)
+            merged_data["etymologies"].extend(prefix_data.get("etymologies", []))
+            merged_data["word_families"].extend(prefix_data.get("word_families", []))
+            merged_data["words"].extend(prefix_data.get("words", []))
+            files_loaded += 1
     except FileNotFoundError:
-        st.error("データファイル (etymology_data.json) が見つかりません。先にデータを準備してください。")
+        pass
+
+    # 語根データの読み込み
+    try:
+        with open('root_data.json', 'r', encoding='utf-8') as f:
+            root_data = json.load(f)
+            merged_data["etymologies"].extend(root_data.get("etymologies", []))
+            merged_data["word_families"].extend(root_data.get("word_families", []))
+            merged_data["words"].extend(root_data.get("words", []))
+            files_loaded += 1
+    except FileNotFoundError:
+        pass
+
+    if files_loaded == 0:
+        st.error("データファイル (`prefix_data.json`, `root_data.json`) が見つかりません。先にエクスポートスクリプトを実行してください。")
         return None
+
+    return merged_data
 
 def render_word_family_card(family, related_words, parent_ety=None):
     """1つの単語グループ(family)をカード形式で描画するコンポーネント"""
@@ -179,27 +209,71 @@ def render_browse_mode(data):
     ety_type_jp = st.sidebar.radio("カテゴリを選択", ["接頭辞 (Prefix)", "語根 (Root)"])
     ety_type_en = "prefix" if "Prefix" in ety_type_jp else "root"
 
+    group_by_meaning = st.sidebar.checkbox("同じ意味の語源をまとめる", value=False)
+
     filtered_etymologies = [e for e in etymologies if e['type'] == ety_type_en]
     
     if not filtered_etymologies:
         st.sidebar.warning(f"現在、{ety_type_jp}のデータがありません。")
         return
 
-    ety_options = {f"{e['spelling']} ({e['meaning']})": e for e in filtered_etymologies}
-    selected_ety_label = st.sidebar.selectbox("語源を選択してください", list(ety_options.keys()))
-    selected_ety = ety_options[selected_ety_label]
+    if group_by_meaning:
+        # 意味でグループ化する処理
+        grouped_ety = {}
+        for e in filtered_etymologies:
+            meaning = e['meaning']
+            if meaning not in grouped_ety:
+                grouped_ety[meaning] = {'spellings': [], 'ids': [], 'meaning': meaning}
+            grouped_ety[meaning]['spellings'].append(e['spelling'])
+            grouped_ety[meaning]['ids'].append(e['id'])
+        
+        display_etymologies = []
+        for meaning, grp_data in grouped_ety.items():
+            # 重複を省きアルファベット順にしてカンマ区切りで結合
+            sorted_spellings = sorted(list(set(grp_data['spellings'])), key=lambda s: s.lower())
+            combined_spelling = ", ".join(sorted_spellings)
+            display_etymologies.append({
+                'display_name': combined_spelling,
+                'meaning': meaning,
+                'ids': grp_data['ids']
+            })
+        
+        # 結合後の綴りでアルファベット順にソート
+        display_etymologies = sorted(display_etymologies, key=lambda x: x['display_name'].lower())
+        
+        selected_ety = st.sidebar.selectbox(
+            "語源を選択してください", 
+            display_etymologies,
+            format_func=lambda x: x['display_name']
+        )
+        selected_ids = selected_ety['ids']
+        header_spelling = selected_ety['display_name']
+        header_meaning = selected_ety['meaning']
+
+    else:
+        # アルファベット順（綴り）、次に意味の順でソート（同じ綴り・意味のものを連続させる）
+        filtered_etymologies = sorted(filtered_etymologies, key=lambda x: (x['spelling'].lower(), x['meaning']))
+    
+        selected_ety = st.sidebar.selectbox(
+            "語源を選択してください", 
+            filtered_etymologies,
+            format_func=lambda x: x['spelling']
+        )
+        selected_ids = [selected_ety['id']]
+        header_spelling = selected_ety['spelling']
+        header_meaning = selected_ety['meaning']
 
     # リッチなヘッダー表示
     st.markdown(f"""
     <div class="ety-header">
-        <h2 style="margin-top: 0; color: #2c3e50; font-size: 2.2em;">🔍 {selected_ety['spelling']}</h2>
+        <h2 style="margin-top: 0; color: #2c3e50; font-size: 2.2em;">🔍 {header_spelling}</h2>
         <p style="font-size: 1.2em; margin-bottom: 0; color: #424242;">
-            <strong>コアとなる意味:</strong> {selected_ety['meaning']}
+            <strong>コアとなる意味:</strong> {header_meaning}
         </p>
     </div>
     """, unsafe_allow_html=True)
 
-    related_families = [f for f in word_families if f['etymology_id'] == selected_ety['id']]
+    related_families = [f for f in word_families if f['etymology_id'] in selected_ids]
 
     if not related_families:
         st.info("関連する単語が登録されていません。")

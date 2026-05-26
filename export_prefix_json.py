@@ -35,6 +35,9 @@ def export_prefix_json():
     family_id_counter = 1
     word_id_counter = 1
     
+    # 語根マスターを文字数の長い順にソートしておく（部分一致の誤爆を防ぐため）
+    sorted_roots = sorted(root_master, key=lambda x: len(x['spelling']), reverse=True)
+    
     for ety in etymology_master:
         valid_words = allocations.get(ety["id"], [])
         
@@ -68,13 +71,25 @@ def export_prefix_json():
             explanation_parts = []
             prefix_clean = ety['spelling'].replace('-', '')
             base_part = base_word[len(prefix_clean):] if base_word.startswith(prefix_clean) else base_word
+            
             found_root_spell = base_part
             found_root_meaning = "?" 
-            for r in root_master:
-                if r['spelling'] in base_part:
+            
+            # 1. 完全一致をまず探す
+            for r in sorted_roots:
+                if r['spelling'] == base_part:
                     found_root_spell = r['spelling']
                     found_root_meaning = r['meaning']
                     break
+            
+            # 2. 完全一致がなければ、部分一致（長いもの優先）で探す
+            if found_root_meaning == "?":
+                for r in sorted_roots:
+                    if r['spelling'] in base_part:
+                        found_root_spell = r['spelling']
+                        found_root_meaning = r['meaning']
+                        break
+                        
             explanation = f"{prefix_clean}({ety['meaning']}) + {found_root_spell}({found_root_meaning})"
             
             explanation_parts.append({"type": "prefix", "text": prefix_clean, "meaning": ety['meaning']})

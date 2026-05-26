@@ -35,6 +35,9 @@ def export_root_json():
     family_id_counter = 1
     word_id_counter = 1
     
+    # 接頭辞マスターを文字数の長い順にソート
+    sorted_prefs_for_desc = sorted([p for p in prefix_master], key=lambda x: len(x['spelling'].replace('-', '')), reverse=True)
+    
     for ety in etymology_master:
         valid_words = allocations.get(ety["id"], [])
         target_spelling = ety["spelling"].lower().replace('-', '')
@@ -85,13 +88,22 @@ def export_root_json():
                     found_pref_spell = prefix_part
                     found_pref_meaning = "?"
                     
-                    sorted_prefs_for_desc = sorted([p for p in prefix_master], key=lambda x: len(x['spelling'].replace('-', '')), reverse=True)
+                    # 1. 完全一致をまず探す
                     for p in sorted_prefs_for_desc:
                         p_clean = p['spelling'].replace('-', '')
-                        if p_clean in prefix_part or prefix_part in p_clean:
+                        if p_clean == prefix_part:
                             found_pref_spell = prefix_part
                             found_pref_meaning = p['meaning']
                             break
+                    
+                    # 2. 完全一致がなければ部分一致で探す（逆の部分一致は誤爆の元なので削除）
+                    if found_pref_meaning == "?":
+                        for p in sorted_prefs_for_desc:
+                            p_clean = p['spelling'].replace('-', '')
+                            if p_clean in prefix_part:
+                                found_pref_spell = prefix_part
+                                found_pref_meaning = p['meaning']
+                                break
                             
                     explanation = f"{found_pref_spell}({found_pref_meaning}) + {target_spelling}({ety['meaning']})"
                     
